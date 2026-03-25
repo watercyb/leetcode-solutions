@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 20
+- **Total Problems Solved:** 21
 - **Easy:** 5 🟢
-- **Medium:** 14 🟡
+- **Medium:** 15 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -21,6 +21,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | java | 2026-03-25 |
 | [2495. Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/?envType=problem-list-v2&envId=math) | 🟡 Medium | python3 | 2026-03-25 |
+| [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | java | 2026-03-25 |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | java | 2026-03-25 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | java | 2026-03-25 |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | java | 2026-03-25 |
