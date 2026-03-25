@@ -8,23 +8,13 @@
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Integer[] idx = new Integer[nums.length];
-        for (int i = 0; i < nums.length; i++) {
-            idx[i] = i;
-        }
-        Arrays.sort(idx, (a, b) -> nums[a] - nums[b]);
-        int l = 0;
-        int r = nums.length - 1;
-        while (l < r) {
-            int sum = nums[idx[l]] + nums[idx[r]];
-            if (sum > target) {
-                r--;
-            } else if (sum < target) {
-                l++;
-            } else {
-                return new int[] { idx[l], idx[r] };
+        HashMap<Integer, Integer> HM = new HashMap<Integer, Integer>();
+        for (int i=0; i<nums.length;i++) {
+            if (HM.containsKey(nums[i])){
+                return new int[] {HM.get(nums[i]),i};
             }
+            HM.put(target-nums[i], i);
         }
-        return new int[] { -1, -1 };
+        return new int[] {-1,-1};
     }
 }
