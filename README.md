@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 22
+- **Total Problems Solved:** 23
 - **Easy:** 5 🟢
-- **Medium:** 16 🟡
+- **Medium:** 17 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -34,6 +34,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
+| [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
