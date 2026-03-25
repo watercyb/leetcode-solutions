@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 27
+- **Total Problems Solved:** 28
 - **Easy:** 6 🟢
-- **Medium:** 19 🟡
+- **Medium:** 20 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | java | 2026-03-25 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | java | 2026-03-25 |
 | [3262. Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-25 |
+| [3262. Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-25 |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | java | 2026-03-25 |
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | java | 2026-03-25 |
