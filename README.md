@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 12
+- **Total Problems Solved:** 13
 - **Easy:** 3 🟢
-- **Medium:** 9 🟡
+- **Medium:** 10 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | java | 2026-03-25 |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | java | 2026-03-25 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
 
 ---
