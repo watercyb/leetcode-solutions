@@ -9,7 +9,6 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
         return Arrays.asList(getRows(rowIndex));
-        
     }
     
     public Integer[] getRows(int rowIndex) {
