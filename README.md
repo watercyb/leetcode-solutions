@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 3
+- **Total Problems Solved:** 4
 - **Easy:** 2 🟢
-- **Medium:** 1 🟡
+- **Medium:** 2 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -16,6 +16,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | java | 2026-03-25 |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | python3 | 2026-03-25 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | java | 2026-03-25 |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | java | 2026-03-25 |
 
 ---
 
