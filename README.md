@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 43
-- **Easy:** 10 🟢
+- **Total Problems Solved:** 44
+- **Easy:** 11 🟢
 - **Medium:** 28 🟡
 - **Hard:** 5 🔴
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 Easy | java | 2026-03-26 |
+| [193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | 🟢 Easy | bash | 2026-03-26 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | java | 2026-03-25 |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | java | 2026-03-25 |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | java | 2026-03-25 |
