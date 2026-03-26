@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 40
+- **Total Problems Solved:** 41
 - **Easy:** 8 🟢
-- **Medium:** 27 🟡
+- **Medium:** 28 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -25,6 +25,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | java | 2026-03-25 |
 | [120. Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | java | 2026-03-25 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
+| [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | java | 2026-03-25 |
 | [2495. Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/?envType=problem-list-v2&envId=math) | 🟡 Medium | python3 | 2026-03-25 |
