@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 48
+- **Total Problems Solved:** 49
 - **Easy:** 11 🟢
-- **Medium:** 31 🟡
+- **Medium:** 32 🟡
 - **Hard:** 6 🔴
 
 ## 📝 Problems
@@ -55,6 +55,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-26 |
+| [Unknown Problem](https://leetcode.com/problems/minimum-levels-to-gain-more-points/?envType=problem-list-v2&envId=prefix-sum) | 🟡 Medium | java | 2026-03-26 |
 | [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | 🔴 Hard | java | 2026-03-26 |
 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | java | 2026-03-26 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | java | 2026-03-26 |
