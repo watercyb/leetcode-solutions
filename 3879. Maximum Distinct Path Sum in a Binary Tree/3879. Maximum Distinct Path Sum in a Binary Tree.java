@@ -22,54 +22,73 @@
  * }
  */
 class Solution {
+
+    int idx = 0;
+
     public int maxSum(TreeNode root) {
-        List<List<Integer>> lists = new ArrayList<>();
-        List<Integer> values = new ArrayList<>();
-        dfsLinks(root, -1, lists, values);
-        int[][] links = new int[lists.size()][];
-        int[] vals = new int[values.size()];
-        for (int i = 0; i < links.length; i++) {
-            List<Integer> list = lists.get(i);
-            links[i] = new int[list.size()];
-            for (int j = 0; j < links[i].length; j++) {
-                links[i][j] = list.get(j);
-            }
-            vals[i] = values.get(i);
-        }
+        Map<Integer, List<Integer>> links = new HashMap<>();
+        Map<Integer, Integer> values = new HashMap<>();
+
+        dfsLinks(root, -1, links, values);
+
         int res = -100000000;
-        boolean[] seens = new boolean[2001];
-        for (int i = 0; i < links.length; i++) {
-            res = Math.max(res, dfs(links, vals, seens, i, -1));
+
+        for (int k : links.keySet()) {
+            Set<Integer> seen = new HashSet<>();
+            res = Math.max(res, dfs(links, values, seen, k, -1));
         }
+
         return res;
     }
 
-    public int dfsLinks(TreeNode node, int prv, List<List<Integer>> links, List<Integer> values) {
-        int currentIdx = links.size();
+    public int dfsLinks(TreeNode node, int prv,
+            Map<Integer, List<Integer>> links,
+            Map<Integer, Integer> values) {
+
         List<Integer> arr = new ArrayList<>();
-        links.add(arr);
-        values.add(node.val);
-        if (prv != -1)
+        int currentIdx = idx++;
+
+        if (prv != -1) {
             arr.add(prv);
-        if (node.left != null)
+        }
+
+        if (node.left != null) {
             arr.add(dfsLinks(node.left, currentIdx, links, values));
-        if (node.right != null)
+        }
+
+        if (node.right != null) {
             arr.add(dfsLinks(node.right, currentIdx, links, values));
+        }
+
+        links.put(currentIdx, arr);
+        values.put(currentIdx, node.val);
+
         return currentIdx;
     }
 
-    public int dfs(int[][] links, int[] values, boolean[] seens, int i, int prv) {
-        int val = values[i];
-        if (seens[val + 1000])
+    public int dfs(Map<Integer, List<Integer>> links,
+            Map<Integer, Integer> values,
+            Set<Integer> seen,
+            int i, int prv) {
+
+        int val = values.get(i);
+
+        if (seen.contains(val)) {
             return -100000000;
-        seens[val + 1000] = true;
+        }
+
+        seen.add(val);
+
         int res = 0;
-        for (int next : links[i]) {
+
+        for (int next : links.get(i)) {
             if (next != prv) {
-                res = Math.max(res, dfs(links, values, seens, next, i));
+                res = Math.max(res, dfs(links, values, seen, next, i));
             }
         }
-        seens[val + 1000] = false;
+
+        seen.remove(val);
+
         return Math.max(res, 0) + val;
     }
 }
