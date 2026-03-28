@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 60
+- **Total Problems Solved:** 61
 - **Easy:** 11 🟢
-- **Medium:** 42 🟡
+- **Medium:** 43 🟡
 - **Hard:** 7 🔴
 
 ## 📝 Problems
@@ -38,6 +38,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | java | 2026-03-27 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | java | 2026-03-28 |
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 🟡 Medium | java | 2026-03-28 |
+| [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | 🟡 Medium | java | 2026-03-28 |
 | [2495. Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/?envType=problem-list-v2&envId=math) | 🟡 Medium | python3 | 2026-03-25 |
 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | python3 | 2026-03-25 |
 | [2548. Maximum Price to Fill a Bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag/?envType=problem-list-v2&envId=array) | 🟡 Medium | rust | 2026-03-25 |
