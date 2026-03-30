@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 62
+- **Total Problems Solved:** 63
 - **Easy:** 11 🟢
-- **Medium:** 44 🟡
+- **Medium:** 45 🟡
 - **Hard:** 7 🔴
 
 ## 📝 Problems
@@ -54,6 +54,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3262. Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-25 |
 | [3278. Find Candidates for Data Scientist Position II](https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-27 |
 | [3278. Find Candidates for Data Scientist Position II](https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-27 |
+| [3293. Calculate Product Final Price](https://leetcode.com/problems/calculate-product-final-price/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-30 |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | java | 2026-03-25 |
 | [3879. Maximum Distinct Path Sum in a Binary Tree](https://leetcode.com/problems/maximum-distinct-path-sum-in-a-binary-tree/) | 🟡 Medium | java | 2026-03-26 |
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
