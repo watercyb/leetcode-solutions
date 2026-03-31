@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 71
+- **Total Problems Solved:** 72
 - **Easy:** 13 🟢
-- **Medium:** 48 🟡
+- **Medium:** 49 🟡
 - **Hard:** 10 🔴
 
 ## 📝 Problems
@@ -62,6 +62,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3344. Maximum Sized Array](https://leetcode.com/problems/maximum-sized-array/?envType=problem-list-v2&envId=bit-manipulation) | 🟡 Medium | python3 | 2026-03-30 |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | java | 2026-03-25 |
 | [3879. Maximum Distinct Path Sum in a Binary Tree](https://leetcode.com/problems/maximum-distinct-path-sum-in-a-binary-tree/) | 🟡 Medium | java | 2026-03-26 |
+| [3881. Direction Assignments with Exactly K Visible People](https://leetcode.com/problems/direction-assignments-with-exactly-k-visible-people/) | 🟡 Medium | swift | 2026-03-31 |
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | java | 2026-03-25 |
