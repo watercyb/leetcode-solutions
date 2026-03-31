@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 78
+- **Total Problems Solved:** 79
 - **Easy:** 15 🟢
-- **Medium:** 53 🟡
+- **Medium:** 54 🟡
 - **Hard:** 10 🔴
 
 ## 📝 Problems
@@ -53,6 +53,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2712. Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/?envType=problem-list-v2&envId=string) | 🟡 Medium | python3 | 2026-03-26 |
 | [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | java | 2026-03-25 |
 | [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/?envType=problem-list-v2&envId=dynamic-programming) | 🟡 Medium | rust | 2026-03-26 |
+| [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | 🟡 Medium | java | 2026-03-31 |
 | [2789. Largest Element in an Array after Merge Operations](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/?envType=problem-list-v2&envId=greedy) | 🟡 Medium | rust | 2026-03-27 |
 | [2808. Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | rust | 2026-03-30 |
 | [2834. Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/?envType=problem-list-v2&envId=math) | 🟡 Medium | java | 2026-03-30 |
