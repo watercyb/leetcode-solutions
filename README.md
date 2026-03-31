@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 79
+- **Total Problems Solved:** 80
 - **Easy:** 15 🟢
-- **Medium:** 54 🟡
+- **Medium:** 55 🟡
 - **Hard:** 10 🔴
 
 ## 📝 Problems
@@ -57,6 +57,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2789. Largest Element in an Array after Merge Operations](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/?envType=problem-list-v2&envId=greedy) | 🟡 Medium | rust | 2026-03-27 |
 | [2808. Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | rust | 2026-03-30 |
 | [2834. Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/?envType=problem-list-v2&envId=math) | 🟡 Medium | java | 2026-03-30 |
+| [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | 🟡 Medium | java | 2026-03-31 |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | java | 2026-03-25 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | java | 2026-03-25 |
 | [3262. Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-25 |
