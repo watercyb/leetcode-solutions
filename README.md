@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 73
+- **Total Problems Solved:** 74
 - **Easy:** 13 🟢
-- **Medium:** 50 🟡
+- **Medium:** 51 🟡
 - **Hard:** 10 🔴
 
 ## 📝 Problems
@@ -64,6 +64,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3879. Maximum Distinct Path Sum in a Binary Tree](https://leetcode.com/problems/maximum-distinct-path-sum-in-a-binary-tree/) | 🟡 Medium | java | 2026-03-26 |
 | [3881. Direction Assignments with Exactly K Visible People](https://leetcode.com/problems/direction-assignments-with-exactly-k-visible-people/) | 🟡 Medium | swift | 2026-03-31 |
 | [3882. Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | 🟡 Medium | csharp | 2026-03-31 |
+| [3885. Design Event Manager](https://leetcode.com/problems/design-event-manager/) | 🟡 Medium | kotlin | 2026-03-31 |
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | java | 2026-03-25 |
