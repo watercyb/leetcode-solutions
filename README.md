@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 81
+- **Total Problems Solved:** 82
 - **Easy:** 16 🟢
 - **Medium:** 55 🟡
-- **Hard:** 10 🔴
+- **Hard:** 11 🔴
 
 ## 📝 Problems
 
@@ -88,6 +88,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | java | 2026-03-26 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | java | 2026-03-26 |
 | [2573. Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/?envType=daily-question&envId=2026-03-28) | 🔴 Hard | java | 2026-03-28 |
+| [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | java | 2026-03-31 |
 | [3268. Find Overlapping Shifts II](https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | mysql | 2026-03-26 |
 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/?envType=daily-question&envId=2026-03-31) | 🔴 Hard | java | 2026-03-31 |
 | [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-03-25 |
