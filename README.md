@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 90
+- **Total Problems Solved:** 91
 - **Easy:** 16 🟢
-- **Medium:** 61 🟡
+- **Medium:** 62 🟡
 - **Hard:** 13 🔴
 
 ## 📝 Problems
@@ -64,6 +64,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | java | 2026-03-25 |
 | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | 🟡 Medium | java | 2026-03-31 |
 | [313. Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | 🟡 Medium | java | 2026-04-01 |
+| [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | java | 2026-04-01 |
 | [3262. Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-25 |
 | [3262. Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-25 |
 | [3278. Find Candidates for Data Scientist Position II](https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-27 |
