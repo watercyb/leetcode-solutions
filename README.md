@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 91
+- **Total Problems Solved:** 92
 - **Easy:** 16 🟢
-- **Medium:** 62 🟡
+- **Medium:** 63 🟡
 - **Hard:** 13 🔴
 
 ## 📝 Problems
@@ -73,6 +73,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3308. Find Top Performing Driver](https://leetcode.com/problems/find-top-performing-driver/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-31 |
 | [3308. Find Top Performing Driver](https://leetcode.com/problems/find-top-performing-driver/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-31 |
 | [3322. Premier League Table Ranking III](https://leetcode.com/problems/premier-league-table-ranking-iii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-31 |
+| [3328. Find Cities in Each State II](https://leetcode.com/problems/find-cities-in-each-state-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-02 |
 | [3344. Maximum Sized Array](https://leetcode.com/problems/maximum-sized-array/?envType=problem-list-v2&envId=bit-manipulation) | 🟡 Medium | python3 | 2026-03-30 |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | java | 2026-03-25 |
 | [3879. Maximum Distinct Path Sum in a Binary Tree](https://leetcode.com/problems/maximum-distinct-path-sum-in-a-binary-tree/) | 🟡 Medium | java | 2026-03-26 |
