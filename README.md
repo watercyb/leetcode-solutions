@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 94
+- **Total Problems Solved:** 95
 - **Easy:** 16 🟢
-- **Medium:** 65 🟡
+- **Medium:** 66 🟡
 - **Hard:** 13 🔴
 
 ## 📝 Problems
@@ -59,6 +59,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2789. Largest Element in an Array after Merge Operations](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/?envType=problem-list-v2&envId=greedy) | 🟡 Medium | rust | 2026-03-27 |
 | [2808. Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | rust | 2026-03-30 |
 | [2834. Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/?envType=problem-list-v2&envId=math) | 🟡 Medium | java | 2026-03-30 |
+| [2847. Smallest Number With Given Digit Product](https://leetcode.com/problems/smallest-number-with-given-digit-product/?envType=problem-list-v2&envId=math) | 🟡 Medium | rust | 2026-04-02 |
 | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | 🟡 Medium | java | 2026-03-31 |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | java | 2026-03-25 |
 | [2952. Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/?envType=problem-list-v2&envId=sorting) | 🟡 Medium | python3 | 2026-04-02 |
