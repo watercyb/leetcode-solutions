@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 93
+- **Total Problems Solved:** 94
 - **Easy:** 16 🟢
-- **Medium:** 64 🟡
+- **Medium:** 65 🟡
 - **Hard:** 13 🔴
 
 ## 📝 Problems
@@ -61,6 +61,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2834. Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/?envType=problem-list-v2&envId=math) | 🟡 Medium | java | 2026-03-30 |
 | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | 🟡 Medium | java | 2026-03-31 |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | java | 2026-03-25 |
+| [2952. Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/?envType=problem-list-v2&envId=sorting) | 🟡 Medium | python3 | 2026-04-02 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | java | 2026-03-25 |
 | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | 🟡 Medium | java | 2026-03-31 |
 | [313. Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | 🟡 Medium | java | 2026-04-01 |
