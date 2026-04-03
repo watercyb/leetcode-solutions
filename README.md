@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 126
+- **Total Problems Solved:** 127
 - **Easy:** 21 🟢
-- **Medium:** 85 🟡
+- **Medium:** 86 🟡
 - **Hard:** 20 🔴
 
 ## 📝 Problems
@@ -109,6 +109,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [436. Find Right Interval](https://leetcode.com/problems/find-right-interval/) | 🟡 Medium | java | 2026-04-03 |
 | [447. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | 🟡 Medium | java | 2026-04-03 |
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | java | 2026-04-03 |
+| [469. Convex Polygon](https://leetcode.com/problems/convex-polygon/) | 🟡 Medium | python3 | 2026-04-03 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | java | 2026-03-25 |
 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | java | 2026-03-25 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | java | 2026-03-25 |
