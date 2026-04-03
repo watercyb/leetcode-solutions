@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 130
+- **Total Problems Solved:** 131
 - **Easy:** 22 🟢
 - **Medium:** 87 🟡
-- **Hard:** 21 🔴
+- **Hard:** 22 🔴
 
 ## 📝 Problems
 
@@ -142,6 +142,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3888. Minimum Operations to Make All Grid Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-grid-elements-equal/) | 🔴 Hard | java | 2026-04-02 |
 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | java | 2026-04-03 |
 | [483. Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | 🔴 Hard | java | 2026-04-03 |
+| [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | 🔴 Hard | java | 2026-04-03 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
