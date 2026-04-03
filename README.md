@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 117
+- **Total Problems Solved:** 118
 - **Easy:** 19 🟢
-- **Medium:** 79 🟡
+- **Medium:** 80 🟡
 - **Hard:** 19 🔴
 
 ## 📝 Problems
@@ -99,6 +99,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3881. Direction Assignments with Exactly K Visible People](https://leetcode.com/problems/direction-assignments-with-exactly-k-visible-people/) | 🟡 Medium | swift | 2026-03-31 |
 | [3882. Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | 🟡 Medium | csharp | 2026-03-31 |
 | [3885. Design Event Manager](https://leetcode.com/problems/design-event-manager/) | 🟡 Medium | kotlin | 2026-03-31 |
+| [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 🟡 Medium | java | 2026-04-03 |
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | java | 2026-03-25 |
