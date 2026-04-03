@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 129
+- **Total Problems Solved:** 130
 - **Easy:** 22 🟢
-- **Medium:** 86 🟡
+- **Medium:** 87 🟡
 - **Hard:** 21 🔴
 
 ## 📝 Problems
@@ -112,6 +112,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | java | 2026-04-03 |
 | [469. Convex Polygon](https://leetcode.com/problems/convex-polygon/) | 🟡 Medium | python3 | 2026-04-03 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | java | 2026-03-25 |
+| [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | 🟡 Medium | python3 | 2026-04-03 |
 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | java | 2026-03-25 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | java | 2026-03-25 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
