@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 121
+- **Total Problems Solved:** 122
 - **Easy:** 21 🟢
-- **Medium:** 81 🟡
+- **Medium:** 82 🟡
 - **Hard:** 19 🔴
 
 ## 📝 Problems
@@ -105,6 +105,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | 🟡 Medium | java | 2026-04-03 |
+| [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | 🟡 Medium | java | 2026-04-03 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | java | 2026-03-25 |
 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | java | 2026-03-25 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | java | 2026-03-25 |
