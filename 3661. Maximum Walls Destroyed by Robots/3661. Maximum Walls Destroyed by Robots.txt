@@ -1,0 +1,37 @@
+/*
+ * Problem: 3661. Maximum Walls Destroyed by Robots
+ * Difficulty: Hard
+ * Link: https://leetcode.com/problems/maximum-walls-destroyed-by-robots/?envType=daily-question&envId=2026-04-03
+ * Language: Choose a type
+ * Date: 2026-04-03
+ */
+
+class Solution {
+    public int maxWalls(int[] robots, int[] distance, int[] walls) {
+        if (robots.length == 1) {
+            int a = 0;
+            int b = 0;
+            for (int wall : walls) {
+                if (wall < robots[0] - distance[0] || wall > robots[0] + distance[0])
+                    continue;
+                if (wall < robots[0]) {
+                    a++;
+                } else if (wall > robots[0]) {
+                    b++;
+                } else {
+                    a++;
+                    b++;
+                }
+            }
+            return Math.max(a, b);
+        }
+        int[][] arr = new int[robots.length][];
+        for (int i = 0; i < robots.length; i++) {
+            arr[i] = new int[] { robots[i], distance[i] };
+        }
+        Arrays.sort(arr, (a, b) -> a[0] - b[0]);
+        Arrays.sort(walls);
+        int a = 0;
+        int b = 0;
+        int idx = 0;
+
