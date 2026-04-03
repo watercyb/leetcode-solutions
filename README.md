@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 141
+- **Total Problems Solved:** 142
 - **Easy:** 26 🟢
-- **Medium:** 90 🟡
+- **Medium:** 91 🟡
 - **Hard:** 25 🔴
 
 ## 📝 Problems
@@ -122,6 +122,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [522. Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | 🟡 Medium | python3 | 2026-04-03 |
 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | 🟡 Medium | java | 2026-04-03 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | java | 2026-03-25 |
+| [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | 🟡 Medium | java | 2026-04-03 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
