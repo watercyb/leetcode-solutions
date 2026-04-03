@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 127
-- **Easy:** 21 🟢
+- **Total Problems Solved:** 128
+- **Easy:** 22 🟢
 - **Medium:** 86 🟡
 - **Hard:** 20 🔴
 
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | 🟢 Easy | java | 2026-04-03 |
 | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | 🟢 Easy | java | 2026-04-03 |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | java | 2026-04-03 |
+| [476. Number Complement](https://leetcode.com/problems/number-complement/) | 🟢 Easy | java | 2026-04-03 |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | java | 2026-03-25 |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | java | 2026-03-25 |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | java | 2026-03-25 |
