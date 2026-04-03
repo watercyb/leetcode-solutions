@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 138
+- **Total Problems Solved:** 139
 - **Easy:** 26 🟢
-- **Medium:** 88 🟡
+- **Medium:** 89 🟡
 - **Hard:** 24 🔴
 
 ## 📝 Problems
@@ -119,6 +119,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | java | 2026-03-25 |
 | [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | 🟡 Medium | python3 | 2026-04-03 |
 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | java | 2026-03-25 |
+| [522. Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | 🟡 Medium | python3 | 2026-04-03 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | java | 2026-03-25 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
