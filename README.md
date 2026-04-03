@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 137
-- **Easy:** 25 🟢
+- **Total Problems Solved:** 138
+- **Easy:** 26 🟢
 - **Medium:** 88 🟡
 - **Hard:** 24 🔴
 
@@ -36,6 +36,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | 🟢 Easy | java | 2026-04-03 |
 | [504. Base 7](https://leetcode.com/problems/base-7/) | 🟢 Easy | java | 2026-04-03 |
 | [512. Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/) | 🟢 Easy | python3 | 2026-04-03 |
+| [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | 🟢 Easy | java | 2026-04-03 |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | java | 2026-03-25 |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | java | 2026-03-25 |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | java | 2026-03-25 |
