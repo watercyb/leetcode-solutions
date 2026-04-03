@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 103
+- **Total Problems Solved:** 104
 - **Easy:** 17 🟢
-- **Medium:** 69 🟡
+- **Medium:** 70 🟡
 - **Hard:** 17 🔴
 
 ## 📝 Problems
@@ -77,6 +77,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3293. Calculate Product Final Price](https://leetcode.com/problems/calculate-product-final-price/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-30 |
 | [3308. Find Top Performing Driver](https://leetcode.com/problems/find-top-performing-driver/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-31 |
 | [3308. Find Top Performing Driver](https://leetcode.com/problems/find-top-performing-driver/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-31 |
+| [331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | 🟡 Medium | java | 2026-04-03 |
 | [3322. Premier League Table Ranking III](https://leetcode.com/problems/premier-league-table-ranking-iii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-31 |
 | [3328. Find Cities in Each State II](https://leetcode.com/problems/find-cities-in-each-state-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-02 |
 | [3328. Find Cities in Each State II](https://leetcode.com/problems/find-cities-in-each-state-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-04-02 |
