@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 128
+- **Total Problems Solved:** 129
 - **Easy:** 22 🟢
 - **Medium:** 86 🟡
-- **Hard:** 20 🔴
+- **Hard:** 21 🔴
 
 ## 📝 Problems
 
@@ -140,6 +140,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3887. Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) | 🔴 Hard | java | 2026-03-30 |
 | [3888. Minimum Operations to Make All Grid Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-grid-elements-equal/) | 🔴 Hard | java | 2026-04-02 |
 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | java | 2026-04-03 |
+| [483. Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | 🔴 Hard | java | 2026-04-03 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
