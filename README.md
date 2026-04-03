@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 104
+- **Total Problems Solved:** 105
 - **Easy:** 17 🟢
 - **Medium:** 70 🟡
-- **Hard:** 17 🔴
+- **Hard:** 18 🔴
 
 ## 📝 Problems
 
@@ -110,6 +110,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3268. Find Overlapping Shifts II](https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | mysql | 2026-03-26 |
 | [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | 🔴 Hard | java | 2026-04-02 |
 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 🔴 Hard | java | 2026-04-03 |
+| [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | 🔴 Hard | java | 2026-04-03 |
 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/?envType=daily-question&envId=2026-03-31) | 🔴 Hard | java | 2026-03-31 |
 | [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/?envType=daily-question&envId=2026-04-03) | 🔴 Hard | Choose a type | 2026-04-03 |
 | [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-03-25 |
