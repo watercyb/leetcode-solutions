@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 115
+- **Total Problems Solved:** 116
 - **Easy:** 18 🟢
 - **Medium:** 79 🟡
-- **Hard:** 18 🔴
+- **Hard:** 19 🔴
 
 ## 📝 Problems
 
@@ -124,6 +124,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/?envType=daily-question&envId=2026-03-31) | 🔴 Hard | java | 2026-03-31 |
 | [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/?envType=daily-question&envId=2026-04-03) | 🔴 Hard | Choose a type | 2026-04-03 |
 | [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-03-25 |
+| [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | 🔴 Hard | java | 2026-04-03 |
 | [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | 🔴 Hard | java | 2026-03-30 |
 | [3887. Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) | 🔴 Hard | java | 2026-03-30 |
 | [3888. Minimum Operations to Make All Grid Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-grid-elements-equal/) | 🔴 Hard | java | 2026-04-02 |
