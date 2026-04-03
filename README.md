@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 114
+- **Total Problems Solved:** 115
 - **Easy:** 18 🟢
-- **Medium:** 78 🟡
+- **Medium:** 79 🟡
 - **Hard:** 18 🔴
 
 ## 📝 Problems
@@ -92,6 +92,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | 🟡 Medium | java | 2026-04-03 |
 | [369. Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | 🟡 Medium | java | 2026-04-03 |
 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | 🟡 Medium | java | 2026-04-03 |
+| [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | 🟡 Medium | python3 | 2026-04-03 |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | java | 2026-03-25 |
 | [3879. Maximum Distinct Path Sum in a Binary Tree](https://leetcode.com/problems/maximum-distinct-path-sum-in-a-binary-tree/) | 🟡 Medium | java | 2026-03-26 |
 | [3881. Direction Assignments with Exactly K Visible People](https://leetcode.com/problems/direction-assignments-with-exactly-k-visible-people/) | 🟡 Medium | swift | 2026-03-31 |
