@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 133
+- **Total Problems Solved:** 134
 - **Easy:** 23 🟢
-- **Medium:** 87 🟡
+- **Medium:** 88 🟡
 - **Hard:** 23 🔴
 
 ## 📝 Problems
@@ -75,6 +75,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2967. Minimum Cost to Make Array Equalindromic](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/?envType=problem-list-v2&envId=math) | 🟡 Medium | rust | 2026-04-03 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | java | 2026-03-25 |
 | [3106. Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/?envType=problem-list-v2&envId=string) | 🟡 Medium | rust | 2026-04-03 |
+| [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/?envType=problem-list-v2&envId=sorting) | 🟡 Medium | java | 2026-04-03 |
 | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | 🟡 Medium | java | 2026-03-31 |
 | [313. Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | 🟡 Medium | java | 2026-04-01 |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | java | 2026-04-01 |
