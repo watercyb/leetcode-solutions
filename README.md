@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 140
+- **Total Problems Solved:** 141
 - **Easy:** 26 🟢
 - **Medium:** 90 🟡
-- **Hard:** 24 🔴
+- **Hard:** 25 🔴
 
 ## 📝 Problems
 
@@ -152,6 +152,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [483. Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | 🔴 Hard | java | 2026-04-03 |
 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | 🔴 Hard | java | 2026-04-03 |
 | [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/) | 🔴 Hard | java | 2026-04-03 |
+| [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/) | 🔴 Hard | java | 2026-04-03 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
