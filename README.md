@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 105
+- **Total Problems Solved:** 106
 - **Easy:** 17 🟢
-- **Medium:** 70 🟡
+- **Medium:** 71 🟡
 - **Hard:** 18 🔴
 
 ## 📝 Problems
@@ -62,6 +62,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2834. Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/?envType=problem-list-v2&envId=math) | 🟡 Medium | java | 2026-03-30 |
 | [2847. Smallest Number With Given Digit Product](https://leetcode.com/problems/smallest-number-with-given-digit-product/?envType=problem-list-v2&envId=math) | 🟡 Medium | rust | 2026-04-02 |
 | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | 🟡 Medium | java | 2026-03-31 |
+| [2898. Maximum Linear Stock Score](https://leetcode.com/problems/maximum-linear-stock-score/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | python3 | 2026-04-03 |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | java | 2026-03-25 |
 | [2952. Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/?envType=problem-list-v2&envId=sorting) | 🟡 Medium | python3 | 2026-04-02 |
 | [2967. Minimum Cost to Make Array Equalindromic](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/?envType=problem-list-v2&envId=math) | 🟡 Medium | rust | 2026-04-03 |
