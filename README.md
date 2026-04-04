@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 146
+- **Total Problems Solved:** 147
 - **Easy:** 28 🟢
 - **Medium:** 93 🟡
-- **Hard:** 25 🔴
+- **Hard:** 26 🔴
 
 ## 📝 Problems
 
@@ -158,6 +158,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | 🔴 Hard | java | 2026-04-03 |
 | [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/) | 🔴 Hard | java | 2026-04-03 |
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/) | 🔴 Hard | java | 2026-04-03 |
+| [569. Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | 🔴 Hard | python3 | 2026-04-04 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
