@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 148
+- **Total Problems Solved:** 149
 - **Easy:** 28 🟢
-- **Medium:** 94 🟡
+- **Medium:** 95 🟡
 - **Hard:** 26 🔴
 
 ## 📝 Problems
@@ -128,6 +128,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | 🟡 Medium | java | 2026-04-03 |
 | [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | 🟡 Medium | java | 2026-04-03 |
 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | python3 | 2026-04-04 |
+| [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | 🟡 Medium | java | 2026-04-04 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
