@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 144
-- **Easy:** 26 🟢
+- **Total Problems Solved:** 145
+- **Easy:** 27 🟢
 - **Medium:** 93 🟡
 - **Hard:** 25 🔴
 
@@ -37,6 +37,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [504. Base 7](https://leetcode.com/problems/base-7/) | 🟢 Easy | java | 2026-04-03 |
 | [512. Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/) | 🟢 Easy | python3 | 2026-04-03 |
 | [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | 🟢 Easy | java | 2026-04-03 |
+| [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | 🟢 Easy | java | 2026-04-04 |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | java | 2026-03-25 |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | java | 2026-03-25 |
 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | java | 2026-04-03 |
