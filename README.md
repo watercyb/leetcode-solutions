@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 155
-- **Easy:** 29 🟢
+- **Total Problems Solved:** 156
+- **Easy:** 30 🟢
 - **Medium:** 99 🟡
 - **Hard:** 27 🔴
 
@@ -41,6 +41,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [561. Array Partition](https://leetcode.com/problems/array-partition/) | 🟢 Easy | java | 2026-04-04 |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | java | 2026-03-25 |
 | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | 🟢 Easy | java | 2026-04-04 |
+| [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | 🟢 Easy | mysql | 2026-04-05 |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | java | 2026-03-25 |
 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | java | 2026-04-03 |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | java | 2026-03-25 |
