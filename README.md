@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 152
+- **Total Problems Solved:** 153
 - **Easy:** 29 🟢
 - **Medium:** 97 🟡
-- **Hard:** 26 🔴
+- **Hard:** 27 🔴
 
 ## 📝 Problems
 
@@ -164,6 +164,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/) | 🔴 Hard | java | 2026-04-03 |
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/) | 🔴 Hard | java | 2026-04-03 |
 | [569. Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | 🔴 Hard | python3 | 2026-04-04 |
+| [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | 🔴 Hard | mysql | 2026-04-05 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
