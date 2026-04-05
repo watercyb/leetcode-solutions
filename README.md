@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 153
+- **Total Problems Solved:** 154
 - **Easy:** 29 🟢
-- **Medium:** 97 🟡
+- **Medium:** 98 🟡
 - **Hard:** 27 🔴
 
 ## 📝 Problems
@@ -132,6 +132,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | 🟡 Medium | java | 2026-04-04 |
 | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 🟡 Medium | java | 2026-04-04 |
 | [585. Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | 🟡 Medium | mysql | 2026-04-04 |
+| [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | 🟡 Medium | java | 2026-04-05 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
