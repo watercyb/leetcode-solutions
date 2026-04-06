@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 174
+- **Total Problems Solved:** 175
 - **Easy:** 34 🟢
-- **Medium:** 105 🟡
+- **Medium:** 106 🟡
 - **Hard:** 35 🔴
 
 ## 📝 Problems
@@ -89,6 +89,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3106. Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/?envType=problem-list-v2&envId=string) | 🟡 Medium | rust | 2026-04-03 |
 | [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/?envType=problem-list-v2&envId=sorting) | 🟡 Medium | java | 2026-04-03 |
 | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | 🟡 Medium | java | 2026-03-31 |
+| [3111. Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/?envType=problem-list-v2&envId=greedy) | 🟡 Medium | python3 | 2026-04-06 |
 | [313. Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | 🟡 Medium | java | 2026-04-01 |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | java | 2026-04-01 |
 | [3262. Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-25 |
