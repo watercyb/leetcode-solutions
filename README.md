@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 172
+- **Total Problems Solved:** 173
 - **Easy:** 34 🟢
 - **Medium:** 105 🟡
-- **Hard:** 33 🔴
+- **Hard:** 34 🔴
 
 ## 📝 Problems
 
@@ -165,6 +165,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 🔴 Hard | java | 2026-04-03 |
 | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | 🔴 Hard | java | 2026-04-03 |
 | [3368. First Letter Capitalization](https://leetcode.com/problems/first-letter-capitalization/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | mysql | 2026-04-03 |
+| [3374. First Letter Capitalization II](https://leetcode.com/problems/first-letter-capitalization-ii/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | mysql | 2026-04-06 |
 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/?envType=daily-question&envId=2026-03-31) | 🔴 Hard | java | 2026-03-31 |
 | [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/?envType=daily-question&envId=2026-04-03) | 🔴 Hard | Choose a type | 2026-04-03 |
 | [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-03-25 |
