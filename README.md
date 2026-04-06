@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 163
+- **Total Problems Solved:** 164
 - **Easy:** 31 🟢
 - **Medium:** 102 🟡
-- **Hard:** 30 🔴
+- **Hard:** 31 🔴
 
 ## 📝 Problems
 
@@ -175,6 +175,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | 🔴 Hard | mysql | 2026-04-05 |
 | [631. Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/) | 🔴 Hard | java | 2026-04-06 |
 | [656. Coin Path](https://leetcode.com/problems/coin-path/) | 🔴 Hard | java | 2026-04-06 |
+| [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | 🔴 Hard | java | 2026-04-06 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
