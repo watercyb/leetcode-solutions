@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 168
+- **Total Problems Solved:** 169
 - **Easy:** 33 🟢
-- **Medium:** 103 🟡
+- **Medium:** 104 🟡
 - **Hard:** 32 🔴
 
 ## 📝 Problems
@@ -142,6 +142,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | java | 2026-04-06 |
 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | 🟡 Medium | java | 2026-04-06 |
 | [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | 🟡 Medium | java | 2026-04-06 |
+| [681. Next Closest Time](https://leetcode.com/problems/next-closest-time/) | 🟡 Medium | java | 2026-04-06 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
