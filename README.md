@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 160
+- **Total Problems Solved:** 161
 - **Easy:** 31 🟢
-- **Medium:** 100 🟡
+- **Medium:** 101 🟡
 - **Hard:** 29 🔴
 
 ## 📝 Problems
@@ -137,6 +137,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | 🟡 Medium | java | 2026-04-05 |
 | [612. Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | 🟡 Medium | python3 | 2026-04-05 |
 | [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/) | 🟡 Medium | python3 | 2026-04-06 |
+| [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | java | 2026-04-06 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
