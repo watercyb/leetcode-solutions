@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 158
+- **Total Problems Solved:** 159
 - **Easy:** 31 🟢
 - **Medium:** 99 🟡
-- **Hard:** 28 🔴
+- **Hard:** 29 🔴
 
 ## 📝 Problems
 
@@ -170,6 +170,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/) | 🔴 Hard | java | 2026-04-03 |
 | [569. Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | 🔴 Hard | python3 | 2026-04-04 |
 | [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | 🔴 Hard | mysql | 2026-04-05 |
+| [631. Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/) | 🔴 Hard | java | 2026-04-06 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
