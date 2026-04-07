@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 181
+- **Total Problems Solved:** 182
 - **Easy:** 34 🟢
-- **Medium:** 110 🟡
+- **Medium:** 111 🟡
 - **Hard:** 37 🔴
 
 ## 📝 Problems
@@ -90,6 +90,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/?envType=problem-list-v2&envId=sorting) | 🟡 Medium | java | 2026-04-03 |
 | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | 🟡 Medium | java | 2026-03-31 |
 | [3111. Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/?envType=problem-list-v2&envId=greedy) | 🟡 Medium | python3 | 2026-04-06 |
+| [3125. Maximum Number That Makes Result of Bitwise AND Zero](https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero/?envType=problem-list-v2&envId=string) | 🟡 Medium | python3 | 2026-04-07 |
 | [3125. Maximum Number That Makes Result of Bitwise AND Zero](https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero/?envType=problem-list-v2&envId=string) | 🟡 Medium | python3 | 2026-04-07 |
 | [313. Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | 🟡 Medium | java | 2026-04-01 |
 | [3164. Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | java | 2026-04-06 |
