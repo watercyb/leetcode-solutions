@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 182
+- **Total Problems Solved:** 183
 - **Easy:** 34 🟢
-- **Medium:** 111 🟡
+- **Medium:** 112 🟡
 - **Hard:** 37 🔴
 
 ## 📝 Problems
@@ -95,6 +95,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [313. Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | 🟡 Medium | java | 2026-04-01 |
 | [3164. Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | java | 2026-04-06 |
 | [3192. Minimum Operations to Make Binary Array Elements Equal to One II](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/?envType=problem-list-v2&envId=array) | 🟡 Medium | rust | 2026-04-06 |
+| [3196. Maximize Total Cost of Alternating Subarrays](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/?envType=problem-list-v2&envId=dynamic-programming) | 🟡 Medium | java | 2026-04-07 |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | java | 2026-04-01 |
 | [3262. Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-25 |
 | [3262. Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-25 |
