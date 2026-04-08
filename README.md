@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 192
+- **Total Problems Solved:** 193
 - **Easy:** 35 🟢
-- **Medium:** 119 🟡
+- **Medium:** 120 🟡
 - **Hard:** 38 🔴
 
 ## 📝 Problems
@@ -159,6 +159,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | 🟡 Medium | java | 2026-04-08 |
 | [722. Remove Comments](https://leetcode.com/problems/remove-comments/) | 🟡 Medium | python3 | 2026-04-08 |
 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | 🟡 Medium | java | 2026-04-08 |
+| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | java | 2026-04-08 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
 | [755. Pour Water](https://leetcode.com/problems/pour-water/?envType=weekly-question&envId=2026-04-08) | 🟡 Medium | java | 2026-04-08 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
