@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 209
+- **Total Problems Solved:** 210
 - **Easy:** 38 🟢
-- **Medium:** 127 🟡
+- **Medium:** 128 🟡
 - **Hard:** 44 🔴
 
 ## 📝 Problems
@@ -108,6 +108,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3278. Find Candidates for Data Scientist Position II](https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-27 |
 | [3278. Find Candidates for Data Scientist Position II](https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-27 |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium | java | 2026-04-03 |
+| [3290. Maximum Multiplication Score](https://leetcode.com/problems/maximum-multiplication-score/) | 🟡 Medium | java | 2026-04-08 |
 | [3293. Calculate Product Final Price](https://leetcode.com/problems/calculate-product-final-price/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-30 |
 | [3308. Find Top Performing Driver](https://leetcode.com/problems/find-top-performing-driver/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-03-31 |
 | [3308. Find Top Performing Driver](https://leetcode.com/problems/find-top-performing-driver/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-31 |
