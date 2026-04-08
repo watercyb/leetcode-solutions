@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 188
+- **Total Problems Solved:** 189
 - **Easy:** 34 🟢
 - **Medium:** 117 🟡
-- **Hard:** 37 🔴
+- **Hard:** 38 🔴
 
 ## 📝 Problems
 
@@ -200,6 +200,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [656. Coin Path](https://leetcode.com/problems/coin-path/) | 🔴 Hard | java | 2026-04-06 |
 | [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | 🔴 Hard | java | 2026-04-06 |
 | [683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | 🔴 Hard | java | 2026-04-06 |
+| [715. Range Module](https://leetcode.com/problems/range-module/) | 🔴 Hard | java | 2026-04-08 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
