@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 197
-- **Easy:** 37 🟢
+- **Total Problems Solved:** 198
+- **Easy:** 38 🟢
 - **Medium:** 121 🟡
 - **Hard:** 39 🔴
 
@@ -50,6 +50,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [734. Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | 🟢 Easy | java | 2026-04-08 |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 🟢 Easy | java | 2026-04-08 |
 | [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | 🟢 Easy | java | 2026-04-08 |
+| [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | 🟢 Easy | java | 2026-04-08 |
 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | java | 2026-04-03 |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | java | 2026-03-25 |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | java | 2026-03-25 |
