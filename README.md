@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 204
+- **Total Problems Solved:** 205
 - **Easy:** 38 🟢
-- **Medium:** 124 🟡
+- **Medium:** 125 🟡
 - **Hard:** 42 🔴
 
 ## 📝 Problems
@@ -169,6 +169,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | 🟡 Medium | java | 2026-04-08 |
 | [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | 🟡 Medium | java | 2026-04-08 |
 | [795. Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | 🟡 Medium | python3 | 2026-04-08 |
+| [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 Medium | java | 2026-04-08 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🟡 Medium | java | 2026-03-25 |
