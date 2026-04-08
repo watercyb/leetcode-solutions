@@ -1,7 +1,7 @@
 /*
  * Problem: 755. Pour Water
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/pour-water/?envType=weekly-question&envId=2026-04-08
+ * Link: https://leetcode.com/problems/pour-water/
  * Language: java
  * Date: 2026-04-08
  */
