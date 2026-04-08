@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 201
+- **Total Problems Solved:** 202
 - **Easy:** 38 🟢
-- **Medium:** 121 🟡
+- **Medium:** 122 🟡
 - **Hard:** 42 🔴
 
 ## 📝 Problems
@@ -166,6 +166,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
 | [755. Pour Water](https://leetcode.com/problems/pour-water/?envType=weekly-question&envId=2026-04-08) | 🟡 Medium | java | 2026-04-08 |
 | [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | 🟡 Medium | python3 | 2026-04-08 |
+| [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | 🟡 Medium | java | 2026-04-08 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🟡 Medium | java | 2026-03-25 |
