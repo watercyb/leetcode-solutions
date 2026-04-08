@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 187
+- **Total Problems Solved:** 188
 - **Easy:** 34 🟢
-- **Medium:** 116 🟡
+- **Medium:** 117 🟡
 - **Hard:** 37 🔴
 
 ## 📝 Problems
@@ -155,6 +155,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [681. Next Closest Time](https://leetcode.com/problems/next-closest-time/) | 🟡 Medium | java | 2026-04-06 |
 | [690. Employee Importance](https://leetcode.com/problems/employee-importance/) | 🟡 Medium | python3 | 2026-04-06 |
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 🟡 Medium | java | 2026-04-08 |
+| [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | 🟡 Medium | java | 2026-04-08 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | java | 2026-03-25 |
 | [755. Pour Water](https://leetcode.com/problems/pour-water/?envType=weekly-question&envId=2026-04-08) | 🟡 Medium | java | 2026-04-08 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
