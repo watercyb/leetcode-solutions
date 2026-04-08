@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 207
+- **Total Problems Solved:** 208
 - **Easy:** 38 🟢
-- **Medium:** 125 🟡
+- **Medium:** 126 🟡
 - **Hard:** 44 🔴
 
 ## 📝 Problems
@@ -129,6 +129,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3885. Design Event Manager](https://leetcode.com/problems/design-event-manager/) | 🟡 Medium | kotlin | 2026-03-31 |
 | [3889. Mirror Frequency Distance](https://leetcode.com/problems/mirror-frequency-distance/) | 🟡 Medium | java | 2026-04-06 |
 | [3890. Integers With Multiple Sum of Two Cubes](https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/) | 🟡 Medium | kotlin | 2026-04-07 |
+| [3891. Minimum Increase to Maximize Special Indices](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | 🟡 Medium | swift | 2026-04-08 |
 | [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 🟡 Medium | java | 2026-04-03 |
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | java | 2026-03-25 |
