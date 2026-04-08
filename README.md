@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 206
+- **Total Problems Solved:** 207
 - **Easy:** 38 🟢
 - **Medium:** 125 🟡
-- **Hard:** 43 🔴
+- **Hard:** 44 🔴
 
 ## 📝 Problems
 
@@ -194,6 +194,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3384. Team Dominance by Pass Success](https://leetcode.com/problems/team-dominance-by-pass-success/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | mysql | 2026-04-07 |
 | [3384. Team Dominance by Pass Success](https://leetcode.com/problems/team-dominance-by-pass-success/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | python3 | 2026-04-07 |
 | [3390. Longest Team Pass Streak](https://leetcode.com/problems/longest-team-pass-streak/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | mysql | 2026-04-08 |
+| [3390. Longest Team Pass Streak](https://leetcode.com/problems/longest-team-pass-streak/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | python3 | 2026-04-08 |
 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/?envType=daily-question&envId=2026-03-31) | 🔴 Hard | java | 2026-03-31 |
 | [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/?envType=daily-question&envId=2026-04-03) | 🔴 Hard | Choose a type | 2026-04-03 |
 | [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-03-25 |
