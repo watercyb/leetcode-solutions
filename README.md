@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 199
+- **Total Problems Solved:** 200
 - **Easy:** 38 🟢
 - **Medium:** 121 🟡
-- **Hard:** 40 🔴
+- **Hard:** 41 🔴
 
 ## 📝 Problems
 
@@ -211,6 +211,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [715. Range Module](https://leetcode.com/problems/range-module/) | 🔴 Hard | java | 2026-04-08 |
 | [741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | 🔴 Hard | java | 2026-04-08 |
 | [770. Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | 🔴 Hard | java | 2026-04-08 |
+| [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | 🔴 Hard | java | 2026-04-08 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
