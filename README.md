@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 193
+- **Total Problems Solved:** 194
 - **Easy:** 35 🟢
 - **Medium:** 120 🟡
-- **Hard:** 38 🔴
+- **Hard:** 39 🔴
 
 ## 📝 Problems
 
@@ -205,6 +205,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | 🔴 Hard | java | 2026-04-06 |
 | [683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | 🔴 Hard | java | 2026-04-06 |
 | [715. Range Module](https://leetcode.com/problems/range-module/) | 🔴 Hard | java | 2026-04-08 |
+| [741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | 🔴 Hard | java | 2026-04-08 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
