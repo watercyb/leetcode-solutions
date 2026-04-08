@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 191
-- **Easy:** 34 🟢
+- **Total Problems Solved:** 192
+- **Easy:** 35 🟢
 - **Medium:** 119 🟡
 - **Hard:** 38 🔴
 
@@ -47,6 +47,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 Easy | java | 2026-04-06 |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | java | 2026-03-25 |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 Easy | java | 2026-04-06 |
+| [734. Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | 🟢 Easy | java | 2026-04-08 |
 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | java | 2026-04-03 |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | java | 2026-03-25 |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | java | 2026-03-25 |
