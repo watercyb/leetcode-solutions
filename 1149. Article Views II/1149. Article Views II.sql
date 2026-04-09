@@ -8,8 +8,7 @@
 
 # Write your MySQL query statement below
 select distinct viewer_id as id
-from
-(select viewer_id, view_date, COUNT(distinct article_id) as c
-from Views
+from views
 group by viewer_id, view_date
-having c>1) as a
+having COUNT(distinct article_id)>=2
+order by viewer_id
