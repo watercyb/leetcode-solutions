@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 214
+- **Total Problems Solved:** 215
 - **Easy:** 38 🟢
-- **Medium:** 130 🟡
+- **Medium:** 131 🟡
 - **Hard:** 46 🔴
 
 ## 📝 Problems
@@ -176,6 +176,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
 | [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | 🟡 Medium | python3 | 2026-04-09 |
 | [808. Soup Servings](https://leetcode.com/problems/soup-servings/) | 🟡 Medium | java | 2026-04-09 |
+| [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | 🟡 Medium | java | 2026-04-09 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-26 |
