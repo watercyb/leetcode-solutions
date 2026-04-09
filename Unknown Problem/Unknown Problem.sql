@@ -1,18 +1,44 @@
 /*
  * Problem: Unknown Problem
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67
+ * Link: https://leetcode.com/problems/find-circular-gift-exchange-chains/?envType=problem-list-v2&envId=ne414q67
  * Language: mysql
- * Date: 2026-03-26
+ * Date: 2026-04-09
  */
 
 # Write your MySQL query statement below
-with r as (select *, ROW_NUMBER() over (partition by employee_id order by start_time) as r
-from EmployeeShifts),
-combined as (select a.employee_id, b.start_time, LEAST(a.end_time, b.end_time) as end_time, b.r-a.r as r
-from r as a
-left join r as b
-on a.employee_id=b.employee_id and a.r<b.r and a.end_time>b.start_time)
-select employee_id, IFNULL(MAX(r),0)+1 as max_overlapping_shifts, IFNULL(SUM(TIMESTAMPDIFF(minute,start_time,end_time)),0) as total_overlap_duration
-from combined
-group by employee_id
+with recursive start as (
+    select *, ROW_NUMBER() over (order by giver_id) as r, giver_id as start
+    from SecretSanta
+),
+rec as (
+    select *
+    from start
+    union all
+    select a.giver_id, a.receiver_id, a.gift_value, b.r, b.start
+    from start as a, rec as b 
+    where a.giver_id=b.receiver_id and a.giver_id!=b.start
+),
+chk as (
+    select GROUP_CONCAT(giver_id order by giver_id separator '_') as giver, GROUP_CONCAT(receiver_id order by receiver_id separator '_') as receiver, r
+    from rec
+    group by r
+    having giver=receiver
+),
+grp as (
+    select giver_id, receiver_id, gift_value, MIN(r) as r
+    from rec
+    where r in (select r from chk)
+    group by giver_id, receiver_id
+),
+cnt as (
+    select distinct COUNT(*) as chain_length, SUM(gift_value) as total_gift_value
+    from grp
+    group by r
+)
+select ROW_NUMBER() over (order by chain_length desc, total_gift_value desc) as chain_id, chain_length, total_gift_value
+from cnt
+# select ROW_NUMBER() over (order by SUM(gift_value) desc) as chain_id, COUNT(*) as chain_length, SUM(gift_value) as total_gift_value
+# from grp
+# group by r
+# order by total_gift_value desc
