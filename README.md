@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 211
+- **Total Problems Solved:** 212
 - **Easy:** 38 🟢
-- **Medium:** 128 🟡
+- **Medium:** 129 🟡
 - **Hard:** 45 🔴
 
 ## 📝 Problems
@@ -174,6 +174,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [795. Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | 🟡 Medium | python3 | 2026-04-08 |
 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 Medium | java | 2026-04-08 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | java | 2026-03-25 |
+| [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | 🟡 Medium | python3 | 2026-04-09 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-26 |
