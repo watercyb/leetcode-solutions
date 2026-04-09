@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 218
+- **Total Problems Solved:** 219
 - **Easy:** 38 🟢
 - **Medium:** 133 🟡
-- **Hard:** 47 🔴
+- **Hard:** 48 🔴
 
 ## 📝 Problems
 
@@ -230,6 +230,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [801. Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | 🔴 Hard | java | 2026-04-09 |
 | [815. Bus Routes](https://leetcode.com/problems/bus-routes/) | 🔴 Hard | java | 2026-04-09 |
 | [828. Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | 🔴 Hard | java | 2026-04-09 |
+| [843. Guess the Word](https://leetcode.com/problems/guess-the-word/) | 🔴 Hard | java | 2026-04-09 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 
 ---
