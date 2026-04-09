@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 227
+- **Total Problems Solved:** 228
 - **Easy:** 38 🟢
 - **Medium:** 140 🟡
-- **Hard:** 49 🔴
+- **Hard:** 50 🔴
 
 ## 📝 Problems
 
@@ -240,6 +240,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [843. Guess the Word](https://leetcode.com/problems/guess-the-word/) | 🔴 Hard | java | 2026-04-09 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
 | [887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | 🔴 Hard | java | 2026-04-09 |
+| [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | 🔴 Hard | java | 2026-04-09 |
 
 ---
 
