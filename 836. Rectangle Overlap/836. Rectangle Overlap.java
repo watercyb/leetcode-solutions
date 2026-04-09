@@ -1,0 +1,14 @@
+/*
+ * Problem: 836. Rectangle Overlap
+ * Difficulty: Easy
+ * Link: https://leetcode.com/problems/rectangle-overlap/
+ * Language: java
+ * Date: 2026-04-09
+ */
+
+class Solution {
+    public boolean isRectangleOverlap(int[] rec1, int[] rec2) {
+        return ((rec2[0] >= rec1[0] && rec2[0] < rec1[2]) || (rec1[0] >= rec2[0] && rec1[0] < rec2[2]))
+                && ((rec2[1] >= rec1[1] && rec2[1] < rec1[3]) || (rec1[1] >= rec2[1] && rec1[1] < rec2[3]));
+    }
+}
