@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 226
+- **Total Problems Solved:** 227
 - **Easy:** 38 🟢
 - **Medium:** 140 🟡
-- **Hard:** 48 🔴
+- **Hard:** 49 🔴
 
 ## 📝 Problems
 
@@ -239,6 +239,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [828. Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | 🔴 Hard | java | 2026-04-09 |
 | [843. Guess the Word](https://leetcode.com/problems/guess-the-word/) | 🔴 Hard | java | 2026-04-09 |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | java | 2026-03-25 |
+| [887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | 🔴 Hard | java | 2026-04-09 |
 
 ---
 
