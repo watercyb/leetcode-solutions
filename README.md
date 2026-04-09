@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 222
+- **Total Problems Solved:** 223
 - **Easy:** 38 🟢
-- **Medium:** 136 🟡
+- **Medium:** 137 🟡
 - **Hard:** 48 🔴
 
 ## 📝 Problems
@@ -182,6 +182,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | 🟡 Medium | java | 2026-04-09 |
 | [855. Exam Room](https://leetcode.com/problems/exam-room/) | 🟡 Medium | java | 2026-04-09 |
 | [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | 🟡 Medium | java | 2026-04-09 |
+| [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | 🟡 Medium | java | 2026-04-09 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-26 |
