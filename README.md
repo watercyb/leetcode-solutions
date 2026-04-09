@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 217
+- **Total Problems Solved:** 218
 - **Easy:** 38 🟢
-- **Medium:** 132 🟡
+- **Medium:** 133 🟡
 - **Hard:** 47 🔴
 
 ## 📝 Problems
@@ -178,6 +178,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [808. Soup Servings](https://leetcode.com/problems/soup-servings/) | 🟡 Medium | java | 2026-04-09 |
 | [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | 🟡 Medium | java | 2026-04-09 |
 | [831. Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | 🟡 Medium | java | 2026-04-09 |
+| [835. Image Overlap](https://leetcode.com/problems/image-overlap/) | 🟡 Medium | python3 | 2026-04-09 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-26 |
