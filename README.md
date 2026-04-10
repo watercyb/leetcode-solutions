@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 249
-- **Easy:** 41 🟢
+- **Total Problems Solved:** 250
+- **Easy:** 42 🟢
 - **Medium:** 149 🟡
 - **Hard:** 59 🔴
 
@@ -26,6 +26,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | java | 2026-03-25 |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | java | 2026-03-31 |
 | [3358. Books with NULL Ratings](https://leetcode.com/problems/books-with-null-ratings/?envType=problem-list-v2&envId=ne414q67) | 🟢 Easy | mysql | 2026-04-03 |
+| [3415. Find Products with Three Consecutive Digits](https://leetcode.com/problems/find-products-with-three-consecutive-digits/?envType=problem-list-v2&envId=ne414q67) | 🟢 Easy | mysql | 2026-04-10 |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | java | 2026-04-03 |
 | [3740. Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/?envType=daily-question&envId=2026-04-10) | 🟢 Easy | java | 2026-04-10 |
 | [3880. Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | 🟢 Easy | csharp | 2026-03-31 |
