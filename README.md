@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 234
+- **Total Problems Solved:** 235
 - **Easy:** 39 🟢
-- **Medium:** 142 🟡
+- **Medium:** 143 🟡
 - **Hard:** 53 🔴
 
 ## 📝 Problems
@@ -189,6 +189,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | 🟡 Medium | java | 2026-04-09 |
 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | java | 2026-04-09 |
 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | java | 2026-04-09 |
+| [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | java | 2026-04-10 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-26 |
