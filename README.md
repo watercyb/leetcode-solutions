@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 244
+- **Total Problems Solved:** 245
 - **Easy:** 41 🟢
 - **Medium:** 147 🟡
-- **Hard:** 56 🔴
+- **Hard:** 57 🔴
 
 ## 📝 Problems
 
@@ -257,6 +257,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | 🔴 Hard | java | 2026-04-10 |
 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | 🔴 Hard | java | 2026-04-10 |
 | [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | 🔴 Hard | java | 2026-04-10 |
+| [972. Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | 🔴 Hard | java | 2026-04-10 |
 
 ---
 
