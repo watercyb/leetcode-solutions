@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 239
+- **Total Problems Solved:** 240
 - **Easy:** 41 🟢
-- **Medium:** 145 🟡
+- **Medium:** 146 🟡
 - **Hard:** 53 🔴
 
 ## 📝 Problems
@@ -194,6 +194,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | java | 2026-04-10 |
 | [911. Online Election](https://leetcode.com/problems/online-election/) | 🟡 Medium | java | 2026-04-10 |
 | [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | 🟡 Medium | java | 2026-04-10 |
+| [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | 🟡 Medium | java | 2026-04-10 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🟡 Medium | java | 2026-03-25 |
 | [Unknown Problem](https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-26 |
