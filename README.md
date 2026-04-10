@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 245
+- **Total Problems Solved:** 246
 - **Easy:** 41 🟢
 - **Medium:** 147 🟡
-- **Hard:** 57 🔴
+- **Hard:** 58 🔴
 
 ## 📝 Problems
 
@@ -258,6 +258,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | 🔴 Hard | java | 2026-04-10 |
 | [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | 🔴 Hard | java | 2026-04-10 |
 | [972. Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | 🔴 Hard | java | 2026-04-10 |
+| [982. Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | 🔴 Hard | java | 2026-04-10 |
 
 ---
 
