@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 248
+- **Total Problems Solved:** 249
 - **Easy:** 41 🟢
 - **Medium:** 149 🟡
-- **Hard:** 58 🔴
+- **Hard:** 59 🔴
 
 ## 📝 Problems
 
@@ -261,6 +261,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | 🔴 Hard | java | 2026-04-10 |
 | [972. Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | 🔴 Hard | java | 2026-04-10 |
 | [982. Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | 🔴 Hard | java | 2026-04-10 |
+| [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | java | 2026-04-10 |
 
 ---
 
