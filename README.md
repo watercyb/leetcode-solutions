@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 241
+- **Total Problems Solved:** 242
 - **Easy:** 41 🟢
 - **Medium:** 146 🟡
-- **Hard:** 54 🔴
+- **Hard:** 55 🔴
 
 ## 📝 Problems
 
@@ -254,6 +254,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | 🔴 Hard | java | 2026-04-09 |
 | [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | 🔴 Hard | java | 2026-04-09 |
 | [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | 🔴 Hard | java | 2026-04-10 |
+| [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | 🔴 Hard | java | 2026-04-10 |
 
 ---
 
