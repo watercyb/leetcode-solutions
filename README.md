@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 233
-- **Easy:** 38 🟢
+- **Total Problems Solved:** 234
+- **Easy:** 39 🟢
 - **Medium:** 142 🟡
 - **Hard:** 53 🔴
 
@@ -27,6 +27,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | java | 2026-03-31 |
 | [3358. Books with NULL Ratings](https://leetcode.com/problems/books-with-null-ratings/?envType=problem-list-v2&envId=ne414q67) | 🟢 Easy | mysql | 2026-04-03 |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | java | 2026-04-03 |
+| [3740. Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/?envType=daily-question&envId=2026-04-10) | 🟢 Easy | java | 2026-04-10 |
 | [3880. Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | 🟢 Easy | csharp | 2026-03-31 |
 | [3884. First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | 🟢 Easy | kotlin | 2026-03-31 |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | 🟢 Easy | java | 2026-04-03 |
