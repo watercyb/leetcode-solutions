@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 254
+- **Total Problems Solved:** 255
 - **Easy:** 43 🟢
-- **Medium:** 151 🟡
+- **Medium:** 152 🟡
 - **Hard:** 60 🔴
 
 ## 📝 Problems
@@ -58,6 +58,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | 🟢 Easy | java | 2026-04-10 |
 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 Medium | java | 2026-04-03 |
 | [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | 🟡 Medium | java | 2026-04-11 |
+| [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | 🟡 Medium | java | 2026-04-11 |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | java | 2026-03-25 |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | java | 2026-03-25 |
 | [1149. Article Views II](https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-09 |
