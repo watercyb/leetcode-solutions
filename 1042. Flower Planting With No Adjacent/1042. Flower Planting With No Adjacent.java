@@ -1,7 +1,7 @@
 /*
  * Problem: 1042. Flower Planting With No Adjacent
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/flower-planting-with-no-adjacent/
+ * Link: https://leetcode.com/problems/partition-array-for-maximum-sum/
  * Language: java
  * Date: 2026-04-11
  */
