@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 252
+- **Total Problems Solved:** 253
 - **Easy:** 43 🟢
 - **Medium:** 150 🟡
-- **Hard:** 59 🔴
+- **Hard:** 60 🔴
 
 ## 📝 Problems
 
@@ -206,6 +206,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-03-26 |
 | [Unknown Problem](https://leetcode.com/problems/minimum-levels-to-gain-more-points/?envType=problem-list-v2&envId=prefix-sum) | 🟡 Medium | java | 2026-03-26 |
 | [Unknown Problem](https://leetcode.com/problems/design-phone-directory/?envType=weekly-question&envId=2026-03-29) | 🟡 Medium | java | 2026-03-29 |
+| [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/) | 🔴 Hard | java | 2026-04-11 |
 | [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | 🔴 Hard | java | 2026-03-26 |
 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | java | 2026-03-26 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | java | 2026-03-26 |
