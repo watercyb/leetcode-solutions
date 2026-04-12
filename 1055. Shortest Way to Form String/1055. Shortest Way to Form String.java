@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/shortest-way-to-form-string/
  * Language: java
- * Date: 2026-04-11
+ * Date: 2026-04-12
  */
 
 class Solution {
