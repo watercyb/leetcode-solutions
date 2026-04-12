@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 266
+- **Total Problems Solved:** 267
 - **Easy:** 47 🟢
 - **Medium:** 158 🟡
-- **Hard:** 61 🔴
+- **Hard:** 62 🔴
 
 ## 📝 Problems
 
@@ -219,6 +219,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/minimum-levels-to-gain-more-points/?envType=problem-list-v2&envId=prefix-sum) | 🟡 Medium | java | 2026-03-26 |
 | [Unknown Problem](https://leetcode.com/problems/design-phone-directory/?envType=weekly-question&envId=2026-03-29) | 🟡 Medium | java | 2026-03-29 |
 | [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/) | 🔴 Hard | java | 2026-04-11 |
+| [1063. Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays/) | 🔴 Hard | java | 2026-04-12 |
 | [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | 🔴 Hard | java | 2026-03-26 |
 | [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/?envType=daily-question&envId=2026-04-12) | 🔴 Hard | java | 2026-04-12 |
 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | java | 2026-03-26 |
