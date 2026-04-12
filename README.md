@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 273
+- **Total Problems Solved:** 274
 - **Easy:** 51 🟢
-- **Medium:** 160 🟡
+- **Medium:** 161 🟡
 - **Hard:** 62 🔴
 
 ## 📝 Problems
@@ -76,6 +76,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | 🟡 Medium | java | 2026-04-12 |
 | [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) | 🟡 Medium | python3 | 2026-04-12 |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | java | 2026-03-25 |
+| [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | java | 2026-04-12 |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | java | 2026-03-25 |
 | [1149. Article Views II](https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-09 |
 | [1149. Article Views II](https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-09 |
