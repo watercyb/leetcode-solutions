@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 264
+- **Total Problems Solved:** 265
 - **Easy:** 47 🟢
-- **Medium:** 156 🟡
+- **Medium:** 157 🟡
 - **Hard:** 61 🔴
 
 ## 📝 Problems
@@ -67,6 +67,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | 🟡 Medium | java | 2026-04-11 |
 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | 🟡 Medium | java | 2026-04-11 |
 | [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | 🟡 Medium | mysql | 2026-04-11 |
+| [1055. Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/) | 🟡 Medium | java | 2026-04-12 |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | java | 2026-03-25 |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | java | 2026-03-25 |
 | [1149. Article Views II](https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-09 |
