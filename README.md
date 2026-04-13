@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 277
+- **Total Problems Solved:** 278
 - **Easy:** 53 🟢
 - **Medium:** 161 🟡
-- **Hard:** 63 🔴
+- **Hard:** 64 🔴
 
 ## 📝 Problems
 
@@ -252,6 +252,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3401. Find Circular Gift Exchange Chains](https://leetcode.com/problems/find-circular-gift-exchange-chains/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | mysql | 2026-04-09 |
 | [3401. Find Circular Gift Exchange Chains](https://leetcode.com/problems/find-circular-gift-exchange-chains/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | python3 | 2026-04-09 |
 | [3451. Find Invalid IP Addresses](https://leetcode.com/problems/find-invalid-ip-addresses/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | mysql | 2026-04-13 |
+| [3451. Find Invalid IP Addresses](https://leetcode.com/problems/find-invalid-ip-addresses/?envType=problem-list-v2&envId=ne414q67) | 🔴 Hard | python3 | 2026-04-13 |
 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/?envType=daily-question&envId=2026-03-31) | 🔴 Hard | java | 2026-03-31 |
 | [3655. XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/?envType=daily-question&envId=2026-04-09) | 🔴 Hard | java | 2026-04-09 |
 | [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/?envType=daily-question&envId=2026-04-03) | 🔴 Hard | Choose a type | 2026-04-03 |
