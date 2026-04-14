@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 289
-- **Easy:** 55 🟢
+- **Total Problems Solved:** 290
+- **Easy:** 56 🟢
 - **Medium:** 167 🟡
 - **Hard:** 67 🔴
 
@@ -25,6 +25,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1082. Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/) | 🟢 Easy | python3 | 2026-04-12 |
 | [1086. High Five](https://leetcode.com/problems/high-five/) | 🟢 Easy | java | 2026-04-12 |
 | [1099. Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) | 🟢 Easy | java | 2026-04-12 |
+| [1134. Armstrong Number](https://leetcode.com/problems/armstrong-number/) | 🟢 Easy | java | 2026-04-14 |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | java | 2026-03-26 |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
