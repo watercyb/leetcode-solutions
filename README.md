@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 286
+- **Total Problems Solved:** 287
 - **Easy:** 55 🟢
-- **Medium:** 164 🟡
+- **Medium:** 165 🟡
 - **Hard:** 67 🔴
 
 ## 📝 Problems
@@ -84,6 +84,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | 🟡 Medium | java | 2026-04-14 |
 | [1107. New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | 🟡 Medium | mysql | 2026-04-14 |
 | [1112. Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | 🟡 Medium | mysql | 2026-04-14 |
+| [1117. Building H2O](https://leetcode.com/problems/building-h2o/) | 🟡 Medium | java | 2026-04-14 |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | java | 2026-03-25 |
 | [1149. Article Views II](https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-09 |
 | [1149. Article Views II](https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-09 |
