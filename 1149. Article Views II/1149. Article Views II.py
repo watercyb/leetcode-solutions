@@ -1,9 +1,9 @@
 #
 # Problem: 1149. Article Views II
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67
+# Link: https://leetcode.com/problems/article-views-ii/
 # Language: python3
-# Date: 2026-04-09
+# Date: 2026-04-14
 
 
 import pandas as pd
