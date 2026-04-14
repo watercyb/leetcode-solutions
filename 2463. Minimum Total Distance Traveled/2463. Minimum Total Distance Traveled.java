@@ -14,43 +14,33 @@ class Solution {
         }
         Arrays.sort(arr);
         Arrays.sort(factory, (a, b) -> a[0] - b[0]);
-        return dfs(arr, new long[arr.length][factory.length], factory, 0, 0) - 1;
-    }
-
-    public long dfs(int[] arr, long[][] meme, int[][] factory, int i, int j) {
-        if (i == arr.length) {
-            return 1;
+        long[][] DP = new long[factory.length + 1][arr.length + 1];
+        for (long[] row : DP) {
+            Arrays.fill(row, Long.MAX_VALUE / 2);
         }
-        if (meme[i][j] != 0)
-            return meme[i][j];
-        int k = i;
-        if (j == factory.length - 1) {
-            if (arr.length - k <= factory[j][1]) {
-                long res = 1;
-                while (k < arr.length) {
-                    res += Math.abs(factory[j][0] - arr[k]);
-                    k++;
+        DP[0][0] = 0;
+        for (int i = 0; i < factory.length; i++) {
+            Deque<Integer> indexes = new ArrayDeque<>();
+            Deque<Long> mins = new ArrayDeque<>();
+            indexes.offerLast(-1);
+            mins.offerLast(0L);
+            long offset = 0;
+            for (int j = 0; j < arr.length; j++) {
+                offset += Math.abs(factory[i][0] - arr[j]);
+                while (!indexes.isEmpty() && indexes.peekFirst() + factory[i][1] < j) {
+                    indexes.pollFirst();
+                    mins.pollFirst();
                 }
-                return meme[i][j] = res;
+                long num = DP[i][j + 1] - offset;
+                while (!indexes.isEmpty() && mins.peekLast() >= num) {
+                    indexes.pollLast();
+                    mins.pollLast();
+                }
+                indexes.offerLast(j);
+                mins.offerLast(num);
+                DP[i + 1][j + 1] = mins.peekFirst() + offset;
             }
-            return meme[i][j] = Long.MAX_VALUE / 2;
         }
-        int count = factory[j][1];
-        long res = 0;
-        long sum = 0;
-        while (k < arr.length && count > 0
-                && (arr[k] <= factory[j][0] || arr[k] - factory[j][0] <= factory[j + 1][0] - arr[k])) {
-            sum += Math.abs(factory[j][0] - arr[k]);
-            count--;
-            k++;
-        }
-        res = dfs(arr, meme, factory, k, j + 1) + sum;
-        while (k < arr.length && count > 0) {
-            sum += Math.abs(arr[k] - factory[j][0]);
-            count--;
-            k++;
-            res = Math.min(dfs(arr, meme, factory, k, j + 1) + sum, res);
-        }
-        return meme[i][j] = res;
+        return DP[factory.length][arr.length];
     }
 }
