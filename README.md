@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 297
-- **Easy:** 58 🟢
+- **Total Problems Solved:** 298
+- **Easy:** 59 🟢
 - **Medium:** 172 🟡
 - **Hard:** 67 🔴
 
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1134. Armstrong Number](https://leetcode.com/problems/armstrong-number/) | 🟢 Easy | java | 2026-04-14 |
 | [1142. User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/) | 🟢 Easy | python3 | 2026-04-14 |
 | [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | 🟢 Easy | java | 2026-04-14 |
+| [1173. Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/) | 🟢 Easy | python3 | 2026-04-14 |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | java | 2026-03-26 |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
