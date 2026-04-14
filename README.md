@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 281
-- **Easy:** 53 🟢
+- **Total Problems Solved:** 282
+- **Easy:** 54 🟢
 - **Medium:** 161 🟡
 - **Hard:** 67 🔴
 
@@ -43,6 +43,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3880. Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | 🟢 Easy | csharp | 2026-03-31 |
 | [3884. First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | 🟢 Easy | kotlin | 2026-03-31 |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | 🟢 Easy | java | 2026-04-03 |
+| [3894. Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | 🟢 Easy | kotlin | 2026-04-14 |
 | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | 🟢 Easy | java | 2026-04-03 |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | java | 2026-04-03 |
 | [476. Number Complement](https://leetcode.com/problems/number-complement/) | 🟢 Easy | java | 2026-04-03 |
