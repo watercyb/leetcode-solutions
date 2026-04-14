@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 292
+- **Total Problems Solved:** 293
 - **Easy:** 57 🟢
-- **Medium:** 168 🟡
+- **Medium:** 169 🟡
 - **Hard:** 67 🔴
 
 ## 📝 Problems
@@ -91,6 +91,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1131. Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | 🟡 Medium | java | 2026-04-14 |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | java | 2026-03-25 |
 | [1144. Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | 🟡 Medium | python3 | 2026-04-14 |
+| [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | 🟡 Medium | java | 2026-04-14 |
 | [1149. Article Views II](https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-09 |
 | [1149. Article Views II](https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-09 |
 | [120. Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | java | 2026-03-25 |
