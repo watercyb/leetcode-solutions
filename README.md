@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 288
+- **Total Problems Solved:** 289
 - **Easy:** 55 🟢
-- **Medium:** 166 🟡
+- **Medium:** 167 🟡
 - **Hard:** 67 🔴
 
 ## 📝 Problems
@@ -86,6 +86,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1112. Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | 🟡 Medium | mysql | 2026-04-14 |
 | [1117. Building H2O](https://leetcode.com/problems/building-h2o/) | 🟡 Medium | java | 2026-04-14 |
 | [1126. Active Businesses](https://leetcode.com/problems/active-businesses/) | 🟡 Medium | mysql | 2026-04-14 |
+| [1131. Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | 🟡 Medium | java | 2026-04-14 |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | java | 2026-03-25 |
 | [1149. Article Views II](https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-09 |
 | [1149. Article Views II](https://leetcode.com/problems/article-views-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-09 |
