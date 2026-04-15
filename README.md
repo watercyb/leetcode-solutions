@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 301
-- **Easy:** 61 🟢
+- **Total Problems Solved:** 302
+- **Easy:** 62 🟢
 - **Medium:** 172 🟡
 - **Hard:** 68 🔴
 
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1180. Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | 🟢 Easy | java | 2026-04-14 |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | java | 2026-04-14 |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | java | 2026-03-26 |
+| [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/?envType=weekly-question&envId=2026-04-15) | 🟢 Easy | java | 2026-04-15 |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
 | [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/?envType=daily-question&envId=2026-04-13) | 🟢 Easy | rust | 2026-04-13 |
