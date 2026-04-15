@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 324
+- **Total Problems Solved:** 325
 - **Easy:** 67 🟢
-- **Medium:** 186 🟡
+- **Medium:** 187 🟡
 - **Hard:** 71 🔴
 
 ## 📝 Problems
@@ -199,6 +199,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3890. Integers With Multiple Sum of Two Cubes](https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/) | 🟡 Medium | kotlin | 2026-04-07 |
 | [3891. Minimum Increase to Maximize Special Indices](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | 🟡 Medium | swift | 2026-04-08 |
 | [3896. Minimum Operations to Transform Array into Alternating Prime](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | 🟡 Medium | python3 | 2026-04-15 |
+| [3900. Longest Balanced Substring After One Swap](https://leetcode.com/problems/longest-balanced-substring-after-one-swap/) | 🟡 Medium | rust | 2026-04-15 |
 | [3902. Zigzag Level Sum of Binary Tree](https://leetcode.com/problems/zigzag-level-sum-of-binary-tree/) | 🟡 Medium | java | 2026-04-15 |
 | [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 🟡 Medium | java | 2026-04-03 |
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
