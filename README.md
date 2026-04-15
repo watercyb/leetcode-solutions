@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 310
+- **Total Problems Solved:** 311
 - **Easy:** 64 🟢
-- **Medium:** 177 🟡
+- **Medium:** 178 🟡
 - **Hard:** 69 🔴
 
 ## 📝 Problems
@@ -109,6 +109,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1212. Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/) | 🟡 Medium | python3 | 2026-04-15 |
 | [1215. Stepping Numbers](https://leetcode.com/problems/stepping-numbers/) | 🟡 Medium | python3 | 2026-04-15 |
 | [1230. Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | 🟡 Medium | java | 2026-04-15 |
+| [1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | 🟡 Medium | python3 | 2026-04-15 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
