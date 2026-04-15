@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/
  * Language: java
- * Date: 2026-04-12
+ * Date: 2026-04-15
  */
 
 class Solution {
