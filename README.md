@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 321
+- **Total Problems Solved:** 322
 - **Easy:** 67 🟢
-- **Medium:** 183 🟡
+- **Medium:** 184 🟡
 - **Hard:** 71 🔴
 
 ## 📝 Problems
@@ -118,6 +118,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1256. Encode Number](https://leetcode.com/problems/encode-number/) | 🟡 Medium | java | 2026-04-15 |
 | [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | 🟡 Medium | java | 2026-04-15 |
 | [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | 🟡 Medium | java | 2026-04-15 |
+| [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | 🟡 Medium | python3 | 2026-04-15 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
