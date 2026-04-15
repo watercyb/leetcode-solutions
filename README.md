@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 314
+- **Total Problems Solved:** 315
 - **Easy:** 64 🟢
-- **Medium:** 180 🟡
+- **Medium:** 181 🟡
 - **Hard:** 70 🔴
 
 ## 📝 Problems
@@ -112,6 +112,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | 🟡 Medium | python3 | 2026-04-15 |
 | [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | 🟡 Medium | python3 | 2026-04-15 |
 | [1247. Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) | 🟡 Medium | java | 2026-04-15 |
+| [1256. Encode Number](https://leetcode.com/problems/encode-number/) | 🟡 Medium | java | 2026-04-15 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
