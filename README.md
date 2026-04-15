@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 319
+- **Total Problems Solved:** 320
 - **Easy:** 67 🟢
-- **Medium:** 182 🟡
+- **Medium:** 183 🟡
 - **Hard:** 70 🔴
 
 ## 📝 Problems
@@ -117,6 +117,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1247. Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) | 🟡 Medium | java | 2026-04-15 |
 | [1256. Encode Number](https://leetcode.com/problems/encode-number/) | 🟡 Medium | java | 2026-04-15 |
 | [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | 🟡 Medium | java | 2026-04-15 |
+| [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | 🟡 Medium | java | 2026-04-15 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
