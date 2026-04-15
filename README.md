@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 303
+- **Total Problems Solved:** 304
 - **Easy:** 62 🟢
-- **Medium:** 173 🟡
+- **Medium:** 174 🟡
 - **Hard:** 68 🔴
 
 ## 📝 Problems
@@ -103,6 +103,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | 🟡 Medium | java | 2026-04-14 |
 | [1166. Design File System](https://leetcode.com/problems/design-file-system/) | 🟡 Medium | java | 2026-04-14 |
 | [120. Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | java | 2026-03-25 |
+| [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | 🟡 Medium | java | 2026-04-15 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
