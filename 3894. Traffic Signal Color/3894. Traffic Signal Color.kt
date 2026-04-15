@@ -3,7 +3,7 @@
  * Difficulty: Easy
  * Link: https://leetcode.com/problems/traffic-signal-color/
  * Language: kotlin
- * Date: 2026-04-14
+ * Date: 2026-04-15
  */
 
 class Solution {
