@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 325
+- **Total Problems Solved:** 326
 - **Easy:** 67 🟢
-- **Medium:** 187 🟡
+- **Medium:** 188 🟡
 - **Hard:** 71 🔴
 
 ## 📝 Problems
@@ -183,6 +183,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3328. Find Cities in Each State II](https://leetcode.com/problems/find-cities-in-each-state-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | python3 | 2026-04-02 |
 | [3338. Second Highest Salary II](https://leetcode.com/problems/second-highest-salary-ii/?envType=problem-list-v2&envId=ne414q67) | 🟡 Medium | mysql | 2026-04-02 |
 | [3344. Maximum Sized Array](https://leetcode.com/problems/maximum-sized-array/?envType=problem-list-v2&envId=bit-manipulation) | 🟡 Medium | python3 | 2026-03-30 |
+| [3488. Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/?envType=daily-question&envId=2026-04-16) | 🟡 Medium | java | 2026-04-16 |
 | [351. Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) | 🟡 Medium | java | 2026-04-03 |
 | [361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | 🟡 Medium | java | 2026-04-03 |
 | [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | 🟡 Medium | java | 2026-04-03 |
