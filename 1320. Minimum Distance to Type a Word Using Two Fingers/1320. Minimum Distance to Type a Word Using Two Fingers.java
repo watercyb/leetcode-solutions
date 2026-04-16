@@ -1,9 +1,9 @@
 /*
  * Problem: 1320. Minimum Distance to Type a Word Using Two Fingers
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/?envType=daily-question&envId=2026-04-12
+ * Link: https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
  * Language: java
- * Date: 2026-04-12
+ * Date: 2026-04-16
  */
 
 class Solution {
