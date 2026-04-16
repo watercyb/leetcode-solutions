@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 332
+- **Total Problems Solved:** 333
 - **Easy:** 69 🟢
-- **Medium:** 190 🟡
+- **Medium:** 191 🟡
 - **Hard:** 73 🔴
 
 ## 📝 Problems
@@ -123,6 +123,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | 🟡 Medium | python3 | 2026-04-15 |
 | [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | 🟡 Medium | python3 | 2026-04-15 |
 | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | 🟡 Medium | java | 2026-04-16 |
+| [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | 🟡 Medium | java | 2026-04-16 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
