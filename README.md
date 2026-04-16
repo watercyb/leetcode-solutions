@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 338
-- **Easy:** 71 🟢
+- **Total Problems Solved:** 339
+- **Easy:** 72 🟢
 - **Medium:** 193 🟡
 - **Hard:** 74 🔴
 
@@ -40,6 +40,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1322. Ads Performance](https://leetcode.com/problems/ads-performance/) | 🟢 Easy | mysql | 2026-04-16 |
 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | 🟢 Easy | java | 2026-04-16 |
 | [1350. Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | 🟢 Easy | python3 | 2026-04-16 |
+| [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | 🟢 Easy | java | 2026-04-16 |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | java | 2026-03-26 |
 | [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/?envType=weekly-question&envId=2026-04-15) | 🟢 Easy | java | 2026-04-15 |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
