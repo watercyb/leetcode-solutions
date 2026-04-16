@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 329
-- **Easy:** 67 🟢
+- **Total Problems Solved:** 330
+- **Easy:** 68 🟢
 - **Medium:** 190 🟡
 - **Hard:** 72 🔴
 
@@ -36,6 +36,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | 🟢 Easy | java | 2026-04-15 |
 | [1271. Hexspeak](https://leetcode.com/problems/hexspeak/) | 🟢 Easy | java | 2026-04-15 |
 | [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | 🟢 Easy | java | 2026-04-15 |
+| [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | 🟢 Easy | java | 2026-04-16 |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | java | 2026-03-26 |
 | [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/?envType=weekly-question&envId=2026-04-15) | 🟢 Easy | java | 2026-04-15 |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
