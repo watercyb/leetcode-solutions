@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 335
+- **Total Problems Solved:** 336
 - **Easy:** 69 🟢
 - **Medium:** 193 🟡
-- **Hard:** 73 🔴
+- **Hard:** 74 🔴
 
 ## 📝 Problems
 
@@ -285,6 +285,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | 🔴 Hard | java | 2026-04-16 |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | 🔴 Hard | java | 2026-04-16 |
 | [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/?envType=daily-question&envId=2026-04-12) | 🔴 Hard | java | 2026-04-12 |
+| [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/) | 🔴 Hard | java | 2026-04-16 |
 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | java | 2026-03-26 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | java | 2026-03-26 |
 | [24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | java | 2026-04-06 |
