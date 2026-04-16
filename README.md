@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 348
+- **Total Problems Solved:** 349
 - **Easy:** 75 🟢
 - **Medium:** 198 🟡
-- **Hard:** 75 🔴
+- **Hard:** 76 🔴
 
 ## 📝 Problems
 
@@ -299,6 +299,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/) | 🔴 Hard | java | 2026-04-16 |
 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | java | 2026-03-26 |
 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | 🔴 Hard | java | 2026-04-16 |
+| [1384. Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | 🔴 Hard | python3 | 2026-04-16 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | java | 2026-03-26 |
 | [24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | java | 2026-04-06 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
