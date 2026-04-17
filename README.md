@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 366
+- **Total Problems Solved:** 367
 - **Easy:** 82 🟢
-- **Medium:** 206 🟡
+- **Medium:** 207 🟡
 - **Hard:** 78 🔴
 
 ## 📝 Problems
@@ -152,6 +152,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | 🟡 Medium | java | 2026-04-17 |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | 🟡 Medium | java | 2026-04-17 |
 | [1452. People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | 🟡 Medium | python3 | 2026-04-17 |
+| [1454. Active Users](https://leetcode.com/problems/active-users/) | 🟡 Medium | python3 | 2026-04-17 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
