@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 368
+- **Total Problems Solved:** 369
 - **Easy:** 83 🟢
-- **Medium:** 207 🟡
+- **Medium:** 208 🟡
 - **Hard:** 78 🔴
 
 ## 📝 Problems
@@ -154,6 +154,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | 🟡 Medium | java | 2026-04-17 |
 | [1452. People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | 🟡 Medium | python3 | 2026-04-17 |
 | [1454. Active Users](https://leetcode.com/problems/active-users/) | 🟡 Medium | python3 | 2026-04-17 |
+| [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | 🟡 Medium | python3 | 2026-04-17 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
