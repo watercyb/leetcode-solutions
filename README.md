@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 371
-- **Easy:** 84 🟢
+- **Total Problems Solved:** 372
+- **Easy:** 85 🟢
 - **Medium:** 209 🟡
 - **Hard:** 78 🔴
 
@@ -54,6 +54,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | 🟢 Easy | rust | 2026-04-17 |
 | [1460. Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | 🟢 Easy | java | 2026-04-17 |
 | [1469. Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | 🟢 Easy | java | 2026-04-17 |
+| [1474. Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | 🟢 Easy | java | 2026-04-17 |
 | [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/?envType=weekly-question&envId=2026-04-15) | 🟢 Easy | java | 2026-04-15 |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
