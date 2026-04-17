@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 356
-- **Easy:** 79 🟢
+- **Total Problems Solved:** 357
+- **Easy:** 80 🟢
 - **Medium:** 200 🟡
 - **Hard:** 77 🔴
 
@@ -48,6 +48,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | 🟢 Easy | java | 2026-04-16 |
 | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/) | 🟢 Easy | java | 2026-04-16 |
 | [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | 🟢 Easy | java | 2026-04-17 |
+| [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/) | 🟢 Easy | rust | 2026-04-17 |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | java | 2026-03-26 |
 | [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/?envType=weekly-question&envId=2026-04-15) | 🟢 Easy | java | 2026-04-15 |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
