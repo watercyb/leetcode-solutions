@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 372
+- **Total Problems Solved:** 373
 - **Easy:** 85 🟢
 - **Medium:** 209 🟡
-- **Hard:** 78 🔴
+- **Hard:** 79 🔴
 
 ## 📝 Problems
 
@@ -323,6 +323,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1384. Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | 🔴 Hard | python3 | 2026-04-16 |
 | [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/) | 🔴 Hard | python3 | 2026-04-17 |
 | [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | 🔴 Hard | java | 2026-04-17 |
+| [1479. Sales by Day of the Week](https://leetcode.com/problems/sales-by-day-of-the-week/) | 🔴 Hard | python3 | 2026-04-17 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | java | 2026-03-26 |
 | [24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | java | 2026-04-06 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
