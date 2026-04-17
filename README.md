@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 359
+- **Total Problems Solved:** 360
 - **Easy:** 80 🟢
-- **Medium:** 202 🟡
+- **Medium:** 203 🟡
 - **Hard:** 77 🔴
 
 ## 📝 Problems
@@ -146,6 +146,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1401. Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | java | 2026-04-17 |
 | [1418. Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | 🟡 Medium | python3 | 2026-04-17 |
 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | java | 2026-04-17 |
+| [1433. Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | 🟡 Medium | python3 | 2026-04-17 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
