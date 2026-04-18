@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 375
-- **Easy:** 86 🟢
+- **Total Problems Solved:** 376
+- **Easy:** 87 🟢
 - **Medium:** 210 🟡
 - **Hard:** 79 🔴
 
@@ -71,6 +71,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3415. Find Products with Three Consecutive Digits](https://leetcode.com/problems/find-products-with-three-consecutive-digits/?envType=problem-list-v2&envId=ne414q67) | 🟢 Easy | python3 | 2026-04-10 |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | java | 2026-04-03 |
 | [3740. Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/?envType=daily-question&envId=2026-04-10) | 🟢 Easy | java | 2026-04-10 |
+| [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/?envType=daily-question&envId=2026-04-18) | 🟢 Easy | java | 2026-04-18 |
 | [3880. Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | 🟢 Easy | csharp | 2026-03-31 |
 | [3884. First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | 🟢 Easy | kotlin | 2026-03-31 |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | 🟢 Easy | java | 2026-04-03 |
