@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 383
+- **Total Problems Solved:** 384
 - **Easy:** 91 🟢
-- **Medium:** 213 🟡
+- **Medium:** 214 🟡
 - **Hard:** 79 🔴
 
 ## 📝 Problems
@@ -168,6 +168,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1501. Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/) | 🟡 Medium | mysql | 2026-04-18 |
 | [1506. Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | 🟡 Medium | java | 2026-04-18 |
 | [1525. Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | 🟡 Medium | python3 | 2026-04-18 |
+| [1533. Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/) | 🟡 Medium | java | 2026-04-18 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
