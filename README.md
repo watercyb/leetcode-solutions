@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 389
+- **Total Problems Solved:** 390
 - **Easy:** 93 🟢
-- **Medium:** 216 🟡
+- **Medium:** 217 🟡
 - **Hard:** 80 🔴
 
 ## 📝 Problems
@@ -173,6 +173,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1533. Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/) | 🟡 Medium | java | 2026-04-18 |
 | [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | 🟡 Medium | python3 | 2026-04-18 |
 | [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | 🟡 Medium | java | 2026-04-18 |
+| [1555. Bank Account Summary](https://leetcode.com/problems/bank-account-summary/) | 🟡 Medium | mysql | 2026-04-18 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
