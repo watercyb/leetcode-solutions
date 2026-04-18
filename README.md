@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 398
+- **Total Problems Solved:** 399
 - **Easy:** 98 🟢
-- **Medium:** 219 🟡
+- **Medium:** 220 🟡
 - **Hard:** 81 🔴
 
 ## 📝 Problems
@@ -181,6 +181,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1555. Bank Account Summary](https://leetcode.com/problems/bank-account-summary/) | 🟡 Medium | mysql | 2026-04-18 |
 | [1558. Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/) | 🟡 Medium | python3 | 2026-04-18 |
 | [1564. Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) | 🟡 Medium | python3 | 2026-04-18 |
+| [1596. The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/) | 🟡 Medium | mysql | 2026-04-18 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
