@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 382
-- **Easy:** 90 🟢
+- **Total Problems Solved:** 383
+- **Easy:** 91 🟢
 - **Medium:** 213 🟡
 - **Hard:** 79 🔴
 
@@ -59,6 +59,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | 🟢 Easy | java | 2026-04-18 |
 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 Easy | java | 2026-04-18 |
 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | 🟢 Easy | java | 2026-04-18 |
+| [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | 🟢 Easy | java | 2026-04-18 |
 | [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/?envType=weekly-question&envId=2026-04-15) | 🟢 Easy | java | 2026-04-15 |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
