@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 376
+- **Total Problems Solved:** 377
 - **Easy:** 87 🟢
-- **Medium:** 210 🟡
+- **Medium:** 211 🟡
 - **Hard:** 79 🔴
 
 ## 📝 Problems
@@ -161,6 +161,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | 🟡 Medium | python3 | 2026-04-17 |
 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | 🟡 Medium | java | 2026-04-17 |
 | [1485. Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | 🟡 Medium | java | 2026-04-17 |
+| [1501. Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/) | 🟡 Medium | mysql | 2026-04-18 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
