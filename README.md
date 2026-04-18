@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 396
-- **Easy:** 96 🟢
+- **Total Problems Solved:** 397
+- **Easy:** 97 🟢
 - **Medium:** 219 🟡
 - **Hard:** 81 🔴
 
@@ -65,6 +65,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/) | 🟢 Easy | java | 2026-04-18 |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | java | 2026-04-18 |
 | [1576. Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | 🟢 Easy | rust | 2026-04-18 |
+| [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | mysql | 2026-04-18 |
 | [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/?envType=weekly-question&envId=2026-04-15) | 🟢 Easy | java | 2026-04-15 |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
