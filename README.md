@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 413
-- **Easy:** 100 🟢
+- **Total Problems Solved:** 414
+- **Easy:** 101 🟢
 - **Medium:** 230 🟡
 - **Hard:** 83 🔴
 
@@ -70,6 +70,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1607. Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/) | 🟢 Easy | python3 | 2026-04-19 |
 | [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/?envType=weekly-question&envId=2026-04-15) | 🟢 Easy | java | 2026-04-15 |
 | [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | 🟢 Easy | java | 2026-04-19 |
+| [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | python3 | 2026-04-19 |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
 | [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/?envType=daily-question&envId=2026-04-13) | 🟢 Easy | rust | 2026-04-13 |
