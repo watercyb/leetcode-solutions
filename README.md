@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 409
+- **Total Problems Solved:** 410
 - **Easy:** 99 🟢
-- **Medium:** 227 🟡
+- **Medium:** 228 🟡
 - **Hard:** 83 🔴
 
 ## 📝 Problems
@@ -190,6 +190,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | 🟡 Medium | python3 | 2026-04-19 |
 | [1634. Add Two Polynomials Represented as Linked Lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/) | 🟡 Medium | java | 2026-04-19 |
 | [1638. Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | 🟡 Medium | python3 | 2026-04-19 |
+| [1644. Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/) | 🟡 Medium | java | 2026-04-19 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | python3 | 2026-04-19 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
