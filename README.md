@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 405
+- **Total Problems Solved:** 406
 - **Easy:** 99 🟢
-- **Medium:** 223 🟡
+- **Medium:** 224 🟡
 - **Hard:** 83 🔴
 
 ## 📝 Problems
@@ -186,6 +186,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1613. Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/) | 🟡 Medium | python3 | 2026-04-19 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | java | 2026-03-26 |
 | [1620. Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | 🟡 Medium | java | 2026-04-19 |
+| [1621. Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡 Medium | python3 | 2026-04-19 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | python3 | 2026-04-19 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
