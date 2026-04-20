@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 442
+- **Total Problems Solved:** 443
 - **Easy:** 113 🟢
 - **Medium:** 240 🟡
-- **Hard:** 89 🔴
+- **Hard:** 90 🔴
 
 ## 📝 Problems
 
@@ -426,6 +426,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3888. Minimum Operations to Make All Grid Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-grid-elements-equal/) | 🔴 Hard | java | 2026-04-02 |
 | [3892. Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | 🔴 Hard | java | 2026-04-06 |
 | [3901. Good Subsequence Queries](https://leetcode.com/problems/good-subsequence-queries/) | 🔴 Hard | java | 2026-04-13 |
+| [3906. Count Good Integers on a Grid Path](https://leetcode.com/problems/count-good-integers-on-a-grid-path/) | 🔴 Hard | java | 2026-04-20 |
 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | java | 2026-04-03 |
 | [483. Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | 🔴 Hard | java | 2026-04-03 |
 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | 🔴 Hard | java | 2026-04-03 |
