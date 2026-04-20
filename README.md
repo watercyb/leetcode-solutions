@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 427
+- **Total Problems Solved:** 428
 - **Easy:** 105 🟢
-- **Medium:** 236 🟡
+- **Medium:** 237 🟡
 - **Hard:** 86 🔴
 
 ## 📝 Problems
@@ -205,6 +205,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | 🟡 Medium | java | 2026-04-20 |
 | [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | 🟡 Medium | python3 | 2026-04-20 |
 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | 🟡 Medium | java | 2026-04-20 |
+| [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | 🟡 Medium | java | 2026-04-20 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | python3 | 2026-04-19 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
