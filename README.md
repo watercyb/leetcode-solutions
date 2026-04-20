@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 421
+- **Total Problems Solved:** 422
 - **Easy:** 104 🟢
-- **Medium:** 233 🟡
+- **Medium:** 234 🟡
 - **Hard:** 84 🔴
 
 ## 📝 Problems
@@ -201,6 +201,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1664. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | 🟡 Medium | java | 2026-04-19 |
 | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | 🟡 Medium | java | 2026-04-19 |
 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | 🟡 Medium | java | 2026-04-19 |
+| [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | 🟡 Medium | java | 2026-04-20 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
 | [1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | python3 | 2026-04-19 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
