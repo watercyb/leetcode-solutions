@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 432
-- **Easy:** 106 🟢
+- **Total Problems Solved:** 433
+- **Easy:** 107 🟢
 - **Medium:** 238 🟡
 - **Hard:** 88 🔴
 
@@ -76,6 +76,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | java | 2026-03-26 |
 | [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/) | 🟢 Easy | python3 | 2026-04-20 |
 | [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | 🟢 Easy | mysql | 2026-04-20 |
+| [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | 🟢 Easy | java | 2026-04-20 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
 | [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/?envType=daily-question&envId=2026-04-13) | 🟢 Easy | rust | 2026-04-13 |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 Easy | java | 2026-03-26 |
