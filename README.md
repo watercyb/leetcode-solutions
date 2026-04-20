@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 443
-- **Easy:** 113 🟢
+- **Total Problems Solved:** 444
+- **Easy:** 114 🟢
 - **Medium:** 240 🟡
 - **Hard:** 90 🔴
 
@@ -103,6 +103,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | 🟢 Easy | java | 2026-04-03 |
 | [3894. Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | 🟢 Easy | kotlin | 2026-04-14 |
 | [3898. Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 Easy | python3 | 2026-04-14 |
+| [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | 🟢 Easy | python3 | 2026-04-20 |
 | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | 🟢 Easy | java | 2026-04-03 |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | java | 2026-04-03 |
 | [476. Number Complement](https://leetcode.com/problems/number-complement/) | 🟢 Easy | java | 2026-04-03 |
