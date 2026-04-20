@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 439
-- **Easy:** 110 🟢
+- **Total Problems Solved:** 440
+- **Easy:** 111 🟢
 - **Medium:** 240 🟡
 - **Hard:** 89 🔴
 
@@ -80,6 +80,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | 🟢 Easy | java | 2026-04-20 |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | java | 2026-04-20 |
 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | 🟢 Easy | java | 2026-04-20 |
+| [1789. Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | 🟢 Easy | python3 | 2026-04-20 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
 | [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/?envType=daily-question&envId=2026-04-13) | 🟢 Easy | rust | 2026-04-13 |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 Easy | java | 2026-03-26 |
