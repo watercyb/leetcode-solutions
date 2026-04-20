@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 420
-- **Easy:** 103 🟢
+- **Total Problems Solved:** 421
+- **Easy:** 104 🟢
 - **Medium:** 233 🟡
 - **Hard:** 84 🔴
 
@@ -78,6 +78,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/?envType=daily-question&envId=2026-04-13) | 🟢 Easy | rust | 2026-04-13 |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 Easy | java | 2026-03-26 |
 | [193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | 🟢 Easy | bash | 2026-03-26 |
+| [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/?envType=daily-question&envId=2026-04-20) | 🟢 Easy | java | 2026-04-20 |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | java | 2026-03-31 |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | 🟢 Easy | java | 2026-03-31 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | java | 2026-03-25 |
