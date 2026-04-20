@@ -8,41 +8,45 @@
 
 public class Solution {
     public int[][] ColorGrid(int n, int m, int[][] sources) {
-        var pq = new PriorityQueue<int[], int[]>(Comparer<int[]>.Create((x, y) => x[0]==y[0]?y[1]-x[1]:x[0]-y[0]));
         var res= new int[n][];
+        var stps= new int[n][];
         for (int i=0;i<n;i++) {
             res[i]=new int[m];
+            stps[i]=new int[m];
+            Array.Fill(stps[i], n*m);
         }
+        var qu=new Queue<int[]>();
         foreach (int[] source in sources) {
-            var arr=new int[] {0,source[2],source[0],source[1]};
-            pq.Enqueue(arr, arr);
+            qu.Enqueue(source);
             res[source[0]][source[1]]=source[2];
+            stps[source[0]][source[1]]=0;
         }
-        while (pq.Count!=0) {
-            var current=pq.Dequeue();
-            var stp=current[0]+1;
-            var color=current[1];
-            var x=current[2];
-            var y=current[3];
-            if (x>0&&res[x-1][y]==0) {
+        while (qu.Count!=0) {
+            var current=qu.Dequeue();
+            var color=current[2];
+            var x=current[0];
+            var y=current[1];
+            var stp=stps[x][y]+1;
+            if (res[x][y]!=color) continue;
+            if (x>0&&(stps[x-1][y]>stp||(stps[x-1][y]==stp&&res[x-1][y]<color))) {
                 res[x-1][y]=color;
-                var arr=new int[] {stp,color,x-1,y};
-                pq.Enqueue(arr, arr);
+                stps[x-1][y]=stp;
+                qu.Enqueue(new int[] {x-1,y,color});
             }
-            if (x<n-1&&res[x+1][y]==0) {
+            if (x<n-1&&(stps[x+1][y]>stp||(stps[x+1][y]==stp&&res[x+1][y]<color))) {
                 res[x+1][y]=color;
-                var arr=new int[] {stp,color,x+1,y};
-                pq.Enqueue(arr, arr);
+                stps[x+1][y]=stp;
+                qu.Enqueue(new int[] {x+1,y,color});
             }
-            if (y>0&&res[x][y-1]==0) {
+            if (y>0&&(stps[x][y-1]>stp||(stps[x][y-1]==stp&&res[x][y-1]<color))) {
                 res[x][y-1]=color;
-                var arr=new int[] {stp,color,x,y-1};
-                pq.Enqueue(arr, arr);
+                stps[x][y-1]=stp;
+                qu.Enqueue(new int[] {x,y-1,color});
             }
-            if (y<m-1&&res[x][y+1]==0) {
+            if (y<m-1&&(stps[x][y+1]>stp||(stps[x][y+1]==stp&&res[x][y+1]<color))) {
                 res[x][y+1]=color;
-                var arr=new int[] {stp,color,x,y+1};
-                pq.Enqueue(arr, arr);
+                stps[x][y+1]=stp;
+                qu.Enqueue(new int[] {x,y+1,color});
             }
         }
         return res;
