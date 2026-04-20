@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 445
+- **Total Problems Solved:** 446
 - **Easy:** 114 🟢
-- **Medium:** 241 🟡
+- **Medium:** 242 🟡
 - **Hard:** 90 🔴
 
 ## 📝 Problems
@@ -302,6 +302,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3900. Longest Balanced Substring After One Swap](https://leetcode.com/problems/longest-balanced-substring-after-one-swap/) | 🟡 Medium | rust | 2026-04-15 |
 | [3902. Zigzag Level Sum of Binary Tree](https://leetcode.com/problems/zigzag-level-sum-of-binary-tree/) | 🟡 Medium | java | 2026-04-15 |
 | [3904. Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | 🟡 Medium | javascript | 2026-04-20 |
+| [3905. Multi Source Flood Fill](https://leetcode.com/problems/multi-source-flood-fill/) | 🟡 Medium | csharp | 2026-04-20 |
 | [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 🟡 Medium | java | 2026-04-03 |
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | java | 2026-03-25 |
