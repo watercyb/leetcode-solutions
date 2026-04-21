@@ -1,9 +1,9 @@
 #
 # Problem: 1855. Maximum Distance Between a Pair of Values
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19
+# Link: https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 # Language: python3
-# Date: 2026-04-19
+# Date: 2026-04-21
 
 
 class Solution:
