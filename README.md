@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 452
-- **Easy:** 115 🟢
+- **Total Problems Solved:** 453
+- **Easy:** 116 🟢
 - **Medium:** 247 🟡
 - **Hard:** 90 🔴
 
@@ -85,6 +85,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | 🟢 Easy | mysql | 2026-04-20 |
 | [1821. Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/) | 🟢 Easy | mysql | 2026-04-21 |
 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | python3 | 2026-03-26 |
+| [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | 🟢 Easy | java | 2026-04-21 |
 | [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/?envType=daily-question&envId=2026-04-13) | 🟢 Easy | rust | 2026-04-13 |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 Easy | java | 2026-03-26 |
 | [193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | 🟢 Easy | bash | 2026-03-26 |
