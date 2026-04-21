@@ -1,9 +1,9 @@
 #
 # Problem: 1722. Minimize Hamming Distance After Swap Operations
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
+# Link: https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/?envType=daily-question&envId=2026-04-21
 # Language: python3
-# Date: 2026-04-20
+# Date: 2026-04-21
 
 
 class Solution:
