@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 446
+- **Total Problems Solved:** 447
 - **Easy:** 114 🟢
-- **Medium:** 242 🟡
+- **Medium:** 243 🟡
 - **Hard:** 90 🔴
 
 ## 📝 Problems
@@ -214,6 +214,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | 🟡 Medium | java | 2026-04-20 |
 | [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | 🟡 Medium | python3 | 2026-04-20 |
 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | 🟡 Medium | java | 2026-04-20 |
+| [1722. Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/?envType=daily-question&envId=2026-04-21) | 🟡 Medium | python3 | 2026-04-21 |
 | [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | 🟡 Medium | java | 2026-04-20 |
 | [1743. Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | 🟡 Medium | java | 2026-04-20 |
 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | mysql | 2026-03-26 |
