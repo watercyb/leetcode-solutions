@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 451
+- **Total Problems Solved:** 452
 - **Easy:** 115 🟢
-- **Medium:** 246 🟡
+- **Medium:** 247 🟡
 - **Hard:** 90 🔴
 
 ## 📝 Problems
@@ -224,6 +224,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1801. Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | 🟡 Medium | java | 2026-04-21 |
 | [1811. Find Interview Candidates](https://leetcode.com/problems/find-interview-candidates/) | 🟡 Medium | python3 | 2026-04-21 |
 | [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | 🟡 Medium | python3 | 2026-04-21 |
+| [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | 🟡 Medium | python3 | 2026-04-21 |
 | [1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | python3 | 2026-04-19 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | java | 2026-03-26 |
