@@ -1,9 +1,9 @@
 /*
  * Problem: 281. Zigzag Iterator
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/zigzag-iterator/
+ * Link: https://leetcode.com/problems/zigzag-iterator/?envType=weekly-question&envId=2026-04-22
  * Language: java
- * Date: 2026-03-31
+ * Date: 2026-04-22
  */
 
 public class ZigzagIterator {
