@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 483
+- **Total Problems Solved:** 484
 - **Easy:** 123 🟢
 - **Medium:** 264 🟡
-- **Hard:** 96 🔴
+- **Hard:** 97 🔴
 
 ## 📝 Problems
 
@@ -434,6 +434,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | 🔴 Hard | java | 2026-04-22 |
 | [1938. Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/) | 🔴 Hard | java | 2026-04-22 |
 | [1948. Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | 🔴 Hard | java | 2026-04-22 |
+| [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | 🔴 Hard | java | 2026-04-22 |
 | [24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | java | 2026-04-06 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
