@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 487
+- **Total Problems Solved:** 488
 - **Easy:** 123 🟢
-- **Medium:** 265 🟡
+- **Medium:** 266 🟡
 - **Hard:** 99 🔴
 
 ## 📝 Problems
@@ -250,6 +250,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1954. Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | 🟡 Medium | rust | 2026-04-22 |
 | [1958. Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | 🟡 Medium | python3 | 2026-04-22 |
 | [1981. Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/) | 🟡 Medium | java | 2026-04-22 |
+| [1988. Find Cutoff Score for Each School](https://leetcode.com/problems/find-cutoff-score-for-each-school/) | 🟡 Medium | mysql | 2026-04-22 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | java | 2026-03-26 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | java | 2026-03-25 |
 | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | 🟡 Medium | java | 2026-03-26 |
