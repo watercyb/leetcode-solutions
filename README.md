@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 473
-- **Easy:** 120 🟢
+- **Total Problems Solved:** 474
+- **Easy:** 121 🟢
 - **Medium:** 259 🟡
 - **Hard:** 94 🔴
 
@@ -92,6 +92,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | 🟢 Easy | java | 2026-04-21 |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 Easy | java | 2026-03-26 |
 | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | 🟢 Easy | java | 2026-04-22 |
+| [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 Easy | java | 2026-04-22 |
 | [193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | 🟢 Easy | bash | 2026-03-26 |
 | [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/?envType=daily-question&envId=2026-04-20) | 🟢 Easy | java | 2026-04-20 |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | java | 2026-03-31 |
