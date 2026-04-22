@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 491
+- **Total Problems Solved:** 492
 - **Easy:** 123 🟢
-- **Medium:** 268 🟡
+- **Medium:** 269 🟡
 - **Hard:** 100 🔴
 
 ## 📝 Problems
@@ -255,6 +255,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1990. Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/) | 🟡 Medium | python3 | 2026-04-22 |
 | [1999. Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/) | 🟡 Medium | python3 | 2026-04-22 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | java | 2026-03-25 |
+| [2001. Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | 🟡 Medium | python3 | 2026-04-22 |
 | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | 🟡 Medium | java | 2026-03-26 |
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | java | 2026-03-26 |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium | java | 2026-03-27 |
