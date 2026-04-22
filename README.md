@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 470
+- **Total Problems Solved:** 471
 - **Easy:** 119 🟢
-- **Medium:** 258 🟡
+- **Medium:** 259 🟡
 - **Hard:** 93 🔴
 
 ## 📝 Problems
@@ -239,6 +239,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1881. Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | 🟡 Medium | java | 2026-04-21 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | java | 2026-03-25 |
 | [1901. Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | 🟡 Medium | java | 2026-04-22 |
+| [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | 🟡 Medium | java | 2026-04-22 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | java | 2026-03-26 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | java | 2026-03-25 |
 | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | 🟡 Medium | java | 2026-03-26 |
