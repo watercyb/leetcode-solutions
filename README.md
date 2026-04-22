@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 467
+- **Total Problems Solved:** 468
 - **Easy:** 119 🟢
-- **Medium:** 255 🟡
+- **Medium:** 256 🟡
 - **Hard:** 93 🔴
 
 ## 📝 Problems
@@ -262,6 +262,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/?envType=problem-list-v2&envId=array) | 🟡 Medium | python3 | 2026-03-31 |
 | [2789. Largest Element in an Array after Merge Operations](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/?envType=problem-list-v2&envId=greedy) | 🟡 Medium | rust | 2026-03-27 |
 | [2808. Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | rust | 2026-03-30 |
+| [281. Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/?envType=weekly-question&envId=2026-04-22) | 🟡 Medium | java | 2026-04-22 |
 | [2834. Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/?envType=problem-list-v2&envId=math) | 🟡 Medium | java | 2026-03-30 |
 | [2847. Smallest Number With Given Digit Product](https://leetcode.com/problems/smallest-number-with-given-digit-product/?envType=problem-list-v2&envId=math) | 🟡 Medium | rust | 2026-04-02 |
 | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | 🟡 Medium | java | 2026-03-31 |
