@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 510
+- **Total Problems Solved:** 511
 - **Easy:** 127 🟢
-- **Medium:** 277 🟡
+- **Medium:** 278 🟡
 - **Hard:** 106 🔴
 
 ## 📝 Problems
@@ -270,6 +270,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | 🟡 Medium | java | 2026-04-23 |
 | [2066. Account Balance](https://leetcode.com/problems/account-balance/) | 🟡 Medium | python3 | 2026-04-23 |
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | java | 2026-03-26 |
+| [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | 🟡 Medium | java | 2026-04-23 |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium | java | 2026-03-27 |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | java | 2026-03-27 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | java | 2026-03-28 |
