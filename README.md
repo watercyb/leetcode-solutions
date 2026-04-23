@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 496
+- **Total Problems Solved:** 497
 - **Easy:** 123 🟢
-- **Medium:** 270 🟡
+- **Medium:** 271 🟡
 - **Hard:** 103 🔴
 
 ## 📝 Problems
@@ -258,6 +258,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2001. Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | 🟡 Medium | python3 | 2026-04-22 |
 | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | 🟡 Medium | java | 2026-03-26 |
 | [2013. Detect Squares](https://leetcode.com/problems/detect-squares/) | 🟡 Medium | java | 2026-04-23 |
+| [2020. Number of Accounts That Did Not Stream](https://leetcode.com/problems/number-of-accounts-that-did-not-stream/) | 🟡 Medium | python3 | 2026-04-23 |
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | java | 2026-03-26 |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium | java | 2026-03-27 |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | java | 2026-03-27 |
