@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 497
-- **Easy:** 123 🟢
+- **Total Problems Solved:** 498
+- **Easy:** 124 🟢
 - **Medium:** 271 🟡
 - **Hard:** 103 🔴
 
@@ -96,6 +96,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | 🟢 Easy | bash | 2026-03-26 |
 | [1933. Check if String Is Decomposable Into Value-Equal Substrings](https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/) | 🟢 Easy | rust | 2026-04-22 |
 | [1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | 🟢 Easy | mysql | 2026-04-22 |
+| [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | 🟢 Easy | java | 2026-04-23 |
 | [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/?envType=daily-question&envId=2026-04-20) | 🟢 Easy | java | 2026-04-20 |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | java | 2026-03-31 |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | 🟢 Easy | java | 2026-03-31 |
