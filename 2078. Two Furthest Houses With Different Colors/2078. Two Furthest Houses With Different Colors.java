@@ -1,9 +1,9 @@
 /*
  * Problem: 2078. Two Furthest Houses With Different Colors
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/two-furthest-houses-with-different-colors/?envType=daily-question&envId=2026-04-20
+ * Link: https://leetcode.com/problems/two-furthest-houses-with-different-colors/
  * Language: java
- * Date: 2026-04-20
+ * Date: 2026-04-23
  */
 
 class Solution {
