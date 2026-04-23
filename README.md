@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 511
-- **Easy:** 127 🟢
+- **Total Problems Solved:** 512
+- **Easy:** 128 🟢
 - **Medium:** 278 🟡
 - **Hard:** 106 🔴
 
@@ -100,6 +100,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2026. Low-Quality Problems](https://leetcode.com/problems/low-quality-problems/) | 🟢 Easy | mysql | 2026-04-23 |
 | [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | 🟢 Easy | java | 2026-04-23 |
 | [2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | 🟢 Easy | java | 2026-04-23 |
+| [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | 🟢 Easy | java | 2026-04-23 |
 | [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/?envType=daily-question&envId=2026-04-20) | 🟢 Easy | java | 2026-04-20 |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | java | 2026-03-31 |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | 🟢 Easy | java | 2026-03-31 |
