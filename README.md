@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 513
+- **Total Problems Solved:** 514
 - **Easy:** 128 🟢
-- **Medium:** 279 🟡
+- **Medium:** 280 🟡
 - **Hard:** 106 🔴
 
 ## 📝 Problems
@@ -273,6 +273,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | java | 2026-03-26 |
 | [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | 🟡 Medium | java | 2026-04-23 |
 | [2079. Watering Plants](https://leetcode.com/problems/watering-plants/) | 🟡 Medium | java | 2026-04-23 |
+| [2086. Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | 🟡 Medium | java | 2026-04-23 |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium | java | 2026-03-27 |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | java | 2026-03-27 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | java | 2026-03-28 |
