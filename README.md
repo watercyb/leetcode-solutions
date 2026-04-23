@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 502
+- **Total Problems Solved:** 503
 - **Easy:** 125 🟢
-- **Medium:** 274 🟡
+- **Medium:** 275 🟡
 - **Hard:** 103 🔴
 
 ## 📝 Problems
@@ -264,6 +264,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | 🟡 Medium | python3 | 2026-04-23 |
 | [2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | 🟡 Medium | java | 2026-04-23 |
 | [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | 🟡 Medium | java | 2026-04-23 |
+| [2039. The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | 🟡 Medium | python3 | 2026-04-23 |
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | java | 2026-03-26 |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium | java | 2026-03-27 |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | java | 2026-03-27 |
