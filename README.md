@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 531
-- **Easy:** 133 🟢
+- **Total Problems Solved:** 532
+- **Easy:** 134 🟢
 - **Medium:** 289 🟡
 - **Hard:** 109 🔴
 
@@ -107,6 +107,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2133. Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) | 🟢 Easy | java | 2026-04-24 |
 | [2138. Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | 🟢 Easy | java | 2026-04-24 |
 | [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | 🟢 Easy | java | 2026-04-24 |
+| [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | 🟢 Easy | java | 2026-04-24 |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | java | 2026-03-31 |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | 🟢 Easy | java | 2026-03-31 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | java | 2026-03-25 |
