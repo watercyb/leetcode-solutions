@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 533
+- **Total Problems Solved:** 534
 - **Easy:** 134 🟢
 - **Medium:** 290 🟡
-- **Hard:** 109 🔴
+- **Hard:** 110 🔴
 
 ## 📝 Problems
 
@@ -484,6 +484,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2111. Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | 🔴 Hard | java | 2026-04-24 |
 | [2147. Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | 🔴 Hard | java | 2026-04-24 |
 | [2151. Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | 🔴 Hard | java | 2026-04-24 |
+| [2172. Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/) | 🔴 Hard | java | 2026-04-24 |
 | [24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | java | 2026-04-06 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
