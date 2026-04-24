@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 536
+- **Total Problems Solved:** 537
 - **Easy:** 134 🟢
-- **Medium:** 292 🟡
+- **Medium:** 293 🟡
 - **Hard:** 110 🔴
 
 ## 📝 Problems
@@ -293,6 +293,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2166. Design Bitset](https://leetcode.com/problems/design-bitset/) | 🟡 Medium | java | 2026-04-24 |
 | [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | 🟡 Medium | java | 2026-04-24 |
 | [2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | 🟡 Medium | python3 | 2026-04-24 |
+| [2189. Number of Ways to Build House of Cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/) | 🟡 Medium | rust | 2026-04-24 |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | java | 2026-03-27 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | java | 2026-03-28 |
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 🟡 Medium | java | 2026-03-28 |
