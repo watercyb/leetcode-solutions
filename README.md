@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 554
-- **Easy:** 139 🟢
+- **Total Problems Solved:** 555
+- **Easy:** 140 🟢
 - **Medium:** 299 🟡
 - **Hard:** 116 🔴
 
@@ -113,6 +113,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | 🟢 Easy | java | 2026-04-25 |
 | [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | 🟢 Easy | java | 2026-04-25 |
 | [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | 🟢 Easy | java | 2026-04-25 |
+| [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | 🟢 Easy | java | 2026-04-25 |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | java | 2026-03-31 |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | 🟢 Easy | java | 2026-03-31 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | java | 2026-03-25 |
