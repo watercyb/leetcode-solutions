@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 551
+- **Total Problems Solved:** 552
 - **Easy:** 139 🟢
 - **Medium:** 297 🟡
-- **Hard:** 115 🔴
+- **Hard:** 116 🔴
 
 ## 📝 Problems
 
@@ -502,6 +502,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2213. Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | 🔴 Hard | java | 2026-04-25 |
 | [2227. Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | 🔴 Hard | java | 2026-04-25 |
 | [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | 🔴 Hard | java | 2026-04-25 |
+| [2252. Dynamic Pivoting of a Table](https://leetcode.com/problems/dynamic-pivoting-of-a-table/) | 🔴 Hard | python3 | 2026-04-25 |
 | [24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | java | 2026-04-06 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
