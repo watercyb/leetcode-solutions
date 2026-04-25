@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/count-artifacts-that-can-be-extracted/
  * Language: java
- * Date: 2026-04-24
+ * Date: 2026-04-25
  */
 
 class Solution {
