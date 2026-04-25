@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 552
+- **Total Problems Solved:** 553
 - **Easy:** 139 🟢
-- **Medium:** 297 🟡
+- **Medium:** 298 🟡
 - **Hard:** 116 🔴
 
 ## 📝 Problems
@@ -303,6 +303,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2201. Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | 🟡 Medium | java | 2026-04-24 |
 | [2202. Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | 🟡 Medium | java | 2026-04-25 |
 | [2217. Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/) | 🟡 Medium | python3 | 2026-04-25 |
+| [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | 🟡 Medium | rust | 2026-04-25 |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | java | 2026-03-27 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | java | 2026-03-28 |
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 🟡 Medium | java | 2026-03-28 |
