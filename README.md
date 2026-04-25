@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 543
+- **Total Problems Solved:** 544
 - **Easy:** 135 🟢
 - **Medium:** 296 🟡
-- **Hard:** 112 🔴
+- **Hard:** 113 🔴
 
 ## 📝 Problems
 
@@ -494,6 +494,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2172. Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/) | 🔴 Hard | java | 2026-04-24 |
 | [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | 🔴 Hard | java | 2026-04-24 |
 | [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | 🔴 Hard | java | 2026-04-25 |
+| [2213. Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | 🔴 Hard | java | 2026-04-25 |
 | [24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | java | 2026-04-06 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
