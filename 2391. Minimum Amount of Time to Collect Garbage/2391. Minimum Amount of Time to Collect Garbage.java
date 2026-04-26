@@ -8,6 +8,22 @@
 
 class Solution {
     public int garbageCollection(String[] garbage, int[] travel) {
-        
+        String[] types = { "G", "M", "P" };
+        int res = 0;
+        for (int in:travel) {
+            res+=in;
+        }
+        res*=3;
+        for (String str:garbage) {
+            res+=str.length();
+        }
+        for (String type : types) {
+            int i=garbage.length-1;
+            while (i > 0 && !garbage[i].contains(type)) {
+                res -= travel[i-1];
+                i--;
+            }
+        }
+        return res;
     }
 }
