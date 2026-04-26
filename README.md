@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 577
+- **Total Problems Solved:** 578
 - **Easy:** 145 🟢
 - **Medium:** 312 🟡
-- **Hard:** 120 🔴
+- **Hard:** 121 🔴
 
 ## 📝 Problems
 
@@ -528,6 +528,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2307. Check for Contradictions in Equations](https://leetcode.com/problems/check-for-contradictions-in-equations/) | 🔴 Hard | java | 2026-04-26 |
 | [2322. Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | 🔴 Hard | java | 2026-04-26 |
 | [2361. Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/) | 🔴 Hard | java | 2026-04-26 |
+| [2376. Count Special Integers](https://leetcode.com/problems/count-special-integers/) | 🔴 Hard | java | 2026-04-26 |
 | [24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | java | 2026-04-06 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
