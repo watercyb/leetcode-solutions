@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 580
+- **Total Problems Solved:** 581
 - **Easy:** 145 🟢
-- **Medium:** 314 🟡
+- **Medium:** 315 🟡
 - **Hard:** 121 🔴
 
 ## 📝 Problems
@@ -328,6 +328,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2372. Calculate the Influence of Each Salesperson](https://leetcode.com/problems/calculate-the-influence-of-each-salesperson/) | 🟡 Medium | python3 | 2026-04-26 |
 | [2378. Choose Edges to Maximize Score in a Tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/) | 🟡 Medium | python3 | 2026-04-26 |
 | [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | 🟡 Medium | java | 2026-04-26 |
+| [2391. Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | 🟡 Medium | java | 2026-04-26 |
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 🟡 Medium | java | 2026-03-28 |
 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | 🟡 Medium | java | 2026-03-28 |
 | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/?envType=daily-question&envId=2026-04-22) | 🟡 Medium | java | 2026-04-22 |
