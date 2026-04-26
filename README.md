@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 573
+- **Total Problems Solved:** 574
 - **Easy:** 144 🟢
-- **Medium:** 310 🟡
+- **Medium:** 311 🟡
 - **Hard:** 119 🔴
 
 ## 📝 Problems
@@ -322,6 +322,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2340. Minimum Adjacent Swaps to Make a Valid Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/) | 🟡 Medium | java | 2026-04-26 |
 | [2345. Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/) | 🟡 Medium | java | 2026-04-26 |
 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | 🟡 Medium | java | 2026-04-26 |
+| [2358. Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/) | 🟡 Medium | python3 | 2026-04-26 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | java | 2026-03-28 |
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 🟡 Medium | java | 2026-03-28 |
 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | 🟡 Medium | java | 2026-03-28 |
