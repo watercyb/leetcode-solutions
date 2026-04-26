@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 568
+- **Total Problems Solved:** 569
 - **Easy:** 144 🟢
-- **Medium:** 305 🟡
+- **Medium:** 306 🟡
 - **Hard:** 119 🔴
 
 ## 📝 Problems
@@ -317,6 +317,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | java | 2026-03-27 |
 | [2308. Arrange Table by Gender](https://leetcode.com/problems/arrange-table-by-gender/) | 🟡 Medium | mysql | 2026-04-26 |
 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | 🟡 Medium | java | 2026-04-26 |
+| [2330. Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/) | 🟡 Medium | java | 2026-04-26 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | java | 2026-03-28 |
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 🟡 Medium | java | 2026-03-28 |
 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | 🟡 Medium | java | 2026-03-28 |
