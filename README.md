@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 599
+- **Total Problems Solved:** 600
 - **Easy:** 147 🟢
-- **Medium:** 328 🟡
+- **Medium:** 329 🟡
 - **Hard:** 124 🔴
 
 ## 📝 Problems
@@ -348,6 +348,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | 🟡 Medium | java | 2026-04-27 |
 | [2489. Number of Substrings With Fixed Ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/) | 🟡 Medium | python3 | 2026-04-27 |
 | [2495. Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/?envType=problem-list-v2&envId=math) | 🟡 Medium | python3 | 2026-03-25 |
+| [2495. Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/) | 🟡 Medium | python3 | 2026-04-27 |
 | [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | 🟡 Medium | java | 2026-03-31 |
 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | python3 | 2026-03-25 |
 | [2548. Maximum Price to Fill a Bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag/?envType=problem-list-v2&envId=array) | 🟡 Medium | rust | 2026-03-25 |
