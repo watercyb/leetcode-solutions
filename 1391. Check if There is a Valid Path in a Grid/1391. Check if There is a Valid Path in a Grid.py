@@ -1,9 +1,9 @@
 #
 # Problem: 1391. Check if There is a Valid Path in a Grid
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
+# Link: https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/?envType=daily-question&envId=2026-04-27
 # Language: python3
-# Date: 2026-04-16
+# Date: 2026-04-27
 
 
 class Solution:
