@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 582
+- **Total Problems Solved:** 583
 - **Easy:** 145 🟢
-- **Medium:** 316 🟡
+- **Medium:** 317 🟡
 - **Hard:** 121 🔴
 
 ## 📝 Problems
@@ -207,6 +207,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | 🟡 Medium | java | 2026-04-16 |
 | [1375. Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | 🟡 Medium | java | 2026-04-16 |
 | [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | 🟡 Medium | python3 | 2026-04-16 |
+| [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/?envType=daily-question&envId=2026-04-27) | 🟡 Medium | python3 | 2026-04-27 |
 | [1393. Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | 🟡 Medium | mysql | 2026-04-16 |
 | [1401. Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | java | 2026-04-17 |
 | [1418. Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | 🟡 Medium | python3 | 2026-04-17 |
