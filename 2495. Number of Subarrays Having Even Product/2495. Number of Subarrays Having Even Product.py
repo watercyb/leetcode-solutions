@@ -1,9 +1,9 @@
 #
 # Problem: 2495. Number of Subarrays Having Even Product
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/number-of-subarrays-having-even-product/?envType=problem-list-v2&envId=math
+# Link: https://leetcode.com/problems/number-of-subarrays-having-even-product/
 # Language: python3
-# Date: 2026-03-25
+# Date: 2026-04-27
 
 
 class Solution:
