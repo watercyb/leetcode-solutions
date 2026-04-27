@@ -1,9 +1,9 @@
 /*
  * Problem: 2452. Words Within Two Edits of Dictionary
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/words-within-two-edits-of-dictionary/?envType=daily-question&envId=2026-04-22
+ * Link: https://leetcode.com/problems/words-within-two-edits-of-dictionary/
  * Language: java
- * Date: 2026-04-22
+ * Date: 2026-04-27
  */
 
 class Solution {
