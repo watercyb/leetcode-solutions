@@ -1,9 +1,9 @@
 /*
  * Problem: 2463. Minimum Total Distance Traveled
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14
+ * Link: https://leetcode.com/problems/minimum-total-distance-traveled/
  * Language: java
- * Date: 2026-04-14
+ * Date: 2026-04-27
  */
 
 class Solution {
