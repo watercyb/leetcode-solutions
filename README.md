@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 591
+- **Total Problems Solved:** 592
 - **Easy:** 145 🟢
-- **Medium:** 324 🟡
+- **Medium:** 325 🟡
 - **Hard:** 122 🔴
 
 ## 📝 Problems
@@ -341,6 +341,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | 🟡 Medium | java | 2026-04-27 |
 | [2442. Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | 🟡 Medium | python3 | 2026-04-27 |
 | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/?envType=daily-question&envId=2026-04-22) | 🟡 Medium | java | 2026-04-22 |
+| [2453. Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/) | 🟡 Medium | python3 | 2026-04-27 |
 | [2495. Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/?envType=problem-list-v2&envId=math) | 🟡 Medium | python3 | 2026-03-25 |
 | [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | 🟡 Medium | java | 2026-03-31 |
 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | python3 | 2026-03-25 |
