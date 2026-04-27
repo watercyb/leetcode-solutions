@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 590
+- **Total Problems Solved:** 591
 - **Easy:** 145 🟢
 - **Medium:** 324 🟡
-- **Hard:** 121 🔴
+- **Hard:** 122 🔴
 
 ## 📝 Problems
 
@@ -542,6 +542,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2361. Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/) | 🔴 Hard | java | 2026-04-26 |
 | [2376. Count Special Integers](https://leetcode.com/problems/count-special-integers/) | 🔴 Hard | java | 2026-04-26 |
 | [24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | java | 2026-04-06 |
+| [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | 🔴 Hard | java | 2026-04-27 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/?envType=daily-question&envId=2026-04-14) | 🔴 Hard | java | 2026-04-14 |
 | [2573. Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/?envType=daily-question&envId=2026-03-28) | 🔴 Hard | java | 2026-03-28 |
