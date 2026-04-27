@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 584
+- **Total Problems Solved:** 585
 - **Easy:** 145 🟢
-- **Medium:** 318 🟡
+- **Medium:** 319 🟡
 - **Hard:** 121 🔴
 
 ## 📝 Problems
@@ -334,6 +334,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 🟡 Medium | java | 2026-03-28 |
 | [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | 🟡 Medium | java | 2026-04-27 |
 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | 🟡 Medium | java | 2026-03-28 |
+| [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | 🟡 Medium | java | 2026-04-27 |
 | [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/?envType=daily-question&envId=2026-04-22) | 🟡 Medium | java | 2026-04-22 |
 | [2495. Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/?envType=problem-list-v2&envId=math) | 🟡 Medium | python3 | 2026-03-25 |
 | [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | 🟡 Medium | java | 2026-03-31 |
