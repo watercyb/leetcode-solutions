@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 597
+- **Total Problems Solved:** 598
 - **Easy:** 147 🟢
-- **Medium:** 327 🟡
+- **Medium:** 328 🟡
 - **Hard:** 123 🔴
 
 ## 📝 Problems
@@ -346,6 +346,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2453. Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/) | 🟡 Medium | python3 | 2026-04-27 |
 | [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | 🟡 Medium | java | 2026-04-27 |
 | [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | 🟡 Medium | java | 2026-04-27 |
+| [2489. Number of Substrings With Fixed Ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/) | 🟡 Medium | python3 | 2026-04-27 |
 | [2495. Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/?envType=problem-list-v2&envId=math) | 🟡 Medium | python3 | 2026-03-25 |
 | [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | 🟡 Medium | java | 2026-03-31 |
 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | python3 | 2026-03-25 |
