@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 596
-- **Easy:** 146 🟢
+- **Total Problems Solved:** 597
+- **Easy:** 147 🟢
 - **Medium:** 327 🟡
 - **Hard:** 123 🔴
 
@@ -120,6 +120,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/) | 🟢 Easy | java | 2026-04-26 |
 | [2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | 🟢 Easy | java | 2026-04-26 |
 | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | 🟢 Easy | java | 2026-04-27 |
+| [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | 🟢 Easy | java | 2026-04-27 |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | java | 2026-03-31 |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | 🟢 Easy | java | 2026-03-31 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | java | 2026-03-25 |
