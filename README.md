@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 606
+- **Total Problems Solved:** 607
 - **Easy:** 147 🟢
-- **Medium:** 335 🟡
+- **Medium:** 336 🟡
 - **Hard:** 124 🔴
 
 ## 📝 Problems
@@ -356,6 +356,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2512. Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) | 🟡 Medium | python3 | 2026-04-28 |
 | [2517. Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/) | 🟡 Medium | python3 | 2026-04-28 |
 | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | 🟡 Medium | java | 2026-04-28 |
+| [2527. Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | 🟡 Medium | python3 | 2026-04-28 |
 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | python3 | 2026-03-25 |
 | [2548. Maximum Price to Fill a Bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag/?envType=problem-list-v2&envId=array) | 🟡 Medium | rust | 2026-03-25 |
 | [256. Paint House](https://leetcode.com/problems/paint-house/) | 🟡 Medium | java | 2026-03-31 |
