@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/minimum-score-by-changing-two-elements/
  * Language: java
- * Date: 2026-03-25
+ * Date: 2026-04-28
  */
 
 class Solution {
