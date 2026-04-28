@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/find-the-divisibility-array-of-a-string/
  * Language: rust
- * Date: 2026-03-25
+ * Date: 2026-04-28
  */
 
 impl Solution {
