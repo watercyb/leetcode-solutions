@@ -3,7 +3,7 @@
 # Difficulty: Medium
 # Link: https://leetcode.com/problems/number-of-good-binary-strings/
 # Language: python3
-# Date: 2026-03-25
+# Date: 2026-04-28
 
 
 class Solution:
