@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 616
+- **Total Problems Solved:** 617
 - **Easy:** 147 🟢
-- **Medium:** 339 🟡
+- **Medium:** 340 🟡
 - **Hard:** 130 🔴
 
 ## 📝 Problems
@@ -365,6 +365,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2567. Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | 🟡 Medium | java | 2026-03-25 |
 | [2571. Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | 🟡 Medium | java | 2026-04-28 |
 | [2575. Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | 🟡 Medium | rust | 2026-03-25 |
+| [2576. Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/) | 🟡 Medium | python3 | 2026-04-28 |
 | [2712. Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/?envType=problem-list-v2&envId=string) | 🟡 Medium | python3 | 2026-03-26 |
 | [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | java | 2026-03-25 |
 | [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/?envType=problem-list-v2&envId=dynamic-programming) | 🟡 Medium | rust | 2026-03-26 |
