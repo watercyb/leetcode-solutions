@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 611
+- **Total Problems Solved:** 612
 - **Easy:** 147 🟢
-- **Medium:** 337 🟡
+- **Medium:** 338 🟡
 - **Hard:** 127 🔴
 
 ## 📝 Problems
@@ -360,6 +360,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | python3 | 2026-03-25 |
 | [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | 🟡 Medium | python3 | 2026-04-28 |
 | [2548. Maximum Price to Fill a Bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag/?envType=problem-list-v2&envId=array) | 🟡 Medium | rust | 2026-03-25 |
+| [2557. Maximum Number of Integers to Choose From a Range II](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/) | 🟡 Medium | java | 2026-04-28 |
 | [256. Paint House](https://leetcode.com/problems/paint-house/) | 🟡 Medium | java | 2026-03-31 |
 | [2567. Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | 🟡 Medium | java | 2026-03-25 |
 | [2575. Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | 🟡 Medium | rust | 2026-03-25 |
