@@ -1,9 +1,9 @@
 /*
  * Problem: 2548. Maximum Price to Fill a Bag
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-price-to-fill-a-bag/?envType=problem-list-v2&envId=array
+ * Link: https://leetcode.com/problems/maximum-price-to-fill-a-bag/
  * Language: rust
- * Date: 2026-03-25
+ * Date: 2026-04-28
  */
 
 impl Solution {
