@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 609
+- **Total Problems Solved:** 610
 - **Easy:** 147 🟢
-- **Medium:** 336 🟡
+- **Medium:** 337 🟡
 - **Hard:** 126 🔴
 
 ## 📝 Problems
@@ -358,6 +358,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | 🟡 Medium | java | 2026-04-28 |
 | [2527. Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | 🟡 Medium | python3 | 2026-04-28 |
 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | python3 | 2026-03-25 |
+| [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | 🟡 Medium | python3 | 2026-04-28 |
 | [2548. Maximum Price to Fill a Bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag/?envType=problem-list-v2&envId=array) | 🟡 Medium | rust | 2026-03-25 |
 | [256. Paint House](https://leetcode.com/problems/paint-house/) | 🟡 Medium | java | 2026-03-31 |
 | [2567. Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | 🟡 Medium | java | 2026-03-25 |
