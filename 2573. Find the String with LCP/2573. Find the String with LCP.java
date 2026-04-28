@@ -1,9 +1,9 @@
 /*
  * Problem: 2573. Find the String with LCP
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/find-the-string-with-lcp/?envType=daily-question&envId=2026-03-28
+ * Link: https://leetcode.com/problems/find-the-string-with-lcp/
  * Language: java
- * Date: 2026-03-28
+ * Date: 2026-04-28
  */
 
 class Solution {
