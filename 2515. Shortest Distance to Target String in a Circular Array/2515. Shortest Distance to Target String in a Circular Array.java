@@ -1,9 +1,9 @@
 /*
  * Problem: 2515. Shortest Distance to Target String in a Circular Array
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/?envType=daily-question&envId=2026-04-15
+ * Link: https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
  * Language: java
- * Date: 2026-04-15
+ * Date: 2026-04-28
  */
 
 class Solution {
