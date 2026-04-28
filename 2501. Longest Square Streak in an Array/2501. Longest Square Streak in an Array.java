@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/longest-square-streak-in-an-array/
  * Language: java
- * Date: 2026-04-27
+ * Date: 2026-04-28
  */
 
 class Solution {
