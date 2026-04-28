@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 618
+- **Total Problems Solved:** 619
 - **Easy:** 147 🟢
 - **Medium:** 341 🟡
-- **Hard:** 130 🔴
+- **Hard:** 131 🔴
 
 ## 📝 Problems
 
@@ -573,6 +573,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2565. Subsequence With the Minimum Score](https://leetcode.com/problems/subsequence-with-the-minimum-score/) | 🔴 Hard | java | 2026-04-28 |
 | [2569. Handling Sum Queries After Update](https://leetcode.com/problems/handling-sum-queries-after-update/) | 🔴 Hard | java | 2026-04-28 |
 | [2573. Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/?envType=daily-question&envId=2026-03-28) | 🔴 Hard | java | 2026-03-28 |
+| [2585. Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | 🔴 Hard | java | 2026-04-28 |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | java | 2026-03-31 |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | 🔴 Hard | java | 2026-03-31 |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | 🔴 Hard | java | 2026-04-01 |
