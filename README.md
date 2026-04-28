@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 622
+- **Total Problems Solved:** 623
 - **Easy:** 147 🟢
 - **Medium:** 343 🟡
-- **Hard:** 132 🔴
+- **Hard:** 133 🔴
 
 ## 📝 Problems
 
@@ -606,6 +606,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3892. Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | 🔴 Hard | java | 2026-04-06 |
 | [3901. Good Subsequence Queries](https://leetcode.com/problems/good-subsequence-queries/) | 🔴 Hard | java | 2026-04-13 |
 | [3906. Count Good Integers on a Grid Path](https://leetcode.com/problems/count-good-integers-on-a-grid-path/) | 🔴 Hard | java | 2026-04-20 |
+| [3910. Count Connected Subgraphs with Even Node Sum](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | 🔴 Hard | java | 2026-04-28 |
 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | java | 2026-04-03 |
 | [483. Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | 🔴 Hard | java | 2026-04-03 |
 | [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) | 🔴 Hard | java | 2026-04-03 |
