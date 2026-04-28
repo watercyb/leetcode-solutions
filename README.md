@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 602
+- **Total Problems Solved:** 603
 - **Easy:** 147 🟢
-- **Medium:** 331 🟡
+- **Medium:** 332 🟡
 - **Hard:** 124 🔴
 
 ## 📝 Problems
@@ -351,6 +351,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2495. Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/) | 🟡 Medium | python3 | 2026-04-27 |
 | [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | 🟡 Medium | java | 2026-04-27 |
 | [2502. Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | 🟡 Medium | java | 2026-04-28 |
+| [2507. Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | 🟡 Medium | java | 2026-04-28 |
 | [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | 🟡 Medium | java | 2026-03-31 |
 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | python3 | 2026-03-25 |
 | [2548. Maximum Price to Fill a Bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag/?envType=problem-list-v2&envId=array) | 🟡 Medium | rust | 2026-03-25 |
