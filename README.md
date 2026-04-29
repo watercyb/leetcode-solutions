@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 639
+- **Total Problems Solved:** 640
 - **Easy:** 149 🟢
-- **Medium:** 352 🟡
+- **Medium:** 353 🟡
 - **Hard:** 138 🔴
 
 ## 📝 Problems
@@ -378,6 +378,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2649. Nested Array Generator](https://leetcode.com/problems/nested-array-generator/) | 🟡 Medium | javascript | 2026-04-29 |
 | [2653. Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) | 🟡 Medium | python3 | 2026-04-29 |
 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | java | 2026-04-29 |
+| [2662. Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) | 🟡 Medium | java | 2026-04-29 |
 | [2712. Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/?envType=problem-list-v2&envId=string) | 🟡 Medium | python3 | 2026-03-26 |
 | [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | java | 2026-03-25 |
 | [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/?envType=problem-list-v2&envId=dynamic-programming) | 🟡 Medium | rust | 2026-03-26 |
