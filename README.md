@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 627
+- **Total Problems Solved:** 628
 - **Easy:** 147 🟢
-- **Medium:** 344 🟡
+- **Medium:** 345 🟡
 - **Hard:** 136 🔴
 
 ## 📝 Problems
@@ -438,6 +438,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3905. Multi Source Flood Fill](https://leetcode.com/problems/multi-source-flood-fill/) | 🟡 Medium | csharp | 2026-04-20 |
 | [3907. Count Smaller Elements With Opposite Parity](https://leetcode.com/problems/count-smaller-elements-with-opposite-parity/) | 🟡 Medium | csharp | 2026-04-22 |
 | [3913. Sort Vowels by Frequency](https://leetcode.com/problems/sort-vowels-by-frequency/) | 🟡 Medium | python3 | 2026-04-29 |
+| [3914. Minimum Operations to Make Array Non Decreasing](https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing/) | 🟡 Medium | javascript | 2026-04-29 |
 | [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 🟡 Medium | java | 2026-04-03 |
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-03-25 |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | java | 2026-03-25 |
