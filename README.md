@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 636
+- **Total Problems Solved:** 637
 - **Easy:** 149 🟢
-- **Medium:** 349 🟡
+- **Medium:** 350 🟡
 - **Hard:** 138 🔴
 
 ## 📝 Problems
@@ -375,6 +375,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | 🟡 Medium | python3 | 2026-04-29 |
 | [2636. Promise Pool](https://leetcode.com/problems/promise-pool/) | 🟡 Medium | javascript | 2026-04-29 |
 | [2637. Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | 🟡 Medium | javascript | 2026-04-29 |
+| [2649. Nested Array Generator](https://leetcode.com/problems/nested-array-generator/) | 🟡 Medium | javascript | 2026-04-29 |
 | [2712. Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/?envType=problem-list-v2&envId=string) | 🟡 Medium | python3 | 2026-03-26 |
 | [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | java | 2026-03-25 |
 | [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/?envType=problem-list-v2&envId=dynamic-programming) | 🟡 Medium | rust | 2026-03-26 |
