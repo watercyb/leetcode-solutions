@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 629
+- **Total Problems Solved:** 630
 - **Easy:** 147 🟢
-- **Medium:** 346 🟡
+- **Medium:** 347 🟡
 - **Hard:** 136 🔴
 
 ## 📝 Problems
@@ -370,6 +370,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2599. Make the Prefix Sum Non-negative](https://leetcode.com/problems/make-the-prefix-sum-non-negative/) | 🟡 Medium | java | 2026-04-28 |
 | [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | 🟡 Medium | java | 2026-04-28 |
 | [2602. Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/) | 🟡 Medium | java | 2026-04-29 |
+| [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | 🟡 Medium | python3 | 2026-04-29 |
 | [2712. Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/?envType=problem-list-v2&envId=string) | 🟡 Medium | python3 | 2026-03-26 |
 | [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | java | 2026-03-25 |
 | [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/?envType=problem-list-v2&envId=dynamic-programming) | 🟡 Medium | rust | 2026-03-26 |
