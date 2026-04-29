@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 642
+- **Total Problems Solved:** 643
 - **Easy:** 149 🟢
-- **Medium:** 355 🟡
+- **Medium:** 356 🟡
 - **Hard:** 138 🔴
 
 ## 📝 Problems
@@ -381,6 +381,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2662. Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) | 🟡 Medium | java | 2026-04-29 |
 | [2671. Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | 🟡 Medium | java | 2026-04-29 |
 | [2679. Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | 🟡 Medium | java | 2026-04-29 |
+| [2680. Maximum OR](https://leetcode.com/problems/maximum-or/) | 🟡 Medium | python3 | 2026-04-29 |
 | [2712. Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/?envType=problem-list-v2&envId=string) | 🟡 Medium | python3 | 2026-03-26 |
 | [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | java | 2026-03-25 |
 | [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/?envType=problem-list-v2&envId=dynamic-programming) | 🟡 Medium | rust | 2026-03-26 |
