@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/prime-subtraction-operation/
  * Language: java
- * Date: 2026-04-28
+ * Date: 2026-04-29
  */
 
 class Solution {
