@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 635
-- **Easy:** 148 🟢
+- **Total Problems Solved:** 636
+- **Easy:** 149 🟢
 - **Medium:** 349 🟡
 - **Hard:** 138 🔴
 
@@ -123,6 +123,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | 🟢 Easy | java | 2026-04-27 |
 | [2629. Function Composition](https://leetcode.com/problems/function-composition/) | 🟢 Easy | javascript | 2026-04-29 |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | java | 2026-03-31 |
+| [2643. Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | 🟢 Easy | java | 2026-04-29 |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | 🟢 Easy | java | 2026-03-31 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | java | 2026-03-25 |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | java | 2026-03-31 |
