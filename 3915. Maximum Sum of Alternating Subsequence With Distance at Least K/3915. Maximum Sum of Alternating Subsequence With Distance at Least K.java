@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/
  * Language: java
- * Date: 2026-04-28
+ * Date: 2026-04-29
  */
 
 class Solution {
