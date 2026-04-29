@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 630
+- **Total Problems Solved:** 631
 - **Easy:** 147 🟢
 - **Medium:** 347 🟡
-- **Hard:** 136 🔴
+- **Hard:** 137 🔴
 
 ## 📝 Problems
 
@@ -581,6 +581,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2573. Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/?envType=daily-question&envId=2026-03-28) | 🔴 Hard | java | 2026-03-28 |
 | [2585. Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | 🔴 Hard | java | 2026-04-28 |
 | [2589. Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | 🔴 Hard | java | 2026-04-28 |
+| [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | 🔴 Hard | java | 2026-04-29 |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | java | 2026-03-31 |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | 🔴 Hard | java | 2026-03-31 |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | 🔴 Hard | java | 2026-04-01 |
