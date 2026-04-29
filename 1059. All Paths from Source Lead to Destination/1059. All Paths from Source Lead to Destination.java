@@ -1,9 +1,9 @@
 /*
  * Problem: 1059. All Paths from Source Lead to Destination
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
+ * Link: https://leetcode.com/problems/all-paths-from-source-lead-to-destination/?envType=weekly-question&envId=2026-04-29
  * Language: java
- * Date: 2026-04-12
+ * Date: 2026-04-29
  */
 
 class Solution {
