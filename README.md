@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 648
-- **Easy:** 152 🟢
+- **Total Problems Solved:** 649
+- **Easy:** 153 🟢
 - **Medium:** 357 🟡
 - **Hard:** 139 🔴
 
@@ -128,6 +128,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2697. Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | 🟢 Easy | java | 2026-04-29 |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | 🟢 Easy | java | 2026-03-31 |
 | [2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | 🟢 Easy | javascript | 2026-04-30 |
+| [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | 🟢 Easy | java | 2026-04-30 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | java | 2026-03-25 |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | java | 2026-03-31 |
 | [3358. Books with NULL Ratings](https://leetcode.com/problems/books-with-null-ratings/?envType=problem-list-v2&envId=ne414q67) | 🟢 Easy | mysql | 2026-04-03 |
