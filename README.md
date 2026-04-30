@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 658
+- **Total Problems Solved:** 659
 - **Easy:** 156 🟢
 - **Medium:** 359 🟡
-- **Hard:** 143 🔴
+- **Hard:** 144 🔴
 
 ## 📝 Problems
 
@@ -609,6 +609,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/) | 🔴 Hard | java | 2026-04-30 |
 | [2732. Find a Good Subset of the Matrix](https://leetcode.com/problems/find-a-good-subset-of-the-matrix/) | 🔴 Hard | java | 2026-04-30 |
 | [2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | 🔴 Hard | java | 2026-04-30 |
+| [2753. Count Houses in a Circular Street II](https://leetcode.com/problems/count-houses-in-a-circular-street-ii/) | 🔴 Hard | java | 2026-04-30 |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | java | 2026-03-31 |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | 🔴 Hard | java | 2026-03-31 |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | 🔴 Hard | java | 2026-04-01 |
