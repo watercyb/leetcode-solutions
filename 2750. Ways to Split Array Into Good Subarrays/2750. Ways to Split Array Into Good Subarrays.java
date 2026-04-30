@@ -1,9 +1,9 @@
 /*
  * Problem: 2750. Ways to Split Array Into Good Subarrays
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/?envType=problem-list-v2&envId=math
+ * Link: https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/
  * Language: java
- * Date: 2026-03-27
+ * Date: 2026-04-30
  */
 
 class Solution {
