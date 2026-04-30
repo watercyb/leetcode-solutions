@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 650
+- **Total Problems Solved:** 651
 - **Easy:** 153 🟢
 - **Medium:** 357 🟡
-- **Hard:** 140 🔴
+- **Hard:** 141 🔴
 
 ## 📝 Problems
 
@@ -601,6 +601,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2617. Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | 🔴 Hard | java | 2026-04-29 |
 | [2701. Consecutive Transactions with Increasing Amounts](https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts/) | 🔴 Hard | python3 | 2026-04-30 |
 | [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | 🔴 Hard | java | 2026-04-30 |
+| [2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/) | 🔴 Hard | java | 2026-04-30 |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | java | 2026-03-31 |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | 🔴 Hard | java | 2026-03-31 |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | 🔴 Hard | java | 2026-04-01 |
