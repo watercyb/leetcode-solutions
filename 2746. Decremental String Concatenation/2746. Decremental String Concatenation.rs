@@ -1,9 +1,9 @@
 /*
  * Problem: 2746. Decremental String Concatenation
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/decremental-string-concatenation/?envType=problem-list-v2&envId=dynamic-programming
+ * Link: https://leetcode.com/problems/decremental-string-concatenation/
  * Language: rust
- * Date: 2026-03-26
+ * Date: 2026-04-30
  */
 
 impl Solution {
