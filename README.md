@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 653
-- **Easy:** 154 🟢
+- **Total Problems Solved:** 654
+- **Easy:** 155 🟢
 - **Medium:** 358 🟡
 - **Hard:** 141 🔴
 
@@ -130,6 +130,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | 🟢 Easy | javascript | 2026-04-30 |
 | [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | 🟢 Easy | java | 2026-04-30 |
 | [2728. Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street/) | 🟢 Easy | java | 2026-04-30 |
+| [2729. Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | 🟢 Easy | java | 2026-04-30 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | java | 2026-03-25 |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | java | 2026-03-31 |
 | [3358. Books with NULL Ratings](https://leetcode.com/problems/books-with-null-ratings/?envType=problem-list-v2&envId=ne414q67) | 🟢 Easy | mysql | 2026-04-03 |
