@@ -1,9 +1,9 @@
 #
 # Problem: 2712. Minimum Cost to Make All Characters Equal
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/?envType=problem-list-v2&envId=string
+# Link: https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/
 # Language: python3
-# Date: 2026-03-26
+# Date: 2026-04-30
 
 
 class Solution:
