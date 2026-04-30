@@ -1,9 +1,9 @@
 /*
  * Problem: 2718. Sum of Matrix After Queries
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/sum-of-matrix-after-queries/?envType=problem-list-v2&envId=hash-table
+ * Link: https://leetcode.com/problems/sum-of-matrix-after-queries/
  * Language: java
- * Date: 2026-03-25
+ * Date: 2026-04-30
  */
 
 class Solution {
