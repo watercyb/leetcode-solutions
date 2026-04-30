@@ -1,9 +1,9 @@
 #
 # Problem: 2770. Maximum Number of Jumps to Reach the Last Index
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/?envType=problem-list-v2&envId=array
+# Link: https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/
 # Language: python3
-# Date: 2026-03-31
+# Date: 2026-04-30
 
 
 class Solution:
