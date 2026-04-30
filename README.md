@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 665
-- **Easy:** 156 🟢
+- **Total Problems Solved:** 666
+- **Easy:** 157 🟢
 - **Medium:** 364 🟡
 - **Hard:** 145 🔴
 
@@ -132,6 +132,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2728. Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street/) | 🟢 Easy | java | 2026-04-30 |
 | [2729. Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | 🟢 Easy | java | 2026-04-30 |
 | [2739. Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | 🟢 Easy | java | 2026-04-30 |
+| [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | 🟢 Easy | java | 2026-04-30 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | java | 2026-03-25 |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | java | 2026-03-31 |
 | [3358. Books with NULL Ratings](https://leetcode.com/problems/books-with-null-ratings/?envType=problem-list-v2&envId=ne414q67) | 🟢 Easy | mysql | 2026-04-03 |
@@ -396,7 +397,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/?envType=problem-list-v2&envId=dynamic-programming) | 🟡 Medium | rust | 2026-03-26 |
 | [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | java | 2026-04-30 |
 | [2761. Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/) | 🟡 Medium | python3 | 2026-04-30 |
-| [2764. Is Array a Preorder of Some ÃÂÃÂ¢ÃÂÃÂÃÂÃÂBinary Tree](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/) | 🟡 Medium | java | 2026-04-30 |
+| [2764. Is Array a Preorder of Some ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂBinary Tree](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/) | 🟡 Medium | java | 2026-04-30 |
 | [2768. Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks/) | 🟡 Medium | java | 2026-04-30 |
 | [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | 🟡 Medium | java | 2026-03-31 |
 | [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/?envType=problem-list-v2&envId=array) | 🟡 Medium | python3 | 2026-03-31 |
