@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 662
+- **Total Problems Solved:** 663
 - **Easy:** 156 🟢
-- **Medium:** 361 🟡
+- **Medium:** 362 🟡
 - **Hard:** 145 🔴
 
 ## 📝 Problems
@@ -396,7 +396,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/?envType=problem-list-v2&envId=dynamic-programming) | 🟡 Medium | rust | 2026-03-26 |
 | [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | java | 2026-04-30 |
 | [2761. Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/) | 🟡 Medium | python3 | 2026-04-30 |
-| [2764. Is Array a Preorder of Some ‌Binary Tree](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/) | 🟡 Medium | java | 2026-04-30 |
+| [2764. Is Array a Preorder of Some âBinary Tree](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/) | 🟡 Medium | java | 2026-04-30 |
+| [2768. Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks/) | 🟡 Medium | java | 2026-04-30 |
 | [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | 🟡 Medium | java | 2026-03-31 |
 | [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/?envType=problem-list-v2&envId=array) | 🟡 Medium | python3 | 2026-03-31 |
 | [2789. Largest Element in an Array after Merge Operations](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/?envType=problem-list-v2&envId=greedy) | 🟡 Medium | rust | 2026-03-27 |
