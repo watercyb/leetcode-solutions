@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 651
+- **Total Problems Solved:** 652
 - **Easy:** 153 🟢
-- **Medium:** 357 🟡
+- **Medium:** 358 🟡
 - **Hard:** 141 🔴
 
 ## 📝 Problems
@@ -389,6 +389,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | 🟡 Medium | java | 2026-04-29 |
 | [2712. Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/?envType=problem-list-v2&envId=string) | 🟡 Medium | python3 | 2026-03-26 |
 | [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/?envType=problem-list-v2&envId=hash-table) | 🟡 Medium | java | 2026-03-25 |
+| [2721. Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | 🟡 Medium | javascript | 2026-04-30 |
 | [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/?envType=problem-list-v2&envId=dynamic-programming) | 🟡 Medium | rust | 2026-03-26 |
 | [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | 🟡 Medium | java | 2026-03-31 |
 | [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/?envType=problem-list-v2&envId=array) | 🟡 Medium | python3 | 2026-03-31 |
