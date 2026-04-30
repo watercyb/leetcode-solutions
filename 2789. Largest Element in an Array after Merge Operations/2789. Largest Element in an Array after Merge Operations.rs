@@ -1,9 +1,9 @@
 /*
  * Problem: 2789. Largest Element in an Array after Merge Operations
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/?envType=problem-list-v2&envId=greedy
+ * Link: https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/
  * Language: rust
- * Date: 2026-03-27
+ * Date: 2026-04-30
  */
 
 impl Solution {
