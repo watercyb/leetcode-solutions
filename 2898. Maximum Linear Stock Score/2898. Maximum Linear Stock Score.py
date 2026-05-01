@@ -1,9 +1,9 @@
 #
 # Problem: 2898. Maximum Linear Stock Score
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/maximum-linear-stock-score/?envType=problem-list-v2&envId=hash-table
+# Link: https://leetcode.com/problems/maximum-linear-stock-score/
 # Language: python3
-# Date: 2026-04-03
+# Date: 2026-05-01
 
 
 class Solution:
