@@ -1,9 +1,9 @@
 /*
  * Problem: 2834. Find the Minimum Possible Sum of a Beautiful Array
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/?envType=problem-list-v2&envId=math
+ * Link: https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/
  * Language: java
- * Date: 2026-03-30
+ * Date: 2026-05-01
  */
 
 class Solution {
