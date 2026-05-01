@@ -1,9 +1,9 @@
 /*
  * Problem: 2839. Check if Strings Can be Made Equal With Operations I
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/?envType=daily-question&envId=2026-03-29
+ * Link: https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/
  * Language: rust
- * Date: 2026-03-29
+ * Date: 2026-05-01
  */
 
 impl Solution {
