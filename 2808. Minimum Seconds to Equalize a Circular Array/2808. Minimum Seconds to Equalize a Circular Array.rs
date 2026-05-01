@@ -1,9 +1,9 @@
 /*
  * Problem: 2808. Minimum Seconds to Equalize a Circular Array
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/?envType=problem-list-v2&envId=hash-table
+ * Link: https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/
  * Language: rust
- * Date: 2026-03-30
+ * Date: 2026-05-01
  */
 
 use std::collections::HashMap;
