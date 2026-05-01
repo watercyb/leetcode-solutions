@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 1
+- **Total Problems Solved:** 2
 - **Easy:** 1 🟢
-- **Medium:** 0 🟡
+- **Medium:** 1 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [2822. Inversion of Object](https://leetcode.com/problems/inversion-of-object/) | 🟢 Easy | javascript | 2026-05-01 |
+| [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | 🟡 Medium | python3 | 2026-05-01 |
 
 ---
 
