@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 12
+- **Total Problems Solved:** 13
 - **Easy:** 5 🟢
-- **Medium:** 6 🟡
+- **Medium:** 7 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2852. Sum of Remoteness of All Cells](https://leetcode.com/problems/sum-of-remoteness-of-all-cells/) | 🟡 Medium | java | 2026-05-01 |
 | [2860. Happy Students](https://leetcode.com/problems/happy-students/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2863. Maximum Length of Semi-Decreasing Subarrays](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/) | 🟡 Medium | java | 2026-05-01 |
+| [2871. Split Array Into Maximum Number of Subarrays](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/) | 🟡 Medium | rust | 2026-05-01 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 
 ---
