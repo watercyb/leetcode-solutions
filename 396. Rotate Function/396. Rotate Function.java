@@ -1,9 +1,9 @@
 /*
  * Problem: 396. Rotate Function
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/rotate-function/
+ * Link: https://leetcode.com/problems/rotate-function/?envType=daily-question&envId=2026-05-01
  * Language: java
- * Date: 2026-04-03
+ * Date: 2026-05-01
  */
 
 class Solution {
