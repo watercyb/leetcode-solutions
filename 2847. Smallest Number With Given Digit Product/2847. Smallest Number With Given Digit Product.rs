@@ -1,9 +1,9 @@
 /*
  * Problem: 2847. Smallest Number With Given Digit Product
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/smallest-number-with-given-digit-product/?envType=problem-list-v2&envId=math
+ * Link: https://leetcode.com/problems/smallest-number-with-given-digit-product/
  * Language: rust
- * Date: 2026-04-02
+ * Date: 2026-05-01
  */
 
 impl Solution {
