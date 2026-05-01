@@ -1,9 +1,9 @@
 /*
  * Problem: 759. Employee Free Time
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/employee-free-time/
+ * Link: https://leetcode.com/problems/employee-free-time/?envType=weekly-question&envId=2026-05-01
  * Language: java
- * Date: 2026-04-08
+ * Date: 2026-05-01
  */
 
 /*
