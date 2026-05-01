@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 15
-- **Easy:** 7 🟢
+- **Total Problems Solved:** 16
+- **Easy:** 8 🟢
 - **Medium:** 7 🟡
 - **Hard:** 1 🔴
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2869. Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | 🟢 Easy | rust | 2026-05-01 |
 | [2877. Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | 🟢 Easy | python3 | 2026-05-01 |
 | [2888. Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | 🟢 Easy | python3 | 2026-05-01 |
+| [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 Easy | java | 2026-05-01 |
 | [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/) | 🟡 Medium | java | 2026-05-01 |
