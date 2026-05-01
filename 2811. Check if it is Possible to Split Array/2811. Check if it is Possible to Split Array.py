@@ -1,9 +1,9 @@
 #
 # Problem: 2811. Check if it is Possible to Split Array
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/check-if-it-is-possible-to-split-array/?envType=problem-list-v2&envId=greedy
+# Link: https://leetcode.com/problems/check-if-it-is-possible-to-split-array/
 # Language: python3
-# Date: 2026-04-03
+# Date: 2026-05-01
 
 
 class Solution:
