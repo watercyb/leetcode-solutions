@@ -1,9 +1,9 @@
 /*
  * Problem: 2946. Matrix Similarity After Cyclic Shifts
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/?envType=daily-question&envId=2026-03-27
+ * Link: https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
  * Language: java
- * Date: 2026-03-27
+ * Date: 2026-05-02
  */
 
 class Solution {
