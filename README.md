@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 41
+- **Total Problems Solved:** 42
 - **Easy:** 13 🟢
-- **Medium:** 21 🟡
+- **Medium:** 22 🟡
 - **Hard:** 7 🔴
 
 ## 📝 Problems
@@ -46,6 +46,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 🟡 Medium | java | 2026-05-02 |
 | [2986. Find Third Transaction](https://leetcode.com/problems/find-third-transaction/) | 🟡 Medium | mysql | 2026-05-02 |
 | [2986. Find Third Transaction](https://leetcode.com/problems/find-third-transaction/) | 🟡 Medium | python3 | 2026-05-02 |
+| [2998. Minimum Number of Operations to Make X and Y Equal](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/) | 🟡 Medium | python3 | 2026-05-02 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 | [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | java | 2026-05-02 |
