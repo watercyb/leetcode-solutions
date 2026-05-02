@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 35
+- **Total Problems Solved:** 36
 - **Easy:** 11 🟢
 - **Medium:** 19 🟡
-- **Hard:** 5 🔴
+- **Hard:** 6 🔴
 
 ## 📝 Problems
 
@@ -48,6 +48,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2920. Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/) | 🔴 Hard | java | 2026-05-02 |
 | [2926. Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | 🔴 Hard | java | 2026-05-02 |
 | [2941. Maximum GCD-Sum of a Subarray](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/) | 🔴 Hard | java | 2026-05-02 |
+| [2973. Find Number of Coins to Place in Tree Nodes](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/) | 🔴 Hard | java | 2026-05-02 |
 
 ---
 
