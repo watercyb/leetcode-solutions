@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 27
+- **Total Problems Solved:** 28
 - **Easy:** 9 🟢
 - **Medium:** 14 🟡
-- **Hard:** 4 🔴
+- **Hard:** 5 🔴
 
 ## 📝 Problems
 
@@ -40,6 +40,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | java | 2026-05-02 |
 | [2920. Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/) | 🔴 Hard | java | 2026-05-02 |
 | [2926. Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | 🔴 Hard | java | 2026-05-02 |
+| [2941. Maximum GCD-Sum of a Subarray](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/) | 🔴 Hard | java | 2026-05-02 |
 
 ---
 
