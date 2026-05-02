@@ -1,9 +1,9 @@
 #
 # Problem: 2952. Minimum Number of Coins to be Added
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimum-number-of-coins-to-be-added/?envType=problem-list-v2&envId=sorting
+# Link: https://leetcode.com/problems/minimum-number-of-coins-to-be-added/
 # Language: python3
-# Date: 2026-04-02
+# Date: 2026-05-02
 
 
 class Solution:
