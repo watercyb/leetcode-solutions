@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 40
+- **Total Problems Solved:** 41
 - **Easy:** 13 🟢
 - **Medium:** 21 🟡
-- **Hard:** 6 🔴
+- **Hard:** 7 🔴
 
 ## 📝 Problems
 
@@ -53,6 +53,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2926. Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | 🔴 Hard | java | 2026-05-02 |
 | [2941. Maximum GCD-Sum of a Subarray](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/) | 🔴 Hard | java | 2026-05-02 |
 | [2973. Find Number of Coins to Place in Tree Nodes](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/) | 🔴 Hard | java | 2026-05-02 |
+| [2995. Viewers Turned Streamers](https://leetcode.com/problems/viewers-turned-streamers/) | 🔴 Hard | mysql | 2026-05-02 |
 
 ---
 
