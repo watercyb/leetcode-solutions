@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 18
+- **Total Problems Solved:** 19
 - **Easy:** 9 🟢
-- **Medium:** 8 🟡
+- **Medium:** 9 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -30,6 +30,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2860. Happy Students](https://leetcode.com/problems/happy-students/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2863. Maximum Length of Semi-Decreasing Subarrays](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/) | 🟡 Medium | java | 2026-05-01 |
 | [2871. Split Array Into Maximum Number of Subarrays](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/) | 🟡 Medium | rust | 2026-05-01 |
+| [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 
 ---
