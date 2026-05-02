@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 36
-- **Easy:** 11 🟢
+- **Total Problems Solved:** 37
+- **Easy:** 12 🟢
 - **Medium:** 19 🟡
 - **Hard:** 6 🔴
 
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | 🟢 Easy | java | 2026-05-01 |
 | [2951. Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | 🟢 Easy | python3 | 2026-05-02 |
 | [2970. Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/) | 🟢 Easy | java | 2026-05-02 |
+| [2980. Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/) | 🟢 Easy | rust | 2026-05-02 |
 | [2820. Election Results](https://leetcode.com/problems/election-results/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) | 🟡 Medium | python3 | 2026-05-01 |
