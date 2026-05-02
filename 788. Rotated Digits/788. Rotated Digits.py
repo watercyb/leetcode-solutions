@@ -1,9 +1,9 @@
 #
 # Problem: 788. Rotated Digits
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/rotated-digits/
+# Link: https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02
 # Language: python3
-# Date: 2026-04-08
+# Date: 2026-05-02
 
 
 class Solution:
