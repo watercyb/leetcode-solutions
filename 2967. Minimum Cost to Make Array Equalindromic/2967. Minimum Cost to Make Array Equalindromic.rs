@@ -1,9 +1,9 @@
 /*
  * Problem: 2967. Minimum Cost to Make Array Equalindromic
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/?envType=problem-list-v2&envId=math
+ * Link: https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/
  * Language: rust
- * Date: 2026-04-03
+ * Date: 2026-05-02
  */
 
 impl Solution {
