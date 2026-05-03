@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 53
+- **Total Problems Solved:** 54
 - **Easy:** 16 🟢
 - **Medium:** 28 🟡
-- **Hard:** 9 🔴
+- **Hard:** 10 🔴
 
 ## 📝 Problems
 
@@ -66,6 +66,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2995. Viewers Turned Streamers](https://leetcode.com/problems/viewers-turned-streamers/) | 🔴 Hard | mysql | 2026-05-02 |
 | [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | 🔴 Hard | java | 2026-05-03 |
 | [3031. Minimum Time to Revert Word to Initial State II](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/) | 🔴 Hard | java | 2026-05-03 |
+| [3060. User Activities within Time Bounds](https://leetcode.com/problems/user-activities-within-time-bounds/) | 🔴 Hard | python3 | 2026-05-03 |
 
 ---
 
