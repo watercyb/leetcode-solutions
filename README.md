@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 55
+- **Total Problems Solved:** 56
 - **Easy:** 17 🟢
 - **Medium:** 28 🟡
-- **Hard:** 10 🔴
+- **Hard:** 11 🔴
 
 ## 📝 Problems
 
@@ -68,6 +68,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | 🔴 Hard | java | 2026-05-03 |
 | [3031. Minimum Time to Revert Word to Initial State II](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/) | 🔴 Hard | java | 2026-05-03 |
 | [3060. User Activities within Time Bounds](https://leetcode.com/problems/user-activities-within-time-bounds/) | 🔴 Hard | python3 | 2026-05-03 |
+| [3077. Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/) | 🔴 Hard | java | 2026-05-03 |
 
 ---
 
