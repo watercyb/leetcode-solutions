@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 47
+- **Total Problems Solved:** 48
 - **Easy:** 15 🟢
 - **Medium:** 25 🟡
-- **Hard:** 7 🔴
+- **Hard:** 8 🔴
 
 ## 📝 Problems
 
@@ -60,6 +60,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2941. Maximum GCD-Sum of a Subarray](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/) | 🔴 Hard | java | 2026-05-02 |
 | [2973. Find Number of Coins to Place in Tree Nodes](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/) | 🔴 Hard | java | 2026-05-02 |
 | [2995. Viewers Turned Streamers](https://leetcode.com/problems/viewers-turned-streamers/) | 🔴 Hard | mysql | 2026-05-02 |
+| [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | 🔴 Hard | java | 2026-05-03 |
 
 ---
 
