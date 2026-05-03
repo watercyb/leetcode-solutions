@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 59
+- **Total Problems Solved:** 60
 - **Easy:** 17 🟢
 - **Medium:** 31 🟡
-- **Hard:** 11 🔴
+- **Hard:** 12 🔴
 
 ## 📝 Problems
 
@@ -72,6 +72,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3031. Minimum Time to Revert Word to Initial State II](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/) | 🔴 Hard | java | 2026-05-03 |
 | [3060. User Activities within Time Bounds](https://leetcode.com/problems/user-activities-within-time-bounds/) | 🔴 Hard | python3 | 2026-05-03 |
 | [3077. Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/) | 🔴 Hard | java | 2026-05-03 |
+| [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | 🔴 Hard | java | 2026-05-03 |
 
 ---
 
