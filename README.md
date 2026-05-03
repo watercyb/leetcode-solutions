@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 61
+- **Total Problems Solved:** 62
 - **Easy:** 17 🟢
-- **Medium:** 31 🟡
+- **Medium:** 32 🟡
 - **Hard:** 13 🔴
 
 ## 📝 Problems
@@ -60,6 +60,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3081. Replace Question Marks in String to Minimize Its Value](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | 🟡 Medium | java | 2026-05-03 |
 | [3084. Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/) | 🟡 Medium | python3 | 2026-05-03 |
 | [3089. Find Bursty Behavior](https://leetcode.com/problems/find-bursty-behavior/) | 🟡 Medium | python3 | 2026-05-03 |
+| [3101. Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/) | 🟡 Medium | java | 2026-05-03 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 | [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | java | 2026-05-02 |
