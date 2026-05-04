@@ -1,9 +1,9 @@
 #
 # Problem: 3125. Maximum Number That Makes Result of Bitwise AND Zero
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero/?envType=problem-list-v2&envId=string
+# Link: https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero/
 # Language: python3
-# Date: 2026-04-07
+# Date: 2026-05-04
 
 
 class Solution:
