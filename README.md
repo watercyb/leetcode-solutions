@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 63
+- **Total Problems Solved:** 64
 - **Easy:** 17 🟢
 - **Medium:** 33 🟡
-- **Hard:** 13 🔴
+- **Hard:** 14 🔴
 
 ## 📝 Problems
 
@@ -76,6 +76,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3077. Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/) | 🔴 Hard | java | 2026-05-03 |
 | [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | 🔴 Hard | java | 2026-05-03 |
 | [3098. Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | 🔴 Hard | java | 2026-05-03 |
+| [3102. Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/) | 🔴 Hard | java | 2026-05-04 |
 
 ---
 
