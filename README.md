@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 69
-- **Easy:** 17 🟢
+- **Total Problems Solved:** 70
+- **Easy:** 18 🟢
 - **Medium:** 37 🟡
 - **Hard:** 15 🔴
 
@@ -29,6 +29,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | 🟢 Easy | java | 2026-05-03 |
 | [3046. Split the Array](https://leetcode.com/problems/split-the-array/) | 🟢 Easy | java | 2026-05-03 |
 | [3069. Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | java | 2026-05-03 |
+| [3136. Valid Word](https://leetcode.com/problems/valid-word/) | 🟢 Easy | java | 2026-05-04 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [2820. Election Results](https://leetcode.com/problems/election-results/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | 🟡 Medium | python3 | 2026-05-01 |
