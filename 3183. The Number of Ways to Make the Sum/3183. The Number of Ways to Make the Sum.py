@@ -1,9 +1,9 @@
 #
 # Problem: 3183. The Number of Ways to Make the Sum
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/?envType=problem-list-v2&envId=dynamic-programming
+# Link: https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/
 # Language: python3
-# Date: 2026-04-03
+# Date: 2026-05-04
 
 
 class Solution:
