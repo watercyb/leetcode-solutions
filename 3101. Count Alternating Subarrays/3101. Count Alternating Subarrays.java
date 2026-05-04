@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/count-alternating-subarrays/
  * Language: java
- * Date: 2026-05-03
+ * Date: 2026-05-04
  */
 
 class Solution {
