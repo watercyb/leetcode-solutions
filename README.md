@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 72
+- **Total Problems Solved:** 73
 - **Easy:** 20 🟢
-- **Medium:** 37 🟡
+- **Medium:** 38 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -68,6 +68,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3119. Maximum Number of Potholes That Can Be Fixed](https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed/) | 🟡 Medium | java | 2026-05-04 |
 | [3125. Maximum Number That Makes Result of Bitwise AND Zero](https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero/) | 🟡 Medium | python3 | 2026-05-04 |
 | [3128. Right Triangles](https://leetcode.com/problems/right-triangles/) | 🟡 Medium | python3 | 2026-05-04 |
+| [3157. Find the Level of Tree with Minimum Sum](https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum/) | 🟡 Medium | java | 2026-05-04 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
