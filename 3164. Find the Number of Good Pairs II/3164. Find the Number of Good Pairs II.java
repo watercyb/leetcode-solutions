@@ -1,9 +1,9 @@
 /*
  * Problem: 3164. Find the Number of Good Pairs II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-the-number-of-good-pairs-ii/?envType=problem-list-v2&envId=hash-table
+ * Link: https://leetcode.com/problems/find-the-number-of-good-pairs-ii/
  * Language: java
- * Date: 2026-04-06
+ * Date: 2026-05-04
  */
 
 class Solution {
