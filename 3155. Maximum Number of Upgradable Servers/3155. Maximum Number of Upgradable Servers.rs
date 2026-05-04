@@ -1,9 +1,9 @@
 /*
  * Problem: 3155. Maximum Number of Upgradable Servers
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-number-of-upgradable-servers/?envType=problem-list-v2&envId=math
+ * Link: https://leetcode.com/problems/maximum-number-of-upgradable-servers/
  * Language: rust
- * Date: 2026-04-03
+ * Date: 2026-05-04
  */
 
 impl Solution {
