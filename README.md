@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 75
-- **Easy:** 20 🟢
+- **Total Problems Solved:** 76
+- **Easy:** 21 🟢
 - **Medium:** 40 🟡
 - **Hard:** 15 🔴
 
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3136. Valid Word](https://leetcode.com/problems/valid-word/) | 🟢 Easy | java | 2026-05-04 |
 | [3146. Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | 🟢 Easy | java | 2026-05-04 |
 | [3151. Special Array I](https://leetcode.com/problems/special-array-i/) | 🟢 Easy | java | 2026-05-04 |
+| [3178. Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/) | 🟢 Easy | java | 2026-05-04 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [2820. Election Results](https://leetcode.com/problems/election-results/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | 🟡 Medium | python3 | 2026-05-01 |
