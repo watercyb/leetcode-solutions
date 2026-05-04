@@ -1,9 +1,9 @@
 /*
  * Problem: 48. Rotate Image
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/rotate-image/
+ * Link: https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04
  * Language: java
- * Date: 2026-03-25
+ * Date: 2026-05-04
  */
 
 class Solution {
