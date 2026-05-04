@@ -1,9 +1,9 @@
 /*
  * Problem: 3196. Maximize Total Cost of Alternating Subarrays
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/?envType=problem-list-v2&envId=dynamic-programming
+ * Link: https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/
  * Language: java
- * Date: 2026-04-07
+ * Date: 2026-05-04
  */
 
 class Solution {
