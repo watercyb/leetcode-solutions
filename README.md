@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 78
+- **Total Problems Solved:** 79
 - **Easy:** 21 🟢
 - **Medium:** 41 🟡
-- **Hard:** 16 🔴
+- **Hard:** 17 🔴
 
 ## 📝 Problems
 
@@ -91,6 +91,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3102. Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/) | 🔴 Hard | java | 2026-05-04 |
 | [3113. Find the Number of Subarrays Where Boundary Elements Are Maximum](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/) | 🔴 Hard | java | 2026-05-04 |
 | [3188. Find Top Scoring Students II](https://leetcode.com/problems/find-top-scoring-students-ii/) | 🔴 Hard | python3 | 2026-05-04 |
+| [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | 🔴 Hard | java | 2026-05-04 |
 
 ---
 
