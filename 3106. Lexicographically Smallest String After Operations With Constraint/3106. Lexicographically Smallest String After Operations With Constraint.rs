@@ -1,9 +1,9 @@
 /*
  * Problem: 3106. Lexicographically Smallest String After Operations With Constraint
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/?envType=problem-list-v2&envId=string
+ * Link: https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/
  * Language: rust
- * Date: 2026-04-03
+ * Date: 2026-05-04
  */
 
 impl Solution {
