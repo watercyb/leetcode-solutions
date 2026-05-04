@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 65
+- **Total Problems Solved:** 66
 - **Easy:** 17 🟢
 - **Medium:** 34 🟡
-- **Hard:** 14 🔴
+- **Hard:** 15 🔴
 
 ## 📝 Problems
 
@@ -78,6 +78,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | 🔴 Hard | java | 2026-05-03 |
 | [3098. Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | 🔴 Hard | java | 2026-05-03 |
 | [3102. Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/) | 🔴 Hard | java | 2026-05-04 |
+| [3113. Find the Number of Subarrays Where Boundary Elements Are Maximum](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/) | 🔴 Hard | java | 2026-05-04 |
 
 ---
 
