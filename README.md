@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 74
+- **Total Problems Solved:** 75
 - **Easy:** 20 🟢
-- **Medium:** 39 🟡
+- **Medium:** 40 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -70,6 +70,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3128. Right Triangles](https://leetcode.com/problems/right-triangles/) | 🟡 Medium | python3 | 2026-05-04 |
 | [3157. Find the Level of Tree with Minimum Sum](https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum/) | 🟡 Medium | java | 2026-05-04 |
 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/) | 🟡 Medium | java | 2026-05-04 |
+| [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/) | 🟡 Medium | java | 2026-05-04 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
