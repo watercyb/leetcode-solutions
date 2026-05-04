@@ -1,9 +1,9 @@
 #
 # Problem: 3111. Minimum Rectangles to Cover Points
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimum-rectangles-to-cover-points/?envType=problem-list-v2&envId=greedy
+# Link: https://leetcode.com/problems/minimum-rectangles-to-cover-points/
 # Language: python3
-# Date: 2026-04-06
+# Date: 2026-05-04
 
 
 class Solution:
