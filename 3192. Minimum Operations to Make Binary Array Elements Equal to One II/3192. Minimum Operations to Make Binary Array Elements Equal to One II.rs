@@ -1,9 +1,9 @@
 /*
  * Problem: 3192. Minimum Operations to Make Binary Array Elements Equal to One II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/?envType=problem-list-v2&envId=array
+ * Link: https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/
  * Language: rust
- * Date: 2026-04-06
+ * Date: 2026-05-04
  */
 
 impl Solution {
