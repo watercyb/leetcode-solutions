@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 95
+- **Total Problems Solved:** 96
 - **Easy:** 25 🟢
 - **Medium:** 50 🟡
-- **Hard:** 20 🔴
+- **Hard:** 21 🔴
 
 ## 📝 Problems
 
@@ -107,6 +107,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | 🔴 Hard | java | 2026-05-04 |
 | [3231. Minimum Number of Increasing Subsequence to Be Removed](https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/) | 🔴 Hard | java | 2026-05-05 |
 | [3250. Find the Count of Monotonic Pairs I](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/) | 🔴 Hard | java | 2026-05-05 |
+| [3260. Find the Largest Palindrome Divisible by K](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/) | 🔴 Hard | java | 2026-05-05 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 
 ---
