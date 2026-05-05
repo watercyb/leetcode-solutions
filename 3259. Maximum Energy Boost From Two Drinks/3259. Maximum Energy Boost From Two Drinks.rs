@@ -1,9 +1,9 @@
 /*
  * Problem: 3259. Maximum Energy Boost From Two Drinks
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/?envType=problem-list-v2&envId=array
+ * Link: https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/
  * Language: rust
- * Date: 2026-04-07
+ * Date: 2026-05-05
  */
 
 impl Solution {
