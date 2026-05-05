@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 79
+- **Total Problems Solved:** 80
 - **Easy:** 21 🟢
-- **Medium:** 41 🟡
+- **Medium:** 42 🟡
 - **Hard:** 17 🔴
 
 ## 📝 Problems
@@ -74,6 +74,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/) | 🟡 Medium | java | 2026-05-04 |
 | [3182. Find Top Scoring Students](https://leetcode.com/problems/find-top-scoring-students/) | 🟡 Medium | python3 | 2026-05-04 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
+| [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 | [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | java | 2026-05-02 |
