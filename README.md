@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 93
+- **Total Problems Solved:** 94
 - **Easy:** 25 🟢
 - **Medium:** 49 🟡
-- **Hard:** 19 🔴
+- **Hard:** 20 🔴
 
 ## 📝 Problems
 
@@ -105,6 +105,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3188. Find Top Scoring Students II](https://leetcode.com/problems/find-top-scoring-students-ii/) | 🔴 Hard | python3 | 2026-05-04 |
 | [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | 🔴 Hard | java | 2026-05-04 |
 | [3231. Minimum Number of Increasing Subsequence to Be Removed](https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/) | 🔴 Hard | java | 2026-05-05 |
+| [3250. Find the Count of Monotonic Pairs I](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/) | 🔴 Hard | java | 2026-05-05 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 
 ---
