@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 100
+- **Total Problems Solved:** 101
 - **Easy:** 25 🟢
 - **Medium:** 52 🟡
-- **Hard:** 23 🔴
+- **Hard:** 24 🔴
 
 ## 📝 Problems
 
@@ -112,6 +112,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3260. Find the Largest Palindrome Divisible by K](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/) | 🔴 Hard | java | 2026-05-05 |
 | [3266. Final Array State After K Multiplication Operations II](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/) | 🔴 Hard | java | 2026-05-05 |
 | [3273. Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | 🔴 Hard | java | 2026-05-05 |
+| [3288. Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | 🔴 Hard | java | 2026-05-05 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 
 ---
