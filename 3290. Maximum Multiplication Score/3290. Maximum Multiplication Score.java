@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/maximum-multiplication-score/
  * Language: java
- * Date: 2026-04-08
+ * Date: 2026-05-05
  */
 
 class Solution {
