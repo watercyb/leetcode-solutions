@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 102
+- **Total Problems Solved:** 103
 - **Easy:** 26 🟢
-- **Medium:** 52 🟡
+- **Medium:** 53 🟡
 - **Hard:** 24 🔴
 
 ## 📝 Problems
@@ -86,6 +86,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3254. Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | 🟡 Medium | java | 2026-05-05 |
 | [3278. Find Candidates for Data Scientist Position II](https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3282. Reach End of Array With Max Score](https://leetcode.com/problems/reach-end-of-array-with-max-score/) | 🟡 Medium | python3 | 2026-05-05 |
+| [3295. Report Spam Message](https://leetcode.com/problems/report-spam-message/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
