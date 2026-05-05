@@ -1,9 +1,9 @@
 /*
  * Problem: 3252. Premier League Table Ranking II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/premier-league-table-ranking-ii/?envType=problem-list-v2&envId=ne414q67
+ * Link: https://leetcode.com/problems/premier-league-table-ranking-ii/
  * Language: mysql
- * Date: 2026-03-25
+ * Date: 2026-05-05
  */
 
 # Write your MySQL query statement below
