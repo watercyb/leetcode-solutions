@@ -1,9 +1,9 @@
 /*
  * Problem: 3278. Find Candidates for Data Scientist Position II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/?envType=problem-list-v2&envId=ne414q67
+ * Link: https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/
  * Language: mysql
- * Date: 2026-03-27
+ * Date: 2026-05-05
  */
 
 # Write your MySQL query statement below
