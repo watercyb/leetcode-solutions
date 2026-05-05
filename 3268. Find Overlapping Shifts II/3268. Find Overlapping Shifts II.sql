@@ -1,9 +1,9 @@
 /*
  * Problem: 3268. Find Overlapping Shifts II
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/find-overlapping-shifts-ii/?envType=problem-list-v2&envId=ne414q67
+ * Link: https://leetcode.com/problems/find-overlapping-shifts-ii/
  * Language: mysql
- * Date: 2026-03-26
+ * Date: 2026-05-05
  */
 
 # Write your MySQL query statement below
