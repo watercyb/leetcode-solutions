@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/construct-string-with-minimum-cost-easy/
  * Language: csharp
- * Date: 2026-04-08
+ * Date: 2026-05-05
  */
 
 public class Solution {
