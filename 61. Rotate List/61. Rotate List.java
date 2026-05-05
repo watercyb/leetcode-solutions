@@ -1,9 +1,9 @@
 /*
  * Problem: 61. Rotate List
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/rotate-list/
+ * Link: https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05
  * Language: java
- * Date: 2026-03-25
+ * Date: 2026-05-05
  */
 
 /**
