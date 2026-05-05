@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 94
+- **Total Problems Solved:** 95
 - **Easy:** 25 🟢
-- **Medium:** 49 🟡
+- **Medium:** 50 🟡
 - **Hard:** 20 🔴
 
 ## 📝 Problems
@@ -82,6 +82,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3211. Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | 🟡 Medium | java | 2026-05-05 |
 | [3237. Alt and Tab Simulation](https://leetcode.com/problems/alt-and-tab-simulation/) | 🟡 Medium | java | 2026-05-05 |
+| [3254. Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | 🟡 Medium | java | 2026-05-05 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
