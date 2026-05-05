@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 84
+- **Total Problems Solved:** 85
 - **Easy:** 22 🟢
-- **Medium:** 44 🟡
+- **Medium:** 45 🟡
 - **Hard:** 18 🔴
 
 ## 📝 Problems
@@ -74,6 +74,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/) | 🟡 Medium | java | 2026-05-04 |
 | [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/) | 🟡 Medium | java | 2026-05-04 |
 | [3182. Find Top Scoring Students](https://leetcode.com/problems/find-top-scoring-students/) | 🟡 Medium | python3 | 2026-05-04 |
+| [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | 🟡 Medium | java | 2026-05-05 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
