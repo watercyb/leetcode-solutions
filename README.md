@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 119
+- **Total Problems Solved:** 120
 - **Easy:** 27 🟢
 - **Medium:** 66 🟡
-- **Hard:** 26 🔴
+- **Hard:** 27 🔴
 
 ## 📝 Problems
 
@@ -131,6 +131,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3288. Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | 🔴 Hard | java | 2026-05-05 |
 | [3329. Count Substrings With K-Frequency Characters II](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii/) | 🔴 Hard | java | 2026-05-06 |
 | [3351. Sum of Good Subsequences](https://leetcode.com/problems/sum-of-good-subsequences/) | 🔴 Hard | java | 2026-05-06 |
+| [3367. Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | 🔴 Hard | java | 2026-05-06 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 
 ---
