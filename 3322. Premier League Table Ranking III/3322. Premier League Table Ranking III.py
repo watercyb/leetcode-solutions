@@ -1,9 +1,9 @@
 #
 # Problem: 3322. Premier League Table Ranking III
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/premier-league-table-ranking-iii/?envType=problem-list-v2&envId=ne414q67
+# Link: https://leetcode.com/problems/premier-league-table-ranking-iii/
 # Language: python3
-# Date: 2026-03-31
+# Date: 2026-05-06
 
 
 import pandas as pd
