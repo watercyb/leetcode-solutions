@@ -1,9 +1,9 @@
 #
 # Problem: 3390. Longest Team Pass Streak
 # Difficulty: Hard
-# Link: https://leetcode.com/problems/longest-team-pass-streak/?envType=problem-list-v2&envId=ne414q67
+# Link: https://leetcode.com/problems/longest-team-pass-streak/
 # Language: python3
-# Date: 2026-04-08
+# Date: 2026-05-06
 
 
 import pandas as pd
