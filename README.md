@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 121
+- **Total Problems Solved:** 122
 - **Easy:** 27 🟢
-- **Medium:** 66 🟡
+- **Medium:** 67 🟡
 - **Hard:** 28 🔴
 
 ## 📝 Problems
@@ -101,6 +101,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | 🟡 Medium | java | 2026-05-06 |
 | [3344. Maximum Sized Array](https://leetcode.com/problems/maximum-sized-array/) | 🟡 Medium | python3 | 2026-05-06 |
 | [3346. Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | 🟡 Medium | python3 | 2026-05-06 |
+| [3377. Digit Operations to Make Two Integers Equal](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/) | 🟡 Medium | java | 2026-05-06 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
