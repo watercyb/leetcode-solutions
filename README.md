@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 118
-- **Easy:** 26 🟢
+- **Total Problems Solved:** 119
+- **Easy:** 27 🟢
 - **Medium:** 66 🟡
 - **Hard:** 26 🔴
 
@@ -37,6 +37,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3226. Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | 🟢 Easy | java | 2026-05-05 |
 | [3242. Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/) | 🟢 Easy | java | 2026-05-05 |
 | [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 Easy | java | 2026-05-05 |
+| [3358. Books with NULL Ratings](https://leetcode.com/problems/books-with-null-ratings/) | 🟢 Easy | mysql | 2026-05-06 |
 | [3917. Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | 🟢 Easy | kotlin | 2026-05-05 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [2820. Election Results](https://leetcode.com/problems/election-results/) | 🟡 Medium | python3 | 2026-05-01 |
