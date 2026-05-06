@@ -1,9 +1,9 @@
 /*
  * Problem: 3384. Team Dominance by Pass Success
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/team-dominance-by-pass-success/?envType=problem-list-v2&envId=ne414q67
+ * Link: https://leetcode.com/problems/team-dominance-by-pass-success/
  * Language: mysql
- * Date: 2026-04-07
+ * Date: 2026-05-06
  */
 
 # Write your MySQL query statement below
