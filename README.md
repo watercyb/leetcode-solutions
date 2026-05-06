@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 110
+- **Total Problems Solved:** 111
 - **Easy:** 26 🟢
-- **Medium:** 60 🟡
+- **Medium:** 61 🟡
 - **Hard:** 24 🔴
 
 ## 📝 Problems
@@ -94,6 +94,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3309. Maximum Possible Number by Binary Concatenation](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/) | 🟡 Medium | Choose a type | 2026-05-06 |
 | [3310. Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | python3 | 2026-05-06 |
 | [3315. Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | 🟡 Medium | java | 2026-05-06 |
+| [3323. Minimize Connected Groups by Inserting Interval](https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval/) | 🟡 Medium | java | 2026-05-06 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
