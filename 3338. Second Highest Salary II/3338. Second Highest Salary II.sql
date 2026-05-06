@@ -1,9 +1,9 @@
 /*
  * Problem: 3338. Second Highest Salary II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/second-highest-salary-ii/?envType=problem-list-v2&envId=ne414q67
+ * Link: https://leetcode.com/problems/second-highest-salary-ii/
  * Language: mysql
- * Date: 2026-04-02
+ * Date: 2026-05-06
  */
 
 # Write your MySQL query statement below
