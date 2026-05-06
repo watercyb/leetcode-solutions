@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 104
+- **Total Problems Solved:** 105
 - **Easy:** 26 🟢
-- **Medium:** 54 🟡
+- **Medium:** 55 🟡
 - **Hard:** 24 🔴
 
 ## 📝 Problems
@@ -88,6 +88,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3282. Reach End of Array With Max Score](https://leetcode.com/problems/reach-end-of-array-with-max-score/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3295. Report Spam Message](https://leetcode.com/problems/report-spam-message/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3301. Maximize the Total Height of Unique Towers](https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/) | 🟡 Medium | python3 | 2026-05-06 |
+| [3302. Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | 🟡 Medium | java | 2026-05-06 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
