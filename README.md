@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 122
+- **Total Problems Solved:** 123
 - **Easy:** 27 🟢
 - **Medium:** 67 🟡
-- **Hard:** 28 🔴
+- **Hard:** 29 🔴
 
 ## 📝 Problems
 
@@ -134,6 +134,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3351. Sum of Good Subsequences](https://leetcode.com/problems/sum-of-good-subsequences/) | 🔴 Hard | java | 2026-05-06 |
 | [3367. Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | 🔴 Hard | java | 2026-05-06 |
 | [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | 🔴 Hard | java | 2026-05-06 |
+| [3382. Maximum Area Rectangle With Point Constraints II](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/) | 🔴 Hard | java | 2026-05-06 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 
 ---
