@@ -1,9 +1,9 @@
 /*
  * Problem: 3308. Find Top Performing Driver
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-top-performing-driver/?envType=problem-list-v2&envId=ne414q67
+ * Link: https://leetcode.com/problems/find-top-performing-driver/
  * Language: mysql
- * Date: 2026-03-31
+ * Date: 2026-05-06
  */
 
 # Write your MySQL query statement below
