@@ -1,9 +1,9 @@
 /*
  * Problem: 3368. First Letter Capitalization
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/first-letter-capitalization/?envType=problem-list-v2&envId=ne414q67
+ * Link: https://leetcode.com/problems/first-letter-capitalization/
  * Language: mysql
- * Date: 2026-04-03
+ * Date: 2026-05-06
  */
 
 # Write your MySQL query statement below
