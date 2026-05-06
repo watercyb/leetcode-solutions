@@ -7,38 +7,18 @@
  */
 
 class Solution {
-    public long countOfSubstrings(String word, int k) {
-        char[] chrs = word.toCharArray();
-        int[] idx = new int['z' + 1];
-        idx['a'] = 1;
-        idx['e'] = 2;
-        idx['i'] = 3;
-        idx['o'] = 4;
-        idx['u'] = 5;
-        int[] counts = { k, 1, 1, 1, 1, 1 };
+    public char kthCharacter(long k, int[] operations) {
+        double total = Math.pow(2, operations.length);
         int count = 0;
-        long res = 0;
-        int j = 0;
-        int r = 0;
-        for (int i = 0; i < chrs.length; i++) {
-            while (j < chrs.length && (counts[0] != 0 || (idx[chrs[j]] > 0 && count < 5))) {
-                if (--counts[idx[chrs[j]]] == 0 && idx[chrs[j]] > 0)
+        for (int i = operations.length - 1; i >= 0; i--) {
+            total /= 2;
+            if (k > total) {
+                k -= total;
+                if (operations[i] == 1)
                     count++;
-                j++;
             }
-            if (r < j)
-                r = j;
-            while (r < chrs.length && idx[chrs[r]] > 0) {
-                r++;
-            }
-            if (count == 5 && counts[0] == 0) {
-                res += r - j + 1;
-            } else if (j == chrs.length) {
-                break;
-            }
-            if (++counts[idx[chrs[i]]] == 1 && idx[chrs[i]] > 0)
-                count--;
         }
-        return res;
+        count %= 26;
+        return (char) ('a' + count);
     }
 }
