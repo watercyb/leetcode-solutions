@@ -1,9 +1,9 @@
 #
 # Problem: 3344. Maximum Sized Array
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/maximum-sized-array/?envType=problem-list-v2&envId=bit-manipulation
+# Link: https://leetcode.com/problems/maximum-sized-array/
 # Language: python3
-# Date: 2026-03-30
+# Date: 2026-05-06
 
 
 class Solution:
