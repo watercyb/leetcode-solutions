@@ -1,9 +1,9 @@
 #
 # Problem: 3415. Find Products with Three Consecutive Digits
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/find-products-with-three-consecutive-digits/?envType=problem-list-v2&envId=ne414q67
+# Link: https://leetcode.com/problems/find-products-with-three-consecutive-digits/
 # Language: python3
-# Date: 2026-04-10
+# Date: 2026-05-07
 
 
 import pandas as pd
