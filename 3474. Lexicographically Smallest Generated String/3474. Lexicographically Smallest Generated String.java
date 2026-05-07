@@ -1,9 +1,9 @@
 /*
  * Problem: 3474. Lexicographically Smallest Generated String
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/lexicographically-smallest-generated-string/?envType=daily-question&envId=2026-03-31
+ * Link: https://leetcode.com/problems/lexicographically-smallest-generated-string/
  * Language: java
- * Date: 2026-03-31
+ * Date: 2026-05-07
  */
 
 class Solution {
