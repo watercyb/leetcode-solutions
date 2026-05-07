@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 133
+- **Total Problems Solved:** 134
 - **Easy:** 28 🟢
 - **Medium:** 71 🟡
-- **Hard:** 34 🔴
+- **Hard:** 35 🔴
 
 ## 📝 Problems
 
@@ -145,6 +145,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3401. Find Circular Gift Exchange Chains](https://leetcode.com/problems/find-circular-gift-exchange-chains/) | 🔴 Hard | mysql | 2026-05-07 |
 | [3406. Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/) | 🔴 Hard | java | 2026-05-07 |
 | [3416. Subsequences with a Unique Middle Mode II](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii/) | 🔴 Hard | java | 2026-05-07 |
+| [3441. Minimum Cost Good Caption](https://leetcode.com/problems/minimum-cost-good-caption/) | 🔴 Hard | java | 2026-05-07 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 
 ---
