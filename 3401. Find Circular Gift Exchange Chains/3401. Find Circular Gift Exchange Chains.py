@@ -1,9 +1,9 @@
 #
 # Problem: 3401. Find Circular Gift Exchange Chains
 # Difficulty: Hard
-# Link: https://leetcode.com/problems/find-circular-gift-exchange-chains/?envType=problem-list-v2&envId=ne414q67
+# Link: https://leetcode.com/problems/find-circular-gift-exchange-chains/
 # Language: python3
-# Date: 2026-04-09
+# Date: 2026-05-07
 
 
 import pandas as pd
