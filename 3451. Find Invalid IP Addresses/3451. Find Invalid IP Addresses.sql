@@ -1,9 +1,9 @@
 /*
  * Problem: 3451. Find Invalid IP Addresses
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/find-invalid-ip-addresses/?envType=problem-list-v2&envId=ne414q67
+ * Link: https://leetcode.com/problems/find-invalid-ip-addresses/
  * Language: mysql
- * Date: 2026-04-13
+ * Date: 2026-05-07
  */
 
 # Write your MySQL query statement below
