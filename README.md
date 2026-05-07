@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 138
+- **Total Problems Solved:** 139
 - **Easy:** 29 🟢
-- **Medium:** 73 🟡
+- **Medium:** 74 🟡
 - **Hard:** 36 🔴
 
 ## 📝 Problems
@@ -109,6 +109,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3434. Maximum Frequency After Subarray Operation](https://leetcode.com/problems/maximum-frequency-after-subarray-operation/) | 🟡 Medium | java | 2026-05-07 |
 | [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | 🟡 Medium | java | 2026-05-07 |
 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | 🟡 Medium | java | 2026-05-07 |
+| [3493. Properties Graph](https://leetcode.com/problems/properties-graph/) | 🟡 Medium | java | 2026-05-07 |
 | [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/?envType=daily-question&envId=2026-05-07) | 🟡 Medium | java | 2026-05-07 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
