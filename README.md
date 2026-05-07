@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 128
+- **Total Problems Solved:** 129
 - **Easy:** 27 🟢
 - **Medium:** 69 🟡
-- **Hard:** 32 🔴
+- **Hard:** 33 🔴
 
 ## 📝 Problems
 
@@ -140,6 +140,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3389. Minimum Operations to Make Character Frequencies Equal](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/) | 🔴 Hard | java | 2026-05-06 |
 | [3398. Smallest Substring With Identical Characters I](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/) | 🔴 Hard | java | 2026-05-06 |
 | [3401. Find Circular Gift Exchange Chains](https://leetcode.com/problems/find-circular-gift-exchange-chains/) | 🔴 Hard | mysql | 2026-05-07 |
+| [3406. Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/) | 🔴 Hard | java | 2026-05-07 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 
 ---
