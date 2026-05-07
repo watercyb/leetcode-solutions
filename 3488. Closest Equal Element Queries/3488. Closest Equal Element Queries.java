@@ -1,9 +1,9 @@
 /*
  * Problem: 3488. Closest Equal Element Queries
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/closest-equal-element-queries/?envType=daily-question&envId=2026-04-16
+ * Link: https://leetcode.com/problems/closest-equal-element-queries/
  * Language: java
- * Date: 2026-04-16
+ * Date: 2026-05-07
  */
 
 class Solution {
