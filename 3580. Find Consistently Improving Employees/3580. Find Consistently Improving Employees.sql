@@ -1,9 +1,9 @@
 /*
  * Problem: 3580. Find Consistently Improving Employees
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-consistently-improving-employees/?envType=problem-list-v2&envId=ne414q67
+ * Link: https://leetcode.com/problems/find-consistently-improving-employees/
  * Language: mysql
- * Date: 2026-04-13
+ * Date: 2026-05-08
  */
 
 # Write your MySQL query statement below
