@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 150
+- **Total Problems Solved:** 151
 - **Easy:** 30 🟢
-- **Medium:** 81 🟡
+- **Medium:** 82 🟡
 - **Hard:** 39 🔴
 
 ## 📝 Problems
@@ -124,6 +124,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
+| [Unknown Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | 🟡 Medium | mysql | 2026-05-08 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 | [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | java | 2026-05-02 |
 | [2920. Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/) | 🔴 Hard | java | 2026-05-02 |
