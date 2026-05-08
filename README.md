@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 143
+- **Total Problems Solved:** 144
 - **Easy:** 30 🟢
 - **Medium:** 76 🟡
-- **Hard:** 37 🔴
+- **Hard:** 38 🔴
 
 ## 📝 Problems
 
@@ -155,6 +155,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3441. Minimum Cost Good Caption](https://leetcode.com/problems/minimum-cost-good-caption/) | 🔴 Hard | java | 2026-05-07 |
 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | 🔴 Hard | java | 2026-05-07 |
 | [3501. Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | 🔴 Hard | java | 2026-05-08 |
+| [3534. Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | 🔴 Hard | java | 2026-05-08 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 
 ---
