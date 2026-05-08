@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 148
+- **Total Problems Solved:** 149
 - **Easy:** 30 🟢
-- **Medium:** 79 🟡
+- **Medium:** 80 🟡
 - **Hard:** 39 🔴
 
 ## 📝 Problems
@@ -116,6 +116,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | 🟡 Medium | java | 2026-05-08 |
 | [3568. Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | 🟡 Medium | java | 2026-05-08 |
 | [3577. Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | 🟡 Medium | java | 2026-05-08 |
+| [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | 🟡 Medium | java | 2026-05-08 |
 | [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/?envType=daily-question&envId=2026-05-07) | 🟡 Medium | java | 2026-05-07 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
