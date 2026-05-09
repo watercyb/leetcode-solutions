@@ -1,9 +1,9 @@
 /*
  * Problem: 3660. Jump Game IX
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/jump-game-ix/?envType=daily-question&envId=2026-05-07
+ * Link: https://leetcode.com/problems/jump-game-ix/
  * Language: java
- * Date: 2026-05-07
+ * Date: 2026-05-09
  */
 
 class Solution {
