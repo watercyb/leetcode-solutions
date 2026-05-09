@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 157
+- **Total Problems Solved:** 158
 - **Easy:** 30 🟢
-- **Medium:** 87 🟡
+- **Medium:** 88 🟡
 - **Hard:** 40 🔴
 
 ## 📝 Problems
@@ -123,6 +123,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3608. Minimum Time for K Connected Components](https://leetcode.com/problems/minimum-time-for-k-connected-components/) | 🟡 Medium | java | 2026-05-09 |
 | [3618. Split Array by Prime Indices](https://leetcode.com/problems/split-array-by-prime-indices/) | 🟡 Medium | python3 | 2026-05-09 |
 | [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) | 🟡 Medium | java | 2026-05-09 |
+| [3641. Longest Semi-Repeating Subarray](https://leetcode.com/problems/longest-semi-repeating-subarray/) | 🟡 Medium | java | 2026-05-09 |
 | [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/?envType=daily-question&envId=2026-05-07) | 🟡 Medium | java | 2026-05-07 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
