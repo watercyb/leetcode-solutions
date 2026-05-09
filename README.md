@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 163
-- **Easy:** 31 🟢
+- **Total Problems Solved:** 164
+- **Easy:** 32 🟢
 - **Medium:** 91 🟡
 - **Hard:** 41 🔴
 
@@ -42,6 +42,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3465. Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | 🟢 Easy | python3 | 2026-05-07 |
 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | java | 2026-05-08 |
 | [3667. Sort Array By Absolute Value](https://leetcode.com/problems/sort-array-by-absolute-value/description/) | 🟢 Easy | java | 2026-05-09 |
+| [3687. Library Late Fee Calculator](https://leetcode.com/problems/library-late-fee-calculator/) | 🟢 Easy | java | 2026-05-09 |
 | [3917. Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | 🟢 Easy | kotlin | 2026-05-05 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/?envType=daily-question&envId=2026-05-09) | 🟡 Medium | java | 2026-05-09 |
