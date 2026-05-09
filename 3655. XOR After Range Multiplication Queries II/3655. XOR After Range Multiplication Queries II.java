@@ -1,9 +1,9 @@
 /*
  * Problem: 3655. XOR After Range Multiplication Queries II
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/?envType=daily-question&envId=2026-04-09
+ * Link: https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/
  * Language: java
- * Date: 2026-04-09
+ * Date: 2026-05-09
  */
 
 class Solution {
