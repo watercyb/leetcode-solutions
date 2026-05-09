@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 161
+- **Total Problems Solved:** 162
 - **Easy:** 31 🟢
-- **Medium:** 90 🟡
+- **Medium:** 91 🟡
 - **Hard:** 40 🔴
 
 ## 📝 Problems
@@ -128,6 +128,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3647. Maximum Weight in Two Bags](https://leetcode.com/problems/maximum-weight-in-two-bags/) | 🟡 Medium | java | 2026-05-09 |
 | [3657. Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | 🟡 Medium | mysql | 2026-05-09 |
 | [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/?envType=daily-question&envId=2026-05-07) | 🟡 Medium | java | 2026-05-07 |
+| [3670. Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/) | 🟡 Medium | java | 2026-05-09 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
