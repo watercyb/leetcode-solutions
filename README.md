@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 164
+- **Total Problems Solved:** 165
 - **Easy:** 32 🟢
 - **Medium:** 91 🟡
-- **Hard:** 41 🔴
+- **Hard:** 42 🔴
 
 ## 📝 Problems
 
@@ -176,6 +176,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3562. Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | 🔴 Hard | java | 2026-05-08 |
 | [3632. Subarrays with XOR at Least K](https://leetcode.com/problems/subarrays-with-xor-at-least-k/) | 🔴 Hard | java | 2026-05-09 |
 | [3677. Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers/) | 🔴 Hard | java | 2026-05-09 |
+| [3691. Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | 🔴 Hard | java | 2026-05-09 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 
 ---
