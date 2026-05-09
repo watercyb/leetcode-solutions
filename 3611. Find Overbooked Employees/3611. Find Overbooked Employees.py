@@ -6,20 +6,12 @@
 # Date: 2026-05-09
 
 
-# Write your MySQL query statement below
-with id as (
-    select employee_id
-    from meetings
-    group by employee_id, week(meeting_date, 1), year(meeting_date)
-    having SUM(duration_hours)>20
-),
-sm as (
-    select employee_id, COUNT(*) as meeting_heavy_weeks
-    from id
-    group by employee_id
-    having meeting_heavy_weeks>=2
-)
-select a.*, b.meeting_heavy_weeks
-from employees as a, sm as b
-where a.employee_id=b.employee_id
-order by meeting_heavy_weeks desc, employee_name
+import pandas as pd
+
+def find_overbooked_employees(employees: pd.DataFrame, meetings: pd.DataFrame) -> pd.DataFrame:
+    meetings=meetings.groupby(['employee_id', meetings['meeting_date'].dt.isocalendar().week, meetings['meeting_date'].dt.isocalendar().year])['duration_hours'].sum().reset_index()
+    meetings=meetings[meetings['duration_hours']>20]
+    meetings=meetings.groupby('employee_id').size().reset_index(name='meeting_heavy_weeks')
+    meetings=meetings[meetings['meeting_heavy_weeks']>=2]
+    df=pd.merge(employees, meetings, how='inner', on='employee_id').sort_values(by=['meeting_heavy_weeks', 'employee_name'], ascending=[False, True])
+    return df
