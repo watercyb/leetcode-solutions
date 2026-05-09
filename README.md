@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 156
+- **Total Problems Solved:** 157
 - **Easy:** 30 🟢
 - **Medium:** 87 🟡
-- **Hard:** 39 🔴
+- **Hard:** 40 🔴
 
 ## 📝 Problems
 
@@ -168,6 +168,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3501. Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | 🔴 Hard | java | 2026-05-08 |
 | [3534. Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | 🔴 Hard | java | 2026-05-08 |
 | [3562. Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | 🔴 Hard | java | 2026-05-08 |
+| [3632. Subarrays with XOR at Least K](https://leetcode.com/problems/subarrays-with-xor-at-least-k/) | 🔴 Hard | java | 2026-05-09 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 
 ---
