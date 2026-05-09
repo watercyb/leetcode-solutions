@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 167
+- **Total Problems Solved:** 168
 - **Easy:** 32 🟢
-- **Medium:** 92 🟡
+- **Medium:** 93 🟡
 - **Hard:** 43 🔴
 
 ## 📝 Problems
@@ -129,6 +129,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3642. Find Books with Polarized Opinions](https://leetcode.com/problems/find-books-with-polarized-opinions/) | 🟡 Medium | python3 | 2026-05-09 |
 | [3647. Maximum Weight in Two Bags](https://leetcode.com/problems/maximum-weight-in-two-bags/) | 🟡 Medium | java | 2026-05-09 |
 | [3657. Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | 🟡 Medium | mysql | 2026-05-09 |
+| [3657. Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | 🟡 Medium | python3 | 2026-05-09 |
 | [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/?envType=daily-question&envId=2026-05-07) | 🟡 Medium | java | 2026-05-07 |
 | [3670. Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/) | 🟡 Medium | java | 2026-05-09 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
