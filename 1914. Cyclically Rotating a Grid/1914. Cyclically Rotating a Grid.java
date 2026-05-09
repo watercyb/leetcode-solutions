@@ -1,9 +1,9 @@
 /*
  * Problem: 1914. Cyclically Rotating a Grid
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/cyclically-rotating-a-grid/
+ * Link: https://leetcode.com/problems/cyclically-rotating-a-grid/?envType=daily-question&envId=2026-05-09
  * Language: java
- * Date: 2026-04-22
+ * Date: 2026-05-09
  */
 
 class Solution {
