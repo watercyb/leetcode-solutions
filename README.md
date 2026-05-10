@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 182
+- **Total Problems Solved:** 183
 - **Easy:** 36 🟢
-- **Medium:** 101 🟡
+- **Medium:** 102 🟡
 - **Hard:** 45 🔴
 
 ## 📝 Problems
@@ -144,6 +144,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3756. Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | 🟡 Medium | java | 2026-05-10 |
 | [3760. Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 Medium | java | 2026-05-10 |
 | [3770. Largest Prime from Consecutive Prime Sum](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | 🟡 Medium | java | 2026-05-10 |
+| [3789. Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | 🟡 Medium | java | 2026-05-10 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
