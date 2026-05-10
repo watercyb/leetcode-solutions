@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 181
-- **Easy:** 35 🟢
+- **Total Problems Solved:** 182
+- **Easy:** 36 🟢
 - **Medium:** 101 🟡
 - **Hard:** 45 🔴
 
@@ -46,6 +46,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3687. Library Late Fee Calculator](https://leetcode.com/problems/library-late-fee-calculator/) | 🟢 Easy | java | 2026-05-09 |
 | [3701. Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | 🟢 Easy | java | 2026-05-10 |
 | [3718. Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | java | 2026-05-10 |
+| [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 Easy | java | 2026-05-10 |
 | [3917. Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | 🟢 Easy | kotlin | 2026-05-05 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/?envType=daily-question&envId=2026-05-09) | 🟡 Medium | java | 2026-05-09 |
