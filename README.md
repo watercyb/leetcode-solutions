@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 169
-- **Easy:** 32 🟢
+- **Total Problems Solved:** 170
+- **Easy:** 33 🟢
 - **Medium:** 93 🟡
 - **Hard:** 44 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | swift | 2026-05-10 |
 | [2822. Inversion of Object](https://leetcode.com/problems/inversion-of-object/) | 🟢 Easy | javascript | 2026-05-01 |
 | [2837. Total Traveled Distance](https://leetcode.com/problems/total-traveled-distance/) | 🟢 Easy | mysql | 2026-05-01 |
 | [2843.   Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | 🟢 Easy | java | 2026-05-01 |
