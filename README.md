@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 178
+- **Total Problems Solved:** 179
 - **Easy:** 35 🟢
-- **Medium:** 98 🟡
+- **Medium:** 99 🟡
 - **Hard:** 45 🔴
 
 ## 📝 Problems
@@ -140,6 +140,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3737. Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | java | 2026-05-10 |
 | [3741. Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | 🟡 Medium | java | 2026-05-10 |
 | [3742. Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | 🟡 Medium | java | 2026-05-10 |
+| [3756. Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | 🟡 Medium | java | 2026-05-10 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
