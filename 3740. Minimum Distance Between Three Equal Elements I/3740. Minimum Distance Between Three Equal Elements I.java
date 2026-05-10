@@ -1,9 +1,9 @@
 /*
  * Problem: 3740. Minimum Distance Between Three Equal Elements I
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/?envType=daily-question&envId=2026-04-10
+ * Link: https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/
  * Language: java
- * Date: 2026-04-10
+ * Date: 2026-05-10
  */
 
 class Solution {
