@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 174
+- **Total Problems Solved:** 175
 - **Easy:** 35 🟢
 - **Medium:** 95 🟡
-- **Hard:** 44 🔴
+- **Hard:** 45 🔴
 
 ## 📝 Problems
 
@@ -185,6 +185,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3673. Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions/) | 🔴 Hard | python3 | 2026-05-09 |
 | [3677. Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers/) | 🔴 Hard | java | 2026-05-09 |
 | [3691. Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | 🔴 Hard | java | 2026-05-09 |
+| [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-05-10 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 | [3924. Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | 🔴 Hard | java | 2026-05-10 |
 
