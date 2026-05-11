@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 203
-- **Easy:** 41 🟢
+- **Total Problems Solved:** 204
+- **Easy:** 42 🟢
 - **Medium:** 110 🟡
 - **Hard:** 52 🔴
 
@@ -52,6 +52,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3833. Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | 🟢 Easy | java | 2026-05-11 |
 | [3842. Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | 🟢 Easy | rust | 2026-05-11 |
 | [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | 🟢 Easy | python3 | 2026-05-11 |
+| [3908. Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | 🟢 Easy | kotlin | 2026-05-11 |
 | [3917. Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | 🟢 Easy | kotlin | 2026-05-05 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/?envType=daily-question&envId=2026-05-09) | 🟡 Medium | java | 2026-05-09 |
