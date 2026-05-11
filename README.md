@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 190
-- **Easy:** 37 🟢
+- **Total Problems Solved:** 191
+- **Easy:** 38 🟢
 - **Medium:** 105 🟡
 - **Hard:** 48 🔴
 
@@ -48,6 +48,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3701. Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | 🟢 Easy | java | 2026-05-10 |
 | [3718. Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | java | 2026-05-10 |
 | [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 Easy | java | 2026-05-10 |
+| [3823. Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | 🟢 Easy | java | 2026-05-11 |
 | [3917. Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | 🟢 Easy | kotlin | 2026-05-05 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/?envType=daily-question&envId=2026-05-09) | 🟡 Medium | java | 2026-05-09 |
