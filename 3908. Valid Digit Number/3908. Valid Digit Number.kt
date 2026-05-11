@@ -3,7 +3,7 @@
  * Difficulty: Easy
  * Link: https://leetcode.com/problems/valid-digit-number/
  * Language: kotlin
- * Date: 2026-04-28
+ * Date: 2026-05-11
  */
 
 class Solution {
