@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/
  * Language: kotlin
- * Date: 2026-04-07
+ * Date: 2026-05-11
  */
 
 class Solution {
