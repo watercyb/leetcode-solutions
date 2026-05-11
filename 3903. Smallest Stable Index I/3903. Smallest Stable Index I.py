@@ -3,7 +3,7 @@
 # Difficulty: Easy
 # Link: https://leetcode.com/problems/smallest-stable-index-i/
 # Language: python3
-# Date: 2026-04-20
+# Date: 2026-05-11
 
 
 class Solution:
