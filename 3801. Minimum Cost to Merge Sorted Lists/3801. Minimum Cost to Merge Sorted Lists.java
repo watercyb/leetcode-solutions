@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/
  * Language: java
- * Date: 2026-05-10
+ * Date: 2026-05-11
  */
 
 class Solution {
