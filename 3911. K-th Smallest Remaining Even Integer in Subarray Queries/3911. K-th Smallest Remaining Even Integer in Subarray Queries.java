@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/k-th-smallest-remaining-even-integer-in-subarray-queries/
  * Language: java
- * Date: 2026-04-28
+ * Date: 2026-05-11
  */
 
 class Solution {
