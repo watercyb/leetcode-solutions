@@ -1,9 +1,9 @@
 /*
  * Problem: 2553. Separate the Digits in an Array
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/separate-the-digits-in-an-array/
+ * Link: https://leetcode.com/problems/separate-the-digits-in-an-array/?envType=daily-question&envId=2026-05-11
  * Language: java
- * Date: 2026-04-28
+ * Date: 2026-05-11
  */
 
 class Solution {
