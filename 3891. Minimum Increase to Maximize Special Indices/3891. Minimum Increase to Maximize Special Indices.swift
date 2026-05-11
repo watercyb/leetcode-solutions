@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/
  * Language: swift
- * Date: 2026-04-08
+ * Date: 2026-05-11
  */
 
 class Solution {
