@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/minimum-xor-path-in-a-grid/
  * Language: csharp
- * Date: 2026-03-31
+ * Date: 2026-05-11
  */
 
 public class Solution {
