@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/
  * Language: java
- * Date: 2026-04-28
+ * Date: 2026-05-11
  */
 
 class Solution {
