@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/longest-balanced-substring-after-one-swap/
  * Language: rust
- * Date: 2026-04-15
+ * Date: 2026-05-11
  */
 
 use std::collections::HashMap;
