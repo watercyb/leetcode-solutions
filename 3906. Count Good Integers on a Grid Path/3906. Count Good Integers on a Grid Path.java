@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/count-good-integers-on-a-grid-path/
  * Language: java
- * Date: 2026-04-20
+ * Date: 2026-05-11
  */
 
 class Solution {
