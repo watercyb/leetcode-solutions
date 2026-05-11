@@ -3,7 +3,7 @@
 # Difficulty: Medium
 # Link: https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/
 # Language: python3
-# Date: 2026-04-15
+# Date: 2026-05-11
 
 
 isPrimes = [True] * 100004
