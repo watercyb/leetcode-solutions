@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 199
+- **Total Problems Solved:** 200
 - **Easy:** 40 🟢
 - **Medium:** 108 🟡
-- **Hard:** 51 🔴
+- **Hard:** 52 🔴
 
 ## 📝 Problems
 
@@ -209,6 +209,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3832. Find Users with Persistent Behavior Patterns](https://leetcode.com/problems/find-users-with-persistent-behavior-patterns/) | 🔴 Hard | python3 | 2026-05-11 |
 | [3850. Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | 🔴 Hard | java | 2026-05-11 |
 | [3873. Maximum Points Activated with One Addition](https://leetcode.com/problems/maximum-points-activated-with-one-addition/) | 🔴 Hard | java | 2026-05-11 |
+| [3892. Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | 🔴 Hard | java | 2026-05-11 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 | [3924. Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | 🔴 Hard | java | 2026-05-10 |
 | [3928. Minimum Cost to Buy Apples II](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | 🔴 Hard | java | 2026-05-11 |
