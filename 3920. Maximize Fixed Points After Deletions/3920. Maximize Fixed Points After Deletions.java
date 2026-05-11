@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/maximize-fixed-points-after-deletions/
  * Language: java
- * Date: 2026-05-05
+ * Date: 2026-05-11
  */
 
 class Solution {
