@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/design-event-manager/
  * Language: kotlin
- * Date: 2026-03-31
+ * Date: 2026-05-11
  */
 
 class EventManager(events: Array<IntArray>) {
