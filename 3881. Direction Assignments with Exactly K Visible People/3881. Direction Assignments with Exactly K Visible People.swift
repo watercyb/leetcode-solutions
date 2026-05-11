@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/direction-assignments-with-exactly-k-visible-people/
  * Language: swift
- * Date: 2026-03-31
+ * Date: 2026-05-11
  */
 
 class Solution {
