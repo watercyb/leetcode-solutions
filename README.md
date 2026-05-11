@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 195
+- **Total Problems Solved:** 196
 - **Easy:** 40 🟢
-- **Medium:** 105 🟡
+- **Medium:** 106 🟡
 - **Hard:** 50 🔴
 
 ## 📝 Problems
@@ -152,6 +152,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3800. Minimum Cost to Make Two Binary Strings Equal](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | 🟡 Medium | java | 2026-05-10 |
 | [3811. Number of Alternating XOR Partitions](https://leetcode.com/problems/number-of-alternating-xor-partitions/) | 🟡 Medium | java | 2026-05-11 |
 | [3819. Rotate Non Negative Elements](https://leetcode.com/problems/rotate-non-negative-elements/) | 🟡 Medium | java | 2026-05-11 |
+| [3862. Find the Smallest Balanced Index](https://leetcode.com/problems/find-the-smallest-balanced-index/) | 🟡 Medium | csharp | 2026-05-11 |
 | [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3919. Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | 🟡 Medium | rust | 2026-05-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
