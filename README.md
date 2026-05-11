@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 187
+- **Total Problems Solved:** 188
 - **Easy:** 37 🟢
 - **Medium:** 103 🟡
-- **Hard:** 47 🔴
+- **Hard:** 48 🔴
 
 ## 📝 Problems
 
@@ -197,6 +197,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3691. Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | 🔴 Hard | java | 2026-05-09 |
 | [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-05-10 |
 | [3801. Minimum Cost to Merge Sorted Lists](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | 🔴 Hard | java | 2026-05-10 |
+| [3802. Number of Ways to Paint Sheets](https://leetcode.com/problems/number-of-ways-to-paint-sheets/) | 🔴 Hard | java | 2026-05-11 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 | [3924. Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | 🔴 Hard | java | 2026-05-10 |
 | [3928. Minimum Cost to Buy Apples II](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | 🔴 Hard | java | 2026-05-11 |
