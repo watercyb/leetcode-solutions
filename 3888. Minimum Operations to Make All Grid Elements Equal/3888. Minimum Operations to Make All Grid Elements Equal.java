@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/minimum-operations-to-make-all-grid-elements-equal/
  * Language: java
- * Date: 2026-04-02
+ * Date: 2026-05-11
  */
 
 class Solution {
