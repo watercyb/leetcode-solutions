@@ -3,7 +3,7 @@
  * Difficulty: Easy
  * Link: https://leetcode.com/problems/first-matching-character-from-both-ends/
  * Language: kotlin
- * Date: 2026-03-31
+ * Date: 2026-05-11
  */
 
 class Solution {
