@@ -3,7 +3,7 @@
  * Difficulty: Easy
  * Link: https://leetcode.com/problems/count-indices-with-opposite-parity/
  * Language: kotlin
- * Date: 2026-05-05
+ * Date: 2026-05-11
  */
 
 class Solution {
