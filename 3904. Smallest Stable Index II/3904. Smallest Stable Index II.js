@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/smallest-stable-index-ii/
  * Language: javascript
- * Date: 2026-04-20
+ * Date: 2026-05-11
  */
 
 /**
