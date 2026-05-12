@@ -1,9 +1,9 @@
 /*
  * Problem: 1665. Minimum Initial Energy to Finish Tasks
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/
+ * Link: https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/?envType=daily-question&envId=2026-05-12
  * Language: java
- * Date: 2026-04-19
+ * Date: 2026-05-12
  */
 
 class Solution {
