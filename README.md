@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 207
-- **Easy:** 43 🟢
+- **Total Problems Solved:** 208
+- **Easy:** 44 🟢
 - **Medium:** 110 🟡
 - **Hard:** 54 🔴
 
@@ -55,6 +55,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3908. Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | 🟢 Easy | kotlin | 2026-05-11 |
 | [3917. Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | 🟢 Easy | kotlin | 2026-05-05 |
 | [3921. Score Validator](https://leetcode.com/problems/score-validator/) | 🟢 Easy | csharp | 2026-05-12 |
+| [3925. Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | 🟢 Easy | kotlin | 2026-05-12 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/?envType=daily-question&envId=2026-05-09) | 🟡 Medium | java | 2026-05-09 |
 | [2820. Election Results](https://leetcode.com/problems/election-results/) | 🟡 Medium | python3 | 2026-05-01 |
