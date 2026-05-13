@@ -17,8 +17,7 @@ class Solution {
         List<Integer> res = new ArrayList<>();
         for (int[] query : queries) {
             insert(root, 0, 1000000000, query[0]);
-            int num = get(root, 0, 1000000000, root.count - query[1] + 1);
-            p = pow(p, num);
+            p = pow(p, get(root, 0, 1000000000, root.count - query[1] + 1));
             res.add(p);
         }
         return res;
