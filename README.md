@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 212
+- **Total Problems Solved:** 213
 - **Easy:** 44 🟢
 - **Medium:** 114 🟡
-- **Hard:** 54 🔴
+- **Hard:** 55 🔴
 
 ## 📝 Problems
 
@@ -225,6 +225,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
 | [3924. Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | 🔴 Hard | java | 2026-05-10 |
 | [3928. Minimum Cost to Buy Apples II](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | 🔴 Hard | java | 2026-05-11 |
+| [3930. Power Update After K-th Largest Insertion II](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/) | 🔴 Hard | python3 | 2026-05-13 |
 
 ---
 
