@@ -7,55 +7,62 @@
  */
 
 class Solution {
+    int mod = 1_000_000_007;
+
     public List<Integer> powerUpdate(int[] nums, int p, int[][] queries) {
-        long[] arr = new long[nums.length + queries.length];
-        BIT = new int[arr.length + 1];
-        for (int i = 0; i < nums.length; i++) {
-            arr[i] = ((long) nums[i] << 32) + 100000;
+        Node root = new Node(-1, 0);
+        for (int num : nums) {
+            insert(root, 0, 1000000000, num);
         }
-        for (int i = 0; i < queries.length; i++) {
-            arr[nums.length + i] = ((long) queries[i][0] << 32) + i;
+        List<Integer> res = new ArrayList<>();
+        for (int[] query : queries) {
+            insert(root, 0, 1000000000, query[0]);
+            int num = get(root, 0, 1000000000, root.count - query[1] + 1);
+            p = pow(p, num);
+            res.add(p);
         }
-        Arrays.sort(arr);
-        int l = 0;
-        int r = arr.length - 1;
-        while (l < r) {
-            long temp = arr[l];
-            arr[l] = arr[r];
-            arr[r] = temp;
-            l++;
-            r--;
+        return res;
+    }
+
+    public void insert(Node node, int l, int r, int val) {
+        if (l == r || node.val == val) {
+            node.count++;
+            return;
         }
-        int[] indexes = new int[queries.length];
-        for (int i = 0; i < arr.length; i++) {
-            int idx = (int) arr[i];
-            if (idx != 100000) {
-                indexes[idx] = i;
+        int mid = (l + r) >>> 1;
+        if (node.val >= 0) {
+            if (mid >= node.val) {
+                node.left = new Node(node.val, node.count);
+            } else {
+                node.right = new Node(node.val, node.count);
+            }
+            node.val = -1;
+        }
+        node.count++;
+        if (mid >= val) {
+            if (node.left == null) {
+                node.left = new Node(val, 1);
+            } else {
+                insert(node.left, l, mid, val);
+            }
+        } else {
+            if (node.right == null) {
+                node.right = new Node(val, 1);
+            } else {
+                insert(node.right, mid + 1, r, val);
             }
         }
-        int[] res = new int[queries.length];
-        for (int i = queries.length - 1; i >= 0; i--) {
-            l = queries[i][1] - 1;
-            r = arr.length - 1;
-            while (l < r) {
-                int mid = (l + r) >>> 1;
-                int idx = mid - get(mid);
-                if (idx >= queries[i][1] - 1) {
-                    r = mid;
-                } else {
-                    l = mid + 1;
-                }
-            }
-            int num = (int) (arr[l] >> 32);
-            res[i] = num;
-            insert(indexes[i]);
+    }
+
+    public int get(Node node, int l, int r, int sum) {
+        if (l == r || node.val >= 0)
+            return node.val;
+        int mid = (l + r) >>> 1;
+        if (node.left != null && sum <= node.left.count) {
+            return get(node.left, l, mid, sum);
+        } else {
+            return get(node.right, mid + 1, r, sum - (node.left == null ? 0 : node.left.count));
         }
-        List<Integer> resList = new ArrayList<>();
-        for (int i = 0; i < res.length; i++) {
-            p = pow(p, res[i]);
-            resList.add(p);
-        }
-        return resList;
     }
 
     public int pow(long a, int b) {
@@ -68,25 +75,16 @@ class Solution {
         }
         return (int) res;
     }
+}
 
-    int[] BIT;
-    int mod = 1_000_000_007;
+class Node {
+    Node left;
+    Node right;
+    int val;
+    int count;
 
-    public void insert(int i) {
-        i++;
-        while (i < BIT.length) {
-            BIT[i]++;
-            i += i & -i;
-        }
-    }
-
-    public int get(int i) {
-        i++;
-        int res = 0;
-        while (i > 0) {
-            res += BIT[i];
-            i -= i & -i;
-        }
-        return res;
+    public Node(int val, int count) {
+        this.val = val;
+        this.count = count;
     }
 }
