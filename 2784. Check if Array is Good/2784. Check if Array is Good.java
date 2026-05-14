@@ -1,9 +1,9 @@
 /*
  * Problem: 2784. Check if Array is Good
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/check-if-array-is-good/
+ * Link: https://leetcode.com/problems/check-if-array-is-good/?envType=daily-question&envId=2026-05-14
  * Language: java
- * Date: 2026-04-30
+ * Date: 2026-05-14
  */
 
 class Solution {
