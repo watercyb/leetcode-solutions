@@ -1,89 +1,115 @@
 /*
  * Problem: Unknown Problem
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/
+ * Link: https://leetcode.com/problems/minimum-partition-score-ii/
  * Language: java
- * Date: 2026-05-13
+ * Date: 2026-05-14
  */
 
 class Solution {
-    int mod = 1_000_000_007;
-
-    public List<Integer> powerUpdate(int[] nums, int p, int[][] queries) {
-        Node root = new Node(-1, 0);
-        for (int num : nums) {
-            insert(root, 0, 1000000000, num);
+    public long minPartitionScore(int[] nums, int k) {
+        int[] sums = new int[nums.length + 1];
+        for (int i = 0; i < nums.length; i++) {
+            sums[i + 1] = sums[i] + nums[i];
         }
-        List<Integer> res = new ArrayList<>();
-        for (int[] query : queries) {
-            insert(root, 0, 1000000000, query[0]);
-            p = pow(p, get(root, 0, 1000000000, root.count - query[1] + 1));
-            res.add(p);
-        }
-        return res;
-    }
-
-    public void insert(Node node, int l, int r, int val) {
-        if (l == r || node.val == val) {
-            node.count++;
-            return;
-        }
-        int mid = (l + r) >>> 1;
-        if (node.val >= 0) {
-            if (mid >= node.val) {
-                node.left = new Node(node.val, node.count);
+        int max = sums[nums.length];
+        long l = 0;
+        long r = (long) max * max;
+        CHT cht = new CHT(nums.length + 1);
+        while (l < r) {
+            long mid = (l + r) >>> 1;
+            if (chk(cht, nums, sums, mid) <= k) {
+                r = mid;
             } else {
-                node.right = new Node(node.val, node.count);
-            }
-            node.val = -1;
-        }
-        node.count++;
-        if (mid >= val) {
-            if (node.left == null) {
-                node.left = new Node(val, 1);
-            } else {
-                insert(node.left, l, mid, val);
-            }
-        } else {
-            if (node.right == null) {
-                node.right = new Node(val, 1);
-            } else {
-                insert(node.right, mid + 1, r, val);
+                l = mid + 1;
             }
         }
+        Pair<Long, Integer> res = calc(cht, nums, sums, l);
+        return res.getKey() - (long) l * k;
     }
 
-    public int get(Node node, int l, int r, int sum) {
-        if (l == r || node.val >= 0)
-            return node.val;
-        int mid = (l + r) >>> 1;
-        if (node.left != null && sum <= node.left.count) {
-            return get(node.left, l, mid, sum);
-        } else {
-            return get(node.right, mid + 1, r, sum - (node.left == null ? 0 : node.left.count));
+    public int chk(CHT cht, int[] nums, int[] sums, long mid) {
+        cht.reset();
+        cht.insert(0, mid, 0);
+        CHT.Node min = null;
+        for (int i = 0; i < nums.length; i++) {
+            min = cht.get(sums[i + 1]);
+            long next = min.get(sums[i + 1]) + (long) sums[i + 1] * sums[i + 1] + mid;
+            cht.insert(-sums[i + 1], next, min.count + 1);
         }
+        return min.count + 1;
     }
 
-    public int pow(long a, int b) {
-        long res = 1;
-        while (b > 0) {
-            if ((b & 1) == 1)
-                res = res * a % mod;
-            a = a * a % mod;
-            b >>= 1;
+    public Pair<Long, Integer> calc(CHT cht, int[] nums, int[] sums, long l) {
+        cht.reset();
+        cht.insert(0, l, 0);
+        long res = 0;
+        int count = 0;
+        for (int i = 0; i < nums.length; i++) {
+            CHT.Node min = cht.get(sums[i + 1]);
+            res = min.get(sums[i + 1]) + ((long) sums[i + 1] * sums[i + 1] + sums[i + 1]) / 2;
+            long next = res + ((long) sums[i + 1] * sums[i + 1] - sums[i + 1]) / 2 + l;
+            cht.insert(-sums[i + 1], next, min.count + 1);
+            count = min.count + 1;
         }
-        return (int) res;
+        return new Pair<>(res, count);
     }
 }
 
-class Node {
-    Node left;
-    Node right;
-    int val;
-    int count;
+class CHT {
+    Node[] nodes;
+    int[] counts;
+    int l = 0;
+    int r = 0;
 
-    public Node(int val, int count) {
-        this.val = val;
-        this.count = count;
+    public CHT(int n) {
+        nodes = new Node[n];
+    }
+
+    public void insert(long m, long b, int count) {
+        Node node = new Node(m, b, count);
+        while (r - l >= 2 && nodes[r - 1].cmpInt(nodes[r - 2], node)) {
+            r--;
+        }
+        nodes[r++] = node;
+    }
+
+    public Node get(long n) {
+        while (l < r - 1 && (nodes[l].get(n) > nodes[l + 1].get(n)
+                || (nodes[l].get(n) == nodes[l + 1].get(n) && nodes[l].count >= nodes[l + 1].count))) {
+            l++;
+        }
+        return nodes[l];
+    }
+
+    public void reset() {
+        l = r = 0;
+    }
+
+    class Node {
+        long m;
+        long b;
+        int count;
+        Node left;
+        Node right;
+
+        public Node(long m, long b, int count) {
+            this.m = m;
+            this.b = b;
+            this.count = count;
+        }
+
+        public long get(long x) {
+            return m * x + b;
+        }
+
+        public boolean cmpInt(Node before, Node after) {
+            return (b - before.b) * (m - after.m) >= (b - after.b) * (m - before.m);
+        }
+
+        public String toString() {
+            return "(" + m + ", " + b + ")";
+        }
     }
 }
+
