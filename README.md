@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 215
-- **Easy:** 44 🟢
+- **Total Problems Solved:** 216
+- **Easy:** 45 🟢
 - **Medium:** 116 🟡
 - **Hard:** 55 🔴
 
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | swift | 2026-05-10 |
 | [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/?envType=daily-question&envId=2026-05-11) | 🟢 Easy | java | 2026-05-11 |
+| [2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/?envType=daily-question&envId=2026-05-14) | 🟢 Easy | java | 2026-05-14 |
 | [2822. Inversion of Object](https://leetcode.com/problems/inversion-of-object/) | 🟢 Easy | javascript | 2026-05-01 |
 | [2837. Total Traveled Distance](https://leetcode.com/problems/total-traveled-distance/) | 🟢 Easy | mysql | 2026-05-01 |
 | [2843.   Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | 🟢 Easy | java | 2026-05-01 |
