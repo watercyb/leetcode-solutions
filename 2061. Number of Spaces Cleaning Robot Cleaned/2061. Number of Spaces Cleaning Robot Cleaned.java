@@ -1,9 +1,9 @@
 /*
  * Problem: 2061. Number of Spaces Cleaning Robot Cleaned
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/
+ * Link: https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/?envType=weekly-question&envId=2026-05-15
  * Language: java
- * Date: 2026-04-23
+ * Date: 2026-05-15
  */
 
 class Solution {
