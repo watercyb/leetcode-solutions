@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 218
+- **Total Problems Solved:** 219
 - **Easy:** 45 🟢
 - **Medium:** 118 🟡
-- **Hard:** 55 🔴
+- **Hard:** 56 🔴
 
 ## 📝 Problems
 
@@ -176,6 +176,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/minimum-generations-to-target-point/) | 🟡 Medium | csharp | 2026-05-12 |
 | [Unknown Problem](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/) | 🟡 Medium | java | 2026-05-13 |
 | [Unknown Problem](https://leetcode.com/problems/minimum-partition-score-ii/) | 🟡 Medium | java | 2026-05-14 |
+| [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/?envType=daily-question&envId=2026-05-16) | 🔴 Hard | java | 2026-05-16 |
 | [1665. Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/?envType=daily-question&envId=2026-05-12) | 🔴 Hard | java | 2026-05-12 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 | [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | java | 2026-05-02 |
