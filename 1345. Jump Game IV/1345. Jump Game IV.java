@@ -1,9 +1,9 @@
 /*
  * Problem: 1345. Jump Game IV
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/jump-game-iv/
+ * Link: https://leetcode.com/problems/jump-game-iv/?envType=daily-question&envId=2026-05-18
  * Language: java
- * Date: 2026-04-16
+ * Date: 2026-05-18
  */
 
 class Solution {
