@@ -8,10 +8,11 @@
 
 class Solution:
     def isAdjacentDiffAtMostTwo(self, s: str) -> bool:
-        prv=ord(s[0])
+        prv = ord(s[0])
         for chr in s:
-            num=ord(chr)
-            if abs(prv-num)>2:
+            num = ord(chr)
+            if abs(prv - num) > 2:
                 return False
-            prv=num
+            prv = num
         return True
+
