@@ -1,9 +1,9 @@
 /*
  * Problem: 2657. Find the Prefix Common Array of Two Arrays
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
+ * Link: https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/?envType=daily-question&envId=2026-05-20
  * Language: java
- * Date: 2026-04-29
+ * Date: 2026-05-20
  */
 
 class Solution {
