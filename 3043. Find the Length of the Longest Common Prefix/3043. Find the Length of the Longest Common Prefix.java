@@ -1,9 +1,9 @@
 /*
  * Problem: 3043. Find the Length of the Longest Common Prefix
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
+ * Link: https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/?envType=daily-question&envId=2026-05-21
  * Language: java
- * Date: 2026-05-03
+ * Date: 2026-05-21
  */
 
 class Solution {
