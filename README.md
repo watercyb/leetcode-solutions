@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 224
+- **Total Problems Solved:** 225
 - **Easy:** 46 🟢
-- **Medium:** 121 🟡
+- **Medium:** 122 🟡
 - **Hard:** 57 🔴
 
 ## 📝 Problems
@@ -88,6 +88,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3016. Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 Medium | java | 2026-05-03 |
 | [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | 🟡 Medium | java | 2026-05-03 |
 | [3039. Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/) | 🟡 Medium | python3 | 2026-05-03 |
+| [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/?envType=daily-question&envId=2026-05-21) | 🟡 Medium | java | 2026-05-21 |
 | [3048. Earliest Second to Mark Indices I](https://leetcode.com/problems/earliest-second-to-mark-indices-i/) | 🟡 Medium | java | 2026-05-03 |
 | [3056. Snaps Analysis](https://leetcode.com/problems/snaps-analysis/) | 🟡 Medium | python3 | 2026-05-03 |
 | [3081. Replace Question Marks in String to Minimize Its Value](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | 🟡 Medium | java | 2026-05-03 |
