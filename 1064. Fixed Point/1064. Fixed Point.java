@@ -1,9 +1,9 @@
 /*
  * Problem: 1064. Fixed Point
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/fixed-point/
+ * Link: https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22
  * Language: java
- * Date: 2026-04-12
+ * Date: 2026-05-22
  */
 
 class Solution {
