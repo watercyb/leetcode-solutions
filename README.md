@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 228
+- **Total Problems Solved:** 229
 - **Easy:** 48 🟢
 - **Medium:** 122 🟡
-- **Hard:** 58 🔴
+- **Hard:** 59 🔴
 
 ## 📝 Problems
 
@@ -183,6 +183,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/minimum-generations-to-target-point/) | 🟡 Medium | csharp | 2026-05-12 |
 | [Unknown Problem](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/) | 🟡 Medium | java | 2026-05-13 |
 | [Unknown Problem](https://leetcode.com/problems/minimum-partition-score-ii/) | 🟡 Medium | java | 2026-05-14 |
+| [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/?envType=daily-question&envId=2026-05-24) | 🔴 Hard | java | 2026-05-24 |
 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/?envType=daily-question&envId=2026-05-18) | 🔴 Hard | java | 2026-05-18 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/?envType=daily-question&envId=2026-05-16) | 🔴 Hard | java | 2026-05-16 |
 | [1665. Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/?envType=daily-question&envId=2026-05-12) | 🔴 Hard | java | 2026-05-12 |
