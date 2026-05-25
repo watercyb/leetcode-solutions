@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 231
-- **Easy:** 48 🟢
+- **Total Problems Solved:** 232
+- **Easy:** 49 🟢
 - **Medium:** 123 🟡
 - **Hard:** 60 🔴
 
@@ -60,6 +60,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3921. Score Validator](https://leetcode.com/problems/score-validator/) | 🟢 Easy | csharp | 2026-05-12 |
 | [3925. Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | 🟢 Easy | kotlin | 2026-05-12 |
 | [3931. Check Adjacent Digit Differences](https://leetcode.com/problems/check-adjacent-digit-differences/) | 🟢 Easy | python3 | 2026-05-18 |
+| [3936. Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | 🟢 Easy | csharp | 2026-05-25 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/?envType=daily-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/?envType=daily-question&envId=2026-05-25) | 🟡 Medium | java | 2026-05-25 |
