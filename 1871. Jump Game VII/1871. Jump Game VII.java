@@ -1,9 +1,9 @@
 /*
  * Problem: 1871. Jump Game VII
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/jump-game-vii/
+ * Link: https://leetcode.com/problems/jump-game-vii/?envType=daily-question&envId=2026-05-25
  * Language: java
- * Date: 2026-04-21
+ * Date: 2026-05-25
  */
 
 class Solution {
