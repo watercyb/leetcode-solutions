@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 230
+- **Total Problems Solved:** 231
 - **Easy:** 48 🟢
 - **Medium:** 123 🟡
-- **Hard:** 59 🔴
+- **Hard:** 60 🔴
 
 ## 📝 Problems
 
@@ -242,6 +242,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3924. Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | 🔴 Hard | java | 2026-05-10 |
 | [3928. Minimum Cost to Buy Apples II](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | 🔴 Hard | java | 2026-05-11 |
 | [3930. Power Update After K-th Largest Insertion II](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/) | 🔴 Hard | python3 | 2026-05-13 |
+| [3943. Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/) | 🔴 Hard | java | 2026-05-25 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
 ---
