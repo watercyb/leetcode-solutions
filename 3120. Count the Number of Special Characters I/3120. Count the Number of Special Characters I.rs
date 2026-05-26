@@ -1,9 +1,9 @@
 /*
  * Problem: 3120. Count the Number of Special Characters I
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/count-the-number-of-special-characters-i/
+ * Link: https://leetcode.com/problems/count-the-number-of-special-characters-i/?envType=daily-question&envId=2026-05-26
  * Language: rust
- * Date: 2026-05-04
+ * Date: 2026-05-26
  */
 
 impl Solution {
