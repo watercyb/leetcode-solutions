@@ -3,7 +3,7 @@
  * Difficulty: Easy
  * Link: https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/
  * Language: csharp
- * Date: 2026-05-25
+ * Date: 2026-05-26
  */
 
 public class Solution {
