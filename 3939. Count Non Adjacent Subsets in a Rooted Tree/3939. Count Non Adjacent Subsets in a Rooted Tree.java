@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/
  * Language: java
- * Date: 2026-05-25
+ * Date: 2026-05-26
  */
 
 class Solution {
