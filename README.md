@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 235
+- **Total Problems Solved:** 236
 - **Easy:** 51 🟢
-- **Medium:** 124 🟡
+- **Medium:** 125 🟡
 - **Hard:** 60 🔴
 
 ## 📝 Problems
@@ -181,6 +181,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3932. Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | 🟡 Medium | swift | 2026-05-18 |
 | [3933. Largest Local Values in a Matrix II](https://leetcode.com/problems/largest-local-values-in-a-matrix-ii/) | 🟡 Medium | java | 2026-05-19 |
 | [3937. Minimum Operations to Make Array Modulo Alternating I](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/) | 🟡 Medium | kotlin | 2026-05-26 |
+| [3941. Password Strength](https://leetcode.com/problems/password-strength/) | 🟡 Medium | rust | 2026-05-26 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
