@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 237
+- **Total Problems Solved:** 238
 - **Easy:** 51 🟢
-- **Medium:** 126 🟡
+- **Medium:** 127 🟡
 - **Hard:** 60 🔴
 
 ## 📝 Problems
@@ -183,6 +183,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3937. Minimum Operations to Make Array Modulo Alternating I](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/) | 🟡 Medium | kotlin | 2026-05-26 |
 | [3938. Maximum Path Intersection Sum in a Grid](https://leetcode.com/problems/maximum-path-intersection-sum-in-a-grid/) | 🟡 Medium | python3 | 2026-05-26 |
 | [3941. Password Strength](https://leetcode.com/problems/password-strength/) | 🟡 Medium | rust | 2026-05-26 |
+| [3942. Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | 🟡 Medium | csharp | 2026-05-26 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
