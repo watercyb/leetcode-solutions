@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 233
-- **Easy:** 50 🟢
+- **Total Problems Solved:** 234
+- **Easy:** 51 🟢
 - **Medium:** 123 🟡
 - **Hard:** 60 🔴
 
@@ -34,6 +34,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | 🟢 Easy | java | 2026-05-03 |
 | [3046. Split the Array](https://leetcode.com/problems/split-the-array/) | 🟢 Easy | java | 2026-05-03 |
 | [3069. Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | java | 2026-05-03 |
+| [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/?envType=daily-question&envId=2026-05-26) | 🟢 Easy | rust | 2026-05-26 |
 | [3136. Valid Word](https://leetcode.com/problems/valid-word/) | 🟢 Easy | java | 2026-05-04 |
 | [3146. Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | 🟢 Easy | java | 2026-05-04 |
 | [3151. Special Array I](https://leetcode.com/problems/special-array-i/) | 🟢 Easy | java | 2026-05-04 |
