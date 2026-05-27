@@ -54,11 +54,11 @@ class Solution {
             } else if (min<min2&&num1!=arr[idx]%k) {
                 min2=min
             }
-            if (idx>0&&arr[idx-1]%k!=arr[idx]%k) {
+            if (idx>0&&arr[idx]%k-arr[idx-1]%k>1) {
                 val minL=min-(idx-l)+(r-idx)
                 if (minL<min2) min2=minL
             }
-            if (idx<arr.size-1&&arr[idx+1]%k!=arr[idx]%k) {
+            if (idx<arr.size-1&&arr[idx+1]%k-arr[idx]%k>1) {
                 val minR=min+(idx-l)-(r-idx)+2
                 if (minR<min2) min2=minR
             }
@@ -76,11 +76,11 @@ class Solution {
                     } else if (minNext<min2&&num1!=arr[idx]%k) {
                         min2=minNext
                     }
-                    if (arr[idx-1]%k!=arr[idx]%k) {
+                    if (arr[idx]%k-arr[idx-1]%k>1) {
                         val minL=minNext-(idx-l)+(r-idx)
                         if (minL<min2) min2=minL
                     }
-                    if (idx<arr.size-1&&arr[idx+1]%k!=arr[idx]%k) {
+                    if (idx<arr.size-1&&arr[idx+1]%k-arr[idx]%k>1) {
                         val minR=minNext+(idx-l)-(r-idx)+2
                         if (minR<min2) min2=minR
                     }
