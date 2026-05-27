@@ -1,9 +1,9 @@
 #
 # Problem: 3121. Count the Number of Special Characters II
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/count-the-number-of-special-characters-ii/
+# Link: https://leetcode.com/problems/count-the-number-of-special-characters-ii/?envType=daily-question&envId=2026-05-27
 # Language: python3
-# Date: 2026-05-04
+# Date: 2026-05-27
 
 
 class Solution:
