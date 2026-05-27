@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 240
+- **Total Problems Solved:** 241
 - **Easy:** 51 🟢
-- **Medium:** 128 🟡
+- **Medium:** 129 🟡
 - **Hard:** 61 🔴
 
 ## 📝 Problems
@@ -192,6 +192,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/minimum-generations-to-target-point/) | 🟡 Medium | csharp | 2026-05-12 |
 | [Unknown Problem](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/) | 🟡 Medium | java | 2026-05-13 |
 | [Unknown Problem](https://leetcode.com/problems/minimum-partition-score-ii/) | 🟡 Medium | java | 2026-05-14 |
+| [Unknown Problem](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-ii/) | 🟡 Medium | kotlin | 2026-05-27 |
 | [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/?envType=daily-question&envId=2026-05-24) | 🔴 Hard | java | 2026-05-24 |
 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/?envType=daily-question&envId=2026-05-18) | 🔴 Hard | java | 2026-05-18 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/?envType=daily-question&envId=2026-05-16) | 🔴 Hard | java | 2026-05-16 |
