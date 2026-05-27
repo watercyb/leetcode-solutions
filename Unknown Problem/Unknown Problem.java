@@ -93,7 +93,7 @@ class Solution {
                     break;
                 }
             }
-            if (idx < arr.length - 1 && arr[idx + 1] % k != arr[idx] % k && (arr[idx] + 1) % k != min1) {
+            if (idx < arr.length - 1 && arr[idx + 1] % k != arr[idx] % k && (arr[idx] + 1) % k != num1) {
                 long minR = min + (idx - l) - (r - idx) + 2;
                 min2 = Math.min(min2, minR);
             }
