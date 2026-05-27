@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 238
+- **Total Problems Solved:** 239
 - **Easy:** 51 🟢
-- **Medium:** 127 🟡
+- **Medium:** 128 🟡
 - **Hard:** 60 🔴
 
 ## 📝 Problems
@@ -103,6 +103,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3101. Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/) | 🟡 Medium | java | 2026-05-03 |
 | [3106. Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/) | 🟡 Medium | rust | 2026-05-04 |
 | [3119. Maximum Number of Potholes That Can Be Fixed](https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed/) | 🟡 Medium | java | 2026-05-04 |
+| [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/?envType=daily-question&envId=2026-05-27) | 🟡 Medium | python3 | 2026-05-27 |
 | [3125. Maximum Number That Makes Result of Bitwise AND Zero](https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero/) | 🟡 Medium | python3 | 2026-05-04 |
 | [3128. Right Triangles](https://leetcode.com/problems/right-triangles/) | 🟡 Medium | python3 | 2026-05-04 |
 | [3157. Find the Level of Tree with Minimum Sum](https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum/) | 🟡 Medium | java | 2026-05-04 |
