@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 241
+- **Total Problems Solved:** 242
 - **Easy:** 51 🟢
-- **Medium:** 129 🟡
+- **Medium:** 130 🟡
 - **Hard:** 61 🔴
 
 ## 📝 Problems
@@ -181,6 +181,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3927. Minimize Array Sum Using Divisible Replacements](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | 🟡 Medium | python3 | 2026-05-12 |
 | [3932. Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | 🟡 Medium | swift | 2026-05-18 |
 | [3933. Largest Local Values in a Matrix II](https://leetcode.com/problems/largest-local-values-in-a-matrix-ii/) | 🟡 Medium | java | 2026-05-19 |
+| [3935. Power Update After K-th Largest Insertion I](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-i/) | 🟡 Medium | java | 2026-05-28 |
 | [3937. Minimum Operations to Make Array Modulo Alternating I](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/) | 🟡 Medium | kotlin | 2026-05-26 |
 | [3938. Maximum Path Intersection Sum in a Grid](https://leetcode.com/problems/maximum-path-intersection-sum-in-a-grid/) | 🟡 Medium | python3 | 2026-05-26 |
 | [3941. Password Strength](https://leetcode.com/problems/password-strength/) | 🟡 Medium | rust | 2026-05-26 |
