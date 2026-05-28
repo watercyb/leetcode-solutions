@@ -3,108 +3,104 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/number-of-pairs-after-increment/
  * Language: java
- * Date: 2026-05-25
+ * Date: 2026-05-28
  */
 
 class Solution {
     public int[] numberOfPairs(int[] nums1, int[] nums2, int[][] queries) {
-        int max = 0;
-        Node root = new Node();
-        for (int i = 0; i < nums2.length; i++) {
-            max = Math.max(max, nums2[i]);
-            insert(root, 0, nums2.length - 1, i, nums2[i]);
+        HashMap<Integer, Integer> HM = new HashMap<>();
+        for (int num : nums1) {
+            HM.put(num, HM.getOrDefault(num, 0) + 1);
         }
         int count = 0;
+        int max = 0;
         for (int[] query : queries) {
-            if (query[0] == 2)
+            if (query[0] == 2) {
                 count++;
+                max = Math.max(max, query[1]);
+            }
         }
         int[] res = new int[count];
+        if (count == 0)
+            return res;
+        int len = 1000;
+        Node[] nodes = new Node[(nums2.length + len - 1) / len];
+        for (int i = 0; i < nums2.length; i += len) {
+            nodes[i / len] = new Node(nums2, i, Math.min(i + len - 1, nums2.length - 1), max);
+        }
         int idx = 0;
         for (int[] query : queries) {
             if (query[0] == 1) {
-                update(root, 0, nums2.length - 1, query[1], query[2], query[3]);
+                int left = query[1] / len;
+                int right = query[2] / len;
+                for (int i = left; i <= right; i++) {
+                    nodes[i].update(query[1], query[2], query[3]);
+                }
             } else {
                 int sum = 0;
-                for (int num : nums1) {
-                    sum += get(root, 0, nums2.length - 1, query[1] - num);
+                for (Map.Entry<Integer, Integer> e : HM.entrySet()) {
+                    int num = e.getKey();
+                    int val = e.getValue();
+                    if (num >= query[1])
+                        continue;
+                    for (Node node : nodes) {
+                        sum += node.get(query[1] - num) * val;
+                    }
                 }
                 res[idx++] = sum;
             }
         }
         return res;
     }
-
-    public void insert(Node node, int l, int r, int i, int num) {
-        if (l > i || r < i)
-            return;
-        if (l == r) {
-            node.HM.put(num, 1);
-            node.max = node.min = num;
-        } else {
-            node.HM.put(num, node.HM.getOrDefault(num, 0) + 1);
-            node.max = Math.max(node.max, num);
-            node.min = Math.min(node.min, num);
-            if (node.left == null) {
-                node.left = new Node();
-                node.right = new Node();
-            }
-            int mid = (l + r) >>> 1;
-            insert(node.left, l, mid, i, num);
-            insert(node.right, mid + 1, r, i, num);
-        }
-    }
-
-    public void update(Node node, int l, int r, int left, int right, int num) {
-        if (l >= left && r <= right) {
-            node.max += num;
-            node.min += num;
-            node.cache += num;
-        } else {
-            int mid = (l + r) >>> 1;
-            node.left.cache += node.cache;
-            node.right.cache += node.cache;
-            node.left.max += node.cache;
-            node.left.min += node.cache;
-            node.right.max += node.cache;
-            node.right.min += node.cache;
-            node.cache = 0;
-            node.HM = null;
-            if (left <= mid)
-                update(node.left, l, mid, left, right, num);
-            if (right > mid)
-                update(node.right, mid + 1, r, left, right, num);
-            node.max = Math.max(node.left.max, node.right.max);
-            node.min = Math.min(node.left.min, node.right.min);
-        }
-    }
-
-    public int get(Node node, int l, int r, int target) {
-        if (node.min > target || node.max < target)
-            return 0;
-        if (l == r)
-            return node.HM.getOrDefault(target - node.cache, 0);
-        if (node.HM == null) {
-            int mid = (l + r) >>> 1;
-            node.left.cache += node.cache;
-            node.right.cache += node.cache;
-            node.left.max += node.cache;
-            node.left.min += node.cache;
-            node.right.max += node.cache;
-            node.right.min += node.cache;
-            node.cache = 0;
-            return get(node.left, l, mid, target) + get(node.right, mid + 1, r, target);
-        } else {
-            return node.HM.getOrDefault(target - node.cache, 0);
-        }
-    }
 }
 
 class Node {
+    int[] nums;
     HashMap<Integer, Integer> HM = new HashMap<>();
-    int max = Integer.MIN_VALUE;
-    int min = Integer.MAX_VALUE;
-    int cache = 0;
-    Node left;
-    Node right;
+    int offset = 0;
+    int l;
+    int r;
+    int max;
+
+    public Node(int[] arr, int l, int r, int max) {
+        this.l = l;
+        this.r = r;
+        this.max = max;
+        nums = new int[r - l + 1];
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = arr[l];
+            if (nums[i] <= max)
+                HM.put(arr[l], HM.getOrDefault(arr[l], 0) + 1);
+            l++;
+        }
+    }
+
+    public void update(int l, int r, int num) {
+        if (l <= this.l && r >= this.r) {
+            offset += num;
+        } else {
+            if (offset > max)
+                return;
+            l = Math.max(l - this.l, 0);
+            r = Math.min(r - this.l, nums.length - 1);
+            for (int i = l; i <= r; i++) {
+                int oldVal = nums[i];
+                if (oldVal < max) {
+                    int count = HM.get(oldVal) - 1;
+                    if (count == 0) {
+                        HM.remove(oldVal);
+                    } else {
+                        HM.put(oldVal, count);
+                    }
+                }
+                nums[i] += num;
+                if (nums[i] < max)
+                    HM.put(nums[i], HM.getOrDefault(nums[i], 0) + 1);
+            }
+        }
+    }
+
+    public int get(int num) {
+        return HM.getOrDefault(num - offset, 0);
+    }
 }
