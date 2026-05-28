@@ -1,9 +1,9 @@
 /*
  * Problem: 3093. Longest Common Suffix Queries
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/longest-common-suffix-queries/
+ * Link: https://leetcode.com/problems/longest-common-suffix-queries/?envType=daily-question&envId=2026-05-28
  * Language: java
- * Date: 2026-05-03
+ * Date: 2026-05-28
  */
 
 class Solution {
