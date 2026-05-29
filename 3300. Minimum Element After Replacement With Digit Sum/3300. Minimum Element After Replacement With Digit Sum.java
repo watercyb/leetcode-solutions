@@ -1,9 +1,9 @@
 /*
  * Problem: 3300. Minimum Element After Replacement With Digit Sum
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/
+ * Link: https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/?envType=daily-question&envId=2026-05-29
  * Language: java
- * Date: 2026-05-05
+ * Date: 2026-05-29
  */
 
 class Solution {
