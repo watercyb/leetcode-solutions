@@ -1,9 +1,9 @@
 /*
  * Problem: 1056. Confusing Number
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/confusing-number/
+ * Link: https://leetcode.com/problems/confusing-number/?envType=weekly-question&envId=2026-05-29
  * Language: java
- * Date: 2026-04-12
+ * Date: 2026-05-29
  */
 
 class Solution {
