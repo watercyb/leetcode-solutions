@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 243
-- **Easy:** 52 🟢
+- **Total Problems Solved:** 244
+- **Easy:** 53 🟢
 - **Medium:** 130 🟡
 - **Hard:** 61 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | swift | 2026-05-10 |
+| [1056. Confusing Number](https://leetcode.com/problems/confusing-number/?envType=weekly-question&envId=2026-05-29) | 🟢 Easy | java | 2026-05-29 |
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
 | [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/?envType=daily-question&envId=2026-05-11) | 🟢 Easy | java | 2026-05-11 |
