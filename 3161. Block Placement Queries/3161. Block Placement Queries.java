@@ -1,9 +1,9 @@
 /*
  * Problem: 3161. Block Placement Queries
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/block-placement-queries/
+ * Link: https://leetcode.com/problems/block-placement-queries/?envType=daily-question&envId=2026-05-30
  * Language: java
- * Date: 2026-05-04
+ * Date: 2026-05-30
  */
 
 class Solution {
