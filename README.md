@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 244
+- **Total Problems Solved:** 245
 - **Easy:** 53 🟢
 - **Medium:** 130 🟡
-- **Hard:** 61 🔴
+- **Hard:** 62 🔴
 
 ## 📝 Problems
 
@@ -215,6 +215,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3098. Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | 🔴 Hard | java | 2026-05-03 |
 | [3102. Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/) | 🔴 Hard | java | 2026-05-04 |
 | [3113. Find the Number of Subarrays Where Boundary Elements Are Maximum](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/) | 🔴 Hard | java | 2026-05-04 |
+| [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/?envType=daily-question&envId=2026-05-30) | 🔴 Hard | java | 2026-05-30 |
 | [3188. Find Top Scoring Students II](https://leetcode.com/problems/find-top-scoring-students-ii/) | 🔴 Hard | python3 | 2026-05-04 |
 | [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | 🔴 Hard | java | 2026-05-04 |
 | [3231. Minimum Number of Increasing Subsequence to Be Removed](https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/) | 🔴 Hard | java | 2026-05-05 |
