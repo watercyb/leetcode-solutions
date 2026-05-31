@@ -1,9 +1,9 @@
 /*
  * Problem: 2126. Destroying Asteroids
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/destroying-asteroids/
+ * Link: https://leetcode.com/problems/destroying-asteroids/?envType=daily-question&envId=2026-05-31
  * Language: java
- * Date: 2026-04-24
+ * Date: 2026-05-31
  */
 
 class Solution {
