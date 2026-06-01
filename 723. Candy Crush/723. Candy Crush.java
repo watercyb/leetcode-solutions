@@ -1,9 +1,9 @@
 /*
  * Problem: 723. Candy Crush
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/candy-crush/
+ * Link: https://leetcode.com/problems/candy-crush/?envType=weekly-question&envId=2026-06-01
  * Language: java
- * Date: 2026-04-08
+ * Date: 2026-06-01
  */
 
 class Solution {
