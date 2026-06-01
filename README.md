@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 246
-- **Easy:** 53 🟢
+- **Total Problems Solved:** 247
+- **Easy:** 54 🟢
 - **Medium:** 131 🟡
 - **Hard:** 62 🔴
 
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1056. Confusing Number](https://leetcode.com/problems/confusing-number/?envType=weekly-question&envId=2026-05-29) | 🟢 Easy | java | 2026-05-29 |
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
+| [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/?envType=daily-question&envId=2026-06-01) | 🟢 Easy | rust | 2026-06-01 |
 | [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/?envType=daily-question&envId=2026-05-11) | 🟢 Easy | java | 2026-05-11 |
 | [2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/?envType=daily-question&envId=2026-05-14) | 🟢 Easy | java | 2026-05-14 |
 | [2822. Inversion of Object](https://leetcode.com/problems/inversion-of-object/) | 🟢 Easy | javascript | 2026-05-01 |
