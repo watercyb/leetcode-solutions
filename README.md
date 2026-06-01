@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 251
+- **Total Problems Solved:** 252
 - **Easy:** 54 🟢
-- **Medium:** 135 🟡
+- **Medium:** 136 🟡
 - **Hard:** 62 🔴
 
 ## 📝 Problems
@@ -191,6 +191,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3941. Password Strength](https://leetcode.com/problems/password-strength/) | 🟡 Medium | rust | 2026-05-26 |
 | [3942. Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | 🟡 Medium | csharp | 2026-05-26 |
 | [3946. Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | 🟡 Medium | swift | 2026-06-01 |
+| [3947. Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | 🟡 Medium | rust | 2026-06-01 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/?envType=weekly-question&envId=2026-06-01) | 🟡 Medium | java | 2026-06-01 |
