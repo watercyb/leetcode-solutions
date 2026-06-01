@@ -1,9 +1,9 @@
 /*
  * Problem: 2144. Minimum Cost of Buying Candies With Discount
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+ * Link: https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/?envType=daily-question&envId=2026-06-01
  * Language: rust
- * Date: 2026-04-24
+ * Date: 2026-06-01
  */
 
 impl Solution {
