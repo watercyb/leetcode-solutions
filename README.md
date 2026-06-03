@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 252
+- **Total Problems Solved:** 253
 - **Easy:** 54 🟢
-- **Medium:** 136 🟡
+- **Medium:** 137 🟡
 - **Hard:** 62 🔴
 
 ## 📝 Problems
@@ -154,6 +154,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3608. Minimum Time for K Connected Components](https://leetcode.com/problems/minimum-time-for-k-connected-components/) | 🟡 Medium | java | 2026-05-09 |
 | [3618. Split Array by Prime Indices](https://leetcode.com/problems/split-array-by-prime-indices/) | 🟡 Medium | python3 | 2026-05-09 |
 | [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) | 🟡 Medium | java | 2026-05-09 |
+| [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/?envType=daily-question&envId=2026-06-03) | 🟡 Medium | java | 2026-06-03 |
 | [3641. Longest Semi-Repeating Subarray](https://leetcode.com/problems/longest-semi-repeating-subarray/) | 🟡 Medium | java | 2026-05-09 |
 | [3642. Find Books with Polarized Opinions](https://leetcode.com/problems/find-books-with-polarized-opinions/) | 🟡 Medium | python3 | 2026-05-09 |
 | [3647. Maximum Weight in Two Bags](https://leetcode.com/problems/maximum-weight-in-two-bags/) | 🟡 Medium | java | 2026-05-09 |
