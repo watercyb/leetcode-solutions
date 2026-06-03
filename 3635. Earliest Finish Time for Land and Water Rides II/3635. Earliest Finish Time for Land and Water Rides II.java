@@ -1,9 +1,9 @@
 /*
  * Problem: 3635. Earliest Finish Time for Land and Water Rides II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/
+ * Link: https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/?envType=daily-question&envId=2026-06-03
  * Language: java
- * Date: 2026-05-09
+ * Date: 2026-06-03
  */
 
 class Solution {
