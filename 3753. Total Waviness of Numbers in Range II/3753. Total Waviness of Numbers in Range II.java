@@ -1,9 +1,9 @@
 /*
  * Problem: 3753. Total Waviness of Numbers in Range II
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/
+ * Link: https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/?envType=daily-question&envId=2026-06-05
  * Language: java
- * Date: 2026-05-10
+ * Date: 2026-06-05
  */
 
 class Solution {
