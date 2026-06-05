@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 253
+- **Total Problems Solved:** 254
 - **Easy:** 54 🟢
 - **Medium:** 137 🟡
-- **Hard:** 62 🔴
+- **Hard:** 63 🔴
 
 ## 📝 Problems
 
@@ -252,6 +252,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3677. Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers/) | 🔴 Hard | java | 2026-05-09 |
 | [3691. Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | 🔴 Hard | java | 2026-05-09 |
 | [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-05-10 |
+| [3753. Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/?envType=daily-question&envId=2026-06-05) | 🔴 Hard | java | 2026-06-05 |
 | [3801. Minimum Cost to Merge Sorted Lists](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | 🔴 Hard | java | 2026-05-10 |
 | [3802. Number of Ways to Paint Sheets](https://leetcode.com/problems/number-of-ways-to-paint-sheets/) | 🔴 Hard | java | 2026-05-11 |
 | [3832. Find Users with Persistent Behavior Patterns](https://leetcode.com/problems/find-users-with-persistent-behavior-patterns/) | 🔴 Hard | python3 | 2026-05-11 |
