@@ -1,9 +1,9 @@
 /*
  * Problem: 2196. Create Binary Tree From Descriptions
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/create-binary-tree-from-descriptions/
+ * Link: https://leetcode.com/problems/create-binary-tree-from-descriptions/?envType=daily-question&envId=2026-06-07
  * Language: java
- * Date: 2026-04-24
+ * Date: 2026-06-07
  */
 
 /**
