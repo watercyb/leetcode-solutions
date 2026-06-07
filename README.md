@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 255
+- **Total Problems Solved:** 256
 - **Easy:** 54 🟢
 - **Medium:** 138 🟡
-- **Hard:** 63 🔴
+- **Hard:** 64 🔴
 
 ## 📝 Problems
 
@@ -267,6 +267,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3930. Power Update After K-th Largest Insertion II](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/) | 🔴 Hard | python3 | 2026-05-13 |
 | [3943. Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/) | 🔴 Hard | java | 2026-05-25 |
 | [3944. Minimum Operations to Make Array Modulo Alternating II](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-ii/) | 🔴 Hard | java | 2026-05-27 |
+| [3953. Maximum Score with Co-Prime Element](https://leetcode.com/problems/maximum-score-with-co-prime-element/) | 🔴 Hard | java | 2026-06-07 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
 ---
