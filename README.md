@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 262
+- **Total Problems Solved:** 263
 - **Easy:** 56 🟢
 - **Medium:** 141 🟡
-- **Hard:** 65 🔴
+- **Hard:** 66 🔴
 
 ## 📝 Problems
 
@@ -273,6 +273,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3943. Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/) | 🔴 Hard | java | 2026-05-25 |
 | [3944. Minimum Operations to Make Array Modulo Alternating II](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-ii/) | 🔴 Hard | java | 2026-05-27 |
 | [3953. Maximum Score with Co-Prime Element](https://leetcode.com/problems/maximum-score-with-co-prime-element/) | 🔴 Hard | java | 2026-06-07 |
+| [3956. Maximum Sum of M Non-Overlapping Subarrays I](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i/) | 🔴 Hard | java | 2026-06-08 |
 | [3957. Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | 🔴 Hard | java | 2026-06-08 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
