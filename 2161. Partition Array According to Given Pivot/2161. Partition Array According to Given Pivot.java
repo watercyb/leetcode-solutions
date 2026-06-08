@@ -1,9 +1,9 @@
 /*
  * Problem: 2161. Partition Array According to Given Pivot
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/partition-array-according-to-given-pivot/
+ * Link: https://leetcode.com/problems/partition-array-according-to-given-pivot/?envType=daily-question&envId=2026-06-08
  * Language: java
- * Date: 2026-04-24
+ * Date: 2026-06-08
  */
 
 class Solution {
