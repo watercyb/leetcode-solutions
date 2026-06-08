@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/maximum-score-with-co-prime-element/
  * Language: java
- * Date: 2026-06-07
+ * Date: 2026-06-08
  */
 
 class Solution {
