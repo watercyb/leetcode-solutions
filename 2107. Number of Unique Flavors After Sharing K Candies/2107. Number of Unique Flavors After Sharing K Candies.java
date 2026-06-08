@@ -1,9 +1,9 @@
 /*
  * Problem: 2107. Number of Unique Flavors After Sharing K Candies
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/
+ * Link: https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/?envType=weekly-question&envId=2026-06-08
  * Language: java
- * Date: 2026-04-24
+ * Date: 2026-06-08
  */
 
 class Solution {
