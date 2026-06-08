@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 263
+- **Total Problems Solved:** 264
 - **Easy:** 56 🟢
-- **Medium:** 141 🟡
+- **Medium:** 142 🟡
 - **Hard:** 66 🔴
 
 ## 📝 Problems
@@ -198,6 +198,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3946. Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | 🟡 Medium | swift | 2026-06-01 |
 | [3947. Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | 🟡 Medium | rust | 2026-06-01 |
 | [3951. Minimum Energy to Maintain Brightness](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | 🟡 Medium | python3 | 2026-06-08 |
+| [3952. Maximum Total Value of Covered Indices](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | 🟡 Medium | csharp | 2026-06-08 |
 | [3955. Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | 🟡 Medium | kotlin | 2026-06-08 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
