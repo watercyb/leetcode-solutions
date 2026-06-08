@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 259
-- **Easy:** 55 🟢
+- **Total Problems Solved:** 260
+- **Easy:** 56 🟢
 - **Medium:** 139 🟡
 - **Hard:** 65 🔴
 
@@ -67,6 +67,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3936. Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | 🟢 Easy | csharp | 2026-05-25 |
 | [3940. Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | 🟢 Easy | swift | 2026-05-25 |
 | [3950. Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | 🟢 Easy | rust | 2026-06-08 |
+| [3954. Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | 🟢 Easy | swift | 2026-06-08 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/?envType=daily-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/?envType=daily-question&envId=2026-05-25) | 🟡 Medium | java | 2026-05-25 |
