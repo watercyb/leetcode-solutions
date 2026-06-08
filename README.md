@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 256
+- **Total Problems Solved:** 257
 - **Easy:** 54 🟢
-- **Medium:** 138 🟡
+- **Medium:** 139 🟡
 - **Hard:** 64 🔴
 
 ## 📝 Problems
@@ -72,6 +72,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/?envType=daily-question&envId=2026-05-09) | 🟡 Medium | java | 2026-05-09 |
 | [2061. Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/?envType=weekly-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
 | [2126. Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/?envType=daily-question&envId=2026-05-31) | 🟡 Medium | java | 2026-05-31 |
+| [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/?envType=daily-question&envId=2026-06-08) | 🟡 Medium | java | 2026-06-08 |
 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/?envType=daily-question&envId=2026-06-07) | 🟡 Medium | java | 2026-06-07 |
 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/?envType=daily-question&envId=2026-05-20) | 🟡 Medium | java | 2026-05-20 |
 | [2820. Election Results](https://leetcode.com/problems/election-results/) | 🟡 Medium | python3 | 2026-05-01 |
