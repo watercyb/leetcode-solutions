@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 266
+- **Total Problems Solved:** 267
 - **Easy:** 56 🟢
-- **Medium:** 144 🟡
+- **Medium:** 145 🟡
 - **Hard:** 66 🔴
 
 ## 📝 Problems
@@ -202,6 +202,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3951. Minimum Energy to Maintain Brightness](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | 🟡 Medium | python3 | 2026-06-08 |
 | [3952. Maximum Total Value of Covered Indices](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | 🟡 Medium | csharp | 2026-06-08 |
 | [3955. Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | 🟡 Medium | kotlin | 2026-06-08 |
+| [3958. Minimum Cost to Split into Ones II](https://leetcode.com/problems/minimum-cost-to-split-into-ones-ii/) | 🟡 Medium | java | 2026-06-09 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/?envType=weekly-question&envId=2026-06-01) | 🟡 Medium | java | 2026-06-01 |
