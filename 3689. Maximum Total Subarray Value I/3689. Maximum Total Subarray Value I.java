@@ -1,9 +1,9 @@
 /*
  * Problem: 3689. Maximum Total Subarray Value I
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-total-subarray-value-i/
+ * Link: https://leetcode.com/problems/maximum-total-subarray-value-i/?envType=daily-question&envId=2026-06-09
  * Language: java
- * Date: 2026-05-09
+ * Date: 2026-06-09
  */
 
 class Solution {
