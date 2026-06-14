@@ -1,9 +1,9 @@
 /*
  * Problem: 2130. Maximum Twin Sum of a Linked List
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+ * Link: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/?envType=daily-question&envId=2026-06-14
  * Language: java
- * Date: 2026-04-24
+ * Date: 2026-06-14
  */
 
 /**
