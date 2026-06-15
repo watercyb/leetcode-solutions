@@ -1,9 +1,9 @@
 /*
  * Problem: 1259. Handshakes That Don't Cross
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/handshakes-that-dont-cross/
+ * Link: https://leetcode.com/problems/handshakes-that-dont-cross/?envType=weekly-question&envId=2026-06-15
  * Language: java
- * Date: 2026-04-15
+ * Date: 2026-06-15
  */
 
 class Solution {
