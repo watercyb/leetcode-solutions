@@ -1,9 +1,9 @@
 /*
  * Problem: 3612. Process String with Special Operations I
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/process-string-with-special-operations-i/
+ * Link: https://leetcode.com/problems/process-string-with-special-operations-i/?envType=daily-question&envId=2026-06-16
  * Language: java
- * Date: 2026-05-09
+ * Date: 2026-06-16
  */
 
 class Solution {
