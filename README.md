@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 270
+- **Total Problems Solved:** 271
 - **Easy:** 56 🟢
-- **Medium:** 148 🟡
+- **Medium:** 149 🟡
 - **Hard:** 66 🔴
 
 ## 📝 Problems
@@ -159,6 +159,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3593. Minimum Increments to Equalize Leaf Paths](https://leetcode.com/problems/minimum-increments-to-equalize-leaf-paths/) | 🟡 Medium | java | 2026-05-08 |
 | [3601. Find Drivers with Improved Fuel Efficiency](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/) | 🟡 Medium | mysql | 2026-05-09 |
 | [3608. Minimum Time for K Connected Components](https://leetcode.com/problems/minimum-time-for-k-connected-components/) | 🟡 Medium | java | 2026-05-09 |
+| [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/?envType=daily-question&envId=2026-06-16) | 🟡 Medium | java | 2026-06-16 |
 | [3618. Split Array by Prime Indices](https://leetcode.com/problems/split-array-by-prime-indices/) | 🟡 Medium | python3 | 2026-05-09 |
 | [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) | 🟡 Medium | java | 2026-05-09 |
 | [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/?envType=daily-question&envId=2026-06-03) | 🟡 Medium | java | 2026-06-03 |
