@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 271
+- **Total Problems Solved:** 272
 - **Easy:** 56 🟢
 - **Medium:** 149 🟡
-- **Hard:** 66 🔴
+- **Hard:** 67 🔴
 
 ## 📝 Problems
 
@@ -261,6 +261,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3501. Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | 🔴 Hard | java | 2026-05-08 |
 | [3534. Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | 🔴 Hard | java | 2026-05-08 |
 | [3562. Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | 🔴 Hard | java | 2026-05-08 |
+| [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/?envType=daily-question&envId=2026-06-17) | 🔴 Hard | java | 2026-06-17 |
 | [3632. Subarrays with XOR at Least K](https://leetcode.com/problems/subarrays-with-xor-at-least-k/) | 🔴 Hard | java | 2026-05-09 |
 | [3673. Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions/) | 🔴 Hard | python3 | 2026-05-09 |
 | [3677. Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers/) | 🔴 Hard | java | 2026-05-09 |
