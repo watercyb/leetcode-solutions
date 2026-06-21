@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 273
+- **Total Problems Solved:** 274
 - **Easy:** 56 🟢
 - **Medium:** 150 🟡
-- **Hard:** 67 🔴
+- **Hard:** 68 🔴
 
 ## 📝 Problems
 
@@ -285,6 +285,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3953. Maximum Score with Co-Prime Element](https://leetcode.com/problems/maximum-score-with-co-prime-element/) | 🔴 Hard | java | 2026-06-07 |
 | [3956. Maximum Sum of M Non-Overlapping Subarrays I](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i/) | 🔴 Hard | java | 2026-06-08 |
 | [3957. Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | 🔴 Hard | java | 2026-06-08 |
+| [3971. Maximum Total Value](https://leetcode.com/problems/maximum-total-value/) | 🔴 Hard | java | 2026-06-21 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
 ---
