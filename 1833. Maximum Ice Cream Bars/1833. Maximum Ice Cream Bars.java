@@ -1,9 +1,9 @@
 /*
  * Problem: 1833. Maximum Ice Cream Bars
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-ice-cream-bars/
+ * Link: https://leetcode.com/problems/maximum-ice-cream-bars/?envType=daily-question&envId=2026-06-21
  * Language: java
- * Date: 2026-04-21
+ * Date: 2026-06-21
  */
 
 class Solution {
