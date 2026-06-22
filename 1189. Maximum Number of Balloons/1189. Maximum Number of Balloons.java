@@ -1,9 +1,9 @@
 /*
  * Problem: 1189. Maximum Number of Balloons
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/maximum-number-of-balloons/
+ * Link: https://leetcode.com/problems/maximum-number-of-balloons/?envType=daily-question&envId=2026-06-22
  * Language: java
- * Date: 2026-04-14
+ * Date: 2026-06-22
  */
 
 class Solution {
