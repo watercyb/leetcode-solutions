@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 276
+- **Total Problems Solved:** 277
 - **Easy:** 57 🟢
 - **Medium:** 151 🟡
-- **Hard:** 68 🔴
+- **Hard:** 69 🔴
 
 ## 📝 Problems
 
@@ -269,6 +269,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3673. Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions/) | 🔴 Hard | python3 | 2026-05-09 |
 | [3677. Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers/) | 🔴 Hard | java | 2026-05-09 |
 | [3691. Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | 🔴 Hard | java | 2026-05-09 |
+| [3699. Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/?envType=daily-question&envId=2026-06-23) | 🔴 Hard | java | 2026-06-23 |
 | [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-05-10 |
 | [3753. Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/?envType=daily-question&envId=2026-06-05) | 🔴 Hard | java | 2026-06-05 |
 | [3801. Minimum Cost to Merge Sorted Lists](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | 🔴 Hard | java | 2026-05-10 |
