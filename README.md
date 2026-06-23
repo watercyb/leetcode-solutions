@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 279
+- **Total Problems Solved:** 280
 - **Easy:** 57 🟢
 - **Medium:** 151 🟡
-- **Hard:** 71 🔴
+- **Hard:** 72 🔴
 
 ## 📝 Problems
 
@@ -290,6 +290,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3957. Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | 🔴 Hard | java | 2026-06-08 |
 | [3962. Maximum Subarray Sum After at Most K Swaps](https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps/) | 🔴 Hard | java | 2026-06-23 |
 | [3966. Count Good Integers in a Range](https://leetcode.com/problems/count-good-integers-in-a-range/) | 🔴 Hard | java | 2026-06-23 |
+| [3967. Finish Time of Tasks II](https://leetcode.com/problems/finish-time-of-tasks-ii/) | 🔴 Hard | java | 2026-06-23 |
 | [3971. Maximum Total Value](https://leetcode.com/problems/maximum-total-value/) | 🔴 Hard | java | 2026-06-21 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
