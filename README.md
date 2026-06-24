@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 282
+- **Total Problems Solved:** 283
 - **Easy:** 57 🟢
-- **Medium:** 153 🟡
+- **Medium:** 154 🟡
 - **Hard:** 72 🔴
 
 ## 📝 Problems
@@ -211,6 +211,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3955. Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | 🟡 Medium | kotlin | 2026-06-08 |
 | [3958. Minimum Cost to Split into Ones II](https://leetcode.com/problems/minimum-cost-to-split-into-ones-ii/) | 🟡 Medium | java | 2026-06-09 |
 | [3960. Frequency Balance Subarray](https://leetcode.com/problems/frequency-balance-subarray/) | 🟡 Medium | kotlin | 2026-06-23 |
+| [3961. Maximize Sum of Device Ratings](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | 🟡 Medium | rust | 2026-06-24 |
 | [3965. Finish Time of Tasks I](https://leetcode.com/problems/finish-time-of-tasks-i/) | 🟡 Medium | python3 | 2026-06-23 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
