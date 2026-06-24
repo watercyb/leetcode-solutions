@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps/
  * Language: java
- * Date: 2026-06-23
+ * Date: 2026-06-24
  */
 
 class Solution {
@@ -48,17 +48,21 @@ class Solution {
             PQ.clear();
             sum = 0;
             for (int j = 0; j < i; j++) {
-                PQ.offer(nums[j]);
-                sum += nums[j];
-                if (PQ.size() > k)
-                    sum -= PQ.poll();
+                if (nums[j] > 0) {
+                    PQ.offer(nums[j]);
+                    sum += nums[j];
+                    if (PQ.size() > k)
+                        sum -= PQ.poll();
+                }
             }
             topKSums[i][nums.length - 1] = sum;
             for (int j = nums.length - 1; j > i; j--) {
-                PQ.offer(nums[j]);
-                sum += nums[j];
-                if (PQ.size() > k)
-                    sum -= PQ.poll();
+                if (nums[j] > 0) {
+                    PQ.offer(nums[j]);
+                    sum += nums[j];
+                    if (PQ.size() > k)
+                        sum -= PQ.poll();
+                }
                 topKSums[i][j - 1] = sum;
             }
         }
