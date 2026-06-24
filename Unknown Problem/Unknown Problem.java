@@ -1,52 +1,54 @@
 /*
  * Problem: Unknown Problem
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/lexicographically-maximum-mex-array/
+ * Link: https://leetcode.com/problems/maximum-total-value/
  * Language: java
- * Date: 2026-06-01
+ * Date: 2026-06-24
  */
 
 class Solution {
-    public int[] maximumMEX(int[] nums) {
+    public int maxTotalValue(int[] value, int[] decay, int m) {
+        long total = m;
+        long sum = 0;
         int max = 0;
-        for (int num : nums) {
-            max = Math.max(max, num);
+        for (int i = 0; i < value.length; i++) {
+            int count = Math.max((value[i] + decay[i] - 1) / decay[i], 0);
+            sum += (long) (value[i] - (long) decay[i] * (count - 1) + value[i]) * count / 2;
+            total -= count;
+            max = Math.max(max, value[i]);
         }
-        int[] counts = new int[max + 2];
-        for (int num : nums) {
-            counts[num]++;
-        }
-        List<Integer> list = new ArrayList<>();
-        int lim = 0;
-        int[] used = new int[max + 1];
-        while (lim < nums.length) {
-            int count = 0;
-            int idx = 0;
-            while (counts[idx] != 0) {
-                count++;
-                used[idx]++;
-                idx++;
-            }
-            if (idx == 0)
-                break;
-            list.add(idx);
-            while (count > 0) {
-                int num = nums[lim++];
-                if (used[num] > 0) {
-                    used[num]--;
-                    count--;
-                }
-                counts[num]--;
+        if (total >= 0)
+            return (int) (sum % mod);
+        int l = 0;
+        int r = max + 1;
+        while (l < r) {
+            int mid = (l + r) >>> 1;
+            if (!chk(value, decay, m, mid)) {
+                r = mid;
+            } else {
+                l = mid + 1;
             }
         }
-        while (lim < nums.length) {
-            list.add(0);
-            lim++;
+        return getSum(value, decay, m, l - 1);
+    }
+
+    int mod = 1_000_000_007;
+
+    public int getSum(int[] value, int[] decay, int m, int n) {
+        long sum = 0;
+        for (int i = 0; i < value.length; i++) {
+            int count = Math.max((value[i] - n + decay[i] - 1) / decay[i], 0);
+            sum += (long) (value[i] - decay[i] * (count - 1) + value[i]) * count / 2;
+            m -= count;
         }
-        int[] res = new int[list.size()];
-        for (int i = 0; i < res.length; i++) {
-            res[i] = list.get(i);
+        return (int) ((sum - (long) (-m) * n) % mod);
+    }
+
+    public boolean chk(int[] value, int[] decay, int m, int mid) {
+        mid--;
+        for (int i = 0; i < value.length && m > 0; i++) {
+            m -= Math.max((value[i] - mid + decay[i] - 1) / decay[i], 0);
         }
-        return res;
+        return m <= 0;
     }
 }
