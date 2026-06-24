@@ -3,7 +3,7 @@
 # Difficulty: Medium
 # Link: https://leetcode.com/problems/finish-time-of-tasks-i/
 # Language: python3
-# Date: 2026-06-23
+# Date: 2026-06-24
 
 
 class Solution:
