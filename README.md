@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 286
+- **Total Problems Solved:** 287
 - **Easy:** 57 🟢
 - **Medium:** 157 🟡
-- **Hard:** 72 🔴
+- **Hard:** 73 🔴
 
 ## 📝 Problems
 
@@ -298,6 +298,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3966. Count Good Integers in a Range](https://leetcode.com/problems/count-good-integers-in-a-range/) | 🔴 Hard | java | 2026-06-23 |
 | [3967. Finish Time of Tasks II](https://leetcode.com/problems/finish-time-of-tasks-ii/) | 🔴 Hard | java | 2026-06-23 |
 | [3971. Maximum Total Value](https://leetcode.com/problems/maximum-total-value/) | 🔴 Hard | java | 2026-06-21 |
+| [3972. Valid Subarrays With Matching Sum Digits II](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-ii/) | 🔴 Hard | java | 2026-06-25 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
 ---
