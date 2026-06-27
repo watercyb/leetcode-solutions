@@ -1,9 +1,9 @@
 #
 # Problem: 3020. Find the Maximum Number of Elements in Subset
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/
+# Link: https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/?envType=daily-question&envId=2026-06-27
 # Language: python3
-# Date: 2026-05-03
+# Date: 2026-06-27
 
 
 class Solution:
