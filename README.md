@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 288
-- **Easy:** 57 🟢
+- **Total Problems Solved:** 289
+- **Easy:** 58 🟢
 - **Medium:** 158 🟡
 - **Hard:** 73 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | swift | 2026-05-10 |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | rust | 2026-06-27 |
 | [1056. Confusing Number](https://leetcode.com/problems/confusing-number/?envType=weekly-question&envId=2026-05-29) | 🟢 Easy | java | 2026-05-29 |
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
