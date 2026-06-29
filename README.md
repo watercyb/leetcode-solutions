@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 289
-- **Easy:** 58 🟢
+- **Total Problems Solved:** 290
+- **Easy:** 59 🟢
 - **Medium:** 158 🟡
 - **Hard:** 73 🔴
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/?envType=daily-question&envId=2026-06-22) | 🟢 Easy | java | 2026-06-22 |
+| [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/?envType=daily-question&envId=2026-06-29) | 🟢 Easy | java | 2026-06-29 |
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/?envType=daily-question&envId=2026-06-01) | 🟢 Easy | rust | 2026-06-01 |
 | [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/?envType=daily-question&envId=2026-05-11) | 🟢 Easy | java | 2026-05-11 |
 | [2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/?envType=daily-question&envId=2026-05-14) | 🟢 Easy | java | 2026-05-14 |
