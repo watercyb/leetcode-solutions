@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 293
+- **Total Problems Solved:** 294
 - **Easy:** 59 🟢
-- **Medium:** 160 🟡
+- **Medium:** 161 🟡
 - **Hard:** 74 🔴
 
 ## 📝 Problems
@@ -221,6 +221,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3970. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | 🟡 Medium | python3 | 2026-06-24 |
 | [3974. Maximum Total Sum of K Selected Elements](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | 🟡 Medium | rust | 2026-06-29 |
 | [3975. Filter Occupied Intervals](https://leetcode.com/problems/filter-occupied-intervals/) | 🟡 Medium | swift | 2026-06-29 |
+| [3976. Maximum Subarray Sum After Multiplier](https://leetcode.com/problems/maximum-subarray-sum-after-multiplier/) | 🟡 Medium | csharp | 2026-06-29 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/?envType=weekly-question&envId=2026-06-01) | 🟡 Medium | java | 2026-06-01 |
