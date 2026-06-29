@@ -1,9 +1,9 @@
 /*
  * Problem: 1490. Clone N-ary Tree
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/clone-n-ary-tree/
+ * Link: https://leetcode.com/problems/clone-n-ary-tree/?envType=weekly-question&envId=2026-06-29
  * Language: java
- * Date: 2026-04-17
+ * Date: 2026-06-29
  */
 
 /*
