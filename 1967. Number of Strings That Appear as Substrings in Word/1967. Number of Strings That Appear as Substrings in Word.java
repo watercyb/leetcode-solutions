@@ -1,9 +1,9 @@
 /*
  * Problem: 1967. Number of Strings That Appear as Substrings in Word
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+ * Link: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/?envType=daily-question&envId=2026-06-29
  * Language: java
- * Date: 2026-04-22
+ * Date: 2026-06-29
  */
 
 class Solution {
