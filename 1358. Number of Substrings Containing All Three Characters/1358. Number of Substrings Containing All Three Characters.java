@@ -1,9 +1,9 @@
 /*
  * Problem: 1358. Number of Substrings Containing All Three Characters
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+ * Link: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2026-06-30
  * Language: java
- * Date: 2026-04-16
+ * Date: 2026-06-30
  */
 
 class Solution {
