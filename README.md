@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 296
+- **Total Problems Solved:** 297
 - **Easy:** 59 🟢
-- **Medium:** 163 🟡
+- **Medium:** 164 🟡
 - **Hard:** 74 🔴
 
 ## 📝 Problems
@@ -95,6 +95,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2860. Happy Students](https://leetcode.com/problems/happy-students/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2863. Maximum Length of Semi-Decreasing Subarrays](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/) | 🟡 Medium | java | 2026-05-01 |
 | [2871. Split Array Into Maximum Number of Subarrays](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/) | 🟡 Medium | rust | 2026-05-01 |
+| [288. Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/?envType=weekly-question&envId=2026-07-01) | 🟡 Medium | java | 2026-07-01 |
 | [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | 🟡 Medium | java | 2026-05-02 |
 | [2905. Find Indices With Index and Value Difference II](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/) | 🟡 Medium | java | 2026-05-02 |
 | [2910. Minimum Number of Groups to Create a Valid Assignment](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/) | 🟡 Medium | java | 2026-05-02 |
