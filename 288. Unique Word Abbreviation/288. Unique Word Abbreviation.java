@@ -1,9 +1,9 @@
 /*
  * Problem: 288. Unique Word Abbreviation
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/unique-word-abbreviation/
+ * Link: https://leetcode.com/problems/unique-word-abbreviation/?envType=weekly-question&envId=2026-07-01
  * Language: java
- * Date: 2026-03-31
+ * Date: 2026-07-01
  */
 
 class ValidWordAbbr {
