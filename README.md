@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 295
+- **Total Problems Solved:** 296
 - **Easy:** 59 🟢
-- **Medium:** 162 🟡
+- **Medium:** 163 🟡
 - **Hard:** 74 🔴
 
 ## 📝 Problems
@@ -86,6 +86,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/?envType=daily-question&envId=2026-06-08) | 🟡 Medium | java | 2026-06-08 |
 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/?envType=daily-question&envId=2026-06-07) | 🟡 Medium | java | 2026-06-07 |
 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/?envType=daily-question&envId=2026-05-20) | 🟡 Medium | java | 2026-05-20 |
+| [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/?envType=daily-question&envId=2026-07-01) | 🟡 Medium | java | 2026-07-01 |
 | [2820. Election Results](https://leetcode.com/problems/election-results/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) | 🟡 Medium | python3 | 2026-05-01 |
