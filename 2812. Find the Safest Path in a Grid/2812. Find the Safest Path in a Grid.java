@@ -1,9 +1,9 @@
 /*
  * Problem: 2812. Find the Safest Path in a Grid
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-the-safest-path-in-a-grid/
+ * Link: https://leetcode.com/problems/find-the-safest-path-in-a-grid/?envType=daily-question&envId=2026-07-01
  * Language: java
- * Date: 2026-05-01
+ * Date: 2026-07-01
  */
 
 class Solution {
