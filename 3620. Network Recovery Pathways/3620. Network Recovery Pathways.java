@@ -1,9 +1,9 @@
 /*
  * Problem: 3620. Network Recovery Pathways
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/network-recovery-pathways/
+ * Link: https://leetcode.com/problems/network-recovery-pathways/?envType=daily-question&envId=2026-07-03
  * Language: java
- * Date: 2026-05-09
+ * Date: 2026-07-03
  */
 
 class Solution {
