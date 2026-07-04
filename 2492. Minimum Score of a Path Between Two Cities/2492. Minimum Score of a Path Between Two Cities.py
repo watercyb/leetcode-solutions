@@ -1,9 +1,9 @@
 #
 # Problem: 2492. Minimum Score of a Path Between Two Cities
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
+# Link: https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/?envType=daily-question&envId=2026-07-04
 # Language: python3
-# Date: 2026-04-27
+# Date: 2026-07-04
 
 
 class Solution:
