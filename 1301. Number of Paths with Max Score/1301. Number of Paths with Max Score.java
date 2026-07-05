@@ -1,9 +1,9 @@
 /*
  * Problem: 1301. Number of Paths with Max Score
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/number-of-paths-with-max-score/
+ * Link: https://leetcode.com/problems/number-of-paths-with-max-score/?envType=daily-question&envId=2026-07-05
  * Language: java
- * Date: 2026-04-16
+ * Date: 2026-07-05
  */
 
 class Solution {
