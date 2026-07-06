@@ -1,9 +1,9 @@
 /*
  * Problem: 1288. Remove Covered Intervals
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/remove-covered-intervals/
+ * Link: https://leetcode.com/problems/remove-covered-intervals/?envType=daily-question&envId=2026-07-06
  * Language: java
- * Date: 2026-04-15
+ * Date: 2026-07-06
  */
 
 class Solution {
