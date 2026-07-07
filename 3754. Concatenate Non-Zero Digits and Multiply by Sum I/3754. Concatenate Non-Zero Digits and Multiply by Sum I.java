@@ -1,9 +1,9 @@
 /*
  * Problem: 3754. Concatenate Non-Zero Digits and Multiply by Sum I
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/
+ * Link: https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/?envType=daily-question&envId=2026-07-07
  * Language: java
- * Date: 2026-05-10
+ * Date: 2026-07-07
  */
 
 class Solution {
