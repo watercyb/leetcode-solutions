@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 301
-- **Easy:** 59 🟢
+- **Total Problems Solved:** 302
+- **Easy:** 60 🟢
 - **Medium:** 166 🟡
 - **Hard:** 76 🔴
 
@@ -57,6 +57,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3687. Library Late Fee Calculator](https://leetcode.com/problems/library-late-fee-calculator/) | 🟢 Easy | java | 2026-05-09 |
 | [3701. Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | 🟢 Easy | java | 2026-05-10 |
 | [3718. Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | java | 2026-05-10 |
+| [3754. Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/?envType=daily-question&envId=2026-07-07) | 🟢 Easy | java | 2026-07-07 |
 | [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 Easy | java | 2026-05-10 |
 | [3823. Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | 🟢 Easy | java | 2026-05-11 |
 | [3833. Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | 🟢 Easy | java | 2026-05-11 |
