@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 304
+- **Total Problems Solved:** 305
 - **Easy:** 62 🟢
-- **Medium:** 166 🟡
+- **Medium:** 167 🟡
 - **Hard:** 76 🔴
 
 ## 📝 Problems
@@ -91,6 +91,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/?envType=daily-question&envId=2026-06-07) | 🟡 Medium | java | 2026-06-07 |
 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/?envType=daily-question&envId=2026-07-04) | 🟡 Medium | python3 | 2026-07-04 |
 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/?envType=daily-question&envId=2026-05-20) | 🟡 Medium | java | 2026-05-20 |
+| [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/?envType=daily-question&envId=2026-07-11) | 🟡 Medium | java | 2026-07-11 |
 | [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/?envType=daily-question&envId=2026-07-01) | 🟡 Medium | java | 2026-07-01 |
 | [2820. Election Results](https://leetcode.com/problems/election-results/) | 🟡 Medium | python3 | 2026-05-01 |
 | [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | 🟡 Medium | python3 | 2026-05-01 |
