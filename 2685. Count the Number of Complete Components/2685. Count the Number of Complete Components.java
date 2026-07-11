@@ -1,9 +1,9 @@
 /*
  * Problem: 2685. Count the Number of Complete Components
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/count-the-number-of-complete-components/
+ * Link: https://leetcode.com/problems/count-the-number-of-complete-components/?envType=daily-question&envId=2026-07-11
  * Language: java
- * Date: 2026-04-29
+ * Date: 2026-07-11
  */
 
 class Solution {
