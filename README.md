@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 305
-- **Easy:** 62 🟢
+- **Total Problems Solved:** 306
+- **Easy:** 63 🟢
 - **Medium:** 167 🟡
 - **Hard:** 76 🔴
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/?envType=daily-question&envId=2026-06-22) | 🟢 Easy | java | 2026-06-22 |
+| [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/?envType=daily-question&envId=2026-07-12) | 🟢 Easy | java | 2026-07-12 |
 | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/?envType=daily-question&envId=2026-06-29) | 🟢 Easy | java | 2026-06-29 |
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/?envType=daily-question&envId=2026-06-01) | 🟢 Easy | rust | 2026-06-01 |
 | [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/?envType=daily-question&envId=2026-05-11) | 🟢 Easy | java | 2026-05-11 |
