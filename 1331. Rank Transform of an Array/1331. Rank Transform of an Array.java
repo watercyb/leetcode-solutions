@@ -1,9 +1,9 @@
 /*
  * Problem: 1331. Rank Transform of an Array
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/rank-transform-of-an-array/
+ * Link: https://leetcode.com/problems/rank-transform-of-an-array/?envType=daily-question&envId=2026-07-12
  * Language: java
- * Date: 2026-04-16
+ * Date: 2026-07-12
  */
 
 class Solution {
