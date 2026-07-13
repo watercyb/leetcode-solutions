@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 310
+- **Total Problems Solved:** 311
 - **Easy:** 64 🟢
 - **Medium:** 170 🟡
-- **Hard:** 76 🔴
+- **Hard:** 77 🔴
 
 ## 📝 Problems
 
@@ -322,6 +322,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3971. Maximum Total Value](https://leetcode.com/problems/maximum-total-value/) | 🔴 Hard | java | 2026-06-21 |
 | [3972. Valid Subarrays With Matching Sum Digits II](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-ii/) | 🔴 Hard | java | 2026-06-25 |
 | [3977. Minimum Time to Reach Target With Limited Power](https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power/) | 🔴 Hard | java | 2026-06-29 |
+| [3985. Palindromic Subarray Sum](https://leetcode.com/problems/palindromic-subarray-sum/) | 🔴 Hard | java | 2026-07-13 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
 ---
