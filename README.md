@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 315
+- **Total Problems Solved:** 316
 - **Easy:** 64 🟢
-- **Medium:** 172 🟡
+- **Medium:** 173 🟡
 - **Hard:** 79 🔴
 
 ## 📝 Problems
@@ -237,6 +237,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3983. Subsequence After One Replacement](https://leetcode.com/problems/subsequence-after-one-replacement/) | 🟡 Medium | python3 | 2026-07-13 |
 | [3984. Divisible Game](https://leetcode.com/problems/divisible-game/) | 🟡 Medium | csharp | 2026-07-13 |
 | [3987. Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | 🟡 Medium | kotlin | 2026-07-13 |
+| [3988. Create Grid With Exactly K Paths I](https://leetcode.com/problems/create-grid-with-exactly-k-paths-i/) | 🟡 Medium | python3 | 2026-07-13 |
 | [3991. Sort Array Using Prefix Reversals](https://leetcode.com/problems/sort-array-using-prefix-reversals/) | 🟡 Medium | python3 | 2026-07-13 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
