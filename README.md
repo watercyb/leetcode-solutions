@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 308
-- **Easy:** 63 🟢
+- **Total Problems Solved:** 309
+- **Easy:** 64 🟢
 - **Medium:** 169 🟡
 - **Hard:** 76 🔴
 
@@ -75,6 +75,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3954. Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | 🟢 Easy | swift | 2026-06-08 |
 | [3978. Unique Middle Element](https://leetcode.com/problems/unique-middle-element/) | 🟢 Easy | rust | 2026-07-07 |
 | [3982. Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | 🟢 Easy | swift | 2026-07-07 |
+| [3986. Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | 🟢 Easy | csharp | 2026-07-13 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/?envType=daily-question&envId=2026-07-06) | 🟡 Medium | java | 2026-07-06 |
 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2026-07-13) | 🟡 Medium | java | 2026-07-13 |
