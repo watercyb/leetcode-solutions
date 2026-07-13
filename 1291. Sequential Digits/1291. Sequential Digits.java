@@ -1,9 +1,9 @@
 /*
  * Problem: 1291. Sequential Digits
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/sequential-digits/
+ * Link: https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2026-07-13
  * Language: java
- * Date: 2026-04-15
+ * Date: 2026-07-13
  */
 
 class Solution {
