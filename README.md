@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 316
+- **Total Problems Solved:** 317
 - **Easy:** 64 🟢
-- **Medium:** 173 🟡
+- **Medium:** 174 🟡
 - **Hard:** 79 🔴
 
 ## 📝 Problems
@@ -250,6 +250,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-ii/) | 🟡 Medium | kotlin | 2026-05-27 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-maximum-mex-array/) | 🟡 Medium | java | 2026-06-01 |
 | [Unknown Problem](https://leetcode.com/problems/digit-frequency-score/) | 🟡 Medium | csharp | 2026-06-01 |
+| [Unknown Problem](https://leetcode.com/problems/distinct-gate-paths-to-lca/) | 🟡 Medium | java | 2026-07-14 |
 | [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/?envType=daily-question&envId=2026-07-05) | 🔴 Hard | java | 2026-07-05 |
 | [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/?envType=daily-question&envId=2026-05-24) | 🔴 Hard | java | 2026-05-24 |
 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/?envType=daily-question&envId=2026-05-18) | 🔴 Hard | java | 2026-05-18 |
