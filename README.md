@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 318
+- **Total Problems Solved:** 319
 - **Easy:** 65 🟢
-- **Medium:** 174 🟡
+- **Medium:** 175 🟡
 - **Hard:** 79 🔴
 
 ## 📝 Problems
@@ -140,6 +140,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/) | 🟡 Medium | java | 2026-05-04 |
 | [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/) | 🟡 Medium | java | 2026-05-04 |
 | [3182. Find Top Scoring Students](https://leetcode.com/problems/find-top-scoring-students/) | 🟡 Medium | python3 | 2026-05-04 |
+| [320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/?envType=weekly-question&envId=2026-07-15) | 🟡 Medium | java | 2026-07-15 |
 | [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | 🟡 Medium | java | 2026-05-05 |
 | [3207. Maximum Points After Enemy Battles](https://leetcode.com/problems/maximum-points-after-enemy-battles/) | 🟡 Medium | python3 | 2026-05-05 |
 | [3211. Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | 🟡 Medium | python3 | 2026-05-05 |
