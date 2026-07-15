@@ -1,9 +1,9 @@
 /*
  * Problem: 320. Generalized Abbreviation
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/generalized-abbreviation/
+ * Link: https://leetcode.com/problems/generalized-abbreviation/?envType=weekly-question&envId=2026-07-15
  * Language: java
- * Date: 2026-04-01
+ * Date: 2026-07-15
  */
 
 class Solution {
