@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 321
+- **Total Problems Solved:** 322
 - **Easy:** 65 🟢
-- **Medium:** 176 🟡
+- **Medium:** 177 🟡
 - **Hard:** 80 🔴
 
 ## 📝 Problems
@@ -237,6 +237,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3974. Maximum Total Sum of K Selected Elements](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | 🟡 Medium | rust | 2026-06-29 |
 | [3975. Filter Occupied Intervals](https://leetcode.com/problems/filter-occupied-intervals/) | 🟡 Medium | swift | 2026-06-29 |
 | [3976. Maximum Subarray Sum After Multiplier](https://leetcode.com/problems/maximum-subarray-sum-after-multiplier/) | 🟡 Medium | csharp | 2026-06-29 |
+| [3980. Minimum Operations to Transform Binary String](https://leetcode.com/problems/minimum-operations-to-transform-binary-string/) | 🟡 Medium | rust | 2026-07-16 |
 | [3983. Subsequence After One Replacement](https://leetcode.com/problems/subsequence-after-one-replacement/) | 🟡 Medium | python3 | 2026-07-13 |
 | [3984. Divisible Game](https://leetcode.com/problems/divisible-game/) | 🟡 Medium | csharp | 2026-07-13 |
 | [3987. Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | 🟡 Medium | kotlin | 2026-07-13 |
