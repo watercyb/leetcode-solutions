@@ -1,9 +1,9 @@
 /*
  * Problem: 3867. Sum of GCD of Formed Pairs
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/
+ * Link: https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/?envType=daily-question&envId=2026-07-16
  * Language: csharp
- * Date: 2026-05-11
+ * Date: 2026-07-16
  */
 
 public class Solution {
