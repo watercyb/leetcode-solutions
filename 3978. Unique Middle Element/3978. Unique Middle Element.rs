@@ -3,7 +3,7 @@
  * Difficulty: Easy
  * Link: https://leetcode.com/problems/unique-middle-element/
  * Language: rust
- * Date: 2026-07-07
+ * Date: 2026-07-16
  */
 
 impl Solution {
