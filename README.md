@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 323
+- **Total Problems Solved:** 324
 - **Easy:** 65 🟢
 - **Medium:** 177 🟡
-- **Hard:** 81 🔴
+- **Hard:** 82 🔴
 
 ## 📝 Problems
 
@@ -333,6 +333,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3977. Minimum Time to Reach Target With Limited Power](https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power/) | 🔴 Hard | java | 2026-06-29 |
 | [3981. Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/) | 🔴 Hard | java | 2026-07-16 |
 | [3985. Palindromic Subarray Sum](https://leetcode.com/problems/palindromic-subarray-sum/) | 🔴 Hard | java | 2026-07-13 |
+| [3989. Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | 🔴 Hard | java | 2026-07-17 |
 | [3990. Create Grid With Exactly K Paths II](https://leetcode.com/problems/create-grid-with-exactly-k-paths-ii/) | 🔴 Hard | java | 2026-07-13 |
 | [3990. Create Grid With Exactly K Paths II](https://leetcode.com/problems/create-grid-with-exactly-k-paths-ii/) | 🔴 Hard | python3 | 2026-07-13 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
