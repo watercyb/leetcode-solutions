@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 322
+- **Total Problems Solved:** 323
 - **Easy:** 65 🟢
 - **Medium:** 177 🟡
-- **Hard:** 80 🔴
+- **Hard:** 81 🔴
 
 ## 📝 Problems
 
@@ -284,6 +284,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3266. Final Array State After K Multiplication Operations II](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/) | 🔴 Hard | java | 2026-05-05 |
 | [3273. Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | 🔴 Hard | java | 2026-05-05 |
 | [3288. Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | 🔴 Hard | java | 2026-05-05 |
+| [3312. Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/?envType=daily-question&envId=2026-07-17) | 🔴 Hard | java | 2026-07-17 |
 | [3329. Count Substrings With K-Frequency Characters II](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii/) | 🔴 Hard | java | 2026-05-06 |
 | [3351. Sum of Good Subsequences](https://leetcode.com/problems/sum-of-good-subsequences/) | 🔴 Hard | java | 2026-05-06 |
 | [3367. Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | 🔴 Hard | java | 2026-05-06 |
