@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/
  * Language: kotlin
- * Date: 2026-07-13
+ * Date: 2026-07-17
  */
 
 class Solution {
