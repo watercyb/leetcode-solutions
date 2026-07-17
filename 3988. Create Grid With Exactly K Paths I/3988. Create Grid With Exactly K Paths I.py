@@ -3,7 +3,7 @@
 # Difficulty: Medium
 # Link: https://leetcode.com/problems/create-grid-with-exactly-k-paths-i/
 # Language: python3
-# Date: 2026-07-13
+# Date: 2026-07-17
 
 
 class Solution:
