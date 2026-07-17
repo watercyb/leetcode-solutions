@@ -1,9 +1,9 @@
 /*
  * Problem: 3312. Sorted GCD Pair Queries
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/sorted-gcd-pair-queries/
+ * Link: https://leetcode.com/problems/sorted-gcd-pair-queries/?envType=daily-question&envId=2026-07-17
  * Language: java
- * Date: 2026-05-06
+ * Date: 2026-07-17
  */
 
 class Solution {
@@ -29,7 +29,6 @@ class Solution {
             pairs[i] += pairs[i - 1];
         }
         int[] res = new int[queries.length];
-        int j = 0;
         for (int i = 0; i < queries.length; i++) {
             res[i] = binarySearch(pairs, queries[i] + 1);
         }
