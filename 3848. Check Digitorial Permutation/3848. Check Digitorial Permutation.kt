@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/check-digitorial-permutation/
  * Language: kotlin
- * Date: 2026-05-11
+ * Date: 2026-07-18
  */
 
 class Solution {
