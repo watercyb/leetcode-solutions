@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 325
+- **Total Problems Solved:** 326
 - **Easy:** 66 🟢
 - **Medium:** 177 🟡
-- **Hard:** 82 🔴
+- **Hard:** 83 🔴
 
 ## 📝 Problems
 
@@ -310,6 +310,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3699. Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/?envType=daily-question&envId=2026-06-23) | 🔴 Hard | java | 2026-06-23 |
 | [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-05-10 |
 | [3753. Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/?envType=daily-question&envId=2026-06-05) | 🔴 Hard | java | 2026-06-05 |
+| [3762. Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/) | 🔴 Hard | java | 2026-07-18 |
 | [3801. Minimum Cost to Merge Sorted Lists](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | 🔴 Hard | java | 2026-05-10 |
 | [3802. Number of Ways to Paint Sheets](https://leetcode.com/problems/number-of-ways-to-paint-sheets/) | 🔴 Hard | java | 2026-05-11 |
 | [3832. Find Users with Persistent Behavior Patterns](https://leetcode.com/problems/find-users-with-persistent-behavior-patterns/) | 🔴 Hard | python3 | 2026-05-11 |
