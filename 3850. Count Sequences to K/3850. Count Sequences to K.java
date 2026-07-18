@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/count-sequences-to-k/
  * Language: java
- * Date: 2026-05-11
+ * Date: 2026-07-18
  */
 
 class Solution {
