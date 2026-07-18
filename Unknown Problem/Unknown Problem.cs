@@ -1,22 +1,30 @@
 /*
  * Problem: Unknown Problem
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/digit-frequency-score/
+ * Link: https://leetcode.com/problems/minimum-adjacent-swaps-to-partition-array/
  * Language: csharp
- * Date: 2026-06-01
+ * Date: 2026-07-18
  */
 
 public class Solution {
-    public int DigitFrequencyScore(int n) {
-        int[] counts=new int[10];
-        while (n>0) {
-            counts[n%10]++;
-            n/=10;
+    public int MinAdjacentSwaps(int[] nums, int a, int b) {
+        long res=0;
+        int count=0;
+        for (int i=nums.Length-1;i>=0;i--) {
+            if (nums[i]<=b) {
+                count++;
+            } else {
+                res+=count;
+            }
         }
-        int res=0;
-        for (int i=1;i<=9;i++) {
-            res+=i*counts[i];
+        count=0;
+        for (int i=nums.Length-1;i>=0;i--) {
+            if (nums[i]<a) {
+                count++;
+            } else if (nums[i]<=b) {
+                res+=count;
+            }
         }
-        return res;
+        return (int)(res%1_000_000_007);
     }
 }
