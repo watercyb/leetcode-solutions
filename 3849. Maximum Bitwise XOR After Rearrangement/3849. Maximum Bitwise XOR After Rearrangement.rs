@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/maximum-bitwise-xor-after-rearrangement/
  * Language: rust
- * Date: 2026-05-11
+ * Date: 2026-07-18
  */
 
 impl Solution {
