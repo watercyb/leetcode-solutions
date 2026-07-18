@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 328
+- **Total Problems Solved:** 329
 - **Easy:** 67 🟢
-- **Medium:** 177 🟡
+- **Medium:** 178 🟡
 - **Hard:** 84 🔴
 
 ## 📝 Problems
@@ -245,6 +245,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3987. Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | 🟡 Medium | kotlin | 2026-07-13 |
 | [3988. Create Grid With Exactly K Paths I](https://leetcode.com/problems/create-grid-with-exactly-k-paths-i/) | 🟡 Medium | python3 | 2026-07-13 |
 | [3991. Sort Array Using Prefix Reversals](https://leetcode.com/problems/sort-array-using-prefix-reversals/) | 🟡 Medium | python3 | 2026-07-13 |
+| [3993. Maximum Value of an Alternating Sequence](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/) | 🟡 Medium | swift | 2026-07-18 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/?envType=weekly-question&envId=2026-06-01) | 🟡 Medium | java | 2026-06-01 |
