@@ -1,9 +1,9 @@
 /*
  * Problem: 1979. Find Greatest Common Divisor of Array
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+ * Link: https://leetcode.com/problems/find-greatest-common-divisor-of-array/?envType=daily-question&envId=2026-07-18
  * Language: java
- * Date: 2026-04-22
+ * Date: 2026-07-18
  */
 
 class Solution {
