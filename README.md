@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 335
+- **Total Problems Solved:** 336
 - **Easy:** 68 🟢
 - **Medium:** 183 🟡
-- **Hard:** 84 🔴
+- **Hard:** 85 🔴
 
 ## 📝 Problems
 
@@ -347,6 +347,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3990. Create Grid With Exactly K Paths II](https://leetcode.com/problems/create-grid-with-exactly-k-paths-ii/) | 🔴 Hard | java | 2026-07-13 |
 | [3990. Create Grid With Exactly K Paths II](https://leetcode.com/problems/create-grid-with-exactly-k-paths-ii/) | 🔴 Hard | python3 | 2026-07-13 |
 | [3995. Minimum Cost to Convert String III](https://leetcode.com/problems/minimum-cost-to-convert-string-iii/) | 🔴 Hard | java | 2026-07-18 |
+| [3999. Minimum Number of String Groups Through Transformations](https://leetcode.com/problems/minimum-number-of-string-groups-through-transformations/) | 🔴 Hard | java | 2026-07-19 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
 ---
