@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 332
-- **Easy:** 67 🟢
+- **Total Problems Solved:** 333
+- **Easy:** 68 🟢
 - **Medium:** 181 🟡
 - **Hard:** 84 🔴
 
@@ -79,6 +79,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3982. Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | 🟢 Easy | swift | 2026-07-07 |
 | [3986. Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | 🟢 Easy | csharp | 2026-07-13 |
 | [3992. Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | 🟢 Easy | rust | 2026-07-18 |
+| [3996. Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | 🟢 Easy | rust | 2026-07-19 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/?envType=daily-question&envId=2026-07-19) | 🟡 Medium | java | 2026-07-19 |
 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/?envType=daily-question&envId=2026-07-06) | 🟡 Medium | java | 2026-07-06 |
