@@ -1,9 +1,9 @@
 /*
  * Problem: 1081. Smallest Subsequence of Distinct Characters
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+ * Link: https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/?envType=daily-question&envId=2026-07-19
  * Language: java
- * Date: 2026-04-12
+ * Date: 2026-07-19
  */
 
 class Solution {
