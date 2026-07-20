@@ -1,9 +1,9 @@
 /*
  * Problem: 1260. Shift 2D Grid
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/shift-2d-grid/
+ * Link: https://leetcode.com/problems/shift-2d-grid/?envType=daily-question&envId=2026-07-20
  * Language: java
- * Date: 2026-04-15
+ * Date: 2026-07-20
  */
 
 class Solution {
