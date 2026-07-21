@@ -1,9 +1,9 @@
 /*
  * Problem: 3499. Maximize Active Section with Trade I
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximize-active-section-with-trade-i/
+ * Link: https://leetcode.com/problems/maximize-active-section-with-trade-i/?envType=daily-question&envId=2026-07-21
  * Language: java
- * Date: 2026-05-07
+ * Date: 2026-07-21
  */
 
 class Solution {
