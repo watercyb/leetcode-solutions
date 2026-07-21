@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 336
+- **Total Problems Solved:** 337
 - **Easy:** 68 🟢
 - **Medium:** 183 🟡
-- **Hard:** 85 🔴
+- **Hard:** 86 🔴
 
 ## 📝 Problems
 
@@ -322,6 +322,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3801. Minimum Cost to Merge Sorted Lists](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | 🔴 Hard | java | 2026-05-10 |
 | [3802. Number of Ways to Paint Sheets](https://leetcode.com/problems/number-of-ways-to-paint-sheets/) | 🔴 Hard | java | 2026-05-11 |
 | [3832. Find Users with Persistent Behavior Patterns](https://leetcode.com/problems/find-users-with-persistent-behavior-patterns/) | 🔴 Hard | python3 | 2026-05-11 |
+| [3841. Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | 🔴 Hard | java | 2026-07-21 |
 | [3850. Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | 🔴 Hard | java | 2026-05-11 |
 | [3873. Maximum Points Activated with One Addition](https://leetcode.com/problems/maximum-points-activated-with-one-addition/) | 🔴 Hard | java | 2026-05-11 |
 | [3892. Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | 🔴 Hard | java | 2026-05-11 |
