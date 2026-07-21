@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/palindromic-path-queries-in-a-tree/
  * Language: java
- * Date: 2026-05-11
+ * Date: 2026-07-21
  */
 
 class Solution {
@@ -23,127 +23,76 @@ class Solution {
             links[edge[0]][--counts[edge[0]]] = edge[1];
             links[edge[1]][--counts[edge[1]]] = edge[0];
         }
-        firsts = new int[n];
-        seconds = new int[n];
+        heavies = new int[n];
+        dfsHeavy(links, 0, -1);
+        BIT = new int[n + 1];
+        treeToGroupIndexes = new int[n];
+        tops = new int[n];
         prvs = new int[n];
         levels = new int[n];
-        bit = new BIT(2 * n);
-        int len = 32 - Integer.numberOfLeadingZeros(2 * n);
-        if (len > 1 && (1 << (len - 1)) == 2 * n)
-            len--;
-        ST = new int[len][2 * n];
-        dfs(links, chrs, 0, -1, 0);
-        for (int i = 1; i < len; i++) {
-            for (int j = 0; j < 2 * n; j++) {
-                int idx = j + (1 << (i - 1));
-                if (idx >= 2 * n || levels[ST[i - 1][j]] < levels[ST[i - 1][idx]]) {
-                    ST[i][j] = ST[i - 1][j];
-                } else {
-                    ST[i][j] = ST[i - 1][idx];
-                }
-            }
+        groupToTreeIndex = new int[n];
+        idx = n - 1;
+        dfsGroup(links, 0, -1, n, -1, 0);
+        for (int i = 0; i < n; i++) {
+            int h = 1 << chrs[i];
+            insert(treeToGroupIndexes[i], h);
         }
         List<Boolean> res = new ArrayList<>();
-        for (String query : queries) {
-            int[] q = getQuery(query);
-            if (q[0] == 0) {
-                if (q[1] == q[2]) {
-                    res.add(true);
-                } else {
-                    res.add(Integer.bitCount(
-                            bit.get(firsts[q[1]]) ^ bit.get(firsts[q[2]]) ^ (1 << chrs[getLCA(q[1], q[2])])) <= 1);
-                }
+        for (int i = 0; i < queries.length; i++) {
+            String[] strs = queries[i].split(" ");
+            if (strs[0].equals("update")) {
+                int idx = Integer.valueOf(strs[1]);
+                int chr = strs[2].charAt(0) - 'a';
+                if (chrs[idx] == chr)
+                    continue;
+                int h = (1 << chrs[idx]) + (1 << chr);
+                chrs[idx] = chr;
+                insert(treeToGroupIndexes[idx], h);
             } else {
-                if (chrs[q[1]] != q[2]) {
-                    bit.insert(firsts[q[1]], chrs[q[1]], q[2]);
-                    bit.insert(seconds[q[1]], chrs[q[1]], q[2]);
-                    chrs[q[1]] = q[2];
+                int a = treeToGroupIndexes[Integer.valueOf(strs[1])];
+                int b = treeToGroupIndexes[Integer.valueOf(strs[2])];
+                int h = 0;
+                while (tops[a] != tops[b]) {
+                    if (levels[tops[a]] < levels[tops[b]]) {
+                        int temp = a;
+                        a = b;
+                        b = temp;
+                    }
+                    int top = tops[a];
+                    if (top == a) {
+                        h ^= 1 << chrs[groupToTreeIndex[a]];
+                    } else {
+                        h ^= get(a - 1);
+                        h ^= get(top);
+                    }
+                    a = prvs[top];
                 }
+                if (levels[a] < levels[b]) {
+                    h ^= get(a);
+                    h ^= get(b - 1);
+                } else {
+                    h ^= get(b);
+                    h ^= get(a - 1);
+                }
+                res.add(Integer.bitCount(h) <= 1);
             }
         }
         return res;
     }
 
-    int idx = 0;
-    int[] firsts;
-    int[] seconds;
+    int[] heavies;
+    int[] BIT;
+    int[] treeToGroupIndexes;
+    int[] tops;
     int[] prvs;
     int[] levels;
-    int[][] ST;
-    BIT bit;
+    int[] groupToTreeIndex;
+    int idx;
 
-    public void dfs(int[][] links, int[] chrs, int i, int prv, int lv) {
-        firsts[i] = idx;
-        prvs[i] = prv;
-        bit.insert(idx, chrs[i]);
-        ST[0][idx++] = i;
-        levels[i] = lv;
-        for (int next : links[i]) {
-            if (next == prv)
-                continue;
-            dfs(links, chrs, next, i, lv + 1);
-        }
-        bit.insert(idx, chrs[i]);
-        seconds[i] = idx;
-        ST[0][idx++] = i;
-    }
-
-    public int[] getQuery(String query) {
-        String[] strs = query.split(" ");
-        int[] res = new int[3];
-        res[1] = Integer.parseInt(strs[1]);
-        if (strs[0].charAt(0) == 'q') {
-            res[2] = Integer.parseInt(strs[2]);
-        } else {
-            res[0] = 1;
-            res[2] = strs[2].charAt(0) - 'a';
-        }
-        return res;
-    }
-
-    public int getLCA(int a, int b) {
-        int idxA = firsts[a];
-        int idxB = firsts[b];
-        if (idxA > idxB) {
-            return getLCA(b, a);
-        }
-        if (idxB - idxA == 1)
-            return a;
-        int l = idxA + 1;
-        int r = idxB - 1;
-        int len = 32 - Integer.numberOfLeadingZeros(r - l + 1);
-        if (len > 1 && (1 << (len - 1)) == r - l + 1)
-            len--;
-        int idx = r - (1 << (len - 1)) + 1;
-        if (levels[ST[len - 1][l]] < levels[ST[len - 1][idx]]) {
-            return Math.max(prvs[ST[len - 1][l]], 0);
-        } else {
-            return Math.max(prvs[ST[len - 1][idx]], 0);
-        }
-    }
-}
-
-class BIT {
-    int[] bit;
-
-    public BIT(int n) {
-        bit = new int[n + 1];
-    }
-
-    public void insert(int i, int j) {
+    public void insert(int i, int n) {
         i++;
-        int h = 1 << j;
-        while (i < bit.length) {
-            bit[i] ^= h;
-            i += i & -i;
-        }
-    }
-
-    public void insert(int i, int j, int k) {
-        i++;
-        int h = (1 << j) ^ (1 << k);
-        while (i < bit.length) {
-            bit[i] ^= h;
+        while (i < BIT.length) {
+            BIT[i] ^= n;
             i += i & -i;
         }
     }
@@ -152,9 +101,45 @@ class BIT {
         i++;
         int res = 0;
         while (i > 0) {
-            res ^= bit[i];
+            res ^= BIT[i];
             i -= i & -i;
         }
         return res;
+    }
+
+    public int dfsHeavy(int[][] links, int i, int prv) {
+        int count = 1;
+        int maxCount = 0;
+        int maxIdx = -1;
+        for (int next : links[i]) {
+            if (next == prv)
+                continue;
+            int c = dfsHeavy(links, next, i);
+            count += c;
+            if (c > maxCount) {
+                maxCount = c;
+                maxIdx = next;
+            }
+        }
+        heavies[i] = maxIdx;
+        return count;
+    }
+
+    public void dfsGroup(int[][] links, int i, int prv, int prvIdx, int g, int lv) {
+        if (i == -1)
+            return;
+        if (g == -1)
+            g = idx;
+        tops[idx] = g;
+        prvs[idx] = prvIdx;
+        levels[idx] = lv;
+        treeToGroupIndexes[i] = idx;
+        groupToTreeIndex[idx--] = i;
+        dfsGroup(links, heavies[i], i, treeToGroupIndexes[i], g, lv + 1);
+        for (int next : links[i]) {
+            if (next == prv || next == heavies[i])
+                continue;
+            dfsGroup(links, next, i, treeToGroupIndexes[i], -1, lv + 1);
+        }
     }
 }
