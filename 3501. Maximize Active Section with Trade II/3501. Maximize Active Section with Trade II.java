@@ -6,7 +6,6 @@
  * Date: 2026-07-22
  */
 
-
 class Solution {
     public List<Integer> maxActiveSectionsAfterTrade(String s, int[][] queries) {
         List<int[]> list = new ArrayList<>();
