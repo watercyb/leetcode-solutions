@@ -1,9 +1,9 @@
 /*
  * Problem: 758. Bold Words in String
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/bold-words-in-string/
+ * Link: https://leetcode.com/problems/bold-words-in-string/?envType=weekly-question&envId=2026-07-22
  * Language: java
- * Date: 2026-04-08
+ * Date: 2026-07-22
  */
 
 class Solution {
