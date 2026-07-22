@@ -1,9 +1,9 @@
 /*
  * Problem: 3501. Maximize Active Section with Trade II
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/maximize-active-section-with-trade-ii/
+ * Link: https://leetcode.com/problems/maximize-active-section-with-trade-ii/?envType=daily-question&envId=2026-07-22
  * Language: java
- * Date: 2026-05-08
+ * Date: 2026-07-22
  */
 
 
