@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 339
+- **Total Problems Solved:** 340
 - **Easy:** 68 🟢
-- **Medium:** 185 🟡
+- **Medium:** 186 🟡
 - **Hard:** 86 🔴
 
 ## 📝 Problems
@@ -175,6 +175,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | 🟡 Medium | java | 2026-05-07 |
 | [3493. Properties Graph](https://leetcode.com/problems/properties-graph/) | 🟡 Medium | java | 2026-05-07 |
 | [3499. Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/?envType=daily-question&envId=2026-07-21) | 🟡 Medium | java | 2026-07-21 |
+| [3513. Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/?envType=daily-question&envId=2026-07-23) | 🟡 Medium | java | 2026-07-23 |
 | [3521. Find Product Recommendation Pairs](https://leetcode.com/problems/find-product-recommendation-pairs/) | 🟡 Medium | python3 | 2026-05-08 |
 | [3528. Unit Conversion I](https://leetcode.com/problems/unit-conversion-i/) | 🟡 Medium | java | 2026-05-08 |
 | [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | 🟡 Medium | java | 2026-05-08 |
