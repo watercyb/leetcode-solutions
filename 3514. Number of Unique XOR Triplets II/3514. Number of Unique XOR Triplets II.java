@@ -1,9 +1,9 @@
 /*
  * Problem: 3514. Number of Unique XOR Triplets II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/number-of-unique-xor-triplets-ii/
+ * Link: https://leetcode.com/problems/number-of-unique-xor-triplets-ii/?envType=daily-question&envId=2026-07-24
  * Language: java
- * Date: 2026-05-08
+ * Date: 2026-07-24
  */
 
 class Solution {
