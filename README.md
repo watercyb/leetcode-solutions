@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 341
-- **Easy:** 68 🟢
+- **Total Problems Solved:** 342
+- **Easy:** 69 🟢
 - **Medium:** 187 🟡
 - **Hard:** 86 🔴
 
@@ -55,6 +55,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3417. Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | 🟢 Easy | java | 2026-05-07 |
 | [3465. Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | 🟢 Easy | python3 | 2026-05-07 |
 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | java | 2026-05-08 |
+| [3536. Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/?envType=daily-question&envId=2026-07-25) | 🟢 Easy | java | 2026-07-25 |
 | [3658. GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/?envType=daily-question&envId=2026-07-15) | 🟢 Easy | java | 2026-07-15 |
 | [3667. Sort Array By Absolute Value](https://leetcode.com/problems/sort-array-by-absolute-value/description/) | 🟢 Easy | java | 2026-05-09 |
 | [3687. Library Late Fee Calculator](https://leetcode.com/problems/library-late-fee-calculator/) | 🟢 Easy | java | 2026-05-09 |
