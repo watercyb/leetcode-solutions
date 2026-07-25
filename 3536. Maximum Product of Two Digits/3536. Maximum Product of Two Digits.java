@@ -1,9 +1,9 @@
 /*
  * Problem: 3536. Maximum Product of Two Digits
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/maximum-product-of-two-digits/
+ * Link: https://leetcode.com/problems/maximum-product-of-two-digits/?envType=daily-question&envId=2026-07-25
  * Language: java
- * Date: 2026-05-08
+ * Date: 2026-07-25
  */
 
 class Solution {
