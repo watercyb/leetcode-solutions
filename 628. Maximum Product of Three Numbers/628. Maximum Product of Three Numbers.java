@@ -1,9 +1,9 @@
 /*
  * Problem: 628. Maximum Product of Three Numbers
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/maximum-product-of-three-numbers/
+ * Link: https://leetcode.com/problems/maximum-product-of-three-numbers/?envType=daily-question&envId=2026-07-26
  * Language: java
- * Date: 2026-04-05
+ * Date: 2026-07-26
  */
 
 class Solution {
