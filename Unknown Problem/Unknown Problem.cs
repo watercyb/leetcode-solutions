@@ -1,30 +1,43 @@
 /*
  * Problem: Unknown Problem
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-adjacent-swaps-to-partition-array/
+ * Link: https://leetcode.com/problems/count-valid-sequences/
  * Language: csharp
- * Date: 2026-07-18
+ * Date: 2026-07-27
  */
 
 public class Solution {
-    public int MinAdjacentSwaps(int[] nums, int a, int b) {
-        long res=0;
-        int count=0;
-        for (int i=nums.Length-1;i>=0;i--) {
-            if (nums[i]<=b) {
-                count++;
-            } else {
-                res+=count;
-            }
+    static long[] F;
+    static long[] RF;
+    static long[] Inv;
+    static int mod=1_000_000_007;
+
+    public static void getF() {
+        F = new long[500001];
+        RF = new long[500001];
+        Inv = new long[500001];
+        F[0] = 1;
+        RF[0] = 1;
+        Inv[0] = 1;
+        F[1] = 1;
+        RF[1] = 1;
+        Inv[1] = 1;
+        for (int i = 2; i < 500001; i++) {
+            F[i] = F[i - 1] * i % mod;
+            Inv[i] = mod - mod / i * Inv[mod % i] % mod;
+            RF[i] = RF[i - 1] * Inv[i] % mod;
         }
-        count=0;
-        for (int i=nums.Length-1;i>=0;i--) {
-            if (nums[i]<a) {
-                count++;
-            } else if (nums[i]<=b) {
-                res+=count;
-            }
-        }
-        return (int)(res%1_000_000_007);
+    }
+
+    public int CountValidSequences(int n, int k) {
+        if (F==null) getF();
+        if ((n+k)%2==1)
+            return (int)C(n-1,k-1);
+        return (int)(C(n-1,k-1)-C((n-k)/2+k-1,k-1)+mod)%mod;
+    }
+
+    public long C(int a, int b) {
+        if (a<b) return 0;
+        return F[a]*RF[a-b]%mod*RF[b]%mod;
     }
 }
