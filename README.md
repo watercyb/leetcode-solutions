@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 344
-- **Easy:** 70 🟢
+- **Total Problems Solved:** 345
+- **Easy:** 71 🟢
 - **Medium:** 187 🟡
 - **Hard:** 87 🔴
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/?envType=daily-question&envId=2026-06-22) | 🟢 Easy | java | 2026-06-22 |
 | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/?envType=daily-question&envId=2026-07-12) | 🟢 Easy | java | 2026-07-12 |
+| [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/?envType=daily-question&envId=2026-07-27) | 🟢 Easy | java | 2026-07-27 |
 | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/?envType=daily-question&envId=2026-06-29) | 🟢 Easy | java | 2026-06-29 |
 | [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/?envType=daily-question&envId=2026-07-18) | 🟢 Easy | java | 2026-07-18 |
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/?envType=daily-question&envId=2026-06-01) | 🟢 Easy | rust | 2026-06-01 |
