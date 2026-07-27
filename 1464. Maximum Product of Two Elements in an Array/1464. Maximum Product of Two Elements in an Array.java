@@ -1,9 +1,9 @@
 /*
  * Problem: 1464. Maximum Product of Two Elements in an Array
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+ * Link: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/?envType=daily-question&envId=2026-07-27
  * Language: java
- * Date: 2026-04-17
+ * Date: 2026-07-27
  */
 
 class Solution {
