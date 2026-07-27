@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 348
+- **Total Problems Solved:** 349
 - **Easy:** 72 🟢
 - **Medium:** 189 🟡
-- **Hard:** 87 🔴
+- **Hard:** 88 🔴
 
 ## 📝 Problems
 
@@ -360,6 +360,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3995. Minimum Cost to Convert String III](https://leetcode.com/problems/minimum-cost-to-convert-string-iii/) | 🔴 Hard | java | 2026-07-18 |
 | [3999. Minimum Number of String Groups Through Transformations](https://leetcode.com/problems/minimum-number-of-string-groups-through-transformations/) | 🔴 Hard | java | 2026-07-19 |
 | [4003. Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | 🔴 Hard | java | 2026-07-26 |
+| [4003. Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | 🔴 Hard | csharp | 2026-07-27 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
 ---
