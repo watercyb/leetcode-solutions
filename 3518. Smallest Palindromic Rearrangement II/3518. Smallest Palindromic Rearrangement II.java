@@ -1,9 +1,9 @@
 /*
  * Problem: 3518. Smallest Palindromic Rearrangement II
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/
+ * Link: https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/?envType=daily-question&envId=2026-07-29
  * Language: java
- * Date: 2026-05-08
+ * Date: 2026-07-29
  */
 
 class Solution {
