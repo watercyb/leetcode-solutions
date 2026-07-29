@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 353
+- **Total Problems Solved:** 354
 - **Easy:** 73 🟢
-- **Medium:** 190 🟡
+- **Medium:** 191 🟡
 - **Hard:** 90 🔴
 
 ## 📝 Problems
@@ -261,6 +261,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3997. Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/) | 🟡 Medium | kotlin | 2026-07-19 |
 | [3998. Transform Binary String Using Subsequence Sort](https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/) | 🟡 Medium | python3 | 2026-07-19 |
 | [4001. Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/) | 🟡 Medium | swift | 2026-07-27 |
+| [4005. Minimum Operations to Make Array Equal III](https://leetcode.com/problems/minimum-operations-to-make-array-equal-iii/) | 🟡 Medium | python3 | 2026-07-29 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/?envType=weekly-question&envId=2026-06-01) | 🟡 Medium | java | 2026-06-01 |
