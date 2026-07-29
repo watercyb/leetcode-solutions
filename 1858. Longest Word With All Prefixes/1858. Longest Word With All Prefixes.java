@@ -1,9 +1,9 @@
 /*
  * Problem: 1858. Longest Word With All Prefixes
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/longest-word-with-all-prefixes/
+ * Link: https://leetcode.com/problems/longest-word-with-all-prefixes/?envType=weekly-question&envId=2026-07-29
  * Language: java
- * Date: 2026-04-21
+ * Date: 2026-07-29
  */
 
 class Solution {
