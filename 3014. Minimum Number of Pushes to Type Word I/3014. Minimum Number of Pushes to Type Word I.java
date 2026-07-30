@@ -1,9 +1,9 @@
 /*
  * Problem: 3014. Minimum Number of Pushes to Type Word I
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
+ * Link: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-30
  * Language: java
- * Date: 2026-05-03
+ * Date: 2026-07-30
  */
 
 class Solution {
