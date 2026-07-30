@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 354
-- **Easy:** 73 🟢
+- **Total Problems Solved:** 355
+- **Easy:** 74 🟢
 - **Medium:** 191 🟡
 - **Hard:** 90 🔴
 
@@ -40,6 +40,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2980. Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/) | 🟢 Easy | rust | 2026-05-02 |
 | [2990. Loan Types](https://leetcode.com/problems/loan-types/) | 🟢 Easy | python3 | 2026-05-02 |
 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | 🟢 Easy | java | 2026-05-03 |
+| [3014. Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-30) | 🟢 Easy | java | 2026-07-30 |
 | [3046. Split the Array](https://leetcode.com/problems/split-the-array/) | 🟢 Easy | java | 2026-05-03 |
 | [3069. Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | java | 2026-05-03 |
 | [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/?envType=daily-question&envId=2026-05-26) | 🟢 Easy | rust | 2026-05-26 |
