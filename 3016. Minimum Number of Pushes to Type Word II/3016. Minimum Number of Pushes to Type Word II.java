@@ -1,9 +1,9 @@
 /*
  * Problem: 3016. Minimum Number of Pushes to Type Word II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/
+ * Link: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2026-07-31
  * Language: java
- * Date: 2026-05-03
+ * Date: 2026-07-31
  */
 
 class Solution {
