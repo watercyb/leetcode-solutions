@@ -1,9 +1,9 @@
 /*
  * Problem: 1199. Minimum Time to Build Blocks
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/minimum-time-to-build-blocks/
+ * Link: https://leetcode.com/problems/minimum-time-to-build-blocks/?envType=weekly-question&envId=2026-08-01
  * Language: java
- * Date: 2026-04-14
+ * Date: 2026-08-01
  */
 
 class Solution {
