@@ -1,9 +1,9 @@
 /*
  * Problem: 486. Predict the Winner
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/predict-the-winner/
+ * Link: https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01
  * Language: java
- * Date: 2026-04-03
+ * Date: 2026-08-01
  */
 
 class Solution {
