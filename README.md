@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 357
+- **Total Problems Solved:** 358
 - **Easy:** 74 🟢
-- **Medium:** 192 🟡
+- **Medium:** 193 🟡
 - **Hard:** 91 🔴
 
 ## 📝 Problems
@@ -269,6 +269,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/?envType=weekly-question&envId=2026-06-01) | 🟡 Medium | java | 2026-06-01 |
 | [758. Bold Words in String](https://leetcode.com/problems/bold-words-in-string/?envType=weekly-question&envId=2026-07-22) | 🟡 Medium | java | 2026-07-22 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
+| [877. Stone Game](https://leetcode.com/problems/stone-game/?envType=daily-question&envId=2026-08-02) | 🟡 Medium | java | 2026-08-02 |
 | [Unknown Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | 🟡 Medium | mysql | 2026-05-08 |
 | [Unknown Problem](https://leetcode.com/problems/minimum-generations-to-target-point/) | 🟡 Medium | csharp | 2026-05-12 |
 | [Unknown Problem](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/) | 🟡 Medium | java | 2026-05-13 |
