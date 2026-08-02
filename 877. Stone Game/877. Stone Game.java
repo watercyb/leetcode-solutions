@@ -1,9 +1,9 @@
 /*
  * Problem: 877. Stone Game
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/stone-game/
+ * Link: https://leetcode.com/problems/stone-game/?envType=daily-question&envId=2026-08-02
  * Language: java
- * Date: 2026-04-09
+ * Date: 2026-08-02
  */
 
 class Solution {
