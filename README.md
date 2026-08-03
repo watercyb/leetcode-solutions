@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 358
+- **Total Problems Solved:** 359
 - **Easy:** 74 🟢
 - **Medium:** 193 🟡
-- **Hard:** 91 🔴
+- **Hard:** 92 🔴
 
 ## 📝 Problems
 
@@ -284,6 +284,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/?envType=daily-question&envId=2026-07-05) | 🔴 Hard | java | 2026-07-05 |
 | [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/?envType=daily-question&envId=2026-05-24) | 🔴 Hard | java | 2026-05-24 |
 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/?envType=daily-question&envId=2026-05-18) | 🔴 Hard | java | 2026-05-18 |
+| [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/?envType=daily-question&envId=2026-08-03) | 🔴 Hard | java | 2026-08-03 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/?envType=daily-question&envId=2026-05-16) | 🔴 Hard | java | 2026-05-16 |
 | [1665. Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/?envType=daily-question&envId=2026-05-12) | 🔴 Hard | java | 2026-05-12 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
