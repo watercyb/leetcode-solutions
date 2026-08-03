@@ -1,9 +1,9 @@
 /*
  * Problem: 1406. Stone Game III
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/stone-game-iii/
+ * Link: https://leetcode.com/problems/stone-game-iii/?envType=daily-question&envId=2026-08-03
  * Language: java
- * Date: 2026-04-17
+ * Date: 2026-08-03
  */
 
 class Solution {
