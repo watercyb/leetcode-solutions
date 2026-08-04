@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 359
-- **Easy:** 74 🟢
+- **Total Problems Solved:** 360
+- **Easy:** 75 🟢
 - **Medium:** 193 🟡
 - **Hard:** 92 🔴
 
@@ -63,6 +63,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3687. Library Late Fee Calculator](https://leetcode.com/problems/library-late-fee-calculator/) | 🟢 Easy | java | 2026-05-09 |
 | [3701. Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | 🟢 Easy | java | 2026-05-10 |
 | [3718. Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | java | 2026-05-10 |
+| [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04) | 🟢 Easy | java | 2026-08-04 |
 | [3754. Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/?envType=daily-question&envId=2026-07-07) | 🟢 Easy | java | 2026-07-07 |
 | [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 Easy | java | 2026-05-10 |
 | [3823. Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | 🟢 Easy | java | 2026-05-11 |
