@@ -1,9 +1,9 @@
 /*
  * Problem: 3731. Find Missing Elements
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/find-missing-elements/
+ * Link: https://leetcode.com/problems/find-missing-elements/?envType=daily-question&envId=2026-08-04
  * Language: java
- * Date: 2026-05-10
+ * Date: 2026-08-04
  */
 
 class Solution {
