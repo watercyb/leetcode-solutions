@@ -1,9 +1,9 @@
 #
 # Problem: 3310. Remove Methods From Project
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/remove-methods-from-project/
+# Link: https://leetcode.com/problems/remove-methods-from-project/?envType=daily-question&envId=2026-08-05
 # Language: python3
-# Date: 2026-05-06
+# Date: 2026-08-05
 
 
 class Solution:
