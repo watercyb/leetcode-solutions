@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 362
-- **Easy:** 76 🟢
+- **Total Problems Solved:** 363
+- **Easy:** 77 🟢
 - **Medium:** 193 🟡
 - **Hard:** 93 🔴
 
@@ -85,6 +85,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3992. Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | 🟢 Easy | rust | 2026-07-18 |
 | [3996. Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | 🟢 Easy | rust | 2026-07-19 |
 | [4000. Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | 🟢 Easy | rust | 2026-07-27 |
+| [4006. Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | 🟢 Easy | kotlin | 2026-08-05 |
 | [4010. Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | 🟢 Easy | csharp | 2026-08-05 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/?envType=daily-question&envId=2026-07-26) | 🟢 Easy | java | 2026-07-26 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
