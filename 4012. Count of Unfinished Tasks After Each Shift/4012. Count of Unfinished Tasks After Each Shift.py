@@ -8,15 +8,16 @@
 
 class Solution:
     def countTasks(self, tasks: List[int], shifts: List[int]) -> List[int]:
-        sums=[0]
+        sums = [0]
         for task in tasks:
-            sums.append(sums[-1]+task)
-        time_sum=0
-        res=[]
+            sums.append(sums[-1] + task)
+        time_sum = 0
+        res = []
         for shift in shifts:
-            time_sum+=shift
+            time_sum += shift
             idx = bisect.bisect_right(sums, time_sum)
-            res.append(len(sums)-idx)
-            if idx==len(sums):
-                time_sum=0
+            res.append(len(sums) - idx)
+            if idx == len(sums):
+                time_sum = 0
         return res
+
