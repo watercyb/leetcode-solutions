@@ -3,7 +3,7 @@
  * Difficulty: Easy
  * Link: https://leetcode.com/problems/maximize-pair-strength-using-gcd/
  * Language: csharp
- * Date: 2026-08-05
+ * Date: 2026-08-06
  */
 
 public class Solution {
