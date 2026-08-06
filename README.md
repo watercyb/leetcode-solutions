@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 363
-- **Easy:** 77 🟢
+- **Total Problems Solved:** 364
+- **Easy:** 78 🟢
 - **Medium:** 193 🟡
 - **Hard:** 93 🔴
 
@@ -53,6 +53,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3242. Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/) | 🟢 Easy | java | 2026-05-05 |
 | [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 Easy | java | 2026-05-05 |
 | [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/?envType=daily-question&envId=2026-05-29) | 🟢 Easy | java | 2026-05-29 |
+| [3345. Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/?envType=daily-question&envId=2026-08-06) | 🟢 Easy | python3 | 2026-08-06 |
 | [3358. Books with NULL Ratings](https://leetcode.com/problems/books-with-null-ratings/) | 🟢 Easy | mysql | 2026-05-06 |
 | [3417. Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | 🟢 Easy | java | 2026-05-07 |
 | [3465. Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | 🟢 Easy | python3 | 2026-05-07 |
