@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 368
+- **Total Problems Solved:** 369
 - **Easy:** 78 🟢
-- **Medium:** 196 🟡
+- **Medium:** 197 🟡
 - **Hard:** 94 🔴
 
 ## 📝 Problems
@@ -268,6 +268,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4001. Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/) | 🟡 Medium | swift | 2026-07-27 |
 | [4005. Minimum Operations to Make Array Equal III](https://leetcode.com/problems/minimum-operations-to-make-array-equal-iii/) | 🟡 Medium | python3 | 2026-07-29 |
 | [4007. Widest Possible Fence](https://leetcode.com/problems/widest-possible-fence/) | 🟡 Medium | csharp | 2026-08-06 |
+| [4008. Minimum Initial Strength to Defeat All Monsters](https://leetcode.com/problems/minimum-initial-strength-to-defeat-all-monsters/) | 🟡 Medium | rust | 2026-08-06 |
 | [4011. Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/) | 🟡 Medium | java | 2026-08-06 |
 | [4012. Count of Unfinished Tasks After Each Shift](https://leetcode.com/problems/count-of-unfinished-tasks-after-each-shift/) | 🟡 Medium | python3 | 2026-08-06 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
