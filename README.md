@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 364
+- **Total Problems Solved:** 365
 - **Easy:** 78 🟢
 - **Medium:** 193 🟡
-- **Hard:** 93 🔴
+- **Hard:** 94 🔴
 
 ## 📝 Problems
 
@@ -375,6 +375,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3999. Minimum Number of String Groups Through Transformations](https://leetcode.com/problems/minimum-number-of-string-groups-through-transformations/) | 🔴 Hard | java | 2026-07-19 |
 | [4003. Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | 🔴 Hard | java | 2026-07-26 |
 | [4003. Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | 🔴 Hard | csharp | 2026-07-27 |
+| [4009. Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | 🔴 Hard | java | 2026-08-06 |
 | [4013. Count Subarrays With Even Odd Ratio II](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/) | 🔴 Hard | java | 2026-08-04 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
