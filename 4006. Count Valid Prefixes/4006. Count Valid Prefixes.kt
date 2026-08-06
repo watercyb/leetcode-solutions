@@ -3,7 +3,7 @@
  * Difficulty: Easy
  * Link: https://leetcode.com/problems/count-valid-prefixes/
  * Language: kotlin
- * Date: 2026-08-05
+ * Date: 2026-08-06
  */
 
 class Solution {
