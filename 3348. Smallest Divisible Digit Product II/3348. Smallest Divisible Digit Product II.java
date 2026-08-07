@@ -1,9 +1,9 @@
 /*
  * Problem: 3348. Smallest Divisible Digit Product II
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/smallest-divisible-digit-product-ii/
+ * Link: https://leetcode.com/problems/smallest-divisible-digit-product-ii/?envType=daily-question&envId=2026-08-07
  * Language: java
- * Date: 2026-05-06
+ * Date: 2026-08-07
  */
 
 class Solution {
