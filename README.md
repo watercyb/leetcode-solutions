@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 372
+- **Total Problems Solved:** 373
 - **Easy:** 78 🟢
-- **Medium:** 199 🟡
+- **Medium:** 200 🟡
 - **Hard:** 95 🔴
 
 ## 📝 Problems
@@ -273,6 +273,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4012. Count of Unfinished Tasks After Each Shift](https://leetcode.com/problems/count-of-unfinished-tasks-after-each-shift/) | 🟡 Medium | python3 | 2026-08-06 |
 | [4014. Minimum Total Price After Applying Discounts](https://leetcode.com/problems/minimum-total-price-after-applying-discounts/) | 🟡 Medium | swift | 2026-08-10 |
 | [4015. Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree/) | 🟡 Medium | kotlin | 2026-08-10 |
+| [4016. Maximum Area of Two Non-Overlapping Square Submatrices](https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/) | 🟡 Medium | javascript | 2026-08-10 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
