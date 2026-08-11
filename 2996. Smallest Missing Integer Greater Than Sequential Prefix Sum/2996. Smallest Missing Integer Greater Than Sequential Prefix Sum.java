@@ -1,9 +1,9 @@
 /*
  * Problem: 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
+ * Link: https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/?envType=daily-question&envId=2026-08-11
  * Language: java
- * Date: 2026-05-02
+ * Date: 2026-08-11
  */
 
 class Solution {
