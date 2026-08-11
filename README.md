@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 373
-- **Easy:** 78 🟢
+- **Total Problems Solved:** 374
+- **Easy:** 79 🟢
 - **Medium:** 200 🟡
 - **Hard:** 95 🔴
 
@@ -39,6 +39,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2970. Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/) | 🟢 Easy | java | 2026-05-02 |
 | [2980. Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/) | 🟢 Easy | rust | 2026-05-02 |
 | [2990. Loan Types](https://leetcode.com/problems/loan-types/) | 🟢 Easy | python3 | 2026-05-02 |
+| [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/?envType=daily-question&envId=2026-08-11) | 🟢 Easy | java | 2026-08-11 |
 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | 🟢 Easy | java | 2026-05-03 |
 | [3014. Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-30) | 🟢 Easy | java | 2026-07-30 |
 | [3046. Split the Array](https://leetcode.com/problems/split-the-array/) | 🟢 Easy | java | 2026-05-03 |
