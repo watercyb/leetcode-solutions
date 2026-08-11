@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/
  * Language: javascript
- * Date: 2026-08-10
+ * Date: 2026-08-11
  */
 
 /**
