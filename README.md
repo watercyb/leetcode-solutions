@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 374
+- **Total Problems Solved:** 375
 - **Easy:** 79 🟢
-- **Medium:** 200 🟡
+- **Medium:** 201 🟡
 - **Hard:** 95 🔴
 
 ## 📝 Problems
@@ -130,6 +130,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2950. Number of Divisible Substrings](https://leetcode.com/problems/number-of-divisible-substrings/) | 🟡 Medium | java | 2026-05-02 |
 | [2952. Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | 🟡 Medium | python3 | 2026-05-02 |
 | [2957. Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | 🟡 Medium | python3 | 2026-05-02 |
+| [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/?envType=daily-question&envId=2026-08-12) | 🟡 Medium | java | 2026-08-12 |
 | [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | 🟡 Medium | java | 2026-05-02 |
 | [2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 🟡 Medium | java | 2026-05-02 |
 | [2986. Find Third Transaction](https://leetcode.com/problems/find-third-transaction/) | 🟡 Medium | mysql | 2026-05-02 |
