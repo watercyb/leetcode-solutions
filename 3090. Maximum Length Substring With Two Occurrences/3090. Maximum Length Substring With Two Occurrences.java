@@ -1,9 +1,9 @@
 /*
  * Problem: 3090. Maximum Length Substring With Two Occurrences
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/
+ * Link: https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/?envType=daily-question&envId=2026-08-14
  * Language: java
- * Date: 2026-05-03
+ * Date: 2026-08-14
  */
 
 class Solution {
