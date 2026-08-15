@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 377
+- **Total Problems Solved:** 378
 - **Easy:** 80 🟢
-- **Medium:** 202 🟡
+- **Medium:** 203 🟡
 - **Hard:** 95 🔴
 
 ## 📝 Problems
@@ -213,6 +213,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3670. Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/) | 🟡 Medium | java | 2026-05-09 |
 | [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/?envType=daily-question&envId=2026-06-09) | 🟡 Medium | Choose a type | 2026-06-09 |
 | [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/?envType=daily-question&envId=2026-06-09) | 🟡 Medium | java | 2026-06-09 |
+| [3702. Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/?envType=daily-question&envId=2026-08-15) | 🟡 Medium | java | 2026-08-15 |
 | [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | 🟡 Medium | java | 2026-05-10 |
 | [3732. Maximum Product of Three Elements After One Replacement](https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/) | 🟡 Medium | java | 2026-05-10 |
 | [3737. Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | java | 2026-05-10 |
