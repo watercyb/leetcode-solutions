@@ -1,9 +1,9 @@
 /*
  * Problem: 308. Range Sum Query 2D - Mutable
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/range-sum-query-2d-mutable/
+ * Link: https://leetcode.com/problems/range-sum-query-2d-mutable/?envType=weekly-question&envId=2026-08-15
  * Language: java
- * Date: 2026-03-31
+ * Date: 2026-08-15
  */
 
 class NumMatrix {
