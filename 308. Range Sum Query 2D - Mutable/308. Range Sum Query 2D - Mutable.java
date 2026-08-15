@@ -7,52 +7,54 @@
  */
 
 class NumMatrix {
+
     int[][] matrix;
-    int[][] BITree;
+    int[][] BIT;
+    int r;
+    int c;
 
     public NumMatrix(int[][] matrix) {
         this.matrix = matrix;
-        BITree = new int[matrix.length][matrix[0].length + 2];
+        r = matrix.length + 1;
+        c = matrix[0].length + 1;
+        BIT = new int[r][c];
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[0].length; j++) {
-                int k = j + 2;
-                while (k < BITree[0].length) {
-                    BITree[i][k] += matrix[i][j];
-                    k += -k & k;
-                }
+                insert(i, j, matrix[i][j]);
             }
         }
     }
 
     public void update(int row, int col, int val) {
-        insert(row, col + 2, val);
-    }
-
-    public int sumRegion(int row1, int col1, int row2, int col2) {
-        int res = 0;
-        res += getVal(row1, row2, col2 + 2) - getVal(row1, row2, col1 + 1);
-        return res;
-    }
-
-    public void insert(int i, int j, int val) {
-        if (val == matrix[i][j - 2])
-            return;
-        int tmp = matrix[i][j - 2];
-        matrix[i][j - 2] = val;
-        val -= tmp;
-        while (j < BITree[0].length) {
-            BITree[i][j] += val;
-            j += -j & j;
+        int diff = val - matrix[row][col];
+        if (diff != 0) {
+            matrix[row][col] = val;
+            insert(row, col, diff);
         }
     }
 
-    public int getVal(int row1, int row2, int j) {
-        int res = 0;
-        while (j > 0) {
-            for (int i = row1; i <= row2; i++) {
-                res += BITree[i][j];
+    public void insert(int row, int col, int val) {
+        row++;
+        col++;
+        for (int i = row; i < r; i += i & -i) {
+            for (int j = col; j < c; j += j & -j) {
+                BIT[i][j] += val;
             }
-            j -= -j & j;
+        }
+    }
+
+    public int sumRegion(int row1, int col1, int row2, int col2) {
+        return get(row2, col2) - get(row1 - 1, col2) - get(row2, col1 - 1) + get(row1 - 1, col1 - 1);
+    }
+
+    public int get(int row, int col) {
+        row++;
+        col++;
+        int res = 0;
+        for (int i = row; i > 0; i -= i & -i) {
+            for (int j = col; j > 0; j -= j & -j) {
+                res += BIT[i][j];
+            }
         }
         return res;
     }
