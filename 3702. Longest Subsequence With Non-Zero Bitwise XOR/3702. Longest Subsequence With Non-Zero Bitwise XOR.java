@@ -1,9 +1,9 @@
 /*
  * Problem: 3702. Longest Subsequence With Non-Zero Bitwise XOR
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/
+ * Link: https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/?envType=daily-question&envId=2026-08-15
  * Language: java
- * Date: 2026-05-10
+ * Date: 2026-08-15
  */
 
 class Solution {
