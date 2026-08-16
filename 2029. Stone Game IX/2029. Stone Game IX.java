@@ -1,9 +1,9 @@
 /*
  * Problem: 2029. Stone Game IX
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/stone-game-ix/
+ * Link: https://leetcode.com/problems/stone-game-ix/?envType=daily-question&envId=2026-08-16
  * Language: java
- * Date: 2026-04-23
+ * Date: 2026-08-16
  */
 
 class Solution {
