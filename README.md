@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 380
+- **Total Problems Solved:** 381
 - **Easy:** 80 🟢
-- **Medium:** 205 🟡
+- **Medium:** 206 🟡
 - **Hard:** 95 🔴
 
 ## 📝 Problems
@@ -103,6 +103,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1858. Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/?envType=weekly-question&envId=2026-07-29) | 🟡 Medium | java | 2026-07-29 |
 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/?envType=daily-question&envId=2026-05-25) | 🟡 Medium | java | 2026-05-25 |
 | [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/?envType=daily-question&envId=2026-05-09) | 🟡 Medium | java | 2026-05-09 |
+| [2029. Stone Game IX](https://leetcode.com/problems/stone-game-ix/?envType=daily-question&envId=2026-08-16) | 🟡 Medium | java | 2026-08-16 |
 | [2061. Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/?envType=weekly-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=daily-question&envId=2026-06-15) | 🟡 Medium | java | 2026-06-15 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=daily-question&envId=2026-06-15) | 🟡 Medium | java | 2026-06-15 |
