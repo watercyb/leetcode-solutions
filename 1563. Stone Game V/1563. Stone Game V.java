@@ -1,9 +1,9 @@
 /*
  * Problem: 1563. Stone Game V
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/stone-game-v/
+ * Link: https://leetcode.com/problems/stone-game-v/?envType=daily-question&envId=2026-08-17
  * Language: java
- * Date: 2026-04-18
+ * Date: 2026-08-17
  */
 
 class Solution {
