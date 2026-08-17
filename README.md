@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 381
+- **Total Problems Solved:** 382
 - **Easy:** 80 🟢
 - **Medium:** 206 🟡
-- **Hard:** 95 🔴
+- **Hard:** 96 🔴
 
 ## 📝 Problems
 
@@ -305,6 +305,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/?envType=daily-question&envId=2026-05-18) | 🔴 Hard | java | 2026-05-18 |
 | [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/?envType=daily-question&envId=2026-08-03) | 🔴 Hard | java | 2026-08-03 |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/?envType=daily-question&envId=2026-05-16) | 🔴 Hard | java | 2026-05-16 |
+| [1563. Stone Game V](https://leetcode.com/problems/stone-game-v/?envType=daily-question&envId=2026-08-17) | 🔴 Hard | java | 2026-08-17 |
 | [1665. Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/?envType=daily-question&envId=2026-05-12) | 🔴 Hard | java | 2026-05-12 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 | [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | java | 2026-05-02 |
