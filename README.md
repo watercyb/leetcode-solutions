@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 382
+- **Total Problems Solved:** 383
 - **Easy:** 80 🟢
 - **Medium:** 206 🟡
-- **Hard:** 96 🔴
+- **Hard:** 97 🔴
 
 ## 📝 Problems
 
@@ -394,6 +394,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4003. Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | 🔴 Hard | csharp | 2026-07-27 |
 | [4009. Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | 🔴 Hard | java | 2026-08-06 |
 | [4013. Count Subarrays With Even Odd Ratio II](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/) | 🔴 Hard | java | 2026-08-04 |
+| [4023. Elevator Requests II](https://leetcode.com/problems/elevator-requests-ii/) | 🔴 Hard | java | 2026-08-18 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
 ---
