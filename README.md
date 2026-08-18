@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 384
+- **Total Problems Solved:** 385
 - **Easy:** 81 🟢
-- **Medium:** 206 🟡
+- **Medium:** 207 🟡
 - **Hard:** 97 🔴
 
 ## 📝 Problems
@@ -283,6 +283,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4015. Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree/) | 🟡 Medium | kotlin | 2026-08-10 |
 | [4016. Maximum Area of Two Non-Overlapping Square Submatrices](https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/) | 🟡 Medium | javascript | 2026-08-10 |
 | [4019. Merge Close Characters II](https://leetcode.com/problems/merge-close-characters-ii/) | 🟡 Medium | csharp | 2026-08-13 |
+| [4021. Minimum Operations to Make a Rotated Palindrome I](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i/) | 🟡 Medium | javascript | 2026-08-18 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
