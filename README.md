@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 386
+- **Total Problems Solved:** 387
 - **Easy:** 81 🟢
-- **Medium:** 208 🟡
+- **Medium:** 209 🟡
 - **Hard:** 97 🔴
 
 ## 📝 Problems
@@ -285,6 +285,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4019. Merge Close Characters II](https://leetcode.com/problems/merge-close-characters-ii/) | 🟡 Medium | csharp | 2026-08-13 |
 | [4021. Minimum Operations to Make a Rotated Palindrome I](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i/) | 🟡 Medium | javascript | 2026-08-18 |
 | [4022. K-th Digit in Infinite String](https://leetcode.com/problems/k-th-digit-in-infinite-string/) | 🟡 Medium | kotlin | 2026-08-18 |
+| [4025. Minimize the Maximum Waiting Time at Synchronized Traffic Lights](https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | 🟡 Medium | python3 | 2026-08-18 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
