@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 383
-- **Easy:** 80 🟢
+- **Total Problems Solved:** 384
+- **Easy:** 81 🟢
 - **Medium:** 206 🟡
 - **Hard:** 97 🔴
 
@@ -90,6 +90,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4000. Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | 🟢 Easy | rust | 2026-07-27 |
 | [4006. Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | 🟢 Easy | kotlin | 2026-08-05 |
 | [4010. Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | 🟢 Easy | csharp | 2026-08-05 |
+| [4020. Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | 🟢 Easy | rust | 2026-08-18 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/?envType=daily-question&envId=2026-07-26) | 🟢 Easy | java | 2026-07-26 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [Unknown Problem](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/?envType=daily-question&envId=2026-07-28) | 🟢 Easy | java | 2026-07-28 |
