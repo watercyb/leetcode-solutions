@@ -1,34 +1,30 @@
 #
 # Problem: 4005. Minimum Operations to Make Array Equal III
-# Difficulty: Medium
+# Difficulty: Hard
 # Link: https://leetcode.com/problems/minimum-operations-to-make-array-equal-iii/
 # Language: python3
-# Date: 2026-07-29
+# Date: 2026-08-19
 
 
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
         count = Counter(nums)
-        counts = {}
-        if count[1] == len(nums):
+        counts = Counter()
+        if len(count) == 1:
             return 0
+        if count[1] == len(nums) - 1:
+            return count[1]
         res = len(nums)
-        count1 = count[1]
-        count[1] = 0
+        max_num = max(nums)
         for k, v in count.items():
-            count_sum = counts.get(k, 0) + count1
-            for i in range(2, floor(sqrt(k)) + 1):
-                if k % i == 0:
-                    if count[i] > 0:
-                        count_sum += count[i]
-                        counts[i] = counts.get(i, 0) + v
-                    n = k / i
-                    if count[n] > 0 and n != i:
-                        count_sum += count[n]
-                        counts[n] = counts.get(n, 0) + v
-            counts[k] = count_sum
+            if k == 1:
+                continue
+            for i in range(k + k, max_num + 1, k):
+                counts[i] += v
+                counts[k] += count[i]
         for k, v in count.items():
-            cnt = counts.get(k, 0)
-            res = min(res, (len(nums) - count[k]) * 2 - cnt)
+            if k == 1:
+                continue
+            res = min(res, (len(nums) - count[k]) * 2 - counts[k] - count[1])
         return res
 
