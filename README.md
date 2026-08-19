@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 390
+- **Total Problems Solved:** 391
 - **Easy:** 82 🟢
 - **Medium:** 210 🟡
-- **Hard:** 98 🔴
+- **Hard:** 99 🔴
 
 ## 📝 Problems
 
@@ -402,6 +402,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4013. Count Subarrays With Even Odd Ratio II](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/) | 🔴 Hard | java | 2026-08-04 |
 | [4023. Elevator Requests II](https://leetcode.com/problems/elevator-requests-ii/) | 🔴 Hard | java | 2026-08-18 |
 | [4027. Elevator Requests III](https://leetcode.com/problems/elevator-requests-iii/) | 🔴 Hard | java | 2026-08-19 |
+| [4030. Elevator Requests IV](https://leetcode.com/problems/elevator-requests-iv/) | 🔴 Hard | java | 2026-08-19 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
 ---
