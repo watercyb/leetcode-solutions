@@ -1,9 +1,9 @@
 /*
  * Problem: 3069. Distribute Elements Into Two Arrays I
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
+ * Link: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/?envType=daily-question&envId=2026-08-20
  * Language: java
- * Date: 2026-05-03
+ * Date: 2026-08-20
  */
 
 class Solution {
