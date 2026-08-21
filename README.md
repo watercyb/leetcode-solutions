@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 391
+- **Total Problems Solved:** 392
 - **Easy:** 82 🟢
 - **Medium:** 210 🟡
-- **Hard:** 99 🔴
+- **Hard:** 100 🔴
 
 ## 📝 Problems
 
@@ -328,6 +328,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3098. Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | 🔴 Hard | java | 2026-05-03 |
 | [3102. Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/) | 🔴 Hard | java | 2026-05-04 |
 | [3113. Find the Number of Subarrays Where Boundary Elements Are Maximum](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/) | 🔴 Hard | java | 2026-05-04 |
+| [3116. Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/?envType=daily-question&envId=2026-08-21) | 🔴 Hard | java | 2026-08-21 |
 | [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/?envType=daily-question&envId=2026-05-30) | 🔴 Hard | java | 2026-05-30 |
 | [3188. Find Top Scoring Students II](https://leetcode.com/problems/find-top-scoring-students-ii/) | 🔴 Hard | python3 | 2026-05-04 |
 | [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | 🔴 Hard | java | 2026-05-04 |
