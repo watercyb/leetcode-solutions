@@ -1,9 +1,9 @@
 /*
  * Problem: 3116. Kth Smallest Amount With Single Denomination Combination
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/
+ * Link: https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/?envType=daily-question&envId=2026-08-21
  * Language: java
- * Date: 2026-05-04
+ * Date: 2026-08-21
  */
 
 class Solution {
@@ -42,7 +42,6 @@ class Solution {
     }
 
     public void getLCM(int[] coins, long[] lcm) {
-        int leading = 0;
         for (int i = 1; i < lcm.length; i++) {
             int a = i & -i;
             int b = i - a;
