@@ -1,9 +1,9 @@
 /*
  * Problem: 351. Android Unlock Patterns
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/android-unlock-patterns/
+ * Link: https://leetcode.com/problems/android-unlock-patterns/?envType=weekly-question&envId=2026-08-22
  * Language: java
- * Date: 2026-04-03
+ * Date: 2026-08-22
  */
 
 class Solution {
