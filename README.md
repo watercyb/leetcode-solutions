@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 393
-- **Easy:** 82 🟢
+- **Total Problems Solved:** 394
+- **Easy:** 83 🟢
 - **Medium:** 210 🟡
 - **Hard:** 101 🔴
 
@@ -62,6 +62,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3471. Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/?envType=daily-question&envId=2026-08-18) | 🟢 Easy | java | 2026-08-18 |
 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | java | 2026-05-08 |
 | [3536. Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/?envType=daily-question&envId=2026-07-25) | 🟢 Easy | java | 2026-07-25 |
+| [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22) | 🟢 Easy | java | 2026-08-22 |
 | [3658. GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/?envType=daily-question&envId=2026-07-15) | 🟢 Easy | java | 2026-07-15 |
 | [3667. Sort Array By Absolute Value](https://leetcode.com/problems/sort-array-by-absolute-value/description/) | 🟢 Easy | java | 2026-05-09 |
 | [3687. Library Late Fee Calculator](https://leetcode.com/problems/library-late-fee-calculator/) | 🟢 Easy | java | 2026-05-09 |
