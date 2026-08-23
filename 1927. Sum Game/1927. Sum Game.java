@@ -1,9 +1,9 @@
 /*
  * Problem: 1927. Sum Game
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/sum-game/
+ * Link: https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23
  * Language: java
- * Date: 2026-04-22
+ * Date: 2026-08-23
  */
 
 class Solution {
