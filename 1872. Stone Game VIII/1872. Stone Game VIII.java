@@ -1,9 +1,9 @@
 /*
  * Problem: 1872. Stone Game VIII
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/stone-game-viii/
+ * Link: https://leetcode.com/problems/stone-game-viii/?envType=daily-question&envId=2026-08-24
  * Language: java
- * Date: 2026-04-21
+ * Date: 2026-08-24
  */
 
 class Solution {
