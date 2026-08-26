@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 405
-- **Easy:** 83 🟢
+- **Total Problems Solved:** 406
+- **Easy:** 84 🟢
 - **Medium:** 218 🟡
 - **Hard:** 104 🔴
 
@@ -84,6 +84,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3940. Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | 🟢 Easy | swift | 2026-05-25 |
 | [3950. Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | 🟢 Easy | rust | 2026-06-08 |
 | [3954. Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | 🟢 Easy | swift | 2026-06-08 |
+| [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | 🟢 Easy | swift | 2026-08-26 |
 | [3978. Unique Middle Element](https://leetcode.com/problems/unique-middle-element/) | 🟢 Easy | rust | 2026-07-07 |
 | [3982. Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | 🟢 Easy | swift | 2026-07-07 |
 | [3986. Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | 🟢 Easy | csharp | 2026-07-13 |
