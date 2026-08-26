@@ -1,9 +1,9 @@
 /*
  * Problem: 2904. Shortest and Lexicographically Smallest Beautiful String
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/
+ * Link: https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/?envType=daily-question&envId=2026-08-26
  * Language: java
- * Date: 2026-05-02
+ * Date: 2026-08-26
  */
 
 class Solution {
