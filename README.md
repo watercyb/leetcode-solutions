@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 401
+- **Total Problems Solved:** 402
 - **Easy:** 83 🟢
-- **Medium:** 214 🟡
+- **Medium:** 215 🟡
 - **Hard:** 104 🔴
 
 ## 📝 Problems
@@ -107,6 +107,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/?envType=daily-question&envId=2026-05-25) | 🟡 Medium | java | 2026-05-25 |
 | [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/?envType=daily-question&envId=2026-05-09) | 🟡 Medium | java | 2026-05-09 |
 | [1927. Sum Game](https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23) | 🟡 Medium | java | 2026-08-23 |
+| [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | java | 2026-08-26 |
 | [2029. Stone Game IX](https://leetcode.com/problems/stone-game-ix/?envType=daily-question&envId=2026-08-16) | 🟡 Medium | java | 2026-08-16 |
 | [2061. Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/?envType=weekly-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=daily-question&envId=2026-06-15) | 🟡 Medium | java | 2026-06-15 |
