@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 402
+- **Total Problems Solved:** 403
 - **Easy:** 83 🟢
-- **Medium:** 215 🟡
+- **Medium:** 216 🟡
 - **Hard:** 104 🔴
 
 ## 📝 Problems
@@ -295,6 +295,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4032. Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) | 🟡 Medium | javascript | 2026-08-26 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
+| [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/?envType=weekly-question&envId=2026-06-01) | 🟡 Medium | java | 2026-06-01 |
 | [758. Bold Words in String](https://leetcode.com/problems/bold-words-in-string/?envType=weekly-question&envId=2026-07-22) | 🟡 Medium | java | 2026-07-22 |
