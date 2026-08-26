@@ -3,7 +3,7 @@
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/
  * Language: javascript
- * Date: 2026-08-25
+ * Date: 2026-08-26
  */
 
 /**
