@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 404
+- **Total Problems Solved:** 405
 - **Easy:** 83 🟢
-- **Medium:** 217 🟡
+- **Medium:** 218 🟡
 - **Hard:** 104 🔴
 
 ## 📝 Problems
@@ -151,6 +151,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | 🟡 Medium | java | 2026-05-03 |
 | [3039. Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/) | 🟡 Medium | python3 | 2026-05-03 |
 | [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/?envType=daily-question&envId=2026-05-21) | 🟡 Medium | java | 2026-05-21 |
+| [3044. Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/) | 🟡 Medium | python3 | 2026-08-26 |
 | [3048. Earliest Second to Mark Indices I](https://leetcode.com/problems/earliest-second-to-mark-indices-i/) | 🟡 Medium | java | 2026-05-03 |
 | [3056. Snaps Analysis](https://leetcode.com/problems/snaps-analysis/) | 🟡 Medium | python3 | 2026-05-03 |
 | [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/?envType=weekly-question&envId=2026-08-15) | 🟡 Medium | java | 2026-08-15 |
