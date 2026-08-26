@@ -17,43 +17,41 @@ var longestSubarray = function (nums, k) {
     for (let num of nums) {
         max = Math.max(max, num);
     }
-    const isPrimes = Array(max + 1);
-    isPrimes[0] = false;
-    isPrimes[1] = false;
-    const primes = [];
-    const arr = [];
-    for (let i = 0; i <= max; i++) {
-        arr.push([]);
-    }
-    for (let i = 2; i < isPrimes.length; i++) {
-        if (isPrimes[i] == false) continue;
-        isPrimes[i] = true;
-        primes.push(i);
-        arr[i].push(i);
-        for (let j = i + i; j < isPrimes.length; j += i) {
-            isPrimes[j] = false;
-            arr[j].push(i);
+    const spf = Array(max + 1);
+    for (let i = 2; i <= max; i++) {
+        if (spf[i]) continue;
+        spf[i] = i;
+        for (let j = i * i; j <= max; j += i) {
+            if (!spf[j])
+                spf[j] = i;
         }
     }
     let res = 0;
     let j = 0;
-    const counts = new Map();
+    const counts = new Int32Array(max + 1);
+    const lists = Array(max + 1);
+    let count = 0;
     for (let i = 0; i < nums.length; i++) {
-        for (let num of arr[nums[i]]) {
-            if (counts.has(num)) {
-                counts.set(num, counts.get(num) + 1);
-            } else {
-                counts.set(num, 1);
-            }
-        }
-        while (counts.size > k) {
-            for (let num of arr[nums[j]]) {
-                const count = counts.get(num) - 1;
-                if (count == 0) {
-                    counts.delete(num);
-                } else {
-                    counts.set(num, count);
+        if (!lists[nums[i]]) {
+            const arr = [];
+            let num = nums[i];
+            while (num > 1) {
+                const div = spf[num];
+                arr.push(div);
+                while (num % div == 0) {
+                    num /= div;
                 }
+            }
+            lists[nums[i]] = arr;
+        }
+        for (let num of lists[nums[i]]) {
+            if (counts[num]++ == 0)
+                count++;
+        }
+        while (count > k) {
+            for (let num of lists[nums[j]]) {
+                if (counts[num]-- == 1)
+                    count--;
             }
             j++;
         }
