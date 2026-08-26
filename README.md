@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 399
+- **Total Problems Solved:** 400
 - **Easy:** 83 🟢
 - **Medium:** 214 🟡
-- **Hard:** 102 🔴
+- **Hard:** 103 🔴
 
 ## 📝 Problems
 
@@ -411,6 +411,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4027. Elevator Requests III](https://leetcode.com/problems/elevator-requests-iii/) | 🔴 Hard | java | 2026-08-19 |
 | [4028. Minimum Operations to Make a Rotated Palindrome II](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-ii/) | 🔴 Hard | java | 2026-08-21 |
 | [4030. Elevator Requests IV](https://leetcode.com/problems/elevator-requests-iv/) | 🔴 Hard | java | 2026-08-19 |
+| [4033. Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | 🔴 Hard | java | 2026-08-26 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 
 ---
