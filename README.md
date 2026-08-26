@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 397
+- **Total Problems Solved:** 398
 - **Easy:** 83 🟢
-- **Medium:** 212 🟡
+- **Medium:** 213 🟡
 - **Hard:** 102 🔴
 
 ## 📝 Problems
@@ -129,6 +129,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2871. Split Array Into Maximum Number of Subarrays](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/) | 🟡 Medium | rust | 2026-05-01 |
 | [288. Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/?envType=weekly-question&envId=2026-07-01) | 🟡 Medium | java | 2026-07-01 |
 | [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | 🟡 Medium | java | 2026-05-02 |
+| [2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/?envType=daily-question&envId=2026-08-26) | 🟡 Medium | java | 2026-08-26 |
 | [2905. Find Indices With Index and Value Difference II](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/) | 🟡 Medium | java | 2026-05-02 |
 | [2910. Minimum Number of Groups to Create a Valid Assignment](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/) | 🟡 Medium | java | 2026-05-02 |
 | [2919. Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/) | 🟡 Medium | java | 2026-05-02 |
