@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/valid-k-unique-subarrays-i/
  * Language: java
- * Date: 2026-08-25
+ * Date: 2026-08-26
  */
 
 class Solution {
