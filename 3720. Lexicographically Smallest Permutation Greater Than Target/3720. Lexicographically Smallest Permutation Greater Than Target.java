@@ -1,9 +1,9 @@
 /*
  * Problem: 3720. Lexicographically Smallest Permutation Greater Than Target
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/
+ * Link: https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27
  * Language: java
- * Date: 2026-05-10
+ * Date: 2026-08-27
  */
 
 class Solution {
