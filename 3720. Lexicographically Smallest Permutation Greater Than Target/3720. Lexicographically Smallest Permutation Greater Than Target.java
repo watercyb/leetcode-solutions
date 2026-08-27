@@ -14,68 +14,44 @@ class Solution {
             counts[chr]++;
         }
         char[] res = new char[chrs.length];
-        for (int i = 0; i < chrs.length; i++) {
-            if (counts[chrs[i]] > 0) {
-                counts[chrs[i]]--;
-                res[i] = chrs[i];
+        int idx = 0;
+        while (idx < chrs.length) {
+            if (counts[chrs[idx]] > 0) {
+                counts[chrs[idx]]--;
+                res[idx] = chrs[idx];
+                idx++;
             } else {
-                for (int j = chrs[i] + 1; j <= 'z'; j++) {
-                    if (counts[j] == 0)
-                        continue;
-                    counts[j]--;
-                    res[i] = (char) j;
-                    for (int k = i + 1; k < chrs.length; k++) {
-                        for (int l = 'a'; l <= 'z'; l++) {
-                            if (counts[l] > 0) {
-                                counts[l]--;
-                                res[k] = (char) l;
-                                break;
-                            }
-                        }
-                    }
-                    return new String(res);
-                }
-                for (int j = i - 1; j >= 0; j--) {
-                    counts[res[j]]++;
-                    for (int k = chrs[j] + 1; k <= 'z'; k++) {
-                        if (counts[k] > 0) {
-                            counts[k]--;
-                            res[j] = (char) k;
-                            for (int l = j + 1; l < chrs.length; l++) {
-                                for (int m = 'a'; m <= 'z'; m++) {
-                                    if (counts[m] > 0) {
-                                        counts[m]--;
-                                        res[l] = (char) m;
-                                        break;
-                                    }
-                                }
-                            }
-                            return new String(res);
-                        }
-                    }
-                }
-                return "";
+                break;
             }
         }
-        for (int j = chrs.length - 1; j >= 0; j--) {
-            counts[res[j]]++;
-            for (int k = chrs[j] + 1; k <= 'z'; k++) {
-                if (counts[k] > 0) {
-                    counts[k]--;
-                    res[j] = (char) k;
-                    for (int l = j + 1; l < chrs.length; l++) {
-                        for (int m = 'a'; m <= 'z'; m++) {
-                            if (counts[m] > 0) {
-                                counts[m]--;
-                                res[l] = (char) m;
-                                break;
-                            }
-                        }
-                    }
-                    return new String(res);
+        if (idx == chrs.length) {
+            idx--;
+        } else {
+            counts[chrs[idx]]--;
+            res[idx] = chrs[idx];
+        }
+        while (idx >= 0) {
+            boolean found = false;
+            counts[res[idx]]++;
+            for (int i = chrs[idx] + 1; i <= 'z'; i++) {
+                if (counts[i] > 0) {
+                    counts[i]--;
+                    res[idx++] = (char) i;
+                    found = true;
+                    break;
                 }
             }
+            if (found)
+                break;
+            idx--;
         }
-        return "";
+        if (idx < 0)
+            return "";
+        for (char i = 'a'; i <= 'z'; i++) {
+            for (int j = 0; j < counts[i]; j++) {
+                res[idx++] = i;
+            }
+        }
+        return new String(res);
     }
 }
