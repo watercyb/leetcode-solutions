@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 406
+- **Total Problems Solved:** 407
 - **Easy:** 84 🟢
-- **Medium:** 218 🟡
+- **Medium:** 219 🟡
 - **Hard:** 104 🔴
 
 ## 📝 Problems
@@ -227,6 +227,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/?envType=daily-question&envId=2026-06-09) | 🟡 Medium | java | 2026-06-09 |
 | [3702. Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/?envType=daily-question&envId=2026-08-15) | 🟡 Medium | java | 2026-08-15 |
 | [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | 🟡 Medium | java | 2026-05-10 |
+| [3720. Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27) | 🟡 Medium | java | 2026-08-27 |
 | [3732. Maximum Product of Three Elements After One Replacement](https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/) | 🟡 Medium | java | 2026-05-10 |
 | [3737. Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | java | 2026-05-10 |
 | [3741. Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | 🟡 Medium | java | 2026-05-10 |
