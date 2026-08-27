@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 407
+- **Total Problems Solved:** 408
 - **Easy:** 84 🟢
 - **Medium:** 219 🟡
-- **Hard:** 104 🔴
+- **Hard:** 105 🔴
 
 ## 📝 Problems
 
@@ -420,6 +420,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4033. Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | 🔴 Hard | java | 2026-08-26 |
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | java | 2026-08-26 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
+| [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27) | 🔴 Hard | java | 2026-08-27 |
 
 ---
 
