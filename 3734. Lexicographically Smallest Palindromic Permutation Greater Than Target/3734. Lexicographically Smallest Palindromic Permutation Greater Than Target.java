@@ -1,9 +1,9 @@
 /*
  * Problem: 3734. Lexicographically Smallest Palindromic Permutation Greater Than Target
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/
+ * Link: https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/?envType=daily-question&envId=2026-08-28
  * Language: java
- * Date: 2026-05-10
+ * Date: 2026-08-28
  */
 
 class Solution {
