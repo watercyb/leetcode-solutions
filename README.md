@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 408
+- **Total Problems Solved:** 409
 - **Easy:** 84 🟢
 - **Medium:** 219 🟡
-- **Hard:** 105 🔴
+- **Hard:** 106 🔴
 
 ## 📝 Problems
 
@@ -376,6 +376,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3677. Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers/) | 🔴 Hard | java | 2026-05-09 |
 | [3691. Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | 🔴 Hard | java | 2026-05-09 |
 | [3699. Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/?envType=daily-question&envId=2026-06-23) | 🔴 Hard | java | 2026-06-23 |
+| [3734. Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/?envType=daily-question&envId=2026-08-28) | 🔴 Hard | java | 2026-08-28 |
 | [3735. Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | 🔴 Hard | python3 | 2026-05-10 |
 | [3753. Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/?envType=daily-question&envId=2026-06-05) | 🔴 Hard | java | 2026-06-05 |
 | [3762. Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/) | 🔴 Hard | java | 2026-07-18 |
