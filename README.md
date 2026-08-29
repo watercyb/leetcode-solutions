@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 409
+- **Total Problems Solved:** 410
 - **Easy:** 84 🟢
-- **Medium:** 219 🟡
+- **Medium:** 220 🟡
 - **Hard:** 106 🔴
 
 ## 📝 Problems
@@ -137,6 +137,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2910. Minimum Number of Groups to Create a Valid Assignment](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/) | 🟡 Medium | java | 2026-05-02 |
 | [2919. Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/) | 🟡 Medium | java | 2026-05-02 |
 | [2933. High-Access Employees](https://leetcode.com/problems/high-access-employees/) | 🟡 Medium | python3 | 2026-05-02 |
+| [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/?envType=daily-question&envId=2026-08-29) | 🟡 Medium | java | 2026-08-29 |
 | [2950. Number of Divisible Substrings](https://leetcode.com/problems/number-of-divisible-substrings/) | 🟡 Medium | java | 2026-05-02 |
 | [2952. Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | 🟡 Medium | python3 | 2026-05-02 |
 | [2957. Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | 🟡 Medium | python3 | 2026-05-02 |
