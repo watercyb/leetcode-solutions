@@ -1,9 +1,9 @@
 /*
  * Problem: 800. Similar RGB Color
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/similar-rgb-color/
+ * Link: https://leetcode.com/problems/similar-rgb-color/?envType=weekly-question&envId=2026-08-29
  * Language: java
- * Date: 2026-04-08
+ * Date: 2026-08-29
  */
 
 class Solution {
