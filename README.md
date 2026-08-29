@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 412
+- **Total Problems Solved:** 413
 - **Easy:** 86 🟢
-- **Medium:** 220 🟡
+- **Medium:** 221 🟡
 - **Hard:** 106 🔴
 
 ## 📝 Problems
@@ -105,6 +105,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2026-07-13) | 🟡 Medium | java | 2026-07-13 |
 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2026-06-30) | 🟡 Medium | java | 2026-06-30 |
 | [1485. Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/?envType=weekly-question&envId=2026-06-22) | 🟡 Medium | java | 2026-06-22 |
+| [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-08-29 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/?envType=daily-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/?envType=daily-question&envId=2026-06-21) | 🟡 Medium | java | 2026-06-21 |
 | [1858. Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/?envType=weekly-question&envId=2026-07-29) | 🟡 Medium | java | 2026-07-29 |
