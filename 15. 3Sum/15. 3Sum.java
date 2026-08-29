@@ -1,9 +1,9 @@
 /*
- * Problem: 3Sum
+ * Problem: 15. 3Sum
  * Difficulty: Medium
  * Link: https://leetcode.com/problems/3sum/
  * Language: java
- * Date: 2026-03-25
+ * Date: 2026-08-29
  */
 
 class Solution {
