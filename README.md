@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 411
-- **Easy:** 85 🟢
+- **Total Problems Solved:** 412
+- **Easy:** 86 🟢
 - **Medium:** 220 🟡
 - **Hard:** 106 🔴
 
@@ -96,6 +96,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4020. Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | 🟢 Easy | rust | 2026-08-18 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/?envType=daily-question&envId=2026-07-26) | 🟢 Easy | java | 2026-07-26 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
+| [800. Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/?envType=weekly-question&envId=2026-08-29) | 🟢 Easy | java | 2026-08-29 |
 | [800. Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/?envType=weekly-question&envId=2026-08-29) | 🟢 Easy | java | 2026-08-29 |
 | [Unknown Problem](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/?envType=daily-question&envId=2026-07-28) | 🟢 Easy | java | 2026-07-28 |
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | java | 2026-08-26 |
