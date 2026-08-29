@@ -1,9 +1,9 @@
 /*
  * Problem: 2948. Make Lexicographically Smallest Array by Swapping Elements
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/
+ * Link: https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/?envType=daily-question&envId=2026-08-29
  * Language: java
- * Date: 2026-05-02
+ * Date: 2026-08-29
  */
 
 class Solution {
