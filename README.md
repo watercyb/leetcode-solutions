@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 413
+- **Total Problems Solved:** 414
 - **Easy:** 86 🟢
-- **Medium:** 221 🟡
+- **Medium:** 222 🟡
 - **Hard:** 106 🔴
 
 ## 📝 Problems
@@ -114,6 +114,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1927. Sum Game](https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23) | 🟡 Medium | java | 2026-08-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | java | 2026-08-26 |
 | [2029. Stone Game IX](https://leetcode.com/problems/stone-game-ix/?envType=daily-question&envId=2026-08-16) | 🟡 Medium | java | 2026-08-16 |
+| [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/?envType=daily-question&envId=2026-08-31) | 🟡 Medium | java | 2026-08-31 |
 | [2061. Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/?envType=weekly-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=daily-question&envId=2026-06-15) | 🟡 Medium | java | 2026-06-15 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=daily-question&envId=2026-06-15) | 🟡 Medium | java | 2026-06-15 |
