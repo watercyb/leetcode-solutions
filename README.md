@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 415
-- **Easy:** 86 🟢
+- **Total Problems Solved:** 416
+- **Easy:** 87 🟢
 - **Medium:** 223 🟡
 - **Hard:** 106 🔴
 
@@ -94,6 +94,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4006. Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | 🟢 Easy | kotlin | 2026-08-05 |
 | [4010. Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | 🟢 Easy | csharp | 2026-08-05 |
 | [4020. Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | 🟢 Easy | rust | 2026-08-18 |
+| [4038. Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) | 🟢 Easy | rust | 2026-08-31 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/?envType=daily-question&envId=2026-07-26) | 🟢 Easy | java | 2026-07-26 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [800. Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/?envType=weekly-question&envId=2026-08-29) | 🟢 Easy | java | 2026-08-29 |
