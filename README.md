@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 421
+- **Total Problems Solved:** 422
 - **Easy:** 87 🟢
-- **Medium:** 226 🟡
+- **Medium:** 227 🟡
 - **Hard:** 108 🔴
 
 ## 📝 Problems
@@ -303,6 +303,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4025. Minimize the Maximum Waiting Time at Synchronized Traffic Lights](https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | 🟡 Medium | python3 | 2026-08-18 |
 | [4026. Maximum Gap Between Stations](https://leetcode.com/problems/maximum-gap-between-stations/) | 🟡 Medium | csharp | 2026-08-18 |
 | [4032. Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) | 🟡 Medium | javascript | 2026-08-26 |
+| [4035. Maximum Valid Split Positions I](https://leetcode.com/problems/maximum-valid-split-positions-i/) | 🟡 Medium | java | 2026-09-01 |
 | [4036. Lexicographically Largest String After Pair Transformations](https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/) | 🟡 Medium | javascript | 2026-09-01 |
 | [4039. Sum of Decoded Numbers](https://leetcode.com/problems/sum-of-decoded-numbers/) | 🟡 Medium | csharp | 2026-08-31 |
 | [4040. Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/) | 🟡 Medium | python3 | 2026-09-01 |
