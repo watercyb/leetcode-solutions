@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 418
+- **Total Problems Solved:** 419
 - **Easy:** 87 🟢
-- **Medium:** 224 🟡
+- **Medium:** 225 🟡
 - **Hard:** 107 🔴
 
 ## 📝 Problems
@@ -304,6 +304,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4026. Maximum Gap Between Stations](https://leetcode.com/problems/maximum-gap-between-stations/) | 🟡 Medium | csharp | 2026-08-18 |
 | [4032. Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) | 🟡 Medium | javascript | 2026-08-26 |
 | [4039. Sum of Decoded Numbers](https://leetcode.com/problems/sum-of-decoded-numbers/) | 🟡 Medium | csharp | 2026-08-31 |
+| [4040. Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/) | 🟡 Medium | python3 | 2026-09-01 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
