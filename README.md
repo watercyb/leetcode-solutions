@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 417
+- **Total Problems Solved:** 418
 - **Easy:** 87 🟢
 - **Medium:** 224 🟡
-- **Hard:** 106 🔴
+- **Hard:** 107 🔴
 
 ## 📝 Problems
 
@@ -333,6 +333,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1563. Stone Game V](https://leetcode.com/problems/stone-game-v/?envType=daily-question&envId=2026-08-17) | 🔴 Hard | java | 2026-08-17 |
 | [1665. Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/?envType=daily-question&envId=2026-05-12) | 🔴 Hard | java | 2026-05-12 |
 | [1872. Stone Game VIII](https://leetcode.com/problems/stone-game-viii/?envType=daily-question&envId=2026-08-24) | 🔴 Hard | java | 2026-08-24 |
+| [2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/?envType=weekly-question&envId=2026-09-01) | 🔴 Hard | java | 2026-09-01 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 | [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | java | 2026-05-02 |
 | [2920. Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/) | 🔴 Hard | java | 2026-05-02 |
