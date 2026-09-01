@@ -1,9 +1,9 @@
 /*
  * Problem: 3568. Minimum Moves to Clean the Classroom
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
+ * Link: https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/?envType=daily-question&envId=2026-09-01
  * Language: java
- * Date: 2026-05-08
+ * Date: 2026-09-01
  */
 
 class Solution {
