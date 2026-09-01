@@ -1,9 +1,9 @@
 /*
  * Problem: 2355. Maximum Number of Books You Can Take
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/maximum-number-of-books-you-can-take/
+ * Link: https://leetcode.com/problems/maximum-number-of-books-you-can-take/?envType=weekly-question&envId=2026-09-01
  * Language: java
- * Date: 2026-04-26
+ * Date: 2026-09-01
  */
 
 class Solution {
