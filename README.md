@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 420
+- **Total Problems Solved:** 421
 - **Easy:** 87 🟢
 - **Medium:** 226 🟡
-- **Hard:** 107 🔴
+- **Hard:** 108 🔴
 
 ## 📝 Problems
 
@@ -430,6 +430,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4028. Minimum Operations to Make a Rotated Palindrome II](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-ii/) | 🔴 Hard | java | 2026-08-21 |
 | [4030. Elevator Requests IV](https://leetcode.com/problems/elevator-requests-iv/) | 🔴 Hard | java | 2026-08-19 |
 | [4033. Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | 🔴 Hard | java | 2026-08-26 |
+| [4042. Valid K-Unique Subarrays II](https://leetcode.com/problems/valid-k-unique-subarrays-ii/) | 🔴 Hard | java | 2026-09-01 |
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | java | 2026-08-26 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27) | 🔴 Hard | java | 2026-08-27 |
