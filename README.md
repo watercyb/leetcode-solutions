@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 422
-- **Easy:** 87 🟢
+- **Total Problems Solved:** 423
+- **Easy:** 88 🟢
 - **Medium:** 227 🟡
 - **Hard:** 108 🔴
 
@@ -74,6 +74,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3823. Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | 🟢 Easy | java | 2026-05-11 |
 | [3833. Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | 🟢 Easy | java | 2026-05-11 |
 | [3842. Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | 🟢 Easy | rust | 2026-05-11 |
+| [3875. Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/?envType=daily-question&envId=2026-09-02) | 🟢 Easy | java | 2026-09-02 |
 | [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | 🟢 Easy | python3 | 2026-05-11 |
 | [3908. Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | 🟢 Easy | kotlin | 2026-05-11 |
 | [3917. Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | 🟢 Easy | kotlin | 2026-05-05 |
