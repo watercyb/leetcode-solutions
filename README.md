@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 423
+- **Total Problems Solved:** 424
 - **Easy:** 88 🟢
 - **Medium:** 227 🟡
-- **Hard:** 108 🔴
+- **Hard:** 109 🔴
 
 ## 📝 Problems
 
@@ -427,6 +427,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4003. Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | 🔴 Hard | csharp | 2026-07-27 |
 | [4009. Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | 🔴 Hard | java | 2026-08-06 |
 | [4013. Count Subarrays With Even Odd Ratio II](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/) | 🔴 Hard | java | 2026-08-04 |
+| [4018. Total Sum of Interaction Cost in Tree Groups II](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups-ii/) | 🔴 Hard | java | 2026-09-03 |
 | [4023. Elevator Requests II](https://leetcode.com/problems/elevator-requests-ii/) | 🔴 Hard | java | 2026-08-18 |
 | [4027. Elevator Requests III](https://leetcode.com/problems/elevator-requests-iii/) | 🔴 Hard | java | 2026-08-19 |
 | [4028. Minimum Operations to Make a Rotated Palindrome II](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-ii/) | 🔴 Hard | java | 2026-08-21 |
