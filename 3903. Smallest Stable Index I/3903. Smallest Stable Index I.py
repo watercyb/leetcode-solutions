@@ -1,9 +1,9 @@
 #
 # Problem: 3903. Smallest Stable Index I
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/smallest-stable-index-i/
+# Link: https://leetcode.com/problems/smallest-stable-index-i/?envType=daily-question&envId=2026-09-04
 # Language: python3
-# Date: 2026-05-11
+# Date: 2026-09-04
 
 
 class Solution:
