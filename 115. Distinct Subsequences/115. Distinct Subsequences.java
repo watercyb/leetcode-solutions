@@ -1,9 +1,9 @@
 /*
  * Problem: 115. Distinct Subsequences
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/distinct-subsequences/
+ * Link: https://leetcode.com/problems/distinct-subsequences/?envType=daily-question&envId=2026-09-06
  * Language: java
- * Date: 2026-03-25
+ * Date: 2026-09-06
  */
 
 class Solution {
