@@ -1,9 +1,9 @@
 /*
  * Problem: 940. Distinct Subsequences II
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/distinct-subsequences-ii/
+ * Link: https://leetcode.com/problems/distinct-subsequences-ii/?envType=daily-question&envId=2026-09-07
  * Language: java
- * Date: 2026-04-10
+ * Date: 2026-09-07
  */
 
 class Solution {
