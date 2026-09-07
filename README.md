@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 426
+- **Total Problems Solved:** 427
 - **Easy:** 88 🟢
 - **Medium:** 227 🟡
-- **Hard:** 111 🔴
+- **Hard:** 112 🔴
 
 ## 📝 Problems
 
@@ -437,6 +437,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4042. Valid K-Unique Subarrays II](https://leetcode.com/problems/valid-k-unique-subarrays-ii/) | 🔴 Hard | java | 2026-09-01 |
 | [4046. Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | 🔴 Hard | python3 | 2026-09-06 |
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | java | 2026-08-26 |
+| [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/?envType=daily-question&envId=2026-09-07) | 🔴 Hard | java | 2026-09-07 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
 | [Unknown Problem](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27) | 🔴 Hard | java | 2026-08-27 |
 
