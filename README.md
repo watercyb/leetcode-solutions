@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 428
-- **Easy:** 89 🟢
+- **Total Problems Solved:** 429
+- **Easy:** 90 🟢
 - **Medium:** 227 🟡
 - **Hard:** 112 🔴
 
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1056. Confusing Number](https://leetcode.com/problems/confusing-number/?envType=weekly-question&envId=2026-05-29) | 🟢 Easy | java | 2026-05-29 |
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
 | [1064. Fixed Point](https://leetcode.com/problems/fixed-point/?envType=weekly-question&envId=2026-05-22) | 🟢 Easy | java | 2026-05-22 |
+| [1086. High Five](https://leetcode.com/problems/high-five/?envType=weekly-question&envId=2026-09-08) | 🟢 Easy | java | 2026-09-08 |
 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/?envType=daily-question&envId=2026-06-22) | 🟢 Easy | java | 2026-06-22 |
 | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/?envType=daily-question&envId=2026-07-12) | 🟢 Easy | java | 2026-07-12 |
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/?envType=daily-question&envId=2026-07-27) | 🟢 Easy | java | 2026-07-27 |
