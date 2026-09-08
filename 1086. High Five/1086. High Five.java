@@ -1,9 +1,9 @@
 /*
  * Problem: 1086. High Five
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/high-five/
+ * Link: https://leetcode.com/problems/high-five/?envType=weekly-question&envId=2026-09-08
  * Language: java
- * Date: 2026-04-12
+ * Date: 2026-09-08
  */
 
 class Solution {
