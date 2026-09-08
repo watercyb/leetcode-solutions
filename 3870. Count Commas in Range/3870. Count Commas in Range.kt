@@ -1,9 +1,9 @@
 /*
  * Problem: 3870. Count Commas in Range
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/count-commas-in-range/
+ * Link: https://leetcode.com/problems/count-commas-in-range/?envType=daily-question&envId=2026-09-08
  * Language: kotlin
- * Date: 2026-05-11
+ * Date: 2026-09-08
  */
 
 class Solution {
