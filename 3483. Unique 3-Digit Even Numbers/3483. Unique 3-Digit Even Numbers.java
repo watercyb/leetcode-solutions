@@ -1,9 +1,9 @@
 /*
  * Problem: 3483. Unique 3-Digit Even Numbers
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/unique-3-digit-even-numbers/
+ * Link: https://leetcode.com/problems/unique-3-digit-even-numbers/?envType=daily-question&envId=2026-09-11
  * Language: java
- * Date: 2026-05-07
+ * Date: 2026-09-11
  */
 
 class Solution {
