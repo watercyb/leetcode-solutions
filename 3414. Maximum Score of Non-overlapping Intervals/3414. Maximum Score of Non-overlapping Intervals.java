@@ -1,9 +1,9 @@
 /*
  * Problem: 3414. Maximum Score of Non-overlapping Intervals
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/
+ * Link: https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/?envType=daily-question&envId=2026-09-12
  * Language: java
- * Date: 2026-05-07
+ * Date: 2026-09-12
  */
 
 class Solution {
