@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 434
+- **Total Problems Solved:** 435
 - **Easy:** 91 🟢
 - **Medium:** 230 🟡
-- **Hard:** 113 🔴
+- **Hard:** 114 🔴
 
 ## 📝 Problems
 
@@ -443,6 +443,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4033. Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | 🔴 Hard | java | 2026-08-26 |
 | [4042. Valid K-Unique Subarrays II](https://leetcode.com/problems/valid-k-unique-subarrays-ii/) | 🔴 Hard | java | 2026-09-01 |
 | [4046. Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | 🔴 Hard | python3 | 2026-09-06 |
+| [4051. Count Subarrays with Distant Sums](https://leetcode.com/problems/count-subarrays-with-distant-sums/) | 🔴 Hard | csharp | 2026-09-12 |
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | java | 2026-08-26 |
 | [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/?envType=daily-question&envId=2026-09-07) | 🔴 Hard | java | 2026-09-07 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
