@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 433
+- **Total Problems Solved:** 434
 - **Easy:** 91 🟢
 - **Medium:** 230 🟡
-- **Hard:** 112 🔴
+- **Hard:** 113 🔴
 
 ## 📝 Problems
 
@@ -381,6 +381,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3398. Smallest Substring With Identical Characters I](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/) | 🔴 Hard | java | 2026-05-06 |
 | [3401. Find Circular Gift Exchange Chains](https://leetcode.com/problems/find-circular-gift-exchange-chains/) | 🔴 Hard | mysql | 2026-05-07 |
 | [3406. Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/) | 🔴 Hard | java | 2026-05-07 |
+| [3414. Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/?envType=daily-question&envId=2026-09-12) | 🔴 Hard | java | 2026-09-12 |
 | [3416. Subsequences with a Unique Middle Mode II](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii/) | 🔴 Hard | java | 2026-05-07 |
 | [3441. Minimum Cost Good Caption](https://leetcode.com/problems/minimum-cost-good-caption/) | 🔴 Hard | java | 2026-05-07 |
 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | 🔴 Hard | java | 2026-05-07 |
