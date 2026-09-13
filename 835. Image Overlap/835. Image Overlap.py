@@ -1,9 +1,9 @@
 #
 # Problem: 835. Image Overlap
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/image-overlap/
+# Link: https://leetcode.com/problems/image-overlap/?envType=daily-question&envId=2026-09-13
 # Language: python3
-# Date: 2026-04-09
+# Date: 2026-09-13
 
 
 class Solution:
