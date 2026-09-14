@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 436
-- **Easy:** 91 🟢
+- **Total Problems Solved:** 437
+- **Easy:** 92 🟢
 - **Medium:** 231 🟡
 - **Hard:** 114 🔴
 
@@ -103,6 +103,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [800. Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/?envType=weekly-question&envId=2026-08-29) | 🟢 Easy | java | 2026-08-29 |
 | [800. Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/?envType=weekly-question&envId=2026-08-29) | 🟢 Easy | java | 2026-08-29 |
+| [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/?envType=daily-question&envId=2026-09-14) | 🟢 Easy | java | 2026-09-14 |
 | [Unknown Problem](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/?envType=daily-question&envId=2026-07-28) | 🟢 Easy | java | 2026-07-28 |
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | java | 2026-08-26 |
 | [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/?envType=daily-question&envId=2026-07-19) | 🟡 Medium | java | 2026-07-19 |
