@@ -1,9 +1,9 @@
 /*
  * Problem: 836. Rectangle Overlap
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/rectangle-overlap/
+ * Link: https://leetcode.com/problems/rectangle-overlap/?envType=daily-question&envId=2026-09-14
  * Language: java
- * Date: 2026-04-09
+ * Date: 2026-09-14
  */
 
 class Solution {
