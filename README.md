@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 444
+- **Total Problems Solved:** 445
 - **Easy:** 94 🟢
-- **Medium:** 234 🟡
+- **Medium:** 235 🟡
 - **Hard:** 116 🔴
 
 ## 📝 Problems
@@ -319,6 +319,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4044. Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | 🟡 Medium | swift | 2026-09-10 |
 | [4045. Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | 🟡 Medium | csharp | 2026-09-11 |
 | [4049. Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | 🟡 Medium | javascript | 2026-09-15 |
+| [4050. Minimum Days to Score Exactly N Points](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | 🟡 Medium | csharp | 2026-09-15 |
 | [4053. Minimum Operations to Make Every Element Palindromic](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | 🟡 Medium | kotlin | 2026-09-15 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
