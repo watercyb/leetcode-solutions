@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 445
+- **Total Problems Solved:** 446
 - **Easy:** 94 🟢
-- **Medium:** 235 🟡
+- **Medium:** 236 🟡
 - **Hard:** 116 🔴
 
 ## 📝 Problems
@@ -321,6 +321,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4049. Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | 🟡 Medium | javascript | 2026-09-15 |
 | [4050. Minimum Days to Score Exactly N Points](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | 🟡 Medium | csharp | 2026-09-15 |
 | [4053. Minimum Operations to Make Every Element Palindromic](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | 🟡 Medium | kotlin | 2026-09-15 |
+| [4054. Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/) | 🟡 Medium | kotlin | 2026-09-15 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
