@@ -1,9 +1,9 @@
 /*
  * Problem: 2472. Maximum Number of Non-overlapping Palindrome Substrings
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
+ * Link: https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/?envType=daily-question&envId=2026-09-15
  * Language: java
- * Date: 2026-04-27
+ * Date: 2026-09-15
  */
 
 class Solution {
