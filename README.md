@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 442
+- **Total Problems Solved:** 443
 - **Easy:** 94 🟢
-- **Medium:** 232 🟡
+- **Medium:** 233 🟡
 - **Hard:** 116 🔴
 
 ## 📝 Problems
@@ -318,6 +318,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4040. Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/) | 🟡 Medium | python3 | 2026-09-01 |
 | [4044. Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | 🟡 Medium | swift | 2026-09-10 |
 | [4045. Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | 🟡 Medium | csharp | 2026-09-11 |
+| [4049. Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | 🟡 Medium | javascript | 2026-09-15 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
