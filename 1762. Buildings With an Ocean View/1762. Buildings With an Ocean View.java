@@ -1,9 +1,9 @@
 /*
  * Problem: 1762. Buildings With an Ocean View
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/buildings-with-an-ocean-view/
+ * Link: https://leetcode.com/problems/buildings-with-an-ocean-view/?envType=weekly-question&envId=2026-09-15
  * Language: java
- * Date: 2026-04-20
+ * Date: 2026-09-15
  */
 
 class Solution {
