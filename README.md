@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 446
+- **Total Problems Solved:** 447
 - **Easy:** 94 🟢
-- **Medium:** 236 🟡
+- **Medium:** 237 🟡
 - **Hard:** 116 🔴
 
 ## 📝 Problems
@@ -115,6 +115,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1485. Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/?envType=weekly-question&envId=2026-06-22) | 🟡 Medium | java | 2026-06-22 |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-08-29 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/?envType=daily-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
+| [1621. Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/?envType=daily-question&envId=2026-09-16) | 🟡 Medium | python3 | 2026-09-16 |
 | [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/?envType=weekly-question&envId=2026-09-15) | 🟡 Medium | java | 2026-09-15 |
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/?envType=daily-question&envId=2026-06-21) | 🟡 Medium | java | 2026-06-21 |
 | [1858. Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/?envType=weekly-question&envId=2026-07-29) | 🟡 Medium | java | 2026-07-29 |
