@@ -1,9 +1,9 @@
 #
 # Problem: 1621. Number of Sets of K Non-Overlapping Line Segments
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/
+# Link: https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/?envType=daily-question&envId=2026-09-16
 # Language: python3
-# Date: 2026-04-19
+# Date: 2026-09-16
 
 
 class Solution:
