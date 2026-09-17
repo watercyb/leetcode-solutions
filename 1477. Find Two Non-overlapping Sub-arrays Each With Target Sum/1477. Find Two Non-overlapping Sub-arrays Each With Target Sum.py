@@ -1,9 +1,9 @@
 #
 # Problem: 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+# Link: https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/?envType=daily-question&envId=2026-09-17
 # Language: python3
-# Date: 2026-04-17
+# Date: 2026-09-17
 
 
 class Solution:
