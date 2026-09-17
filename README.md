@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 447
+- **Total Problems Solved:** 448
 - **Easy:** 94 🟢
-- **Medium:** 237 🟡
+- **Medium:** 238 🟡
 - **Hard:** 116 🔴
 
 ## 📝 Problems
@@ -112,6 +112,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/?envType=daily-question&envId=2026-07-06) | 🟡 Medium | java | 2026-07-06 |
 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2026-07-13) | 🟡 Medium | java | 2026-07-13 |
 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2026-06-30) | 🟡 Medium | java | 2026-06-30 |
+| [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/?envType=daily-question&envId=2026-09-17) | 🟡 Medium | python3 | 2026-09-17 |
 | [1485. Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/?envType=weekly-question&envId=2026-06-22) | 🟡 Medium | java | 2026-06-22 |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-08-29 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/?envType=daily-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
