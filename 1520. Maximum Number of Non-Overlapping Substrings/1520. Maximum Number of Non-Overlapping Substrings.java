@@ -1,9 +1,9 @@
 /*
  * Problem: 1520. Maximum Number of Non-Overlapping Substrings
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
+ * Link: https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/?envType=daily-question&envId=2026-09-18
  * Language: java
- * Date: 2026-04-18
+ * Date: 2026-09-18
  */
 
 class Solution {
