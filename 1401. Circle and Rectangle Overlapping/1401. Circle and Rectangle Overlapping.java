@@ -1,9 +1,9 @@
 /*
  * Problem: 1401. Circle and Rectangle Overlapping
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/circle-and-rectangle-overlapping/
+ * Link: https://leetcode.com/problems/circle-and-rectangle-overlapping/?envType=daily-question&envId=2026-09-19
  * Language: java
- * Date: 2026-04-17
+ * Date: 2026-09-19
  */
 
 class Solution {
