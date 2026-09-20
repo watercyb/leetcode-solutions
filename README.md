@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 450
-- **Easy:** 94 🟢
+- **Total Problems Solved:** 451
+- **Easy:** 95 🟢
 - **Medium:** 239 🟡
 - **Hard:** 117 🔴
 
@@ -62,6 +62,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3465. Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | 🟢 Easy | python3 | 2026-05-07 |
 | [3471. Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/?envType=daily-question&envId=2026-08-18) | 🟢 Easy | java | 2026-08-18 |
 | [3483. Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/?envType=daily-question&envId=2026-09-11) | 🟢 Easy | java | 2026-09-11 |
+| [3498. Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/?envType=daily-question&envId=2026-09-20) | 🟢 Easy | java | 2026-09-20 |
 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | java | 2026-05-08 |
 | [3536. Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/?envType=daily-question&envId=2026-07-25) | 🟢 Easy | java | 2026-07-25 |
 | [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22) | 🟢 Easy | java | 2026-08-22 |
