@@ -1,9 +1,9 @@
 /*
  * Problem: 3498. Reverse Degree of a String
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/reverse-degree-of-a-string/
+ * Link: https://leetcode.com/problems/reverse-degree-of-a-string/?envType=daily-question&envId=2026-09-20
  * Language: java
- * Date: 2026-05-07
+ * Date: 2026-09-20
  */
 
 class Solution {
