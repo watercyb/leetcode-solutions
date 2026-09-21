@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 451
+- **Total Problems Solved:** 452
 - **Easy:** 95 🟢
-- **Medium:** 239 🟡
+- **Medium:** 240 🟡
 - **Hard:** 117 🔴
 
 ## 📝 Problems
@@ -222,6 +222,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3513. Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/?envType=daily-question&envId=2026-07-23) | 🟡 Medium | java | 2026-07-23 |
 | [3514. Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/?envType=daily-question&envId=2026-07-24) | 🟡 Medium | java | 2026-07-24 |
 | [3521. Find Product Recommendation Pairs](https://leetcode.com/problems/find-product-recommendation-pairs/) | 🟡 Medium | python3 | 2026-05-08 |
+| [3524. Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/?envType=daily-question&envId=2026-09-21) | 🟡 Medium | java | 2026-09-21 |
 | [3528. Unit Conversion I](https://leetcode.com/problems/unit-conversion-i/) | 🟡 Medium | java | 2026-05-08 |
 | [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | 🟡 Medium | java | 2026-05-08 |
 | [3568. Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | 🟡 Medium | java | 2026-05-08 |
