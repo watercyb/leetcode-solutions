@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 452
+- **Total Problems Solved:** 453
 - **Easy:** 95 🟢
 - **Medium:** 240 🟡
-- **Hard:** 117 🔴
+- **Hard:** 118 🔴
 
 ## 📝 Problems
 
@@ -404,6 +404,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3501. Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | 🔴 Hard | java | 2026-05-08 |
 | [3518. Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/?envType=daily-question&envId=2026-07-29) | 🔴 Hard | java | 2026-07-29 |
 | [3518. Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/?envType=daily-question&envId=2026-07-29) | 🔴 Hard | java | 2026-07-29 |
+| [3525. Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/?envType=daily-question&envId=2026-09-22) | 🔴 Hard | java | 2026-09-22 |
 | [3534. Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | 🔴 Hard | java | 2026-05-08 |
 | [3562. Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | 🔴 Hard | java | 2026-05-08 |
 | [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/?envType=daily-question&envId=2026-06-17) | 🔴 Hard | java | 2026-06-17 |
