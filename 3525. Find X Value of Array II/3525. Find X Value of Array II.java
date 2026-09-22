@@ -1,9 +1,9 @@
 /*
  * Problem: 3525. Find X Value of Array II
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/find-x-value-of-array-ii/
+ * Link: https://leetcode.com/problems/find-x-value-of-array-ii/?envType=daily-question&envId=2026-09-22
  * Language: java
- * Date: 2026-05-08
+ * Date: 2026-09-22
  */
 
 class Solution {
