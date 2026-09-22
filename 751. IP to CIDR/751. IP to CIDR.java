@@ -1,9 +1,9 @@
 /*
  * Problem: 751. IP to CIDR
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/ip-to-cidr/
+ * Link: https://leetcode.com/problems/ip-to-cidr/?envType=weekly-question&envId=2026-09-22
  * Language: java
- * Date: 2026-04-08
+ * Date: 2026-09-22
  */
 
 class Solution {
