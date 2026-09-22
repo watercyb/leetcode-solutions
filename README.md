@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 453
+- **Total Problems Solved:** 454
 - **Easy:** 95 🟢
-- **Medium:** 240 🟡
+- **Medium:** 241 🟡
 - **Hard:** 118 🔴
 
 ## 📝 Problems
@@ -332,6 +332,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/?envType=weekly-question&envId=2026-06-01) | 🟡 Medium | java | 2026-06-01 |
+| [751. IP to CIDR](https://leetcode.com/problems/ip-to-cidr/?envType=weekly-question&envId=2026-09-22) | 🟡 Medium | java | 2026-09-22 |
 | [758. Bold Words in String](https://leetcode.com/problems/bold-words-in-string/?envType=weekly-question&envId=2026-07-22) | 🟡 Medium | java | 2026-07-22 |
 | [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/?envType=daily-question&envId=2026-05-02) | 🟡 Medium | python3 | 2026-05-02 |
 | [835. Image Overlap](https://leetcode.com/problems/image-overlap/?envType=daily-question&envId=2026-09-13) | 🟡 Medium | python3 | 2026-09-13 |
