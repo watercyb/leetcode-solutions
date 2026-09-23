@@ -1,9 +1,9 @@
 #
 # Problem: 1658. Minimum Operations to Reduce X to Zero
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+# Link: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/?envType=daily-question&envId=2026-09-23
 # Language: python3
-# Date: 2026-04-19
+# Date: 2026-09-23
 
 
 class Solution:
