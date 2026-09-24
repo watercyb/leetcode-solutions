@@ -1,9 +1,9 @@
 /*
  * Problem: 3550. Smallest Index With Digit Sum Equal to Index
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/
+ * Link: https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/?envType=daily-question&envId=2026-09-24
  * Language: java
- * Date: 2026-05-08
+ * Date: 2026-09-24
  */
 
 class Solution {
