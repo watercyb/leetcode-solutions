@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 459
+- **Total Problems Solved:** 460
 - **Easy:** 97 🟢
-- **Medium:** 243 🟡
+- **Medium:** 244 🟡
 - **Hard:** 119 🔴
 
 ## 📝 Problems
@@ -331,6 +331,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4053. Minimum Operations to Make Every Element Palindromic](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | 🟡 Medium | kotlin | 2026-09-15 |
 | [4054. Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/) | 🟡 Medium | kotlin | 2026-09-15 |
 | [4057. Number of Intersecting Interval Pairs II](https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/) | 🟡 Medium | rust | 2026-09-24 |
+| [4058. Maximum Pulse Value After One Subarray Rotation](https://leetcode.com/problems/maximum-pulse-value-after-one-subarray-rotation/) | 🟡 Medium | swift | 2026-09-24 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
