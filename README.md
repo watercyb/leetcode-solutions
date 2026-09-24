@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 456
-- **Easy:** 95 🟢
+- **Total Problems Solved:** 457
+- **Easy:** 96 🟢
 - **Medium:** 242 🟡
 - **Hard:** 119 🔴
 
@@ -65,6 +65,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3498. Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/?envType=daily-question&envId=2026-09-20) | 🟢 Easy | java | 2026-09-20 |
 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | java | 2026-05-08 |
 | [3536. Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/?envType=daily-question&envId=2026-07-25) | 🟢 Easy | java | 2026-07-25 |
+| [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/?envType=daily-question&envId=2026-09-24) | 🟢 Easy | java | 2026-09-24 |
 | [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22) | 🟢 Easy | java | 2026-08-22 |
 | [3658. GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/?envType=daily-question&envId=2026-07-15) | 🟢 Easy | java | 2026-07-15 |
 | [3667. Sort Array By Absolute Value](https://leetcode.com/problems/sort-array-by-absolute-value/description/) | 🟢 Easy | java | 2026-05-09 |
