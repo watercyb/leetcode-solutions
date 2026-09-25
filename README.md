@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 460
+- **Total Problems Solved:** 461
 - **Easy:** 97 🟢
 - **Medium:** 244 🟡
-- **Hard:** 119 🔴
+- **Hard:** 120 🔴
 
 ## 📝 Problems
 
@@ -354,6 +354,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/count-valid-sequences/) | 🟡 Medium | csharp | 2026-07-27 |
 | [Unknown Problem](https://leetcode.com/problems/check-ascii-palindromic/) | 🟡 Medium | rust | 2026-08-25 |
 | [Unknown Problem](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-ii/) | 🟡 Medium | python3 | 2026-08-31 |
+| [1096. Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/?envType=daily-question&envId=2026-09-25) | 🔴 Hard | java | 2026-09-25 |
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/?envType=daily-question&envId=2026-09-06) | 🔴 Hard | java | 2026-09-06 |
 | [1199. Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/?envType=weekly-question&envId=2026-08-01) | 🔴 Hard | java | 2026-08-01 |
 | [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/?envType=daily-question&envId=2026-07-05) | 🔴 Hard | java | 2026-07-05 |
