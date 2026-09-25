@@ -1,9 +1,9 @@
 /*
  * Problem: 1096. Brace Expansion II
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/brace-expansion-ii/
+ * Link: https://leetcode.com/problems/brace-expansion-ii/?envType=daily-question&envId=2026-09-25
  * Language: java
- * Date: 2026-04-12
+ * Date: 2026-09-25
  */
 
 class Solution {
