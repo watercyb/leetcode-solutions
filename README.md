@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 461
+- **Total Problems Solved:** 462
 - **Easy:** 97 🟢
 - **Medium:** 244 🟡
-- **Hard:** 120 🔴
+- **Hard:** 121 🔴
 
 ## 📝 Problems
 
@@ -469,6 +469,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4046. Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | 🔴 Hard | python3 | 2026-09-06 |
 | [4051. Count Subarrays with Distant Sums](https://leetcode.com/problems/count-subarrays-with-distant-sums/) | 🔴 Hard | csharp | 2026-09-12 |
 | [4055. Count Shadow Pairs II](https://leetcode.com/problems/count-shadow-pairs-ii/) | 🔴 Hard | python3 | 2026-09-14 |
+| [4059. Lexicographically Largest Power Array](https://leetcode.com/problems/lexicographically-largest-power-array/) | 🔴 Hard | java | 2026-09-25 |
 | [4060. Count Evenly Good Integers](https://leetcode.com/problems/count-evenly-good-integers/) | 🔴 Hard | java | 2026-09-22 |
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | java | 2026-08-26 |
 | [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/?envType=daily-question&envId=2026-09-07) | 🔴 Hard | java | 2026-09-07 |
