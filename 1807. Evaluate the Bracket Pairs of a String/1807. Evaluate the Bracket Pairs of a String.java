@@ -1,9 +1,9 @@
 /*
  * Problem: 1807. Evaluate the Bracket Pairs of a String
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
+ * Link: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/?envType=daily-question&envId=2026-09-26
  * Language: java
- * Date: 2026-04-21
+ * Date: 2026-09-26
  */
 
 class Solution {
