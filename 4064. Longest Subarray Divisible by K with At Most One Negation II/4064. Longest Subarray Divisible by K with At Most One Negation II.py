@@ -17,13 +17,13 @@ class Solution:
             num_sum = (num_sum + num) % k
             rights[num_sum] = i
         lasts = [-1] * k
-        lasts[0] = n
         num_sum = 0
         res = 0
         for i in range(n):
             num_sum = (num_sum + nums[i]) % k
             lasts[2 * nums[i] % k] = i
             if rights[num_sum] == i:
+                lasts[0] = n
                 for j, l in lefts.items():
                     if i - l > res:
                         m = (num_sum - j + k) % k
