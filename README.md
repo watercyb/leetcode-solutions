@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 462
+- **Total Problems Solved:** 463
 - **Easy:** 97 🟢
-- **Medium:** 244 🟡
+- **Medium:** 245 🟡
 - **Hard:** 121 🔴
 
 ## 📝 Problems
@@ -123,6 +123,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1621. Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/?envType=daily-question&envId=2026-09-16) | 🟡 Medium | python3 | 2026-09-16 |
 | [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/?envType=daily-question&envId=2026-09-23) | 🟡 Medium | python3 | 2026-09-23 |
 | [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/?envType=weekly-question&envId=2026-09-15) | 🟡 Medium | java | 2026-09-15 |
+| [1807. Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/?envType=daily-question&envId=2026-09-26) | 🟡 Medium | java | 2026-09-26 |
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/?envType=daily-question&envId=2026-06-21) | 🟡 Medium | java | 2026-06-21 |
 | [1858. Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/?envType=weekly-question&envId=2026-07-29) | 🟡 Medium | java | 2026-07-29 |
 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/?envType=daily-question&envId=2026-05-25) | 🟡 Medium | java | 2026-05-25 |
