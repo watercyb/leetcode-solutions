@@ -1,9 +1,9 @@
 /*
  * Problem: 1190. Reverse Substrings Between Each Pair of Parentheses
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
+ * Link: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/?envType=daily-question&envId=2026-09-27
  * Language: java
- * Date: 2026-04-14
+ * Date: 2026-09-27
  */
 
 class Solution {
