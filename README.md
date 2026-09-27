@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 466
+- **Total Problems Solved:** 467
 - **Easy:** 98 🟢
-- **Medium:** 246 🟡
+- **Medium:** 247 🟡
 - **Hard:** 122 🔴
 
 ## 📝 Problems
@@ -334,6 +334,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4054. Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/) | 🟡 Medium | kotlin | 2026-09-15 |
 | [4057. Number of Intersecting Interval Pairs II](https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/) | 🟡 Medium | rust | 2026-09-24 |
 | [4058. Maximum Pulse Value After One Subarray Rotation](https://leetcode.com/problems/maximum-pulse-value-after-one-subarray-rotation/) | 🟡 Medium | swift | 2026-09-24 |
+| [4062. Transform Array Using Pair Operations](https://leetcode.com/problems/transform-array-using-pair-operations/) | 🟡 Medium | swift | 2026-09-27 |
 | [4063. Longest Subarray Divisible by K with At Most One Negation I](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | 🟡 Medium | javascript | 2026-09-27 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
