@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 470
-- **Easy:** 99 🟢
+- **Total Problems Solved:** 471
+- **Easy:** 100 🟢
 - **Medium:** 248 🟡
 - **Hard:** 123 🔴
 
@@ -106,6 +106,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4052. Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | 🟢 Easy | swift | 2026-09-15 |
 | [4056. Number of Intersecting Interval Pairs I](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/) | 🟢 Easy | rust | 2026-09-24 |
 | [4061. Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | 🟢 Easy | rust | 2026-09-27 |
+| [4065. Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | 🟢 Easy | javascript | 2026-09-28 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/?envType=daily-question&envId=2026-07-26) | 🟢 Easy | java | 2026-07-26 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [800. Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/?envType=weekly-question&envId=2026-08-29) | 🟢 Easy | java | 2026-08-29 |
