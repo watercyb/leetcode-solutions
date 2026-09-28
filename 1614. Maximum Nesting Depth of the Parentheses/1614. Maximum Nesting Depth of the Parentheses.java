@@ -1,9 +1,9 @@
 /*
  * Problem: 1614. Maximum Nesting Depth of the Parentheses
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+ * Link: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/?envType=daily-question&envId=2026-09-28
  * Language: java
- * Date: 2026-04-19
+ * Date: 2026-09-28
  */
 
 class Solution {
