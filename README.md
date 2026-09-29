@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 473
+- **Total Problems Solved:** 474
 - **Easy:** 100 🟢
-- **Medium:** 250 🟡
+- **Medium:** 251 🟡
 - **Hard:** 123 🔴
 
 ## 📝 Problems
@@ -116,6 +116,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | java | 2026-08-26 |
 | [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/?envType=daily-question&envId=2026-07-19) | 🟡 Medium | java | 2026-07-19 |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/?envType=daily-question&envId=2026-09-27) | 🟡 Medium | java | 2026-09-27 |
+| [1236. Web Crawler](https://leetcode.com/problems/web-crawler/?envType=weekly-question&envId=2026-09-29) | 🟡 Medium | java | 2026-09-29 |
 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/?envType=daily-question&envId=2026-07-06) | 🟡 Medium | java | 2026-07-06 |
 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2026-07-13) | 🟡 Medium | java | 2026-07-13 |
 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2026-06-30) | 🟡 Medium | java | 2026-06-30 |
