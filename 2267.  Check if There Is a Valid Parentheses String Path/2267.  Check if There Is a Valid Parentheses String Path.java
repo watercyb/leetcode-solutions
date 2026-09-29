@@ -1,9 +1,9 @@
 /*
  * Problem: 2267.  Check if There Is a Valid Parentheses String Path
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/
+ * Link: https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/?envType=daily-question&envId=2026-09-29
  * Language: java
- * Date: 2026-04-25
+ * Date: 2026-09-29
  */
 
 class Solution {
