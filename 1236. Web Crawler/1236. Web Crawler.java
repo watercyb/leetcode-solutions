@@ -1,9 +1,9 @@
 /*
  * Problem: 1236. Web Crawler
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/web-crawler/
+ * Link: https://leetcode.com/problems/web-crawler/?envType=weekly-question&envId=2026-09-29
  * Language: java
- * Date: 2026-04-15
+ * Date: 2026-09-29
  */
 
 /**
