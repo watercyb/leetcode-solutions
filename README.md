@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 476
+- **Total Problems Solved:** 477
 - **Easy:** 100 🟢
-- **Medium:** 252 🟡
+- **Medium:** 253 🟡
 - **Hard:** 124 🔴
 
 ## 📝 Problems
@@ -115,6 +115,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/?envType=daily-question&envId=2026-07-28) | 🟢 Easy | java | 2026-07-28 |
 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | 🟡 Medium | java | 2026-08-26 |
 | [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/?envType=daily-question&envId=2026-07-19) | 🟡 Medium | java | 2026-07-19 |
+| [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/?envType=daily-question&envId=2026-09-30) | 🟡 Medium | java | 2026-09-30 |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/?envType=daily-question&envId=2026-09-27) | 🟡 Medium | java | 2026-09-27 |
 | [1236. Web Crawler](https://leetcode.com/problems/web-crawler/?envType=weekly-question&envId=2026-09-29) | 🟡 Medium | java | 2026-09-29 |
 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/?envType=daily-question&envId=2026-07-06) | 🟡 Medium | java | 2026-07-06 |
