@@ -1,9 +1,9 @@
 /*
  * Problem: 1111. Maximum Nesting Depth of Two Valid Parentheses Strings
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
+ * Link: https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/?envType=daily-question&envId=2026-09-30
  * Language: java
- * Date: 2026-04-14
+ * Date: 2026-09-30
  */
 
 class Solution {
