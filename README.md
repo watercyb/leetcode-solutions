@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 479
+- **Total Problems Solved:** 480
 - **Easy:** 102 🟢
 - **Medium:** 253 🟡
-- **Hard:** 124 🔴
+- **Hard:** 125 🔴
 
 ## 📝 Problems
 
@@ -382,6 +382,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1872. Stone Game VIII](https://leetcode.com/problems/stone-game-viii/?envType=daily-question&envId=2026-08-24) | 🔴 Hard | java | 2026-08-24 |
 | [2267.  Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/?envType=daily-question&envId=2026-09-29) | 🔴 Hard | java | 2026-09-29 |
 | [2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/?envType=weekly-question&envId=2026-09-01) | 🔴 Hard | java | 2026-09-01 |
+| [2361. Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/?envType=weekly-question&envId=2026-10-01) | 🔴 Hard | java | 2026-10-01 |
 | [2472. Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/?envType=daily-question&envId=2026-09-15) | 🔴 Hard | java | 2026-09-15 |
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 | [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | java | 2026-05-02 |
