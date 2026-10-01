@@ -1,9 +1,9 @@
 /*
  * Problem: 20. Valid Parentheses
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/valid-parentheses/
+ * Link: https://leetcode.com/problems/valid-parentheses/?envType=daily-question&envId=2026-10-01
  * Language: java
- * Date: 2026-03-25
+ * Date: 2026-10-01
  */
 
 class Solution {
