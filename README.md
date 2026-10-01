@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 477
-- **Easy:** 100 🟢
+- **Total Problems Solved:** 478
+- **Easy:** 101 🟢
 - **Medium:** 253 🟡
 - **Hard:** 124 🔴
 
@@ -25,6 +25,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/?envType=daily-question&envId=2026-09-28) | 🟢 Easy | java | 2026-09-28 |
 | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/?envType=daily-question&envId=2026-06-29) | 🟢 Easy | java | 2026-06-29 |
 | [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/?envType=daily-question&envId=2026-07-18) | 🟢 Easy | java | 2026-07-18 |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/?envType=daily-question&envId=2026-10-01) | 🟢 Easy | java | 2026-10-01 |
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/?envType=daily-question&envId=2026-06-01) | 🟢 Easy | rust | 2026-06-01 |
 | [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/?envType=daily-question&envId=2026-05-11) | 🟢 Easy | java | 2026-05-11 |
 | [2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/?envType=daily-question&envId=2026-05-14) | 🟢 Easy | java | 2026-05-14 |
