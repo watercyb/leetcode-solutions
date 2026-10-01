@@ -1,9 +1,9 @@
 /*
  * Problem: 2361. Minimum Costs Using the Train Line
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/minimum-costs-using-the-train-line/
+ * Link: https://leetcode.com/problems/minimum-costs-using-the-train-line/?envType=weekly-question&envId=2026-10-01
  * Language: java
- * Date: 2026-04-26
+ * Date: 2026-10-01
  */
 
 class Solution {
