@@ -7,41 +7,26 @@
  */
 
 class Solution {
-   public static boolean isValid(String s) {
-        Stack<Character> chrSt = new Stack<Character>();
-        char[] chr = s.toCharArray();
-        for (int i = 0; i < chr.length; i++) {
-            switch (chr[i]) {
+    public static boolean isValid(String s) {
+        char[] chrs = s.toCharArray();
+        int j = 0;
+        for (int i = 0; i < chrs.length; i++) {
+            switch (chrs[i]) {
                 case '(':
-                    chrSt.push('(');
+                    chrs[j++] = ')';
                     break;
                 case '[':
-                    chrSt.push('[');
+                    chrs[j++] = ']';
                     break;
                 case '{':
-                    chrSt.push('{');
+                    chrs[j++] = '}';
                     break;
-                case ')':
-                    if (chrSt.empty()) return false;
-                    if (!chrSt.peek().equals('('))
+                default:
+                    if (j == 0 || chrs[j - 1] != chrs[i])
                         return false;
-                    chrSt.pop();
-                    break;
-                case ']':
-                    if (chrSt.empty()) return false;
-                    if (!chrSt.peek().equals('['))
-                        return false;
-                    chrSt.pop();
-                    break;
-                case '}':
-                    if (chrSt.empty()) return false;
-                    if (!chrSt.peek().equals('{'))
-                        return false;
-                    chrSt.pop();
-                    break;
+                    j--;
             }
         }
-        if (!chrSt.empty()) return false;
-        return true;
+        return j == 0;
     }
 }
