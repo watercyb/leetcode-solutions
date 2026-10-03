@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 480
+- **Total Problems Solved:** 481
 - **Easy:** 102 🟢
 - **Medium:** 253 🟡
-- **Hard:** 125 🔴
+- **Hard:** 126 🔴
 
 ## 📝 Problems
 
@@ -403,6 +403,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/?envType=daily-question&envId=2026-05-30) | 🔴 Hard | java | 2026-05-30 |
 | [3188. Find Top Scoring Students II](https://leetcode.com/problems/find-top-scoring-students-ii/) | 🔴 Hard | python3 | 2026-05-04 |
 | [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | 🔴 Hard | java | 2026-05-04 |
+| [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/?envType=daily-question&envId=2026-10-03) | 🔴 Hard | Choose a type | 2026-10-03 |
 | [3231. Minimum Number of Increasing Subsequence to Be Removed](https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/) | 🔴 Hard | java | 2026-05-05 |
 | [3250. Find the Count of Monotonic Pairs I](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/) | 🔴 Hard | java | 2026-05-05 |
 | [3260. Find the Largest Palindrome Divisible by K](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/) | 🔴 Hard | java | 2026-05-05 |
