@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 481
+- **Total Problems Solved:** 482
 - **Easy:** 102 🟢
-- **Medium:** 253 🟡
+- **Medium:** 254 🟡
 - **Hard:** 126 🔴
 
 ## 📝 Problems
@@ -350,6 +350,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
+| [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/?envType=daily-question&envId=2026-10-04) | 🟡 Medium | java | 2026-10-04 |
 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/?envType=weekly-question&envId=2026-06-01) | 🟡 Medium | java | 2026-06-01 |
 | [751. IP to CIDR](https://leetcode.com/problems/ip-to-cidr/?envType=weekly-question&envId=2026-09-22) | 🟡 Medium | java | 2026-09-22 |
 | [758. Bold Words in String](https://leetcode.com/problems/bold-words-in-string/?envType=weekly-question&envId=2026-07-22) | 🟡 Medium | java | 2026-07-22 |
