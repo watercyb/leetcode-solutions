@@ -1,9 +1,9 @@
 /*
  * Problem: 678. Valid Parenthesis String
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/valid-parenthesis-string/
+ * Link: https://leetcode.com/problems/valid-parenthesis-string/?envType=daily-question&envId=2026-10-04
  * Language: java
- * Date: 2026-04-06
+ * Date: 2026-10-04
  */
 
 class Solution {
