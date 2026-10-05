@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 486
+- **Total Problems Solved:** 487
 - **Easy:** 103 🟢
-- **Medium:** 256 🟡
+- **Medium:** 257 🟡
 - **Hard:** 127 🔴
 
 ## 📝 Problems
@@ -372,6 +372,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/count-valid-sequences/) | 🟡 Medium | csharp | 2026-07-27 |
 | [Unknown Problem](https://leetcode.com/problems/check-ascii-palindromic/) | 🟡 Medium | rust | 2026-08-25 |
 | [Unknown Problem](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-ii/) | 🟡 Medium | python3 | 2026-08-31 |
+| [Unknown Problem](https://leetcode.com/problems/maximum-alternating-subarray-sum-with-one-deletion/) | 🟡 Medium | python3 | 2026-10-05 |
 | [1096. Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/?envType=daily-question&envId=2026-09-25) | 🔴 Hard | java | 2026-09-25 |
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/?envType=daily-question&envId=2026-09-06) | 🔴 Hard | java | 2026-09-06 |
 | [1199. Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/?envType=weekly-question&envId=2026-08-01) | 🔴 Hard | java | 2026-08-01 |
