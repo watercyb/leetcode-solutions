@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 483
+- **Total Problems Solved:** 484
 - **Easy:** 102 🟢
 - **Medium:** 255 🟡
-- **Hard:** 126 🔴
+- **Hard:** 127 🔴
 
 ## 📝 Problems
 
@@ -492,6 +492,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4060. Count Evenly Good Integers](https://leetcode.com/problems/count-evenly-good-integers/) | 🔴 Hard | java | 2026-09-22 |
 | [4064. Longest Subarray Divisible by K with At Most One Negation II](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | 🔴 Hard | python3 | 2026-09-26 |
 | [4068. Maximize Meeting Earnings with Idle Gaps](https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/) | 🔴 Hard | python3 | 2026-09-28 |
+| [4073. Count Good Strings](https://leetcode.com/problems/count-good-strings/) | 🔴 Hard | java | 2026-10-05 |
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | java | 2026-08-26 |
 | [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/?envType=daily-question&envId=2026-09-07) | 🔴 Hard | java | 2026-09-07 |
 | [Unknown Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2026-05-23) | 🔴 Hard | java | 2026-05-23 |
