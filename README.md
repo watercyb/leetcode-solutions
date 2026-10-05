@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 485
+- **Total Problems Solved:** 486
 - **Easy:** 103 🟢
-- **Medium:** 255 🟡
+- **Medium:** 256 🟡
 - **Hard:** 127 🔴
 
 ## 📝 Problems
@@ -347,6 +347,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4066. Maximum Equal Adjacent Pairs After at Most One Replacement](https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | 🟡 Medium | csharp | 2026-09-28 |
 | [4067. Longest Subarray With Restricted Pair Sums](https://leetcode.com/problems/longest-subarray-with-restricted-pair-sums/) | 🟡 Medium | kotlin | 2026-09-28 |
 | [4069. Best Time to Buy and Sell Stock with Cooldown II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown-ii/) | 🟡 Medium | javascript | 2026-09-29 |
+| [4071. Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) | 🟡 Medium | swift | 2026-10-05 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
