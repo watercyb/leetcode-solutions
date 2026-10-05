@@ -1,43 +1,54 @@
 #
 # Problem: Unknown Problem
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/
+# Link: https://leetcode.com/problems/maximum-alternating-subarray-sum-with-one-deletion/
 # Language: python3
-# Date: 2026-09-06
+# Date: 2026-10-05
 
 
 class Solution:
-    def minCost(self, grid: list[list[int]], k: int) -> int:
-        DIRS = [(0, 1), (0, -1), (1, 0), (-1, 0)]
-        m, n = len(grid), len(grid[0])
-        INF = 10**18
-        costs = [
-            [[[INF] * (k + 1) for _ in range(4)] for _ in range(n)] for _ in range(m)
-        ]
-        steps = [[[INF] * 4 for _ in range(n)] for _ in range(m)]
-
-        pq = []
-        for d in range(4):
-            costs[0][0][d][0] = grid[0][0]
-            heapq.heappush(pq, (grid[0][0], 0, 0, d, 0))
-
-        while pq:
-            c, x, y, d, t = heapq.heappop(pq)
-            if c != costs[x][y][d][t] or steps[x][y][d] <= t:
-                continue
-            steps[x][y][d] = t
-            if x == m - 1 and y == n - 1:
-                return c
-
-            for nd, (dx, dy) in enumerate(DIRS):
-                nx, ny = x + dx, y + dy
-                if 0 <= nx < m and 0 <= ny < n:
-                    nt = t + (nd != d)
-                    if nt <= k:
-                        nc = c + grid[nx][ny]
-                        if nc < costs[nx][ny][nd][nt]:
-                            costs[nx][ny][nd][nt] = nc
-                            heapq.heappush(pq, (nc, nx, ny, nd, nt))
-
-        return -1
+    def maxAlternatingSum(self, nums: list[int]) -> int:
+        n = len(nums)
+        lefts_reg = [0] * n
+        lefts_rev = [0] * n
+        dp = [-10000000, 0]
+        num_sum = 0
+        sign = 1
+        res = -100000000000
+        for i in range(n):
+            num_sum += sign * nums[i]
+            if sign == 1:
+                reg = num_sum - dp[1]
+                rev = dp[0] - num_sum
+                lefts_reg[i] = reg
+                lefts_rev[i] = rev
+                res = max(res, reg, rev)
+                dp[0] = max(dp[0], num_sum)
+                sign = -1
+            else:
+                reg = dp[0] - num_sum
+                rev = num_sum - dp[1]
+                lefts_reg[i] = reg
+                lefts_rev[i] = rev
+                res = max(res, reg, rev)
+                dp[1] = min(dp[1], num_sum)
+                sign = 1
+        sign = 1
+        dp = [0, 0]
+        num_sum = 0
+        for i in range(n - 1, 1, -1):
+            num_sum += sign * nums[i]
+            if sign == 1:
+                reg = num_sum - dp[0]
+                rev = dp[1] - num_sum
+                res = max(res, lefts_reg[i - 2] + rev, lefts_rev[i - 2] + reg)
+                sign = -1
+            else:
+                reg = dp[1] - num_sum
+                rev = num_sum - dp[0]
+                res = max(res, lefts_reg[i - 2] + rev, lefts_rev[i - 2] + reg)
+                sign = 1
+            dp[0] = min(dp[0], num_sum)
+            dp[1] = max(dp[1], num_sum)
+        return res
 
