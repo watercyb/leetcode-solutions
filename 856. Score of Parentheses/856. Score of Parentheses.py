@@ -1,9 +1,9 @@
 #
 # Problem: 856. Score of Parentheses
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/score-of-parentheses/
+# Link: https://leetcode.com/problems/score-of-parentheses/?envType=daily-question&envId=2026-10-05
 # Language: python3
-# Date: 2026-04-09
+# Date: 2026-10-05
 
 
 class Solution:
