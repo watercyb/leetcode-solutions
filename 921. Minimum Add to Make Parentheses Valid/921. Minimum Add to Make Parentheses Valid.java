@@ -1,9 +1,9 @@
 /*
  * Problem: 921. Minimum Add to Make Parentheses Valid
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+ * Link: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/?envType=daily-question&envId=2026-10-06
  * Language: java
- * Date: 2026-04-10
+ * Date: 2026-10-06
  */
 
 class Solution {
