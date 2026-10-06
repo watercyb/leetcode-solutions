@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 488
+- **Total Problems Solved:** 489
 - **Easy:** 103 🟢
-- **Medium:** 258 🟡
+- **Medium:** 259 🟡
 - **Hard:** 127 🔴
 
 ## 📝 Problems
@@ -360,6 +360,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [835. Image Overlap](https://leetcode.com/problems/image-overlap/?envType=daily-question&envId=2026-09-13) | 🟡 Medium | python3 | 2026-09-13 |
 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/?envType=daily-question&envId=2026-10-05) | 🟡 Medium | python3 | 2026-10-05 |
 | [877. Stone Game](https://leetcode.com/problems/stone-game/?envType=daily-question&envId=2026-08-02) | 🟡 Medium | java | 2026-08-02 |
+| [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/?envType=daily-question&envId=2026-10-06) | 🟡 Medium | java | 2026-10-06 |
 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/?envType=daily-question&envId=2026-10-06) | 🟡 Medium | java | 2026-10-06 |
 | [Unknown Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | 🟡 Medium | mysql | 2026-05-08 |
 | [Unknown Problem](https://leetcode.com/problems/minimum-generations-to-target-point/) | 🟡 Medium | csharp | 2026-05-12 |
