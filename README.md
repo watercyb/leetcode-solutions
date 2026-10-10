@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 490
+- **Total Problems Solved:** 491
 - **Easy:** 103 🟢
-- **Medium:** 260 🟡
+- **Medium:** 261 🟡
 - **Hard:** 127 🔴
 
 ## 📝 Problems
@@ -149,6 +149,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/?envType=daily-question&envId=2026-06-14) | 🟡 Medium | java | 2026-06-14 |
 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/?envType=daily-question&envId=2026-06-08) | 🟡 Medium | java | 2026-06-08 |
 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/?envType=daily-question&envId=2026-06-07) | 🟡 Medium | java | 2026-06-07 |
+| [2333. Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/?envType=daily-question&envId=2026-10-10) | 🟡 Medium | python3 | 2026-10-10 |
 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/?envType=daily-question&envId=2026-07-04) | 🟡 Medium | python3 | 2026-07-04 |
 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/?envType=daily-question&envId=2026-05-20) | 🟡 Medium | java | 2026-05-20 |
 | [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/?envType=daily-question&envId=2026-07-11) | 🟡 Medium | java | 2026-07-11 |
