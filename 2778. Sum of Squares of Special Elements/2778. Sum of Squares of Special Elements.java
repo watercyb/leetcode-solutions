@@ -1,9 +1,9 @@
 /*
  * Problem: 2778. Sum of Squares of Special Elements
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/sum-of-squares-of-special-elements/
+ * Link: https://leetcode.com/problems/sum-of-squares-of-special-elements/?envType=daily-question&envId=2026-10-11
  * Language: java
- * Date: 2026-04-30
+ * Date: 2026-10-11
  */
 
 class Solution {
