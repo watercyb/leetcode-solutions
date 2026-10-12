@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 493
-- **Easy:** 104 🟢
+- **Total Problems Solved:** 494
+- **Easy:** 105 🟢
 - **Medium:** 261 🟡
 - **Hard:** 128 🔴
 
@@ -111,6 +111,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4061. Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | 🟢 Easy | rust | 2026-09-27 |
 | [4065. Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | 🟢 Easy | javascript | 2026-09-28 |
 | [4070. Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | 🟢 Easy | rust | 2026-10-05 |
+| [4074. Maximum Product Pair With Target Sum](https://leetcode.com/problems/maximum-product-pair-with-target-sum/) | 🟢 Easy | rust | 2026-10-12 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/?envType=daily-question&envId=2026-07-26) | 🟢 Easy | java | 2026-07-26 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [800. Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/?envType=weekly-question&envId=2026-08-29) | 🟢 Easy | java | 2026-08-29 |
