@@ -23,41 +23,35 @@ class Solution {
             }
             primes = new int[ps.size()];
             for (int i = 0; i < primes.length; i++) {
-                primes[i] = ps.get(i);
+                primes[primes.length - 1 - i] = ps.get(i);
             }
         }
-        List<Integer>[] dp = new ArrayList[s + 1];
+        int idx=Arrays.
+        int[][] dp = new ArrayList[s + 1];
         dp[0] = new ArrayList<>();
         for (int prime : primes) {
             if (prime > n || prime > s)
-                break;
+                continue;
             for (int i = s - prime; i >= 0; i--) {
                 if (dp[i] == null)
                     continue;
-                
                 if (dp[i + prime] == null) {
                     dp[i + prime] = new ArrayList(dp[i]);
                     dp[i + prime].add(prime);
-                } else if (dp[i].size() + 1 < dp[i + prime].size()) {
+                } else if (dp[i].size() + 1 <= dp[i + prime].size()) {
                     dp[i + prime] = new ArrayList(dp[i]);
                     dp[i + prime].add(prime);
-                } else if (dp[i].size() + 1 == dp[i + prime].size()) {
-                    int j = 0;
-                    while (j < dp[i].size() && j < dp[i + prime].size()) {
-                        if (dp[i].get(j) < dp[i + prime].get(j)) {
-                            dp[i + prime] = new ArrayList(dp[i]);
-                            dp[i + prime].add(prime);
-                        } else if (dp[i].get(j) > dp[i + prime].get(j)) {
-                            break;
-                        }
-                        j++;
-                    }
                 }
             }
         }
         for (int i = s; i > 0; i--) {
-            if (dp[i] != null)
-                return dp[i];
+            if (dp[i] != null) {
+                List<Integer> res = new ArrayList<>();
+                for (int j = dp[i].size() - 1; j >= 0; j--) {
+                    res.add(dp[i].get(j));
+                }
+                return res;
+            }
         }
         return new ArrayList<>();
     }
