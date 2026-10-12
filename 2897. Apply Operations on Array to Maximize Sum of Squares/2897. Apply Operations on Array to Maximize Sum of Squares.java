@@ -1,9 +1,9 @@
 /*
  * Problem: 2897. Apply Operations on Array to Maximize Sum of Squares
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/
+ * Link: https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/?envType=daily-question&envId=2026-10-12
  * Language: java
- * Date: 2026-05-01
+ * Date: 2026-10-12
  */
 
 class Solution {
