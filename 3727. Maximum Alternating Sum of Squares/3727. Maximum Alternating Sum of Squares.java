@@ -1,9 +1,9 @@
 /*
  * Problem: 3727. Maximum Alternating Sum of Squares
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-alternating-sum-of-squares/
+ * Link: https://leetcode.com/problems/maximum-alternating-sum-of-squares/?envType=daily-question&envId=2026-10-13
  * Language: java
- * Date: 2026-05-10
+ * Date: 2026-10-13
  */
 
 class Solution {
