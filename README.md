@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 497
+- **Total Problems Solved:** 498
 - **Easy:** 105 🟢
 - **Medium:** 263 🟡
-- **Hard:** 129 🔴
+- **Hard:** 130 🔴
 
 ## 📝 Problems
 
@@ -505,6 +505,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4064. Longest Subarray Divisible by K with At Most One Negation II](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | 🔴 Hard | python3 | 2026-09-26 |
 | [4068. Maximize Meeting Earnings with Idle Gaps](https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/) | 🔴 Hard | python3 | 2026-09-28 |
 | [4073. Count Good Strings](https://leetcode.com/problems/count-good-strings/) | 🔴 Hard | java | 2026-10-05 |
+| [4077. Minimize Inversions in a Prefix Tree](https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/) | 🔴 Hard | java | 2026-10-13 |
 | [4081. Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) | 🔴 Hard | java | 2026-10-12 |
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | java | 2026-08-26 |
 | [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/?envType=daily-question&envId=2026-09-07) | 🔴 Hard | java | 2026-09-07 |
