@@ -1,9 +1,9 @@
 /*
  * Problem: 465. Optimal Account Balancing
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/optimal-account-balancing/
+ * Link: https://leetcode.com/problems/optimal-account-balancing/?envType=weekly-question&envId=2026-10-11
  * Language: java
- * Date: 2026-04-03
+ * Date: 2026-10-13
  */
 
 class Solution {
@@ -22,39 +22,31 @@ class Solution {
             if (amounts[transaction[1]] == 0)
                 count--;
         }
-        int base = 1;
-        for (int i = 0; i <= 12; i++) {
-            masks[i] = base;
-            base <<= 1;
-        }
-        // System.out.println(Arrays.toString(masks));
-        dfs(amounts, new boolean[count * (1 << 12)], count, 0, 0, 0);
+        int[] seens = new int[1 << 12];
+        Arrays.fill(seens, Integer.MAX_VALUE);
+        dfs(amounts, seens, count, 0, 0, 0);
         return res;
     }
 
     int res = Integer.MAX_VALUE;
-    int[] masks = new int[13];
 
-    public void dfs(int[] amounts, boolean[] seens, int count, int sum, int stp, int idx) {
+    public void dfs(int[] amounts, int[] seens, int count, int sum, int stp, int idx) {
         if (count == 0) {
-            res = Math.min(stp, res);
+            res = stp;
             return;
         }
         if (stp == res)
             return;
-        if (sum != 0) {
+        if (sum != 0)
             stp++;
-            seens[idx] = true;
-        } else {
-            idx += masks[12];
-
-        }
+        if (seens[idx] <= stp)
+            return;
+        seens[idx] = stp;
         for (int i = 0; i < amounts.length; i++) {
-            int idxTmp = idx + masks[i];
-            if (amounts[i] != 0 && !seens[idxTmp]) {
+            if (amounts[i] != 0) {
                 int tmp = amounts[i];
                 amounts[i] = 0;
-                dfs(amounts, seens, count - 1, sum + tmp, stp, idxTmp);
+                dfs(amounts, seens, count - 1, sum + tmp, stp, idx + (1 << i));
                 amounts[i] = tmp;
             }
         }
