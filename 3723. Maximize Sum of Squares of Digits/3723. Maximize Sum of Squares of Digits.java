@@ -1,9 +1,9 @@
 /*
  * Problem: 3723. Maximize Sum of Squares of Digits
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
+ * Link: https://leetcode.com/problems/maximize-sum-of-squares-of-digits/?envType=daily-question&envId=2026-10-14
  * Language: java
- * Date: 2026-05-10
+ * Date: 2026-10-14
  */
 
 class Solution {
