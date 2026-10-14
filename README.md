@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 499
+- **Total Problems Solved:** 500
 - **Easy:** 105 🟢
-- **Medium:** 263 🟡
+- **Medium:** 264 🟡
 - **Hard:** 131 🔴
 
 ## 📝 Problems
@@ -264,6 +264,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3702. Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/?envType=daily-question&envId=2026-08-15) | 🟡 Medium | java | 2026-08-15 |
 | [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | 🟡 Medium | java | 2026-05-10 |
 | [3720. Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27) | 🟡 Medium | java | 2026-08-27 |
+| [3723. Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/?envType=daily-question&envId=2026-10-14) | 🟡 Medium | java | 2026-10-14 |
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/?envType=daily-question&envId=2026-10-13) | 🟡 Medium | java | 2026-10-13 |
 | [3732. Maximum Product of Three Elements After One Replacement](https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/) | 🟡 Medium | java | 2026-05-10 |
 | [3737. Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | java | 2026-05-10 |
