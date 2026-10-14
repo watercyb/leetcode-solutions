@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 500
+- **Total Problems Solved:** 501
 - **Easy:** 105 🟢
 - **Medium:** 264 🟡
-- **Hard:** 131 🔴
+- **Hard:** 132 🔴
 
 ## 📝 Problems
 
@@ -508,6 +508,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4073. Count Good Strings](https://leetcode.com/problems/count-good-strings/) | 🔴 Hard | java | 2026-10-05 |
 | [4077. Minimize Inversions in a Prefix Tree](https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/) | 🔴 Hard | java | 2026-10-13 |
 | [4081. Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) | 🔴 Hard | java | 2026-10-12 |
+| [4082. Minimum Operations to Stabilize a Binary Tree](https://leetcode.com/problems/minimum-operations-to-stabilize-a-binary-tree/) | 🔴 Hard | java | 2026-10-14 |
 | [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/?envType=weekly-question&envId=2026-10-11) | 🔴 Hard | java | 2026-10-13 |
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | java | 2026-08-26 |
 | [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/?envType=daily-question&envId=2026-09-07) | 🔴 Hard | java | 2026-09-07 |
