@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 501
-- **Easy:** 105 🟢
+- **Total Problems Solved:** 502
+- **Easy:** 106 🟢
 - **Medium:** 264 🟡
 - **Hard:** 132 🔴
 
@@ -40,6 +40,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2888. Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | 🟢 Easy | python3 | 2026-05-01 |
 | [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 Easy | java | 2026-05-01 |
 | [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | 🟢 Easy | java | 2026-05-01 |
+| [2913. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/?envType=daily-question&envId=2026-10-15) | 🟢 Easy | java | 2026-10-15 |
 | [2951. Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | 🟢 Easy | python3 | 2026-05-02 |
 | [2970. Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/) | 🟢 Easy | java | 2026-05-02 |
 | [2980. Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/) | 🟢 Easy | rust | 2026-05-02 |
