@@ -3,7 +3,7 @@
  * Difficulty: Hard
  * Link: https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/
  * Language: java
- * Date: 2026-10-13
+ * Date: 2026-10-16
  */
 
 class Solution {
@@ -48,23 +48,28 @@ class Solution {
             if (n != null)
                 count++;
         }
-        Node[] arr = new Node[count];
+        int[] arr = new int[count];
         int idx = 0;
-        for (Node n : node.nexts) {
-            if (n != null)
-                arr[idx++] = n;
+        for (int i = 0; i < 10; i++) {
+            if (node.nexts[i] != null)
+                arr[idx++] = i;
         }
         int len = 1 << arr.length;
+        int[][] costs = new int[len][arr.length];
         int[] DP = new int[len];
         for (int i = 1; i < DP.length; i++) {
-            List<Integer> list = new ArrayList<>();
-            for (int j = 0; (1 << j) <= i; j++) {
-                if ((i & (1 << j)) != 0)
-                    list.add(j);
-            }
             int cost = Integer.MAX_VALUE;
-            for (int arrIdx : list) {
-                cost = Math.min(cost, DP[i - (1 << arrIdx)] + getCost(list, arr, node, arrIdx));
+            int h = i;
+            while (h > 0) {
+                int k = h & -h;
+                h -= k;
+                int j = 31 - Integer.numberOfLeadingZeros(k);
+                int ii = i - k;
+                if (ii != 0) {
+                    int kk = ii & -ii;
+                    costs[ii][j] = costs[ii - kk][j] + node.costs[arr[31 - Integer.numberOfLeadingZeros(kk)]][arr[j]];
+                }
+                cost = Math.min(cost, DP[i - k] + costs[i - k][j]);
             }
             DP[i] = cost;
         }
