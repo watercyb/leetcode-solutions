@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 502
+- **Total Problems Solved:** 503
 - **Easy:** 106 🟢
 - **Medium:** 264 🟡
-- **Hard:** 132 🔴
+- **Hard:** 133 🔴
 
 ## 📝 Problems
 
@@ -402,6 +402,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 🔴 Hard | java | 2026-05-01 |
 | [2897. Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/?envType=daily-question&envId=2026-10-12) | 🔴 Hard | java | 2026-10-12 |
 | [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | 🔴 Hard | java | 2026-05-02 |
+| [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/?envType=daily-question&envId=2026-10-16) | 🔴 Hard | java | 2026-10-16 |
 | [2920. Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/) | 🔴 Hard | java | 2026-05-02 |
 | [2926. Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | 🔴 Hard | java | 2026-05-02 |
 | [2941. Maximum GCD-Sum of a Subarray](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/) | 🔴 Hard | java | 2026-05-02 |
