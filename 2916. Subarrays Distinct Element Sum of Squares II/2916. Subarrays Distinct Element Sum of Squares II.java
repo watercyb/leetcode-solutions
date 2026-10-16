@@ -1,9 +1,9 @@
 /*
  * Problem: 2916. Subarrays Distinct Element Sum of Squares II
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/
+ * Link: https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/?envType=daily-question&envId=2026-10-16
  * Language: java
- * Date: 2026-05-02
+ * Date: 2026-10-16
  */
 
 class Solution {
@@ -20,13 +20,11 @@ class Solution {
         int size = (int) Math.pow(2, l) - 1;
         SGT = new long[2 * size + 1];
         cache = new long[2 * size + 1];
-        int[] counts = new int[nums.length];
         int[] lastPos = new int[max + 1];
         long res = 0;
         long sum = 0;
         for (int i = 0; i < nums.length; i++) {
             long tmp = getAndAdd(lastPos[nums[i]], i, 0, size, 0);
-            //System.out.println(Arrays.toString(SGT));
             sum += 2 * tmp + i - lastPos[nums[i]] + 1;
             lastPos[nums[i]] = i + 1;
             res = (res + sum) % mod;
