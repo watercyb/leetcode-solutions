@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 503
+- **Total Problems Solved:** 504
 - **Easy:** 106 🟢
-- **Medium:** 264 🟡
+- **Medium:** 265 🟡
 - **Hard:** 133 🔴
 
 ## 📝 Problems
@@ -243,6 +243,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3524. Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/?envType=daily-question&envId=2026-09-21) | 🟡 Medium | java | 2026-09-21 |
 | [3528. Unit Conversion I](https://leetcode.com/problems/unit-conversion-i/) | 🟡 Medium | java | 2026-05-08 |
 | [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | 🟡 Medium | java | 2026-05-08 |
+| [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/?envType=daily-question&envId=2026-10-17) | 🟡 Medium | java | 2026-10-17 |
 | [3568. Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | 🟡 Medium | java | 2026-05-08 |
 | [3577. Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | 🟡 Medium | java | 2026-05-08 |
 | [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | 🟡 Medium | java | 2026-05-08 |
