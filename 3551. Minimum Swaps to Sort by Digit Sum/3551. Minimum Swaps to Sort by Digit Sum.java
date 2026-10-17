@@ -1,9 +1,9 @@
 /*
  * Problem: 3551. Minimum Swaps to Sort by Digit Sum
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/
+ * Link: https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/?envType=daily-question&envId=2026-10-17
  * Language: java
- * Date: 2026-05-08
+ * Date: 2026-10-17
  */
 
 class Solution {
