@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 506
+- **Total Problems Solved:** 507
 - **Easy:** 106 🟢
-- **Medium:** 266 🟡
+- **Medium:** 267 🟡
 - **Hard:** 134 🔴
 
 ## 📝 Problems
@@ -135,6 +135,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/?envType=daily-question&envId=2026-10-09) | 🟡 Medium | java | 2026-10-09 |
 | [1621. Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/?envType=daily-question&envId=2026-09-16) | 🟡 Medium | python3 | 2026-09-16 |
 | [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/?envType=daily-question&envId=2026-09-23) | 🟡 Medium | python3 | 2026-09-23 |
+| [1730. Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/?envType=weekly-question&envId=2026-10-18) | 🟡 Medium | java | 2026-10-18 |
 | [1730. Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/?envType=weekly-question&envId=2026-10-18) | 🟡 Medium | java | 2026-10-18 |
 | [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/?envType=weekly-question&envId=2026-09-15) | 🟡 Medium | java | 2026-09-15 |
 | [1807. Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/?envType=daily-question&envId=2026-09-26) | 🟡 Medium | java | 2026-09-26 |
