@@ -1,9 +1,9 @@
 /*
  * Problem: 1730. Shortest Path to Get Food
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/shortest-path-to-get-food/
+ * Link: https://leetcode.com/problems/shortest-path-to-get-food/?envType=weekly-question&envId=2026-10-18
  * Language: java
- * Date: 2026-04-20
+ * Date: 2026-10-18
  */
 
 class Solution {
