@@ -1,9 +1,9 @@
 /*
  * Problem: 2089. Find Target Indices After Sorting Array
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/find-target-indices-after-sorting-array/
+ * Link: https://leetcode.com/problems/find-target-indices-after-sorting-array/?envType=daily-question&envId=2026-10-19
  * Language: java
- * Date: 2026-04-23
+ * Date: 2026-10-19
  */
 
 class Solution {
