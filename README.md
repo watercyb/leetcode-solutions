@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 509
+- **Total Problems Solved:** 510
 - **Easy:** 108 🟢
-- **Medium:** 267 🟡
+- **Medium:** 268 🟡
 - **Hard:** 134 🔴
 
 ## 📝 Problems
@@ -361,6 +361,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4069. Best Time to Buy and Sell Stock with Cooldown II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown-ii/) | 🟡 Medium | javascript | 2026-09-29 |
 | [4071. Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) | 🟡 Medium | swift | 2026-10-05 |
 | [4080. Design Bus Seat Booking System](https://leetcode.com/problems/design-bus-seat-booking-system/) | 🟡 Medium | kotlin | 2026-10-12 |
+| [4084. Last Visited Cell in a Directional Grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/) | 🟡 Medium | rust | 2026-10-19 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
