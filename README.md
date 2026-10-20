@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 512
+- **Total Problems Solved:** 513
 - **Easy:** 108 🟢
 - **Medium:** 269 🟡
-- **Hard:** 135 🔴
+- **Hard:** 136 🔴
 
 ## 📝 Problems
 
@@ -473,6 +473,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3841. Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | 🔴 Hard | java | 2026-07-21 |
 | [3850. Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | 🔴 Hard | java | 2026-05-11 |
 | [3873. Maximum Points Activated with One Addition](https://leetcode.com/problems/maximum-points-activated-with-one-addition/) | 🔴 Hard | java | 2026-05-11 |
+| [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/?envType=daily-question&envId=2026-10-20) | 🔴 Hard | java | 2026-10-20 |
 | [3892. Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | 🔴 Hard | java | 2026-05-11 |
 | [3910. Count Connected Subgraphs with Even Node Sum](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | 🔴 Hard | java | 2026-05-11 |
 | [3920. Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | 🔴 Hard | java | 2026-05-05 |
