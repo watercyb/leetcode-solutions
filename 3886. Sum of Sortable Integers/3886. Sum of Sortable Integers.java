@@ -1,25 +1,16 @@
 /*
  * Problem: 3886. Sum of Sortable Integers
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/sum-of-sortable-integers/
+ * Link: https://leetcode.com/problems/sum-of-sortable-integers/?envType=daily-question&envId=2026-10-20
  * Language: java
- * Date: 2026-05-11
+ * Date: 2026-10-20
  */
 
 class Solution {
     public int sortableIntegers(int[] nums) {
-        int max1 = 0;
-        int max2 = 0;
         int prv = 0;
         boolean isSorted = true;
         for (int num : nums) {
-            if (num > max1) {
-                max1 = num;
-            } else if (num < max2) {
-                return 0;
-            } else if (num < max1 && num > max2) {
-                max2 = num;
-            }
             if (num < prv)
                 isSorted = false;
             prv = num;
@@ -40,9 +31,8 @@ class Solution {
             for (int i = 2; i <= nums.length / 2; i++) {
                 if (nums.length % i != 0)
                     continue;
-                if (chkArr(nums, i)) {
+                if (chkArr(nums, i))
                     res += i;
-                }
             }
             if (chkArr(nums, nums.length))
                 res += nums.length;
