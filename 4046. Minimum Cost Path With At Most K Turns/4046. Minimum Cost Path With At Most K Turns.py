@@ -3,7 +3,7 @@
 # Difficulty: Hard
 # Link: https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/
 # Language: python3
-# Date: 2026-09-06
+# Date: 2026-10-21
 
 
 class Solution:
@@ -11,19 +11,19 @@ class Solution:
         DIRS = [(0, 1), (0, -1), (1, 0), (-1, 0)]
         m, n = len(grid), len(grid[0])
         INF = 10**18
-        cost = [
+        costs = [
             [[[INF] * (k + 1) for _ in range(4)] for _ in range(n)] for _ in range(m)
         ]
         steps = [[[INF] * 4 for _ in range(n)] for _ in range(m)]
 
         pq = []
         for d in range(4):
-            cost[0][0][d][0] = grid[0][0]
+            costs[0][0][d][0] = grid[0][0]
             heapq.heappush(pq, (grid[0][0], 0, 0, d, 0))
 
         while pq:
             c, x, y, d, t = heapq.heappop(pq)
-            if c != cost[x][y][d][t] or steps[x][y][d] <= t:
+            if c != costs[x][y][d][t] or steps[x][y][d] <= t:
                 continue
             steps[x][y][d] = t
             if x == m - 1 and y == n - 1:
@@ -35,8 +35,8 @@ class Solution:
                     nt = t + (nd != d)
                     if nt <= k:
                         nc = c + grid[nx][ny]
-                        if nc < cost[nx][ny][nd][nt]:
-                            cost[nx][ny][nd][nt] = nc
+                        if nc < costs[nx][ny][nd][nt]:
+                            costs[nx][ny][nd][nt] = nc
                             heapq.heappush(pq, (nc, nx, ny, nd, nt))
 
         return -1
