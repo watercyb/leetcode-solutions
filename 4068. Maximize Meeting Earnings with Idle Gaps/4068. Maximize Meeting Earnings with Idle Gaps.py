@@ -3,24 +3,23 @@
 # Difficulty: Hard
 # Link: https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/
 # Language: python3
-# Date: 2026-09-28
+# Date: 2026-10-21
 
 
 class Solution:
     def maxEarnings(self, meetings: list[list[int]]) -> int:
-        meetings.sort(key=lambda x: x[0])
-        pq = []
+        meetings.sort(key=lambda x: x[1])
+        ends = []
+        vals = []
         res = 0
-        max_val = -1000000000
-        for meeting in meetings:
-            start = meeting[0]
-            end = meeting[1]
-            revenue = meeting[2]
-            res = max(res, revenue)
-            while len(pq) > 0 and pq[0][0] <= start:
-                max_val = max(max_val, heapq.heappop(pq)[1])
+        for start, end, revenue in meetings:
+            idx = bisect_right(ends, start) - 1
+            max_val = vals[idx] if idx >= 0 else -1000000000
             earn = max_val + start + revenue
-            res = max(res, earn)
-            heapq.heappush(pq, (end, max(revenue, earn) - end))
+            res = max(res, earn, revenue)
+            val = max(revenue, earn) - end
+            if len(ends) == 0 or vals[-1] < val:
+                ends.append(end)
+                vals.append(val)
         return res
 
