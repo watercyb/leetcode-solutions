@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 514
+- **Total Problems Solved:** 515
 - **Easy:** 108 🟢
-- **Medium:** 269 🟡
+- **Medium:** 270 🟡
 - **Hard:** 137 🔴
 
 ## 📝 Problems
@@ -285,6 +285,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3819. Rotate Non Negative Elements](https://leetcode.com/problems/rotate-non-negative-elements/) | 🟡 Medium | java | 2026-05-11 |
 | [3847. Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | 🟡 Medium | csharp | 2026-07-18 |
 | [3862. Find the Smallest Balanced Index](https://leetcode.com/problems/find-the-smallest-balanced-index/) | 🟡 Medium | csharp | 2026-05-11 |
+| [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/?envType=daily-question&envId=2026-10-21) | 🟡 Medium | kotlin | 2026-10-21 |
 | [3867. Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/?envType=daily-question&envId=2026-07-16) | 🟡 Medium | csharp | 2026-07-16 |
 | [3871. Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/?envType=daily-question&envId=2026-09-09) | 🟡 Medium | swift | 2026-09-09 |
 | [3874. Valid Subarrays With Exactly One Peak](https://leetcode.com/problems/valid-subarrays-with-exactly-one-peak/) | 🟡 Medium | java | 2026-05-11 |
