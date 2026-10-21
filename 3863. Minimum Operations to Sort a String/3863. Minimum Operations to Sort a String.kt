@@ -1,9 +1,9 @@
 /*
  * Problem: 3863. Minimum Operations to Sort a String
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-operations-to-sort-a-string/
+ * Link: https://leetcode.com/problems/minimum-operations-to-sort-a-string/?envType=daily-question&envId=2026-10-21
  * Language: kotlin
- * Date: 2026-05-11
+ * Date: 2026-10-21
  */
 
 class Solution {
