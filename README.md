@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 516
+- **Total Problems Solved:** 517
 - **Easy:** 108 🟢
-- **Medium:** 271 🟡
+- **Medium:** 272 🟡
 - **Hard:** 137 🔴
 
 ## 📝 Problems
@@ -365,6 +365,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4080. Design Bus Seat Booking System](https://leetcode.com/problems/design-bus-seat-booking-system/) | 🟡 Medium | kotlin | 2026-10-12 |
 | [4084. Last Visited Cell in a Directional Grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/) | 🟡 Medium | rust | 2026-10-19 |
 | [4085. Find Root of a Colored Tree](https://leetcode.com/problems/find-root-of-a-colored-tree/) | 🟡 Medium | swift | 2026-10-19 |
+| [4087. Maximum Subarray Sum of Fixed Length After at Most K Swaps](https://leetcode.com/problems/maximum-subarray-sum-of-fixed-length-after-at-most-k-swaps/) | 🟡 Medium | java | 2026-10-21 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
