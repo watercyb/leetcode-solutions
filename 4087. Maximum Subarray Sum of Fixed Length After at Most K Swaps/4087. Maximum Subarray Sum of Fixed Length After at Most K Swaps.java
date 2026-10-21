@@ -27,9 +27,7 @@ class Solution {
         PriorityQueue<int[]> lefts = new PriorityQueue<>((a, b) -> a[0] - b[0]);
         PriorityQueue<int[]> rights = new PriorityQueue<>((a, b) -> b[0] - a[0]);
         long left = 0;
-        long right = 0;
         long leftCount = 0;
-        long rightCount = 0;
         for (int i = 0; i < length; i++) {
             pos[i] = 1;
             if (insides[i]) {
@@ -51,20 +49,15 @@ class Solution {
                 left -= pair[0];
                 leftCount--;
                 pos[pair[1]] = 2;
-                right += pair[0];
-                rightCount++;
                 rights.offer(pair);
             }
         }
-        long res = left + right + sum - right;
+        long res = left + sum;
         for (int i = length; i < nums.length; i++) {
             int j = i - length;
             if (pos[j] == 1) {
                 left -= nums[j];
                 leftCount--;
-            } else {
-                right -= nums[j];
-                rightCount--;
             }
             pos[j] = 0;
             if (insides[j]) {
@@ -95,9 +88,7 @@ class Solution {
                 leftCount++;
             } else {
                 rights.offer(new int[] { nums[i], i });
-                right += nums[i];
                 pos[i] = 2;
-                rightCount++;
             }
             if (leftCount > length - k) {
                 while (pos[lefts.peek()[1]] == 0) {
@@ -107,22 +98,18 @@ class Solution {
                 left -= pair[0];
                 leftCount--;
                 pos[pair[1]] = 2;
-                right += pair[0];
-                rightCount++;
                 rights.offer(pair);
             } else if (leftCount < length - k) {
                 while (pos[rights.peek()[1]] == 0) {
                     rights.poll();
                 }
                 int[] pair = rights.poll();
-                right -= pair[0];
-                rightCount--;
                 pos[pair[1]] = 1;
                 left += pair[0];
                 leftCount++;
                 lefts.offer(pair);
             }
-            res = Math.max(res, left + right + sum - right);
+            res = Math.max(res, left + sum);
         }
         return res;
     }
