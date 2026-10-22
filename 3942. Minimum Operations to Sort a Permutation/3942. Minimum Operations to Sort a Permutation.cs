@@ -1,9 +1,9 @@
 /*
  * Problem: 3942. Minimum Operations to Sort a Permutation
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/
+ * Link: https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/?envType=daily-question&envId=2026-10-22
  * Language: csharp
- * Date: 2026-05-26
+ * Date: 2026-10-22
  */
 
 public class Solution {
