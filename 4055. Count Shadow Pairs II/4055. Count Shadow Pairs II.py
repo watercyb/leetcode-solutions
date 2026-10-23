@@ -8,7 +8,6 @@
 
 from bisect import bisect_right
 
-
 class Solution:
     def shadowPairs(self, nums: list[int]) -> int:
         nums_sort = list(set(nums))
