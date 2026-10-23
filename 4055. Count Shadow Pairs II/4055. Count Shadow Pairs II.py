@@ -3,7 +3,10 @@
 # Difficulty: Hard
 # Link: https://leetcode.com/problems/count-shadow-pairs-ii/
 # Language: python3
-# Date: 2026-09-14
+# Date: 2026-10-23
+
+
+from bisect import bisect_right
 
 
 class Solution:
@@ -13,87 +16,34 @@ class Solution:
         mp = {}
         for num in nums_sort:
             mp[num] = len(mp)
-        self.res = 0
-        self.n = len(mp) + 1
-        self.bit = [] * self.n
         arr = []
         for i in range(len(nums)):
-            arr.append([mp[nums[i]], i])
-        self.sort(arr, 0, len(arr) - 1)
-        return self.res
+            arr.append(mp[nums[i]])
+        return self.sort(arr)
 
-    def sort(self, arr: list[list[int]], l: int, r: int):
-        if l == r:
-            return
-        mid = (l + r) // 2
-        self.sort(arr, l, mid)
-        self.sort(arr, mid + 1, r)
-        temp = []
-        left_idx = l
-        right_idx = mid + 1
-        mq_left = []
-        mq_right = []
-        left_min_max = [1000000001] * (mid - l + 1)
-
-        for i in range(mid, l - 1, -1):
-            while len(mq_left) > 0 and mq_left[-1][1] < arr[i][1]:
-                mq_left.pop(-1)
-            if len(mq_left) > 0:
-                left_min_max[i - l] = mq_left[-1][0]
-            mq_left.append(arr[i])
-
-        bit_count = 0
-        self.bit = [0] * self.n
-        pq = []
-        j = l
-
-        for i in range(mid + 1, r + 1):
-            while len(mq_right) > 0 and mq_right[-1][1] > arr[i][1]:
-                mq_right.pop(-1)
-            max_val = 0
-            if len(mq_right) > 0:
-                max_val = mq_right[-1][0]
-            mq_right.append(arr[i])
-            while j <= mid and arr[j][0] < arr[i][0]:
-                self.insert(arr[j][0], 1)
-                bit_count += 1
-                heapq.heappush(pq, (left_min_max[j - l], arr[j][0]))
-                j += 1
-            while len(pq) > 0 and pq[0][0] < arr[i][0]:
-                _, num = heapq.heappop(pq)
-                self.insert(num, -1)
-                bit_count -= 1
-            cnt = self.get(max_val - 1)
-            self.res += bit_count - cnt
-
-        while left_idx <= mid and right_idx <= r:
-            if arr[left_idx][0] < arr[right_idx][0]:
-                temp.append(arr[left_idx])
-                left_idx += 1
-            else:
-                temp.append(arr[right_idx])
-                right_idx += 1
-        while left_idx <= mid:
-            temp.append(arr[left_idx])
-            left_idx += 1
-        while right_idx <= r:
-            temp.append(arr[right_idx])
-            right_idx += 1
-        for pair in temp:
-            arr[l] = pair
-            l += 1
-
-    def insert(self, i: int, num: int):
-        i += 1
-        while i < len(self.bit):
-            self.bit[i] += num
-            i += i & -i
-
-    def get(self, i: int) -> int:
-        i += 1
+    def sort(self, arr: list[int]) -> int:
+        min_val = min(arr)
+        max_val = max(arr)
+        if min_val == max_val or len(arr) <= 1:
+            return 0
+        mid = (min_val + max_val) // 2
+        left_vals = []
+        right_vals = []
+        left_mq = []
+        right_mq = []
         res = 0
-        while i > 0:
-            res += self.bit[i]
-            i -= i & -i
-        return res
+        for i, val in enumerate(arr):
+            if val <= mid:
+                while len(left_mq) > 0 and arr[left_mq[-1]] < val:
+                    left_mq.pop()
+                left_mq.append(i)
+                left_vals.append(val)
+            else:
+                while len(right_mq) > 0 and arr[right_mq[-1]] >= val:
+                    right_mq.pop()
+                idx = bisect_right(left_mq, right_mq[-1] if len(right_mq) > 0 else -1)
+                res += len(left_mq) - idx
+                right_mq.append(i)
+                right_vals.append(val)
+        return res + self.sort(left_vals) + self.sort(right_vals)
 
