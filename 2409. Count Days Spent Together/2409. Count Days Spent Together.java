@@ -1,9 +1,9 @@
 /*
  * Problem: 2409. Count Days Spent Together
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/count-days-spent-together/
+ * Link: https://leetcode.com/problems/count-days-spent-together/?envType=daily-question&envId=2026-10-24
  * Language: java
- * Date: 2026-04-27
+ * Date: 2026-10-24
  */
 
 class Solution {
