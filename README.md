@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 518
+- **Total Problems Solved:** 519
 - **Easy:** 109 🟢
-- **Medium:** 272 🟡
+- **Medium:** 273 🟡
 - **Hard:** 137 🔴
 
 ## 📝 Problems
@@ -127,6 +127,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/?envType=daily-question&envId=2026-09-30) | 🟡 Medium | java | 2026-09-30 |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/?envType=daily-question&envId=2026-09-27) | 🟡 Medium | java | 2026-09-27 |
 | [1236. Web Crawler](https://leetcode.com/problems/web-crawler/?envType=weekly-question&envId=2026-09-29) | 🟡 Medium | java | 2026-09-29 |
+| [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/?envType=daily-question&envId=2026-10-25) | 🟡 Medium | java | 2026-10-25 |
 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/?envType=daily-question&envId=2026-07-06) | 🟡 Medium | java | 2026-07-06 |
 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2026-07-13) | 🟡 Medium | java | 2026-07-13 |
 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2026-06-30) | 🟡 Medium | java | 2026-06-30 |
