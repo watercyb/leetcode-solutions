@@ -1,9 +1,9 @@
 /*
  * Problem: 1254. Number of Closed Islands
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/number-of-closed-islands/
+ * Link: https://leetcode.com/problems/number-of-closed-islands/?envType=daily-question&envId=2026-10-25
  * Language: java
- * Date: 2026-04-15
+ * Date: 2026-10-25
  */
 
 class Solution {
