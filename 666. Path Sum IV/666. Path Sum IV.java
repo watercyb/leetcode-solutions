@@ -1,9 +1,9 @@
 /*
  * Problem: 666. Path Sum IV
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/path-sum-iv/
+ * Link: https://leetcode.com/problems/path-sum-iv/?envType=weekly-question&envId=2026-10-25
  * Language: java
- * Date: 2026-04-06
+ * Date: 2026-10-25
  */
 
 class Solution {
