@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 526
+- **Total Problems Solved:** 527
 - **Easy:** 110 🟢
-- **Medium:** 278 🟡
+- **Medium:** 279 🟡
 - **Hard:** 138 🔴
 
 ## 📝 Problems
@@ -373,6 +373,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4087. Maximum Subarray Sum of Fixed Length After at Most K Swaps](https://leetcode.com/problems/maximum-subarray-sum-of-fixed-length-after-at-most-k-swaps/) | 🟡 Medium | java | 2026-10-21 |
 | [4089. Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | 🟡 Medium | kotlin | 2026-10-25 |
 | [4090. Count Magical Substring Pairs I](https://leetcode.com/problems/count-magical-substring-pairs-i/) | 🟡 Medium | java | 2026-10-25 |
+| [4096. Simulate Bomb Explosions and Falling Boxes](https://leetcode.com/problems/simulate-bomb-explosions-and-falling-boxes/) | 🟡 Medium | java | 2026-10-27 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
