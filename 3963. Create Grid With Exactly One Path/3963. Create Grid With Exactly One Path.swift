@@ -1,9 +1,9 @@
 /*
  * Problem: 3963. Create Grid With Exactly One Path
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/create-grid-with-exactly-one-path/
+ * Link: https://leetcode.com/problems/create-grid-with-exactly-one-path/?envType=daily-question&envId=2026-10-27
  * Language: swift
- * Date: 2026-08-26
+ * Date: 2026-10-27
  */
 
 class Solution {
