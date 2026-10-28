@@ -1,9 +1,9 @@
 /*
  * Problem: 3882. Minimum XOR Path in a Grid
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-xor-path-in-a-grid/
+ * Link: https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28
  * Language: csharp
- * Date: 2026-05-11
+ * Date: 2026-10-28
  */
 
 public class Solution {
