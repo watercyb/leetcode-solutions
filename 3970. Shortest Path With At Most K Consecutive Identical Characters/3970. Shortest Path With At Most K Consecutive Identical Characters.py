@@ -1,9 +1,9 @@
 #
 # Problem: 3970. Shortest Path With At Most K Consecutive Identical Characters
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/
+# Link: https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/?envType=daily-question&envId=2026-10-30
 # Language: python3
-# Date: 2026-06-24
+# Date: 2026-10-30
 
 
 class Solution:
