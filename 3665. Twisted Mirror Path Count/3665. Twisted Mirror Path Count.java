@@ -1,9 +1,9 @@
 /*
  * Problem: 3665. Twisted Mirror Path Count
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/twisted-mirror-path-count/
+ * Link: https://leetcode.com/problems/twisted-mirror-path-count/?envType=daily-question&envId=2026-10-31
  * Language: java
- * Date: 2026-05-09
+ * Date: 2026-10-31
  */
 
 class Solution {
