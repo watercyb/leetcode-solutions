@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 530
+- **Total Problems Solved:** 531
 - **Easy:** 111 🟢
-- **Medium:** 281 🟡
+- **Medium:** 282 🟡
 - **Hard:** 138 🔴
 
 ## 📝 Problems
@@ -270,6 +270,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3657. Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | 🟡 Medium | mysql | 2026-05-09 |
 | [3657. Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | 🟡 Medium | python3 | 2026-05-09 |
 | [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/?envType=daily-question&envId=2026-05-07) | 🟡 Medium | java | 2026-05-07 |
+| [3665. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/?envType=daily-question&envId=2026-10-31) | 🟡 Medium | java | 2026-10-31 |
 | [3665. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/?envType=daily-question&envId=2026-10-31) | 🟡 Medium | java | 2026-10-31 |
 | [3670. Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/) | 🟡 Medium | java | 2026-05-09 |
 | [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/?envType=daily-question&envId=2026-06-09) | 🟡 Medium | Choose a type | 2026-06-09 |
