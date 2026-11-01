@@ -1,9 +1,9 @@
 /*
  * Problem: 531. Lonely Pixel I
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/lonely-pixel-i/
+ * Link: https://leetcode.com/problems/lonely-pixel-i/?envType=weekly-question&envId=2026-11-01
  * Language: java
- * Date: 2026-04-03
+ * Date: 2026-11-01
  */
 
 class Solution {
