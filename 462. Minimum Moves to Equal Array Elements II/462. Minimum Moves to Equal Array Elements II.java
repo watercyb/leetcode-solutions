@@ -1,9 +1,9 @@
 /*
  * Problem: 462. Minimum Moves to Equal Array Elements II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
+ * Link: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/?envType=daily-question&envId=2026-11-02
  * Language: java
- * Date: 2026-04-03
+ * Date: 2026-11-02
  */
 
 class Solution {
