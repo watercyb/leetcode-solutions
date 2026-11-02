@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 535
+- **Total Problems Solved:** 536
 - **Easy:** 112 🟢
-- **Medium:** 285 🟡
+- **Medium:** 286 🟡
 - **Hard:** 138 🔴
 
 ## 📝 Problems
@@ -379,6 +379,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4090. Count Magical Substring Pairs I](https://leetcode.com/problems/count-magical-substring-pairs-i/) | 🟡 Medium | java | 2026-10-25 |
 | [4093. Maximize Sum After At Most K Digit Rearrangements](https://leetcode.com/problems/maximize-sum-after-at-most-k-digit-rearrangements/) | 🟡 Medium | java | 2026-10-28 |
 | [4096. Simulate Bomb Explosions and Falling Boxes](https://leetcode.com/problems/simulate-bomb-explosions-and-falling-boxes/) | 🟡 Medium | java | 2026-10-27 |
+| [4098. Minimize the Maximum Value of GCD-Connected Array](https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/) | 🟡 Medium | swift | 2026-11-02 |
 | [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01) | 🟡 Medium | java | 2026-11-01 |
 | [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01) | 🟡 Medium | java | 2026-11-01 |
 | [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/?envType=daily-question&envId=2026-11-02) | 🟡 Medium | java | 2026-11-02 |
