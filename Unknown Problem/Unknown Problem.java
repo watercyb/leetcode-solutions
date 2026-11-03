@@ -1,57 +1,39 @@
 /*
  * Problem: Unknown Problem
- * Difficulty: Hard
- * Link: https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27
+ * Difficulty: Medium
+ * Link: https://leetcode.com/problems/minimum-cost-path-with-even-xor-parity/
  * Language: java
- * Date: 2026-08-27
+ * Date: 2026-11-03
  */
 
 class Solution {
-    public String lexGreaterPermutation(String s, String target) {
-        char[] chrs = target.toCharArray();
-        int[] counts = new int['z' + 1];
-        for (char chr : s.toCharArray()) {
-            counts[chr]++;
+    public int minActivationCost(int[][] edges, int[] values) {
+        for (int i = 0; i < values.length; i++) {
+            values[i] = Integer.bitCount(values[i]) & 1;
         }
-        char[] res = new char[chrs.length];
-        int idx = 0;
-        while (idx < chrs.length) {
-            if (counts[chrs[idx]] > 0) {
-                counts[chrs[idx]]--;
-                res[idx] = chrs[idx];
-                idx++;
+        int[] pairs = new int[values.length];
+        Arrays.fill(pairs, -1);
+        int res = Integer.MAX_VALUE;
+        for (int[] edge : edges) {
+            int l = edge[0];
+            int r = edge[1];
+            int c = edge[2];
+            int v = values[l] ^ values[r];
+            if (v == 0 && edge[2] < res) {
+                res = edge[2];
             } else {
-                break;
-            }
-        }
-        if (idx == chrs.length) {
-            idx--;
-        } else {
-            counts[chrs[idx]]--;
-            res[idx] = chrs[idx];
-        }
-        while (idx >= 0) {
-            boolean found = false;
-            counts[res[idx]]++;
-            for (int i = chrs[idx] + 1; i <= 'z'; i++) {
-                if (counts[i] > 0) {
-                    counts[i]--;
-                    res[idx++] = (char) i;
-                    found = true;
-                    break;
+                if (values[l] == 1)
+                    l = r;
+                if (pairs[l] == -1) {
+                    pairs[l] = c;
+                } else {
+                    res = Math.min(res, c + pairs[l]);
+                    pairs[l] = Math.min(pairs[l], c);
                 }
             }
-            if (found)
-                break;
-            idx--;
         }
-        if (idx < 0)
-            return "";
-        for (char i = 'a'; i <= 'z'; i++) {
-            for (int j = 0; j < counts[i]; j++) {
-                res[idx++] = i;
-            }
-        }
-        return new String(res);
+        if (res != Integer.MAX_VALUE)
+            return res;
+        return -1;
     }
 }
