@@ -1,9 +1,9 @@
 /*
  * Problem: 3505. Minimum Operations to Make Elements Within K Subarrays Equal
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/
+ * Link: https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/?envType=daily-question&envId=2026-11-04
  * Language: java
- * Date: 2026-05-08
+ * Date: 2026-11-04
  */
 
 class Solution {
