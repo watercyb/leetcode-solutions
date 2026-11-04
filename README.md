@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 539
+- **Total Problems Solved:** 540
 - **Easy:** 112 🟢
 - **Medium:** 288 🟡
-- **Hard:** 139 🔴
+- **Hard:** 140 🔴
 
 ## 📝 Problems
 
@@ -475,6 +475,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3441. Minimum Cost Good Caption](https://leetcode.com/problems/minimum-cost-good-caption/) | 🔴 Hard | java | 2026-05-07 |
 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | 🔴 Hard | java | 2026-05-07 |
 | [3501. Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | 🔴 Hard | java | 2026-05-08 |
+| [3505. Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/?envType=daily-question&envId=2026-11-04) | 🔴 Hard | java | 2026-11-04 |
 | [3518. Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/?envType=daily-question&envId=2026-07-29) | 🔴 Hard | java | 2026-07-29 |
 | [3518. Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/?envType=daily-question&envId=2026-07-29) | 🔴 Hard | java | 2026-07-29 |
 | [3525. Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/?envType=daily-question&envId=2026-09-22) | 🔴 Hard | java | 2026-09-22 |
