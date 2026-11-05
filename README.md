@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 541
+- **Total Problems Solved:** 542
 - **Easy:** 112 🟢
-- **Medium:** 289 🟡
+- **Medium:** 290 🟡
 - **Hard:** 140 🔴
 
 ## 📝 Problems
@@ -378,6 +378,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4089. Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | 🟡 Medium | kotlin | 2026-10-25 |
 | [4090. Count Magical Substring Pairs I](https://leetcode.com/problems/count-magical-substring-pairs-i/) | 🟡 Medium | java | 2026-10-25 |
 | [4093. Maximize Sum After At Most K Digit Rearrangements](https://leetcode.com/problems/maximize-sum-after-at-most-k-digit-rearrangements/) | 🟡 Medium | java | 2026-10-28 |
+| [4094. Count Frequency Staircase Subarrays I](https://leetcode.com/problems/count-frequency-staircase-subarrays-i/) | 🟡 Medium | java | 2026-11-05 |
 | [4096. Simulate Bomb Explosions and Falling Boxes](https://leetcode.com/problems/simulate-bomb-explosions-and-falling-boxes/) | 🟡 Medium | java | 2026-10-27 |
 | [4098. Minimize the Maximum Value of GCD-Connected Array](https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/) | 🟡 Medium | swift | 2026-11-02 |
 | [4099. Minimum Operations to Sort With Locked Indices](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) | 🟡 Medium | java | 2026-11-02 |
