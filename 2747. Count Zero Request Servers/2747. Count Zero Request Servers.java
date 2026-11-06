@@ -1,9 +1,9 @@
 /*
  * Problem: 2747. Count Zero Request Servers
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/count-zero-request-servers/
+ * Link: https://leetcode.com/problems/count-zero-request-servers/?envType=daily-question&envId=2026-11-06
  * Language: java
- * Date: 2026-04-30
+ * Date: 2026-11-06
  */
 
 class Solution {
