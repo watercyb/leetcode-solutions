@@ -1,9 +1,9 @@
 /*
  * Problem: 1882. Process Tasks Using Servers
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/process-tasks-using-servers/
+ * Link: https://leetcode.com/problems/process-tasks-using-servers/?envType=daily-question&envId=2026-11-07
  * Language: java
- * Date: 2026-04-21
+ * Date: 2026-11-07
  */
 
 class Solution {
