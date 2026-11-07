@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 543
+- **Total Problems Solved:** 544
 - **Easy:** 112 🟢
-- **Medium:** 291 🟡
+- **Medium:** 292 🟡
 - **Hard:** 140 🔴
 
 ## 📝 Problems
@@ -149,6 +149,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/?envType=daily-question&envId=2026-06-21) | 🟡 Medium | java | 2026-06-21 |
 | [1858. Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/?envType=weekly-question&envId=2026-07-29) | 🟡 Medium | java | 2026-07-29 |
 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/?envType=daily-question&envId=2026-05-25) | 🟡 Medium | java | 2026-05-25 |
+| [1882. Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/?envType=daily-question&envId=2026-11-07) | 🟡 Medium | java | 2026-11-07 |
 | [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/?envType=daily-question&envId=2026-05-09) | 🟡 Medium | java | 2026-05-09 |
 | [1927. Sum Game](https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23) | 🟡 Medium | java | 2026-08-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | java | 2026-08-26 |
