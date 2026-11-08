@@ -1,9 +1,9 @@
 /*
  * Problem: 487. Max Consecutive Ones II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/max-consecutive-ones-ii/
+ * Link: https://leetcode.com/problems/max-consecutive-ones-ii/?envType=weekly-question&envId=2026-11-08
  * Language: java
- * Date: 2026-04-03
+ * Date: 2026-11-08
  */
 
 class Solution {
