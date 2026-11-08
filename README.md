@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 546
+- **Total Problems Solved:** 547
 - **Easy:** 112 🟢
-- **Medium:** 294 🟡
+- **Medium:** 295 🟡
 - **Hard:** 140 🔴
 
 ## 📝 Problems
@@ -392,6 +392,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/?envType=daily-question&envId=2026-11-02) | 🟡 Medium | java | 2026-11-02 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/?envType=daily-question&envId=2026-05-04) | 🟡 Medium | java | 2026-05-04 |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/?envType=daily-question&envId=2026-08-01) | 🟡 Medium | java | 2026-08-01 |
+| [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/?envType=weekly-question&envId=2026-11-08) | 🟡 Medium | java | 2026-11-08 |
 | [565. Array Nesting](https://leetcode.com/problems/array-nesting/) | 🟡 Medium | python3 | 2026-08-26 |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/?envType=daily-question&envId=2026-05-05) | 🟡 Medium | java | 2026-05-05 |
 | [666. Path Sum IV](https://leetcode.com/problems/path-sum-iv/?envType=weekly-question&envId=2026-10-25) | 🟡 Medium | java | 2026-10-25 |
