@@ -1,9 +1,9 @@
 /*
  * Problem: 1267. Count Servers that Communicate
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/count-servers-that-communicate/
+ * Link: https://leetcode.com/problems/count-servers-that-communicate/?envType=daily-question&envId=2026-11-08
  * Language: java
- * Date: 2026-04-15
+ * Date: 2026-11-08
  */
 
 class Solution {
