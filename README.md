@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 554
+- **Total Problems Solved:** 555
 - **Easy:** 112 🟢
-- **Medium:** 300 🟡
+- **Medium:** 301 🟡
 - **Hard:** 142 🔴
 
 ## 📝 Problems
@@ -389,6 +389,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4101. Find All Numbers Disappeared in an Array III](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-iii/) | 🟡 Medium | python3 | 2026-11-03 |
 | [4102. Count Valid Substrings I](https://leetcode.com/problems/count-valid-substrings-i/) | 🟡 Medium | rust | 2026-11-09 |
 | [4103. Remove Elements by Type and Color](https://leetcode.com/problems/remove-elements-by-type-and-color/) | 🟡 Medium | javascript | 2026-11-08 |
+| [4104. Count Valid Substrings II](https://leetcode.com/problems/count-valid-substrings-ii/) | 🟡 Medium | csharp | 2026-11-09 |
 | [4106. Find Mismatched Segments Between Two Strings](https://leetcode.com/problems/find-mismatched-segments-between-two-strings/) | 🟡 Medium | swift | 2026-11-09 |
 | [4107. Count Valid Suffix Sorts I](https://leetcode.com/problems/count-valid-suffix-sorts-i/) | 🟡 Medium | kotlin | 2026-11-08 |
 | [4108. Minimum Cost to Make Red Nodes Connected](https://leetcode.com/problems/minimum-cost-to-make-red-nodes-connected/) | 🟡 Medium | javascript | 2026-11-09 |
