@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 553
+- **Total Problems Solved:** 554
 - **Easy:** 112 🟢
 - **Medium:** 300 🟡
-- **Hard:** 141 🔴
+- **Hard:** 142 🔴
 
 ## 📝 Problems
 
@@ -561,6 +561,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4086. Minimum Interval Selection to Cover Target Intervals](https://leetcode.com/problems/minimum-interval-selection-to-cover-target-intervals/) | 🔴 Hard | python3 | 2026-10-19 |
 | [4091. Count Magical Substring Pairs II](https://leetcode.com/problems/count-magical-substring-pairs-ii/) | 🔴 Hard | java | 2026-10-25 |
 | [4100. Minimum Cost Path With Even XOR Parity](https://leetcode.com/problems/minimum-cost-path-with-even-xor-parity/) | 🔴 Hard | java | 2026-11-03 |
+| [4105. Repeated String Match II](https://leetcode.com/problems/repeated-string-match-ii/) | 🔴 Hard | java | 2026-11-09 |
 | [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/?envType=weekly-question&envId=2026-10-11) | 🔴 Hard | java | 2026-10-13 |
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | java | 2026-08-26 |
 | [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/?envType=daily-question&envId=2026-09-07) | 🔴 Hard | java | 2026-09-07 |
