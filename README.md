@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 550
+- **Total Problems Solved:** 551
 - **Easy:** 112 🟢
-- **Medium:** 297 🟡
+- **Medium:** 298 🟡
 - **Hard:** 141 🔴
 
 ## 📝 Problems
@@ -387,6 +387,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4098. Minimize the Maximum Value of GCD-Connected Array](https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/) | 🟡 Medium | swift | 2026-11-02 |
 | [4099. Minimum Operations to Sort With Locked Indices](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) | 🟡 Medium | java | 2026-11-02 |
 | [4101. Find All Numbers Disappeared in an Array III](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-iii/) | 🟡 Medium | python3 | 2026-11-03 |
+| [4102. Count Valid Substrings I](https://leetcode.com/problems/count-valid-substrings-i/) | 🟡 Medium | rust | 2026-11-09 |
 | [4103. Remove Elements by Type and Color](https://leetcode.com/problems/remove-elements-by-type-and-color/) | 🟡 Medium | javascript | 2026-11-08 |
 | [4107. Count Valid Suffix Sorts I](https://leetcode.com/problems/count-valid-suffix-sorts-i/) | 🟡 Medium | kotlin | 2026-11-08 |
 | [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01) | 🟡 Medium | java | 2026-11-01 |
