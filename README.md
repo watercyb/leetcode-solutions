@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 552
+- **Total Problems Solved:** 553
 - **Easy:** 112 🟢
-- **Medium:** 299 🟡
+- **Medium:** 300 🟡
 - **Hard:** 141 🔴
 
 ## 📝 Problems
@@ -391,6 +391,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4103. Remove Elements by Type and Color](https://leetcode.com/problems/remove-elements-by-type-and-color/) | 🟡 Medium | javascript | 2026-11-08 |
 | [4106. Find Mismatched Segments Between Two Strings](https://leetcode.com/problems/find-mismatched-segments-between-two-strings/) | 🟡 Medium | swift | 2026-11-09 |
 | [4107. Count Valid Suffix Sorts I](https://leetcode.com/problems/count-valid-suffix-sorts-i/) | 🟡 Medium | kotlin | 2026-11-08 |
+| [4108. Minimum Cost to Make Red Nodes Connected](https://leetcode.com/problems/minimum-cost-to-make-red-nodes-connected/) | 🟡 Medium | javascript | 2026-11-09 |
 | [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01) | 🟡 Medium | java | 2026-11-01 |
 | [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01) | 🟡 Medium | java | 2026-11-01 |
 | [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/?envType=daily-question&envId=2026-11-02) | 🟡 Medium | java | 2026-11-02 |
