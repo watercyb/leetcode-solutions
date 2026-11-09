@@ -8,7 +8,6 @@
 
 impl Solution {
     pub fn count_valid_substrings(s: String) -> i64 {
-        let chrs: Vec<char>=s.chars().collect();
         let mut h = 0;
         let mut res = 0;
         let mut count = 0;
