@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 555
+- **Total Problems Solved:** 556
 - **Easy:** 112 🟢
-- **Medium:** 301 🟡
+- **Medium:** 302 🟡
 - **Hard:** 142 🔴
 
 ## 📝 Problems
@@ -280,6 +280,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3670. Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/) | 🟡 Medium | java | 2026-05-09 |
 | [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/?envType=daily-question&envId=2026-06-09) | 🟡 Medium | Choose a type | 2026-06-09 |
 | [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/?envType=daily-question&envId=2026-06-09) | 🟡 Medium | java | 2026-06-09 |
+| [3693. Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/?envType=daily-question&envId=2026-11-10) | 🟡 Medium | java | 2026-11-10 |
 | [3702. Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/?envType=daily-question&envId=2026-08-15) | 🟡 Medium | java | 2026-08-15 |
 | [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | 🟡 Medium | java | 2026-05-10 |
 | [3720. Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27) | 🟡 Medium | java | 2026-08-27 |
