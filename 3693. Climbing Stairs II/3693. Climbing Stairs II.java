@@ -1,9 +1,9 @@
 /*
  * Problem: 3693. Climbing Stairs II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/climbing-stairs-ii/
+ * Link: https://leetcode.com/problems/climbing-stairs-ii/?envType=daily-question&envId=2026-11-10
  * Language: java
- * Date: 2026-05-09
+ * Date: 2026-11-10
  */
 
 class Solution {
