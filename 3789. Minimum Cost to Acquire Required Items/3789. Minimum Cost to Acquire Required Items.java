@@ -1,9 +1,9 @@
 /*
  * Problem: 3789. Minimum Cost to Acquire Required Items
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-cost-to-acquire-required-items/
+ * Link: https://leetcode.com/problems/minimum-cost-to-acquire-required-items/?envType=daily-question&envId=2026-11-11
  * Language: java
- * Date: 2026-05-10
+ * Date: 2026-11-11
  */
 
 class Solution {
