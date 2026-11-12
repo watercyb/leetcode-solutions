@@ -1,9 +1,9 @@
 /*
  * Problem: 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
+ * Link: https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/?envType=daily-question&envId=2026-11-12
  * Language: java
- * Date: 2026-05-04
+ * Date: 2026-11-12
  */
 
 class Solution {
