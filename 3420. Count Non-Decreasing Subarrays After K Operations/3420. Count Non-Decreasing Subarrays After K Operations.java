@@ -1,9 +1,9 @@
 /*
  * Problem: 3420. Count Non-Decreasing Subarrays After K Operations
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
+ * Link: https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/?envType=daily-question&envId=2026-11-13
  * Language: java
- * Date: 2026-05-07
+ * Date: 2026-11-13
  */
 
 class Solution {
