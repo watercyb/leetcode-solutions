@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 558
+- **Total Problems Solved:** 559
 - **Easy:** 113 🟢
 - **Medium:** 303 🟡
-- **Hard:** 142 🔴
+- **Hard:** 143 🔴
 
 ## 📝 Problems
 
@@ -489,6 +489,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3406. Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/) | 🔴 Hard | java | 2026-05-07 |
 | [3414. Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/?envType=daily-question&envId=2026-09-12) | 🔴 Hard | java | 2026-09-12 |
 | [3416. Subsequences with a Unique Middle Mode II](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii/) | 🔴 Hard | java | 2026-05-07 |
+| [3420. Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/?envType=daily-question&envId=2026-11-13) | 🔴 Hard | java | 2026-11-13 |
 | [3441. Minimum Cost Good Caption](https://leetcode.com/problems/minimum-cost-good-caption/) | 🔴 Hard | java | 2026-05-07 |
 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | 🔴 Hard | java | 2026-05-07 |
 | [3501. Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | 🔴 Hard | java | 2026-05-08 |
