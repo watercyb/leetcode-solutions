@@ -1,9 +1,9 @@
 /*
  * Problem: 3364. Minimum Positive Sum Subarray
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/minimum-positive-sum-subarray/
+ * Link: https://leetcode.com/problems/minimum-positive-sum-subarray/?envType=daily-question&envId=2026-11-14
  * Language: java
- * Date: 2026-05-06
+ * Date: 2026-11-14
  */
 
 class Solution {
