@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 559
-- **Easy:** 113 🟢
+- **Total Problems Solved:** 560
+- **Easy:** 114 🟢
 - **Medium:** 303 🟡
 - **Hard:** 143 🔴
 
@@ -66,6 +66,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/?envType=daily-question&envId=2026-05-29) | 🟢 Easy | java | 2026-05-29 |
 | [3345. Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/?envType=daily-question&envId=2026-08-06) | 🟢 Easy | python3 | 2026-08-06 |
 | [3358. Books with NULL Ratings](https://leetcode.com/problems/books-with-null-ratings/) | 🟢 Easy | mysql | 2026-05-06 |
+| [3364. Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/?envType=daily-question&envId=2026-11-14) | 🟢 Easy | java | 2026-11-14 |
 | [3417. Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | 🟢 Easy | java | 2026-05-07 |
 | [3465. Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | 🟢 Easy | python3 | 2026-05-07 |
 | [3471. Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/?envType=daily-question&envId=2026-08-18) | 🟢 Easy | java | 2026-08-18 |
