@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 561
+- **Total Problems Solved:** 562
 - **Easy:** 114 🟢
-- **Medium:** 304 🟡
+- **Medium:** 305 🟡
 - **Hard:** 143 🔴
 
 ## 📝 Problems
@@ -146,6 +146,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/?envType=daily-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
 | [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/?envType=daily-question&envId=2026-10-09) | 🟡 Medium | java | 2026-10-09 |
 | [1621. Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/?envType=daily-question&envId=2026-09-16) | 🟡 Medium | python3 | 2026-09-16 |
+| [1644. Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/?envType=weekly-question&envId=2026-11-15) | 🟡 Medium | java | 2026-11-15 |
 | [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/?envType=daily-question&envId=2026-09-23) | 🟡 Medium | python3 | 2026-09-23 |
 | [1730. Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/?envType=weekly-question&envId=2026-10-18) | 🟡 Medium | java | 2026-10-18 |
 | [1730. Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/?envType=weekly-question&envId=2026-10-18) | 🟡 Medium | java | 2026-10-18 |
