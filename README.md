@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 560
+- **Total Problems Solved:** 561
 - **Easy:** 114 🟢
-- **Medium:** 303 🟡
+- **Medium:** 304 🟡
 - **Hard:** 143 🔴
 
 ## 📝 Problems
@@ -142,6 +142,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/?envType=daily-question&envId=2026-09-17) | 🟡 Medium | python3 | 2026-09-17 |
 | [1485. Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/?envType=weekly-question&envId=2026-06-22) | 🟡 Medium | java | 2026-06-22 |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | java | 2026-08-29 |
+| [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/?envType=daily-question&envId=2026-11-15) | 🟡 Medium | java | 2026-11-15 |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/?envType=daily-question&envId=2026-05-15) | 🟡 Medium | java | 2026-05-15 |
 | [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/?envType=daily-question&envId=2026-10-09) | 🟡 Medium | java | 2026-10-09 |
 | [1621. Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/?envType=daily-question&envId=2026-09-16) | 🟡 Medium | python3 | 2026-09-16 |
