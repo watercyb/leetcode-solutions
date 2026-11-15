@@ -1,9 +1,9 @@
 /*
  * Problem: 1524. Number of Sub-arrays With Odd Sum
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
+ * Link: https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/?envType=daily-question&envId=2026-11-15
  * Language: java
- * Date: 2026-04-18
+ * Date: 2026-11-15
  */
 
 class Solution {
