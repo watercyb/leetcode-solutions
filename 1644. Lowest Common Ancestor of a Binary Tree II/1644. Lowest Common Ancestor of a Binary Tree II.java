@@ -1,9 +1,9 @@
 /*
  * Problem: 1644. Lowest Common Ancestor of a Binary Tree II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
+ * Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/?envType=weekly-question&envId=2026-11-15
  * Language: java
- * Date: 2026-04-19
+ * Date: 2026-11-15
  */
 
 /**
