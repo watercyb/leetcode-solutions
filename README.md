@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 562
-- **Easy:** 114 🟢
+- **Total Problems Solved:** 563
+- **Easy:** 115 🟢
 - **Medium:** 305 🟡
 - **Hard:** 143 🔴
 
@@ -29,6 +29,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/?envType=daily-question&envId=2026-10-01) | 🟢 Easy | java | 2026-10-01 |
 | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/?envType=daily-question&envId=2026-10-19) | 🟢 Easy | java | 2026-10-19 |
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/?envType=daily-question&envId=2026-06-01) | 🟢 Easy | rust | 2026-06-01 |
+| [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/?envType=daily-question&envId=2026-11-16) | 🟢 Easy | java | 2026-11-16 |
 | [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/?envType=daily-question&envId=2026-10-24) | 🟢 Easy | java | 2026-10-24 |
 | [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/?envType=daily-question&envId=2026-05-11) | 🟢 Easy | java | 2026-05-11 |
 | [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/?envType=daily-question&envId=2026-10-11) | 🟢 Easy | java | 2026-10-11 |
