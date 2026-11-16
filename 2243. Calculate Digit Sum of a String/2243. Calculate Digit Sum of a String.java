@@ -1,9 +1,9 @@
 /*
  * Problem: 2243. Calculate Digit Sum of a String
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/calculate-digit-sum-of-a-string/
+ * Link: https://leetcode.com/problems/calculate-digit-sum-of-a-string/?envType=daily-question&envId=2026-11-16
  * Language: java
- * Date: 2026-04-25
+ * Date: 2026-11-16
  */
 
 class Solution {
