@@ -1,9 +1,9 @@
 /*
  * Problem: 2911. Minimum Changes to Make K Semi-palindromes
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/
+ * Link: https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/?envType=daily-question&envId=2026-11-17
  * Language: java
- * Date: 2026-05-02
+ * Date: 2026-11-17
  */
 
 class Solution {
