@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 566
+- **Total Problems Solved:** 567
 - **Easy:** 116 🟢
-- **Medium:** 306 🟡
+- **Medium:** 307 🟡
 - **Hard:** 144 🔴
 
 ## 📝 Problems
@@ -402,6 +402,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4107. Count Valid Suffix Sorts I](https://leetcode.com/problems/count-valid-suffix-sorts-i/) | 🟡 Medium | kotlin | 2026-11-08 |
 | [4108. Minimum Cost to Make Red Nodes Connected](https://leetcode.com/problems/minimum-cost-to-make-red-nodes-connected/) | 🟡 Medium | javascript | 2026-11-09 |
 | [4110. Find the Maximum Length of Valid Subsequence III](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-iii/) | 🟡 Medium | csharp | 2026-11-10 |
+| [4113. Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | 🟡 Medium | javascript | 2026-11-18 |
 | [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01) | 🟡 Medium | java | 2026-11-01 |
 | [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01) | 🟡 Medium | java | 2026-11-01 |
 | [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/?envType=daily-question&envId=2026-11-02) | 🟡 Medium | java | 2026-11-02 |
