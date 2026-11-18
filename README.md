@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 564
+- **Total Problems Solved:** 565
 - **Easy:** 115 🟢
-- **Medium:** 305 🟡
+- **Medium:** 306 🟡
 - **Hard:** 144 🔴
 
 ## 📝 Problems
@@ -188,6 +188,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/?envType=daily-question&envId=2026-08-26) | 🟡 Medium | java | 2026-08-26 |
 | [2905. Find Indices With Index and Value Difference II](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/) | 🟡 Medium | java | 2026-05-02 |
 | [2910. Minimum Number of Groups to Create a Valid Assignment](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/) | 🟡 Medium | java | 2026-05-02 |
+| [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/?envType=daily-question&envId=2026-11-18) | 🟡 Medium | java | 2026-11-18 |
 | [2919. Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/) | 🟡 Medium | java | 2026-05-02 |
 | [2933. High-Access Employees](https://leetcode.com/problems/high-access-employees/) | 🟡 Medium | python3 | 2026-05-02 |
 | [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/?envType=daily-question&envId=2026-08-29) | 🟡 Medium | java | 2026-08-29 |
