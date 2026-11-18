@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 565
-- **Easy:** 115 🟢
+- **Total Problems Solved:** 566
+- **Easy:** 116 🟢
 - **Medium:** 306 🟡
 - **Hard:** 144 🔴
 
@@ -122,6 +122,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4088. Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/) | 🟢 Easy | csharp | 2026-10-25 |
 | [4092. Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | 🟢 Easy | java | 2026-10-28 |
 | [4097. Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | 🟢 Easy | rust | 2026-11-02 |
+| [4111. Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | 🟢 Easy | python3 | 2026-11-18 |
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/?envType=daily-question&envId=2026-07-26) | 🟢 Easy | java | 2026-07-26 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/?envType=daily-question&envId=2026-05-03) | 🟢 Easy | java | 2026-05-03 |
 | [800. Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/?envType=weekly-question&envId=2026-08-29) | 🟢 Easy | java | 2026-08-29 |
