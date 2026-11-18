@@ -1,9 +1,9 @@
 /*
  * Problem: 2914. Minimum Number of Changes to Make Binary String Beautiful
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
+ * Link: https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/?envType=daily-question&envId=2026-11-18
  * Language: java
- * Date: 2026-05-02
+ * Date: 2026-11-18
  */
 
 class Solution {
