@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 568
+- **Total Problems Solved:** 569
 - **Easy:** 116 🟢
-- **Medium:** 307 🟡
+- **Medium:** 308 🟡
 - **Hard:** 145 🔴
 
 ## 📝 Problems
@@ -245,6 +245,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3315. Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | 🟡 Medium | java | 2026-05-06 |
 | [3323. Minimize Connected Groups by Inserting Interval](https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval/) | 🟡 Medium | java | 2026-05-06 |
 | [3326. Minimum Division Operations to Make Array Non Decreasing](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) | 🟡 Medium | java | 2026-05-06 |
+| [3331. Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/?envType=daily-question&envId=2026-11-21) | 🟡 Medium | python3 | 2026-11-21 |
 | [3334. Find the Maximum Factor Score of Array](https://leetcode.com/problems/find-the-maximum-factor-score-of-array/) | 🟡 Medium | python3 | 2026-05-06 |
 | [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | 🟡 Medium | java | 2026-05-06 |
 | [3344. Maximum Sized Array](https://leetcode.com/problems/maximum-sized-array/) | 🟡 Medium | python3 | 2026-05-06 |
