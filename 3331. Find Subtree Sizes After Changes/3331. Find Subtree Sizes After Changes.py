@@ -1,9 +1,9 @@
 #
 # Problem: 3331. Find Subtree Sizes After Changes
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/find-subtree-sizes-after-changes/
+# Link: https://leetcode.com/problems/find-subtree-sizes-after-changes/?envType=daily-question&envId=2026-11-21
 # Language: python3
-# Date: 2026-05-06
+# Date: 2026-11-21
 
 
 class Solution:
