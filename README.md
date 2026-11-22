@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 569
-- **Easy:** 116 🟢
+- **Total Problems Solved:** 570
+- **Easy:** 117 🟢
 - **Medium:** 308 🟡
 - **Hard:** 145 🔴
 
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/?envType=daily-question&envId=2026-10-01) | 🟢 Easy | java | 2026-10-01 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/?envType=daily-question&envId=2026-10-01) | 🟢 Easy | java | 2026-10-01 |
 | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/?envType=daily-question&envId=2026-10-19) | 🟢 Easy | java | 2026-10-19 |
+| [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/?envType=daily-question&envId=2026-11-22) | 🟢 Easy | rust | 2026-11-22 |
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/?envType=daily-question&envId=2026-06-01) | 🟢 Easy | rust | 2026-06-01 |
 | [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/?envType=daily-question&envId=2026-11-16) | 🟢 Easy | java | 2026-11-16 |
 | [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/?envType=daily-question&envId=2026-10-24) | 🟢 Easy | java | 2026-10-24 |
