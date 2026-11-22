@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 570
+- **Total Problems Solved:** 571
 - **Easy:** 117 🟢
-- **Medium:** 308 🟡
+- **Medium:** 309 🟡
 - **Hard:** 145 🔴
 
 ## 📝 Problems
@@ -151,6 +151,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1621. Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/?envType=daily-question&envId=2026-09-16) | 🟡 Medium | python3 | 2026-09-16 |
 | [1644. Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/?envType=weekly-question&envId=2026-11-15) | 🟡 Medium | java | 2026-11-15 |
 | [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/?envType=daily-question&envId=2026-09-23) | 🟡 Medium | python3 | 2026-09-23 |
+| [1660. Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree/?envType=weekly-question&envId=2026-11-22) | 🟡 Medium | java | 2026-11-22 |
 | [1730. Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/?envType=weekly-question&envId=2026-10-18) | 🟡 Medium | java | 2026-10-18 |
 | [1730. Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/?envType=weekly-question&envId=2026-10-18) | 🟡 Medium | java | 2026-10-18 |
 | [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/?envType=weekly-question&envId=2026-09-15) | 🟡 Medium | java | 2026-09-15 |
