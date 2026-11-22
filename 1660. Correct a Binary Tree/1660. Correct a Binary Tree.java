@@ -1,9 +1,9 @@
 /*
  * Problem: 1660. Correct a Binary Tree
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/correct-a-binary-tree/
+ * Link: https://leetcode.com/problems/correct-a-binary-tree/?envType=weekly-question&envId=2026-11-22
  * Language: java
- * Date: 2026-04-19
+ * Date: 2026-11-22
  */
 
 /**
