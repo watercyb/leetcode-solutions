@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 572
+- **Total Problems Solved:** 573
 - **Easy:** 117 🟢
-- **Medium:** 309 🟡
+- **Medium:** 310 🟡
 - **Hard:** 146 🔴
 
 ## 📝 Problems
@@ -140,6 +140,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/?envType=daily-question&envId=2026-11-08) | 🟡 Medium | java | 2026-11-08 |
 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/?envType=daily-question&envId=2026-07-06) | 🟡 Medium | java | 2026-07-06 |
 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/?envType=daily-question&envId=2026-07-13) | 🟡 Medium | java | 2026-07-13 |
+| [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/?envType=daily-question&envId=2026-11-23) | 🟡 Medium | java | 2026-11-23 |
 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2026-06-30) | 🟡 Medium | java | 2026-06-30 |
 | [1401. Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/?envType=daily-question&envId=2026-09-19) | 🟡 Medium | java | 2026-09-19 |
 | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/?envType=daily-question&envId=2026-09-17) | 🟡 Medium | python3 | 2026-09-17 |
