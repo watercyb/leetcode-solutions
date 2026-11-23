@@ -1,9 +1,9 @@
 /*
  * Problem: 1352. Product of the Last K Numbers
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/product-of-the-last-k-numbers/
+ * Link: https://leetcode.com/problems/product-of-the-last-k-numbers/?envType=daily-question&envId=2026-11-23
  * Language: java
- * Date: 2026-04-16
+ * Date: 2026-11-23
  */
 
 class ProductOfNumbers {
