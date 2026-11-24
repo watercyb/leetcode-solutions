@@ -1,9 +1,9 @@
 /*
  * Problem: 3411. Maximum Subarray With Equal Products
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/maximum-subarray-with-equal-products/
+ * Link: https://leetcode.com/problems/maximum-subarray-with-equal-products/?envType=daily-question&envId=2026-11-24
  * Language: java
- * Date: 2026-05-07
+ * Date: 2026-11-24
  */
 
 class Solution {
