@@ -1,9 +1,9 @@
 /*
  * Problem: 3934. Smallest Unique Subarray
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/smallest-unique-subarray/
+ * Link: https://leetcode.com/problems/smallest-unique-subarray/?envType=daily-question&envId=2026-11-25
  * Language: java
- * Date: 2026-08-26
+ * Date: 2026-11-25
  */
 
 class Solution {
