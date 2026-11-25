@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 578
+- **Total Problems Solved:** 579
 - **Easy:** 120 🟢
 - **Medium:** 312 🟡
-- **Hard:** 146 🔴
+- **Hard:** 147 🔴
 
 ## 📝 Problems
 
@@ -539,6 +539,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3924. Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | 🔴 Hard | java | 2026-05-10 |
 | [3928. Minimum Cost to Buy Apples II](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | 🔴 Hard | java | 2026-05-11 |
 | [3930. Power Update After K-th Largest Insertion II](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/) | 🔴 Hard | python3 | 2026-05-13 |
+| [3934. Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/?envType=daily-question&envId=2026-11-25) | 🔴 Hard | java | 2026-11-25 |
 | [3943. Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/) | 🔴 Hard | java | 2026-05-25 |
 | [3944. Minimum Operations to Make Array Modulo Alternating II](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-ii/) | 🔴 Hard | java | 2026-05-27 |
 | [3953. Maximum Score with Co-Prime Element](https://leetcode.com/problems/maximum-score-with-co-prime-element/) | 🔴 Hard | java | 2026-06-07 |
