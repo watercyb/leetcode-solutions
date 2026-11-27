@@ -1,9 +1,9 @@
 /*
  * Problem: 3946. Maximum Number of Items From Sale I
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-number-of-items-from-sale-i/
+ * Link: https://leetcode.com/problems/maximum-number-of-items-from-sale-i/?envType=daily-question&envId=2026-11-27
  * Language: swift
- * Date: 2026-06-01
+ * Date: 2026-11-27
  */
 
 class Solution {
