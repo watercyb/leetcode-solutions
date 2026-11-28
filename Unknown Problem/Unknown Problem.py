@@ -1,54 +1,26 @@
 #
 # Problem: Unknown Problem
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/maximum-alternating-subarray-sum-with-one-deletion/
+# Link: https://leetcode.com/problems/minimum-cost-to-delete-array/
 # Language: python3
-# Date: 2026-10-05
+# Date: 2026-11-28
 
 
 class Solution:
-    def maxAlternatingSum(self, nums: list[int]) -> int:
-        n = len(nums)
-        lefts_reg = [0] * n
-        lefts_rev = [0] * n
-        dp = [-10000000, 0]
-        num_sum = 0
-        sign = 1
-        res = -100000000000
-        for i in range(n):
-            num_sum += sign * nums[i]
-            if sign == 1:
-                reg = num_sum - dp[1]
-                rev = dp[0] - num_sum
-                lefts_reg[i] = reg
-                lefts_rev[i] = rev
-                res = max(res, reg, rev)
-                dp[0] = max(dp[0], num_sum)
-                sign = -1
+    def minCost(self, nums: list[int]) -> int:
+        max_val = -10000000000000000
+        min_val = 10000000000000000
+        sum_nums = nums[0] + nums[-1]
+        count = 0
+        for i in range(1, len(nums) - 1):
+            if nums[i] > 0:
+                min_val = min(min_val, nums[i])
             else:
-                reg = dp[0] - num_sum
-                rev = num_sum - dp[1]
-                lefts_reg[i] = reg
-                lefts_rev[i] = rev
-                res = max(res, reg, rev)
-                dp[1] = min(dp[1], num_sum)
-                sign = 1
-        sign = 1
-        dp = [0, 0]
-        num_sum = 0
-        for i in range(n - 1, 1, -1):
-            num_sum += sign * nums[i]
-            if sign == 1:
-                reg = num_sum - dp[0]
-                rev = dp[1] - num_sum
-                res = max(res, lefts_reg[i - 2] + rev, lefts_rev[i - 2] + reg)
-                sign = -1
-            else:
-                reg = dp[1] - num_sum
-                rev = num_sum - dp[0]
-                res = max(res, lefts_reg[i - 2] + rev, lefts_rev[i - 2] + reg)
-                sign = 1
-            dp[0] = min(dp[0], num_sum)
-            dp[1] = max(dp[1], num_sum)
-        return res
+                max_val = max(max_val, nums[i])
+                sum_nums += nums[i]
+                count += 1
+        if count % 2 == 0:
+            return sum_nums
+        else:
+            return min(sum_nums - max_val, sum_nums + min_val)
 
