@@ -1,9 +1,9 @@
 /*
  * Problem: 3947. Maximum Number of Items From Sale II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/
+ * Link: https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/?envType=daily-question&envId=2026-11-28
  * Language: rust
- * Date: 2026-06-01
+ * Date: 2026-11-28
  */
 
 use std::collections::HashMap;
